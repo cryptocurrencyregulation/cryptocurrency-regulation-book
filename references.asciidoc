@@ -1,3 +1,23 @@
 = References =
 
+Bitcoin
 . Nakamoto, S. (2008) Bitcoin: A Peer-to-Peer Electronic Cash System. https://bitcoin.org/bitcoin.pdf
+
+
+
+
+SEC
+https://www.howeycoins.com/
+https://www.investor.gov/ico-howeycoins
+https://www.sec.gov/news/press-release/2022-26
+https://www.sec.gov/oca/staff-accounting-bulletin-121
+https://www.sec.gov/news/statement/crenshaw-defi-20211109
+https://www.sec.gov/news/speech/crenshaw-sec-speaks-20211012
+https://www.sec.gov/news/speech/speech-hinman-061418
+
+
+
+
+DoJ
+https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme
+
