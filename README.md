@@ -1,2 +1,2 @@
 # cryptocurrency-regulation-book
-A Book about Cryptocurrency Regulations
+A book about cryptocurrency regulations.
