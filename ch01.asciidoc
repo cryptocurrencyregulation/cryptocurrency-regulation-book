@@ -1,6 +1,6 @@
 = Bitcoin =
 
-In 2008, a paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" was publised under the alias of Satoshi Nakamoto. In this Chapter, we will revisit and discuss different sections of this paper.
+In 2008, a paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" was published under the alias of Satoshi Nakamoto. In this Chapter, we will revisit and discuss different sections of this paper.
 
 
 == Bitcoin Whitepaper ==
