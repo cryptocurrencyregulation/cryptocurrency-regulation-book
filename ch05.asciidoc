@@ -45,3 +45,4 @@ ____
 
 === Discussion Questions ===
 
+. How can a balance between no sensorship (a feature claimed by cryptocurrencies) and security be achieved? 

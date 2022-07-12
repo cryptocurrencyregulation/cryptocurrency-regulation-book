@@ -12,7 +12,7 @@ ____
 
 Damian Williams, the United States Attorney for the Southern District of New York, and Michael J. Driscoll, Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of Investigation (“FBI”), announced today the unsealing of an Indictment charging NATHANIEL CHASTAIN, a former product manager at Ozone Networks, Inc. d/b/a OpenSea (“OpenSea”), with wire fraud and money laundering in connection with a scheme to commit insider trading in Non-Fungible Tokens, or “NFTs,” by using confidential information about what NFTs were going to be featured on OpenSea's homepage for his personal financial gain.  CHASTAIN was arrested this morning in New York, New York and will be presented today in the United States District Court for the Southern District of New York.
 
-U.S. Attorney Damian Williams said:  “NFTs might be new, but this type of criminal scheme is not.  As alleged, Nathaniel Chastain betrayed OpenSea by using its confidential business information to make money for himself.  Today'’'s charges demonstrate the commitment of this Office to stamping out insider trading -- whether it occurs on the stock market or the blockchain.”
+U.S. Attorney Damian Williams said:  “NFTs might be new, but this type of criminal scheme is not.  As alleged, Nathaniel Chastain betrayed OpenSea by using its confidential business information to make money for himself.  Today's charges demonstrate the commitment of this Office to stamping out insider trading -- whether it occurs on the stock market or the blockchain.”
 
 FBI Assistant Director-in-Charge Michael J. Driscoll said:  “In this case, as alleged, Chastain launched an age-old scheme to commit insider trading by using his knowledge of confidential information to purchase dozens of NFTs in advance of them being featured on OpenSea's homepage. With the emergence of any new investment tool, such as blockchain supported non-fungible tokens, there are those who will exploit vulnerabilities for their own gain. The FBI will continue to aggressively pursue actors who choose to manipulate the market in this way.”
 
@@ -32,10 +32,10 @@ The maximum potential sentences are prescribed by Congress and are provided here
 
 Mr. Williams praised the outstanding work of the FBI. Mr. Williams also thanked the National Cryptocurrency Enforcement Team for their assistance in the investigation. 
 
-This case is being handled by the Office’s Securities and Commodities Fraud Task Force. Assistant U.S. Attorneys Thomas S. Burnett and Nicolas Roos are in charge of the prosecution. 
+This case is being handled by the Office's Securities and Commodities Fraud Task Force. Assistant U.S. Attorneys Thomas S. Burnett and Nicolas Roos are in charge of the prosecution. 
 
 The charges contained in the Indictment are merely accusations, and the defendant is presumed innocent unless and until proven guilty.
 ____
 
 === Discussion Questions ===
-. Discussion Question 2?
+. With the need of having a central authority policing fraud, to what extent are decentralization and trustless operations pracitcal?
