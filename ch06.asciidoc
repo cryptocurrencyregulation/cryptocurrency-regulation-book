@@ -1,0 +1,41 @@
+= DeFi =
+
+
+
+== A Memo to the Celsius Community ==
+
+[quote, A Memo to the Celsius Community. (2022). Retrieved 21 July 2022, from https://blog.celsius.network/a-memo-to-the-celsius-community-59532a06ecc6]
+____
+
+We are writing with a very important message for our community.
+
+**Due to extreme market conditions, today we are announcing that Celsius is pausing all withdrawals, Swap, and transfers between accounts.** We are taking this action today to put Celsius in a better position to honor, over time, its withdrawal obligations.
+
+Acting in the interest of our community is our top priority. In service of that commitment and to adhere to our risk management framework, we have activated a clause in our Terms of Use that will allow for this process to take place. Celsius has valuable assets and we are working diligently to meet our obligations.
+
+We are taking this necessary action for the benefit of our entire community in order to stabilize liquidity and operations while we take steps to preserve and protect assets. Furthermore, customers will continue to accrue rewards during the pause in line with our commitment to our customers.
+
+We understand that this news is difficult, but we believe that our decision to pause withdrawals, Swap, and transfers between accounts is the most responsible action we can take to protect our community. We are working with a singular focus: to protect and preserve assets to meet our obligations to customers. Our ultimate objective is stabilizing liquidity and restoring withdrawals, Swap, and transfers between accounts as quickly as possible. There is a lot of work ahead as we consider various options, this process will take time, and there may be delays.
+
+We thank the incredible Celsius community for your support today. It is our pleasure to serve you. Our operations continue and we will continue to share information with the community as it becomes available.
+
+Sincerely,
+
+The Celsius team
+
+****
+**Disclaimer:**
+
+This communication does not constitute an offer or solicitation to buy any securities, and shall not constitute an offer or sale in any jurisdiction in which such offer or sale would be prohibited. Any offers, solicitations or offers to buy, or any sales of securities will be made in accordance with the registration requirements of the Securities Act of 1933, as amended (“Securities Act”).
+
+Earn accounts have not been registered under the Securities Act and may not be offered or sold in the United States, to U.S. persons, for the account or benefit of a U.S. person or in any jurisdiction in which such offer would be prohibited.
+
+This communication contains “forward-looking statements”. which involve risks and uncertainties. You should not place undue reliance on forward-looking statements because they are subject factors which are difficult to predict. These forward-looking statements are generally identified by the use of “anticipate,” “believe,” “could,” “estimate,” “expect,” “intend,” “may,” “plan,” “target,” “will,” “would” and similar expressions. Risks and uncertainties include, but are not limited to: anticipated trends and challenges in our business and the regulation of digital asset offerings. We do not undertake to update any forward-looking statement as a result of new information or future events or developments.
+****
+
+
+____
+
+=== Discussion Questions ===
+
+. Why did the chicken cross the road? 
