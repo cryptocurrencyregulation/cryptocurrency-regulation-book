@@ -1,0 +1,63 @@
+= FDIC =
+
+
+== Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act ==
+
+[quote, Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act. (2022). Retrieved 1 August 2022, from https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20220728a1.pdf]
+____
+[.text-right]
+July 28, 2022
+
+Stephen Ehrlich, Chief Executive Officer +
+David Brosgol, General Counsel +
+Voyager Digital, LLC +
+2500 Plaza 5, 25th Floor +
+Jersey City, New Jersey 07311 +
+
+[.text-center]
+Re: Joint Letter Regarding Potential Violations of Section 18(a)(4) of the Federal Deposit Insurance Act
+
+Messrs. Ehrlich and Brosgol, 
+
+The Federal Deposit Insurance Corporation (“FDIC”) and the Board of Governors of the Federal Reserve System (“Board of Governors”) have reason to believe that Voyager Digital, LLC, and its related-entities, by and through their officers, directors, and employees (collectively referenced herein as “Voyager”) have made false and misleading statements, directly or by implication, concerning Voyager’s deposit insurance status, in violation of 12 U.S.C. § 1828(a)(4). We hereby demand that Voyager cease and desist, and take immediate corrective action to address these false and misleading statements, as set forth in more detail below.
+
+Section 18(a)(4) of the Federal Deposit Insurance Act (“FDI Act”), 12 U.S.C. § 1828(a)(4), prohibits any person from representing or implying that an uninsured deposit is insured or from knowingly misrepresenting the extent and manner in which a deposit liability, obligation, certificate, or share is insured under the FDI Act.
+
+Based on information collected to date, Voyager maintains one or more deposit accounts at Metropolitan Commercial Bank, New York, New York (“MCB”), for the benefit of persons who make U.S. dollar deposits in their accounts at Voyager (“FBO Accounts”). MCB is a depository institution whose deposits are insured by the FDIC. The Board of Governors is the primary federal regulator of MCB. Under its services agreement with MCB, Voyager has agreed to perform certain services on behalf of MCB related to the FBO Accounts.
+
+Voyager has made various representations online, including its website, mobile app, and social media accounts, stating or suggesting that: (1) Voyager itself is FDIC-insured; (2) customers who invested with the Voyager cryptocurrency platform would receive FDIC insurance coverage for all funds provided to, held by, on, or with Voyager; and (3) the FDIC would insure customers against the failure of Voyager itself. These representations are false and misleading and, based on the information we have to date, it appears that the representations likely misled and were relied upon by customers who placed their funds with Voyager and do not have immediate access to their funds.
+
+We hereby demand the following corrective actions: 
+
+1. Voyager shall immediately remove any and all statements, representations, or references that suggest in any way, expressly or implicitly, that (1) Voyager is insured by the FDIC; (2) customers who invested with the Voyager cryptocurrency platform would receive FDIC insurance coverage for all funds provided to, held by, on, or with Voyager, without reference to the insured depository institution account; or (3) the FDIC would insure customers against the failure of Voyager itself, from Voyager’s websites (including any pop-up, hyperlink, or chat-bot disclosures), Twitter and other social media accounts (including corporate and Voyager senior management’s personal accounts), mobile app, online outlets, and all forms (electronic and hard copy) of marketing, advertising, or consumer-facing materials and communications;
+
+2. Within two (2) business days from the receipt of this letter, Voyager shall provide written confirmation to the FDIC and Board of Governors that it has fully complied with the requests set forth above. Such confirmation shall detail the efforts that Voyager took to comply with this letter, including all steps undertaken by Voyager to identify and locate all such misrepresentations, and the scope of Voyager’s removal of the misrepresentations from its website, mobile app, Twitter accounts, and any other marketing, advertising, and consumer-facing materials and communications.
+
+If you believe that any statement you have made related to FDIC deposit insurance is true and accurate, please provide: (1) such written confirmation within two (2) business days from the receipt of this letter, and (2) a full listing of all such statements regarding deposit insurance on any medium or platform, together with information and documentation supporting the accuracy of all such statements, not later than ten (10) days from the date of this correspondence.
+
+Your prompt response to the above does not preclude us from taking any further action, as appropriate, with respect to the foregoing or any other violations of law or regulation, or unsafe or unsound banking practice.
+
+If you have any questions, please feel free to contact the undersigned.
+
+Sincerely,
+
+[cols="1,1", frame=none, grid=none, text-align=center]
+|===
+|[.underline]#/s/ Seth P. Rosebrock# +
+Seth P. Rosebrock +
+Assistant General Counsel, Enforcement +
+Federal Deposit Insurance Corporation +
+SRosebrock@fdic.gov +
+(202) 578-4013 
+|[.underline]#/s/ Jason A. Gonzalez# +
+Jason A. Gonzalez +
+Assistant General Counsel, Enforcement +
+Board of Governors of the Federal Reserve System +
+Jason.A.Gonzalez@frb.gov +
+(202) 452-3275 
+
+|===
+____
+
+=== Discussion Questions ===
+. what is this if not a placeholder for discussion question 1?
