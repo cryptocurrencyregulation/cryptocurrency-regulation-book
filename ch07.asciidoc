@@ -1,7 +1,7 @@
 = FDIC =
 
 
-== Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act ==
+== Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act footnote:[Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act. (2022). Retrieved 1 August 2022, from https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20220728a1.pdf] ==
 
 [quote, Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act. (2022). Retrieved 1 August 2022, from https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20220728a1.pdf]
 ____
@@ -15,7 +15,7 @@ Voyager Digital, LLC +
 Jersey City, New Jersey 07311 +
 
 *Re: Joint Letter Regarding Potential Violations of Section 18(a)(4) of the Federal Deposit Insurance Act*
-footnote:[Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act. (2022). Retrieved 1 August 2022, from https://www.federalreserve.gov/newsevents/pressreleases/files/bcreg20220728a1.pdf]
+
 
 Messrs. Ehrlich and Brosgol, 
 
