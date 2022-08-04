@@ -1,12 +1,12 @@
 = Securities Exchange Commission =
 
 
-== Digital Asset Transactions: When Howey Met Gary (Plastic) footnote:[Hinman, William. "Digital Asset Transactions: When Howey Met Gary (Plastic)." URL: https://www.sec.gov/news/speech/speech-hinman-061418 (2018).] ==
+== Digital Asset Transactions: When Howey Met Gary (Plastic) ==
 
 [quote, William Hinman, "Digital Asset Transactions: When Howey Met Gary (Plastic)". 2018]
 ____
 *Remarks at the Yahoo Finance All Markets Summit: Crypto*
-
+footnote:[Hinman, William. "Digital Asset Transactions: When Howey Met Gary (Plastic)." URL: https://www.sec.gov/news/speech/speech-hinman-061418 (2018).]
 
 Thank you Andy. I am pleased to be here today. This event provides a great opportunity to address a topic that is the subject of considerable debate in the press and in the crypto-community -- whether a digital asset offered as a security can, over time, become something other than a security.
 
@@ -70,7 +70,51 @@ These are exciting legal times and I am pleased to be part of a process that can
 ____
 
 
-=== Discussion Question ===
+=== Discussion Questions ===
 
 . What makes a digital asset a security?
 
+
+== SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme ==
+[quote, SEC.gov | SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme. (2022). Retrieved 2 August 2022, from https://www.sec.gov/news/press-release/2022-134]
+____
+*Alleged Fraudulent Blockchain Scheme Spanned Multiple Countries Including U.S., Russia *
+footnote:[SEC.gov | SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme. (2022). Retrieved 2 August 2022, from https://www.sec.gov/news/press-release/2022-134]
+
+FOR IMMEDIATE RELEASE +
+2022-134 +
+Washington D.C., Aug. 1, 2022 — The Securities and Exchange Commission today charged 11 individuals for their roles in creating and promoting Forsage, a fraudulent crypto pyramid and Ponzi scheme that raised more than $300 million from millions of retail investors worldwide, including in the United States. Those charged include the four founders of Forsage, who were last known to be living in Russia, the Republic of Georgia, and Indonesia, as well as three U.S.-based promoters engaged by the founders to endorse Forsage on its website and social media platforms, and several members of the so-called Crypto Crusaders—the largest promotional group for the scheme that operated in the United States from at least five different states.
+
+According to the SEC’s complaint, in January 2020, Vladimir Okhotnikov, Jane Doe a/k/a Lola Ferrari, Mikhail Sergeev, and Sergey Maslakov launched Forsage.io, a website that allowed millions of retail investors to enter into transactions via smart contracts that operated on the Ethereum, Tron, and Binance blockchains. However, Forsage allegedly has operated as a pyramid scheme for more than two years, in which investors earned profits by recruiting others into the scheme.  Forsage also allegedly used assets from new investors to pay earlier investors in a typical Ponzi structure.
+
+Despite cease-and-desist actions against Forsage for operating as a fraud in September 2020 by the Securities and Exchange Commission of the Philippines and in March 2021 by the Montana Commissioner of Securities and Insurance, the defendants allegedly continued to promote the scheme while denying the claims in several YouTube videos and by other means.
+
+"As the complaint alleges, Forsage is a fraudulent pyramid scheme launched on a massive scale and aggressively marketed to investors," said Carolyn Welshhans, Acting Chief of the SEC’s Crypto Assets and Cyber Unit. "Fraudsters cannot circumvent the federal securities laws by focusing their schemes on smart contracts and blockchains."
+
+In addition to charging the four founders, the complaint, filed in United States District Court in the Northern District of Illinois, also charges Cheri Beth Bowen, of Pelahatchie, Miss., Ronald R. Deering, of Coeur d’ Alene, Idaho, Samuel D. Ellis, of Louisville, Ky., Mark F. Hamlin, of Henrico, Va., Carlos L. Martinez, of Chicago, Ill., Alisha R. Shepperd, of Dunedin, Fla., and Sarah L. Theissen, of Hartford, Wis., with violating the registration and anti-fraud provisions of the federal securities laws. The SEC’s complaint seeks injunctive relief, disgorgement, and civil penalties.
+
+Without admitting or denying the allegations, two of the defendants, Ellis and Theissen, agreed to settle the charges and to be permanently enjoined from future violations of the charged provisions and certain other activity. Additionally, Ellis agreed to pay disgorgement and civil penalties, and Theissen will be required to pay disgorgement and civil penalties as determined by the court. Both settlements are subject to court approval.
+
+The SEC’s investigation was conducted by Liz Canizares and Pamela Sawhney of the Crypto Assets and Cyber Unit and supervised by Amy Friedman and Ms. Welshhans. The litigation is being conducted by Patrick Costello, Christopher Carney, Ms. Canizares, and Ms. Sawhney and supervised by Olivia Choe. The Commission appreciates the assistance of the Securities and Exchange Commission of the Philippines and the Montana Commissioner of Securities and Insurance.
+
+[frame=none, grid=none]
+|===
+|Foreign Defendants |Last known residence
+
+|Vladimir Okhotnikov 
+|Tbilisi, Republic of Georgia
+
+|Jane Doe a/k/a Lola Ferrari 
+|Bali, Indonesia
+
+|Mikail Sergeev 
+|Moscow, Russia
+
+|Sergey Maslakov 
+|Moscow, Russia
+|===
+____
+
+=== Discussion Questions ===
+
+. Is this a placeholder for dicussion question 1 on the excerpt?
