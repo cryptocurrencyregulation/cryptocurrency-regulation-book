@@ -4,7 +4,7 @@
 
 == U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats footnote:[U.S. Department of the Treasury, 'U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer Targets DPRK Cyber Threats' 2022 <https://home.treasury.gov/news/press-releases/jy0768> accessed July 12, 2022] ==
 
-[quote, U.S. Department of the Treasury, U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer&comma; Targets DPRK Cyber Threats]
+[quote, U.S. Department of the Treasury&comma; U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer&comma; Targets DPRK Cyber Threats]
 ____
 
 May 6, 2022.
