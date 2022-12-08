@@ -244,7 +244,7 @@ ____
 [quote, In the Matter of Zachary Coburn (Securities Exchange Act Rel. No. 84553&#44; Nov. 8&#44; 2018), https://www.sec.gov/litigation/admin/2018/34-84553.pdf ]
 ____
 
-[cols="1a", options="header", grid="none", frame="none"]
+[cols="100a", options="header", grid="none", frame="none"]
 |===
 ^|UNITED STATES OF AMERICA +
 Before the +
