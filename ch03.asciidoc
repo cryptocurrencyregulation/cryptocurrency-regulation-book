@@ -244,9 +244,10 @@ ____
 [quote, In the Matter of Zachary Coburn (Securities Exchange Act Rel. No. 84553&#44; Nov. 8&#44; 2018), https://www.sec.gov/litigation/admin/2018/34-84553.pdf ]
 ____
 
-*UNITED STATES OF AMERICA +
+
+[.text-center .stretch]*UNITED STATES OF AMERICA +
 Before the +
-SECURITIES AND EXCHANGE COMMISSION* +
+SECURITIES AND EXCHANGE COMMISSION*
 
 *SECURITIES EXCHANGE ACT OF 1934 +
 Release No. 84553 / November 8, 2018*
