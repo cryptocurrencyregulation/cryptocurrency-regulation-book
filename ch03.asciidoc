@@ -244,13 +244,9 @@ ____
 [quote, In the Matter of Zachary Coburn (Securities Exchange Act Rel. No. 84553&#44; Nov. 8&#44; 2018), https://www.sec.gov/litigation/admin/2018/34-84553.pdf ]
 ____
 
-[cols="100a", options="header", grid="none", frame="none"]
-|===
-^|UNITED STATES OF AMERICA +
+*UNITED STATES OF AMERICA +
 Before the +
-SECURITIES AND EXCHANGE COMMISSION +
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-|===
+SECURITIES AND EXCHANGE COMMISSION* +
 
 *SECURITIES EXCHANGE ACT OF 1934 +
 Release No. 84553 / November 8, 2018*
@@ -258,12 +254,16 @@ Release No. 84553 / November 8, 2018*
 *ADMINISTRATIVE PROCEEDING +
 File No. 3-18888*
 
-[cols="1,1", width=100%, frame=none, grid=none]
+[cols="1a,1a", width=100%, frame=none, grid=none]
 |===
 ^|*In the Matter of* +
 *&nbsp;&nbsp;&nbsp;&nbsp;ZACHARY COBURN,* +
 *Respondent.*
-^|*ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS PURSUANT TO SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER*
+^|*ORDER INSTITUTING CEASE-AND-DESIST* +
+*PROCEEDINGS PURSUANT TO SECTION 21C* +
+*OF THE SECURITIES EXCHANGE ACT OF 1934,* +
+*MAKING FINDINGS, AND IMPOSING* +
+*A CEASE-AND-DESIST ORDER*
 |===
 
 *I.*
