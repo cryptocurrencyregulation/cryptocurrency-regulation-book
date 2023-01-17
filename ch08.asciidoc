@@ -1,0 +1,400 @@
+= Commodity Futures Trading Commission (CFTC) =
+
+== CFTC v. Bankman-Fried et al. ==
+[quote, Commodity Futures Trading Commission v. Bankman-Fried et al (Case No. 1:22-cv-10503-PKC), https://www.courtlistener.com/docket/66631227/commodity-futures-trading-commission-v-bankman-fried/ ]
+____
+
+[.text-center]
+*UNITED STATES DISTRICT COURT + 
+SOUTHERN DISTRICT OF NEW YORK*
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|&nbsp; +
+COMMODITY FUTURES TRADING COMMISSION, +
+&nbsp; +
+Plaintiff, +
+&nbsp; +
+v. +
+&nbsp; +
+SAMUEL BANKMAN-FRIED, FTX TRADING LTD D/B/A FTX.COM, ALAMEDA RESEARCH LLC, CAROLINE ELLISON and ZIXIAO “GARY” WANG
+&nbsp; +
+Defendants. +
+&nbsp;
+|&nbsp; +
+Case No. 1:22-cv-10503-PKC +
+&nbsp; +
+AMENDED COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF AND FOR CIVIL MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT AND COMMISSION REGULATIONS +
+&nbsp; +
+JURY TRIAL DEMANDED
+&nbsp; 
+|===
+
+Plaintiff Commodity Futures Trading Commission (“CFTC” or “Commission”), by and through its undersigned attorneys, hereby alleges as follows:
+
+[upperroman]
+[.text-center]
+. [underline]#*SUMMARY*#
+
+[numeric]
+. Samuel Bankman-Fried (“Bankman-Fried”), along with Zixiao “Gary” Wang (“Wang”) and others, co-founded Alameda Research LLC (“Alameda”), a digital asset trading and investment firm, in Berkeley, California in 2017. In or around May 2019, Bankman-Fried, Wang and others launched FTX Trading Ltd. d/b/a FTX.com (“FTX Trading”) and various subsidiaries, affiliates and related entities, collectively doing business as “FTX.com” or simply “FTX,” operating a centralized digital asset exchange. In or around October 2021, Bankman-Fried appointed Caroline Ellison (“Ellison”) to serve as a co-Chief Executive Officer (CEO) of Alameda, and later as sole CEO. (These parties are collectively referred to as “Defendants”). Alameda and FTX were large and well-known players in the digital asset industry, and Bankman-Fried was their young, high-profile owner and leader.
+. At its peak, the daily trading volume on FTX was over $20 billion, and it had garnered a $32 billion valuation. FTX had prominent paid sponsorships, including the naming rights to a professional sports arena in Miami, celebrity endorsements and a 2022 Super Bowl commercial that touted FTX as “the safest and easiest way to buy and sell crypto.”
+. On November 11, 2022, Bankman-Fried’s empire abruptly collapsed. FTX customers and the world at large discovered that FTX, through its sister-company Alameda, had been surreptitiously siphoning off customer assets for its own use—and over $8 billion in customer assets were now missing.
+. Beginning no later than May 2019 and continuing through at least November 11, 2022 (the “Relevant Period”), Bankman-Fried owned, operated and/or controlled FTX Trading, along with its numerous subsidiaries and related entities around the world, all doing business as FTX.com or FTX. He also owned, operated and/or controlled Alameda and its various subsidiaries and related entities, as well as numerous other related entities in the digital asset industry. Throughout the Relevant Period, Alameda operated as a primary “market maker” on FTX, providing liquidity to its various digital asset markets and also performed a number of other key functions for the exchange. Bankman-Fried, along with Wang, Ellison and/or others, operated Defendant entities, together with other entities under Bankman-Fried’s majority ownership and control, as a common enterprise (referred to herein as the “FTX Enterprise”).
+. Throughout the Relevant Period, and unbeknownst to all but a small circle of insiders, including Bankman-Fried, Ellison and Wang, FTX customers deposits, including fiat currency and digital assets such as bitcoin (BTC), ether (ETH) and tether (USDT), each a commodity in interstate commerce, that were intended to be used for trading or custodied on FTX, were regularly accepted, held by and/or misappropriated by Alameda for its own use.
+. At Bankman-Fried’s direction, FTX executives including Wang created features in the underlying code for FTX that allowed Alameda to maintain an essentially unlimited line of credit on FTX. At Bankman-Fried’s direction, FTX executives including Wang also created other exceptions to FTX’s standard processes that allowed Alameda to have an unfair advantage when transacting on the platform, such as quicker execution times and an exemption from the platform’s publicly-touted auto-liquidation risk management process.
+. Throughout the Relevant Period, at the direction of Bankman-Fried, Ellison and others, Alameda used FTX assets, including customer assets, to trade on other digital asset exchanges and to fund a variety of high-risk digital asset industry investments.
+. Bankman-Fried and other FTX executives also took hundreds of millions of dollars in poorly-documented “loans” from Alameda that they used to purchase luxury real estate and property for themselves and/or family members, make political donations and for other unauthorized uses. These unauthorized uses of customer assets were not disclosed to or known by FTX customers.
+. Throughout the Relevant Period, Defendants, through a web of subsidiaries, affiliates and other related entities collectively constituting the FTX Enterprise, misappropriated customer assets for their own use and benefit.
+. Despite this, FTX represented, in its Terms of Service and elsewhere, that customers were the “owner[s]” of all assets in their accounts, had “control” over the assets at all times, and that those assets were “appropriately safeguarded and segregated” from FTX’s own assets.
+. Through this conduct and the conduct further described herein, Defendants violated Section 6(c)(1) of the Commodity Exchange Act (the “Act” or “CEA”), 7 U.S.C. § 9(1), and Commission Regulation (“Regulation”) 180.1(a), 17 C.F.R. §180.1(a) (2021). Unless restrained and enjoined by this Court, Defendants are likely to continue to engage in the acts and practices alleged in this Amended Complaint and similar acts and practices, as more fully described below. 
+. Accordingly, the CFTC brings this action pursuant to Section 6c of the Act, 7 U.S.C. § 13a-l, to enjoin Defendants’ unlawful acts and practices and to compel their compliance with the Act. In addition, the CFTC seeks civil monetary penalties and remedial ancillary relief, including, but not limited to, trading and registration bans, disgorgement, restitution, pre- and post-judgment interest, and such other relief as the Court may deem necessary and appropriate.
+
+[upperroman, start=2]
+[.text-center]
+. [underline]#*JURISDICTION AND VENUE*#
+
+[numeric, start=13]
+. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (federal question jurisdiction) and 28 U.S.C. § 1345 (district courts have original jurisdiction over civil actions commenced by the United States or by any agency expressly authorized to sue by Act of Congress). Section 6c of the Act, 7 U.S.C. § 13a-1(a), authorizes the CFTC to seek injunctive relief against any person whenever it shall appear to the CFTC that such person has engaged, is engaging, or is about to engage in any act or practice constituting a violation of any provision of the Act or any rule, regulation, or order thereunder.
+. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C. § 13a-1(e), because Defendants transacted business in the Southern District of New York and engaged in acts and practices in violation of the Act and Regulations within this District.
+
+[upperroman, start=3]
+[.text-center]
+. [underline]#*PARTIES*#
+
+[upperalpha, start=1]
+. [underline]#*The CFTC*#
+
+[numeric, start=15]
+. Plaintiff Commodity Futures Trading Commission is the independent federal regulatory agency charged by Congress with the administration and enforcement of the Act and Regulations promulgated thereunder.
+
+[upperalpha, start=2]
+. [underline]#*Defendants*#
+
+[numeric, start=16]
+. Samuel Bankman-Fried (“Bankman-Fried”) is a United States citizen who, upon information and belief, has resided in various locations during the Relevant Period, most recently in the Bahamas. Bankman-Fried is the founder and majority owner of the FTX Enterprise, including FTX and Alameda. Bankman-Fried resided in and performed work for FTX and Alameda in various locations during the Relevant Period, including in the United States. He has never been registered with the Commission in any capacity.
+. FTX Trading Ltd. (“FTX Trading”) is a corporation registered in Antigua and Barbuda. FTX Trading Ltd. along with its subsidiaries and affiliate entities, including without limitation FTX Digital Markets Ltd. (“FDM”), located in the Bahamas, collectively did business as “FTX.com” or “FTX” and operated the digital asset trading exchange during the Relevant Period. FTX had numerous employees, including key personnel, that were based in and perform work from the United States, including in this District. FTX had regularly engaged in advertising and promotional activities in the United States. None of the FTX entities has ever been registered with the Commission in any capacity. FTX is currently in Chapter 11 bankruptcy proceedings in the U.S. Bankruptcy Court for the District of Delaware.
+. Alameda Research LLC (“Alameda”) is a Delaware limited liability company. Alameda, along with its parent, subsidiary and affiliate entities, including without limitation Alameda Research Bahamas Ltd. and Alameda Research Ltd (BVI), collectively operated and did business as the digital asset trading and investment firm “Alameda.” Alameda was founded in, maintained offices in and had numerous employees, including key personnel, that were based in and performed work from the United States during the Relevant Period. Alameda has never been registered with the Commission in any capacity. Alameda is currently in Chapter 11 bankruptcy proceedings in the U.S. Bankruptcy Court for the District of Delaware. 
+. Caroline Ellison (“Ellison”) is a United States citizen who, upon information and belief, currently resides in the United States. Beginning in October 2021, Ellison served as a CEO of Alameda, specifically under appointment as co-CEO and later sole CEO of Alameda Research Bahamas Ltd. and Alameda Research Ltd (BVI), both operating entities doing business as Alameda. She has never been registered with the Commission in any capacity.
+. Zixiao “Gary” Wang (“Wang”) is a United States citizen who, upon information and belief, currently resides in the United States. He is a co-founder and co-owner of FTX and Alameda. Wang served as the Chief Technology officer of FTX and also performed key functions for Alameda during the Relevant Period. Wang resided in and performed work for FTX and Alameda in various locations during the Relevant Period, including in the United States. He has never been registered with the Commission in any capacity.
+. During the Relevant Period, FTX and Alameda, together with other entities under the majority ownership and control of Bankman-Fried operated as a single, integrated common enterprise under the sole ultimate authority of Bankman-Fried as their mutual owner, and identified herein as the FTX Enterprise. Bankman-Fried regularly exercised control over each of the component entities of the FTX Enterprise throughout the Relevant Period, including regularly serving as signatory on core corporate agreements, as well as corporate bank accounts and trading accounts, many of which were held in the United States. The FTX Enterprise failed to observe corporate formalities, including failure to segregate assets, operations, resources and personnel, or to properly document intercompany transfers of assets and other resources. The entities regularly shared office space, systems, accounts and communications channels. On information and belief, assets flowed freely between the FTX Enterprise entities, often without documentation or effective tracking.
+
+[upperroman, start=4]
+[.text-center]
+. [underline]#*STATUTORY BACKGROUND AND LEGAL FRAMEWORK*#
+
+[numeric, start=22]
+. The purpose of the Act is to “serve the public interests . . . through a system of effective self-regulation of trading facilities, clearing systems, market participants and market professionals under the oversight of the Commission,” as well as “to deter and prevent price manipulation or any other disruptions to market integrity; to ensure the financial integrity of all transactions subject to [the] Act and the avoidance of systemic risk; to protect all market participants from fraudulent or other abusive sales practices and misuses of customer assets; and to promote responsible innovation and fair competition among boards of trade, other markets and market participants.” Section 3 of the Act, 7 U.S.C. § 5.
+. A digital asset is anything that can be stored and transmitted electronically and has associated ownership or use rights. Digital assets include virtual currencies, such as bitcoin (BTC), ether (ETH) and tether (USDT), which are digital representations of value that function as mediums of exchange, units of account and/or stores of value. Digital assets such as including bitcoin (BTC), ether (ETH), tether (USDT) and others are “commodities” as defined under Section 1a(9) of the Act, 7 U.S.C. § 1a(9).
+. In recent years, as digital asset markets have evolved, the CFTC has approved the offer of futures contracts on digital asset commodities, including bitcoin and ether futures and options, by boards of trade registered with the Commission, including the Chicago Mercantile Exchange (“CME”) and Chicago Board Options Exchange (“CBOE”). 
+. Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), in relevant part, makes it unlawful for any person, directly or indirectly, to:
+[none]
+.. use or employ, or attempt to use or employ, in connection with any swap, or a contract of sale of any commodity in interstate commerce, or for future delivery on or subject to the rules of any registered entity, any manipulative or deceptive device or contrivance, in contravention of such rules and regulations as the Commission shall promulgate . . .
+. CFTC Regulation 180.1(a), 17 C.F.R. § 180.1(a), promulgated pursuant to the authority in CEA Section 6(c)(1), makes it unlawful for any person, directly or indirectly, in connection with any swap, or contract of sale of any commodity in interstate commerce, or contract for future delivery on or subject to the rules of any registered entity, to intentionally or recklessly:
+[numeric]
+.. Use or employ, or attempt to use or employ, any manipulative device, scheme, or artifice to defraud;
+.. Make, or attempt to make, any untrue or misleading statement of a material fact or to omit to state a material fact necessary in order to make the statements made not untrue or misleading; or
+.. Engage, or attempt to engage, in any act, practice, or course of business, which operates or would operate as a fraud or deceit upon any person.
+. Section 13c(b) of the Act, 7 U.S.C. § 13c(b) provides that “any person who, directly or indirectly, controls any person who has violated any provision of this chapter or any of the rules, regulations or orders issued pursuant to this Act may be held liable for such violation in any action brought by the Commission to the same extent as such controlled person. In such action, the Commission has the burden of proving that the controlling person did not act in good faith or knowingly induced, directly or indirectly, the acts constituting the violation.”
+. Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B), and Regulation 1.2, 17 C.F.R. § 1.2, provide that each “act, omission, or failure of any official, agent, or other person acting for any individual, association, partnership, corporation, or trust within the scope of his [or her] employment or office shall be deemed the act, omission, or failure of such individual, association, partnership, corporation, or trust, as well as of such official, agent, or other person.”
+
+[upperroman, start=5]
+[.text-center]
+. [underline]#*FACTS*#
+
+[upperalpha, start=1]
+. [underline]#*Founding of Alameda and the FTX Exchange*#
+
+[numeric, start=29]
+. Bankman-Fried, Wang and others co-founded Alameda in November 2017 in Berkeley, California. Initially, Alameda primarily engaged in high-frequency digital asset arbitrage trading. This practice consisted of using proprietary algorithmic quantitative computer programs, commonly known as “bots,” to identify arbitrage opportunities due to price differentials between various digital asset platforms. Alameda engaged in high-frequency arbitrage trading across a large variety of digital asset exchanges, including certain exchanges operating in the United States.
+. In a June 29, 2019 “white paper,” Alameda represented that within a year of its inception, it had “become the largest liquidity provider and market maker in the [digital asset] space,” trading “$600 million to 1 billion a day” and accounting for “roughly 5% of global volume in digital asset trading.”
+. Throughout the Relevant Period, Bankman-Fried has owned 90% of Alameda and Wang owned 10%. Bankman-Fried was CEO of Alameda until October 2021, at which time he selected and appointed Ellison and another individual as co-CEOs to replace him. Ellison assumed the position of sole CEO of Alameda in August 2022.
+. Even after stepping down as CEO of Alameda, Bankman-Fried continued to maintain control over Alameda. For example, Bankman-Fried remained a signatory on Alameda Research’s bank accounts and an authorized trader for Alameda’s accounts with CFTC registered futures commission merchants. Bankman-Fried also maintained direct decision-making authority over all of Alameda’s major trading, investment and financial decisions. This authority was exercised at least in part through Bankman-Fried’s regular, often daily, participation in various in-person and mobile chat communications with Ellison and other senior personnel at Alameda. 
+. Over time, Alameda expanded its activities into a number of new digital asset business models, including making large equity investments in various companies in the digital asset industry, including by securing large loans from digital asset lending platforms to enable it to increase the size and variety of its digital asset industry investments.
+. By late 2018, Bankman-Fried, Wang and others employed at Alameda’s offices in Berkeley, California had begun building the centralized digital asset derivatives exchange that would ultimately become FTX. Wang and developers working with Wang were primarily responsible for the design and implementation of the code underlying FTX.com (i.e. the computer programming rules that direct the function of the FTX platform). FTX development was funded, in part, by another digital asset exchange, Binance, which, upon information and belief, had acquired an approximately 20% stake in FTX in or before November 2019.
+. In early 2019, Bankman-Fried, Wang and others moved to Hong Kong to finalize and launch the FTX platform to the public. The FTX.com website was launched and made available to the public by no later than May 2019. Bankman-Fried was at all times during the Relevant Period the majority shareholder of FTX and related entities.
+. FTX offered trading in a large variety of digital assets, including digital asset commodities such as bitcoin, ether, tether and others. FTX operated primarily as a derivatives exchange and offered trading in various types of options, futures, swaps, “perpetual futures” and other digital asset commodity derivative products. FTX allowed customers to place buy (long) and sell (short) orders in an electronic order book and matched customer orders via its “trading engine” or “matching engine.” FTX also offered a number of additional services related to the trading of digital asset products. For example, FTX operated a peer-to-peer (P2P) margin lending program where customers could offer margined and leveraged offerings to one another. 
+. Customers could access the FTX platform through the FTX.com website, through a mobile application and through an Application Programming Interface (API). FTX also offered an off-exchange “over the counter” (OTC) portal that enabled customers to connect and request quotes for spot digital assets and trade directly, rather than placing resting orders on a central limit order book. Wang and developers working with Wang were primarily responsible for the design and implementation of the code underlying the FTX API and OTC portal.
+. In marketing materials and in communications with federal regulators and others, FTX touted its auto-liquidation risk management engine, cross-margin functionality and backstop liquidity provider (“BLP”) programs as unique features that limited risk. Wang and developers working with Wang were primarily responsible for the design and implementation of the code underlying these features of FTX. Alameda was a leading participant in the BLP program.
+. FTX relied on Alameda resources, assets and personnel to carry out a number of core functions for the FTX platform, including creating liquid submarkets for all of the products offered on FTX, maintaining an appropriate balance of various digital assets on the exchange and supporting the “peer to peer” margin lending program. Alameda likewise relied on various FTX resources, assets and personnel.
+. FTX grew quickly. By June 2019, for example, just months after its launch, according to FTX, the daily volume of futures trading on FTX often exceeded $100 million. Beginning no later than 2020, FTX was consistently ranked as one of largest digital asset exchanges in the world by trading volume. In 2021, according to FTX, FTX entities held approximately $15 billion in assets on their platforms, accounted for approximately 10% of global digital asset volumes and transacted $16 billion of volume per day. 
+. Because of the perception of potential conflicts of interest between FTX and Alameda, Defendants and their employees understood that it was important to present a public perception that there was strong separation between Alameda and FTX. On information and belief, this was one key motivation for Bankman-Fried’s resignation as CEO of Alameda. Bankman-Fried, Ellison and others also reinforced a separate spheres narrative in their public statements. For example, during an August 2022 media appearance, Ellison, in her capacity as CEO of Alameda, said the following about the nature of the relationship between FTX and Alameda:
+[none]
+.. They’re both owned by Sam [Bankman-Fried], obviously. So ultimately, sort of aligned incentives in that way. We keep them quite separate in terms of day-to-day operations. We definitely have a Chinese wall in terms of information sharing to ensure that no one in Alameda would get customer information from FTX or anything like that, or any sort of special treatment from FTX. They really take that pretty seriously.
+. Such public representations by and on behalf of Defendants did not reflect reality. Throughout the Relevant Period, Alameda and FTX continued to share office space, first in Berkeley, California and later in Hong Kong and the Bahamas. They also shared key personnel, technology and hardware, intellectual property and other resources. Bankman-Fried, Wang, Ellison and other senior management at Alameda and FTX also had widespread access to each other’s systems and accounts.
+. In January 2020, Bankman-Fried, Wang and others established a separate group of operating entities operating a digital asset exchange specifically for U.S. persons. These entities collectively did business as “FTX US” and were incorporated primarily in the State of Delaware. The FTX US entities also held various registrations, including as a licensed Money Transmitter under the laws of the State of South Dakota. FTX US offered trading to U.S. persons in a large number of digital assets, including, but not limited to, spot digital asset commodities.
+. In October 2021, FTX US acquired a commodity derivatives company called LedgerX LLC, which then began doing business as “FTX US Derivatives.” FTX US Derivatives operated as a CFTC-registered Designated Contract Market (“DCM”), Derivatives Clearing Organization (“DCO”) and Swap Execution Facility (“SEF”). FTX US Derivatives maintained separate bank accounts and, upon information and belief, appropriately segregated and accounted for customer assets at all relevant times.
+. During the Relevant Period, FTX purported to block U.S.-based customers from using its exchange to transact in digital asset products and to instead direct those U.S. customers to transact exclusively through the FTX US and FTX US Derivatives entities. On information and belief, some U.S. persons and entities were able to use FTX to transact in digital assets, including digital asset commodity products, futures, options, swaps, “ perpetual futures” and derivatives.
+
+[upperalpha, start=2]
+. [underline]#*FTX and Alameda Commingled, Mishandled and Misappropriated FTX Customer Assets from the Moment of FTX’s Launch*#
+
+[numeric, start=46]
+. At the time Bankman-Fried, Wang and others launched FTX, FTX did not establish the requisite bank accounts to accept and hold customer assets. Instead, customers seeking to deposit “fiat” currency (i.e. traditional government-issued currency) into their FTX accounts were directed to wire their fiat deposits to bank accounts that were owned and controlled by Alameda. Some or all of those bank accounts were opened in the name of an entity called North Dimension, a Delaware-registered wholly-owned subsidiary of Alameda that, on information and belief, deliberately did not have a name that was readily-identifiable with Alameda. Certain of these bank accounts were located and based in the United States.
+. Once received, FTX customer assets were not segregated from Alameda assets or placed into accounts designated as being “for the benefit of” (FBO) FTX customers. When FTX customer assets were deposited into Alameda bank accounts, Alameda personnel manually credited FTX customer accounts with the corresponding amount of fiat currency on FTX internal ledger system. Customers accessing their FTX accounts would be able to observe on the exchange’s website (and later mobile application) that their deposits had been posted to their FTX accounts, even though the fiat deposits actually remained in Alameda-controlled bank accounts.
+. For a small subset of customer deposits, Alameda exchanged customer deposits for fiat-backed stablecoins such as USDC and USDT (which are generally understood to be pegged 1:1 to and backed 1:1 by U.S. Dollars) and then transferred an equivalent amount of such stablecoins to FTX’s digital asset wallets. Alameda treated fiat currency and stablecoins as fungible and this was the designated method for crediting customer accounts for fiat bank deposits. While this happened occasionally, customer assets typically remained solely in bank accounts in the name of Alameda, where they continued to be commingled with Alameda’s own assets.
+. The Alameda-owned bank accounts holding FTX customer fiat assets were collectively reflected on FTX’s internal ledger systems as the “fiat@ftx” account. During the Relevant Period, this account held a balance of as much as $8 billion in customer assets.
+. By approximately August 2020, FTX had opened its own FBO fiat bank accounts. However, FTX customer assets that had previously been wired to Alameda and reflected in the “fiat@ftx” group of Alameda bank accounts were not transferred to FTX’s bank accounts. Furthermore, even after August 2020, at least some FTX customers continued to send fiat deposits to Alameda-owned accounts.
+. Consistently from the launch of FTX and throughout the Relevant Period, Alameda accessed and used FTX customer assets for Alameda’s own operations and activities, including to fund its trading, investment and borrowing/lending activities. Alameda’s use of FTX customer assets included both customer fiat deposits that were sent to Alameda-owned bank accounts and customer digital asset deposits and holdings that Alameda accessed via the unbounded withdrawal capabilities of its FTX account.
+
+[upperalpha, start=3]
+. [underline]#*Misrepresentations Related to the Operations of FTX and Alameda*#
+
+[numeric, start=52]
+. The use of customer assets by Alameda was not authorized by FTX customers, and FTX customers were not made aware that their assets were being used by Alameda. To the contrary, FTX’s Terms of Service expressly prohibited such use of customer assets. Specifically, Section 8.2.6 of the FTX Trading Terms of Service states:
+[none]
+.. All Digital Assets are held in your Account on the following basis:
+[upperalpha]
+... Title to your Digital Assets shall at all times remain with you and shall not transfer to FTX Trading. As the owner of Digital Assets in your Account, you shall bear all risk of loss of such Digital Assets. FTX Trading shall have no liability for fluctuations in the fiat currency value of Digital Assets held in your Account.
+... None of the Digital Assets in your Account are the property of, or shall or may be loaned to, FTX Trading; FTX Trading does not represent or treat Digital Assets in User’s Accounts as belonging to FTX Trading.
+... You control the Digital Assets held in your Account. At any time, subject to outages, downtime, and other applicable policies (including the Terms), you may withdraw your Digital Assets by sending them to a different blockchain address controlled by you or a third party.
+. Defendants were aware of the need to segregate and protect customer assets. In fact, FTX developed internal policy documents relating to the protection of customer assets. For example, in an FTX Digital Markets (“FDM”) policy document entitled “Safeguarding of Assets & Digital Token Management Policy” dated August 2021, this affiliated entity of FTX Trading indicated that:
+[none]
+.. FDM has a responsibility to ensure that customer assets are appropriately safeguarded and segregated from its own funds. This includes customer assets that may be held by third party service providers. FDM will ensure that:
+[disc]
+*** Customer assets (both fiat and virtual assets) are segregated from its own assets;
+*** Customer assets (both fiat and virtual assets) will be clearly designated and easily identifiable;
+*** All third-party service providers are aware that customer funds do not represent property of FDM and are therefore protected from third-party creditors; and
+*** All third-party providers are aware that customer assets are held in trust. +
+Regarding customer fiat assets, FDM will maintain customer accounts with a regulated credit, e-money or payment institution that is acceptable to the Securities Commission of The Bahamas (SCB). Customer accounts will be designated as such, and the monies contained therein will be appropriately ring-fenced and protected from claims against FDM.
+Customer monies will be appropriately ring-fenced to protect from:
+*** The unlikely event FDM becomes insolvent;
+*** The use of customer monies being used to benefit others; and
+*** FDM using customer monies to finance its own operations. +
+Written notice will be provided to the relevant regulated credit, e-money, or payment institution to clarify that the assets contained are held by us on trust for our customers and they are not entitled to combine the account any other account, or to exercise any right of set-off or counterclaim against the money in those accounts, in respect of any debt owed by us. +
+All customer accounts will be under the dual signatory of two directors or of one director, together with a senior member of the management team.
+. Throughout the Relevant Period, Bankman-Fried and other representatives of FTX consistently and repeatedly reiterated, in a variety of contexts, that customer assets were properly segregated and custodied by FTX at all times, in conformance with both FTX’s Terms of Service and generally understood best practices for derivatives exchanges, which presume a requirement for customer disclosure and consent in order to engage in rehypothecation of customer assets (i.e. re-use of deposited assets). 
+. Such statements about the treatment and custody of customer assets include misstatements that Bankman-Fried and others made and/or caused to be made to the U.S. Congress, the CFTC and/or other federal and state government agencies, investors and in public venues such as Twitter.
+. For example, during February 9, 2022 testimony before the U.S. Senate Committee on Agriculture, Nutrition and Forestry, Bankman-Fried, while advocating for the implementation of legislation regarding digital assets and the extension of certain legal protections to digital asset exchanges, testified as follows with respect to FTX’s treatment of customer assets:
+[none]
+.. FTX has policies and procedures for its platforms today that reflect this basic principle by maintaining liquid assets for customers withdrawals, including a sufficient balance of digital assets funded by the company for its non-U.S. platform. The resources are funded to provide sufficient cover against user losses under certain events and extreme scenarios in order to, among other purposes, ensure a customer without losses can redeem its assets from the platform on demand. +
+[…] +
+In keeping with this principle, FTX provides a user experience that enables any user to easily view account balances for all assets, for all of its platforms, in real time. By logging in to the customer’s account at FTX, the
+customer can immediately view the types of assets they own held in custody by FTX. The assets are ledgered and easily identifiable to the user (but held in an omnibus wallet in the case of the customer’s tokens in order to better promote liquidity on the platform) pursuant to internal policies and procedures, and FTX regularly reconciles customers’ trading balances against cash and digital assets held by FTX. Additionally, as a general principle FTX segregates customer assets from its own assets across our platforms.
+. Contrary to such representations and without disclosure to FTX customers, Alameda and FTX commingled assets and freely used FTX customer assets as if they were their own, including as capital to deploy in their own trading and investment activities. On information and belief, Bankman-Fried, his parents and other FTX and Alameda employees used FTX customer assets for a variety of personal expenditures, including luxury real estate purchases, private jets, documented and undocumented personal loans and personal political donations.
+. On information and belief, commingled assets, including FTX customer assets, were also furtively used by Bankman-Fried and FTX for extensive marketing and promotional expenses in the United States, including a Super Bowl commercial and the sponsorship of a sports stadium in Miami, Florida. Many of these advertisements, including the Super Bowl commercial, touted FTX as “the safest and easiest way to buy and sell crypto.” These promotional activities were carried out in the United States to generally promote “FTX” rather than specifically “FTX US.” On information and belief, some of these promotional activities were paid for or guaranteed by FTX Trading entities.
+
+[upperalpha, start=4]
+. [underline]#*Alameda’s Relationship with and Special Privileges on FTX*#
+
+[numeric, start=59]
+. From the launch of FTX, Alameda operated as a primary market maker on FTX. In that capacity, Alameda acted as an always-available buyer and seller of digital assets in order to provide sufficient liquidity and an available trading counterparty to FTX customers. Over time, FTX acquired additional institutional market makers, but Alameda remained a high-volume market maker throughout the Relevant Period.
+. Alameda also performed a number of other functions for FTX throughout the Relevant Period. For example, Alameda helped FTX maintain an acceptable balance of various digital assets and particularly stablecoins, in its wallets. To do so, Alameda was authorized to make large exchanges of various stablecoins on behalf of FTX, using FTX’s assets rather than its own.
+. Alameda enjoyed certain essential and undisclosed benefits and privileges on FTX throughout the Relevant Period. These advantages were programmed into the code for FTX by Wang and others at the direction of Bankman-Fried. For one, Alameda was exempt from FTX’s “auto-liquidation” risk engine functions, which would automatically liquidate (sell) a customer’s open position when their “Maintenance Margin Fraction” fell below a certain determined level. All customers who took on too much leverage or risk on FTX would thus be auto-liquidated by the exchange. Alameda was exempt from this—it could not be liquidated on FTX under any conditions. This exception was hard coded into FTX’s system. This advantage was not publicly disclosed during the Relevant Period. The existence of this and other advantages directly contradicted public statements made by and on behalf of Defendants.
+. Alameda’s account on FTX also had a special designation in the FTX code throughout the Relevant Period, labeled as an “allow negative flag,” which allowed Alameda to execute a transaction even if it did not have the assets available in its account to do so. This flag was implemented by an FTX executive at the direction of Bankman-Fried and with Wang’s knowledge. At Bankman-Fried’s direction, Alameda also had an essentially unbounded credit limit in the FTX database. On at least one occasion during the Relevant Period, Alameda had reached a previously-set borrowing limit for its FTX account. In response, Bankman-Fried directed Wang and/or other FTX executives to raise the borrowing limit to a level that would be unlikely to ever be exceeded. On information and belief, FTX executives ultimately raised Alameda’s borrowing limit to be many tens of billions of dollars. Alameda’s borrowed assets could also be withdrawn from FTX. These features, in combination, allowed Alameda unlimited ability to borrow and withdraw digital assets directly from FTX to put towards its off-platform activities. This functionality existed separate and apart from Alameda’s more limited participation in FTX’s P2P margin lending program. 
+. Alameda’s ability to withdraw unlimited assets from FTX was not publicly disclosed during the Relevant Period. On information and belief, Defendants were aware of and responsible for these functionalities throughout the Relevant Period.
+. Alameda also enjoyed order execution timing privileges for its transactions on FTX throughout the Relevant Period. Alameda, like many other institutional customers, transacted on FTX through the API rather than the standard front-end website or mobile application. However, while most or all other customers of API had their transaction orders routed through the FTX system, Alameda was able to bypass certain portions of the system and gain faster access to the API. As a result, Alameda’s transaction orders were received several milliseconds faster than those of other API users. In the high-frequency trading sector, this is a significant time advantage. This was not publicly disclosed during the Relevant Period. On information and belief, Defendants were aware of and/or responsible for these functionalities.
+. Alameda also enjoyed an additional execution time privilege during the Relevant Period as a result of not being subject to certain automated verification processes, because the above features of its account made it unnecessary to carry out certain automated steps like verifying available assets before executing a transaction. Other FTX customers, in contrast, were subject to an automated review process when placing orders to ensure that they had sufficient assets in their accounts to execute the requested transaction. By avoiding this “account API lock” process, Alameda gained another significant speed advantage. Similarly, if other customers placed several orders at once, these checks occurred in sequential order, so that each transaction could be confirmed as viable. This did not apply to the Alameda account on FTX. These advantages were not publicly disclosed during the Relevant Period. On information and belief, Defendants were aware of and/or responsible for these functionalities. 
+. Defendants were aware of and participated in facilitating the foregoing privileges afforded to Alameda, both with respect to Alameda’s advantages in its activity on FTX and with respect to Alameda’s ability to withdraw and misappropriate FTX customer assets.
+. At the direction and/or under the control of Bankman-Fried and Ellison, Alameda used large amounts of capital, including capital derived from FTX customer assets, to undertake significant illiquid investments and transactions, including long-term equity holdings in a variety of digital asset companies and large acquisitions of relatively illiquid digital assets.
+. One of Alameda’s most significant holdings was the FTX Token (“FTT”) digital asset. FTT was the FTX “exchange token” and could be used to obtain discounted trading fees for transactions on FTX. On information and belief, Alameda did not pay to acquire its FTT holdings.
+. FTX consistently used one third of the trading revenues it collected to buy FTT tokens in the marketplace and “burn” them—a mechanism to permanently take the tokens out of circulation by sending them to a smart wallet from which they could never be withdrawn. On a weekly basis, FTX announced on Twitter the quantity of FTT it had bought and burned that week. On information and belief, this was intended to raise the value of the FTT tokens that remained in circulation, and thereby the value of the FTT that Alameda held.
+. Alameda’s FTT holdings were a significant portion of its balance sheet and a significant portion of all FTT in circulation. Alameda valued its FTT holdings on its balance sheet at the market price at which FTT was traded, without applying any discount to reflect that it could not have sold its significant FTT holdings into the marketplace without causing a sharp reduction in its trading price. 
+. Alameda also held extremely large quantities of several other illiquid digital assets relative to their circulation volumes, and likewise did not apply a discount to the value of those holdings on its balance sheet.
+. Alameda relied on its significant holdings of FTT and similar illiquid tokens, valued at the market value of the asset without discount, as collateral to support a number of large loans from various digital asset lending platforms. During the Relevant Period, Alameda took out a large number of loans, at times totaling as much as $10 billion in notional value.
+
+[upperalpha, start=5]
+. [underline]#*Misappropriation of Customer Assets*#
+
+[numeric, start=73]
+. By early 2022, Alameda had invested several billion dollars in directional, unhedged, illiquid and/or long-term investments. To fund these investment activities, Alameda relied on billions of dollars of loans from digital asset lending platforms, traditional bank lines of credit and its unlimited borrowing abilities on FTX, including its access to customer assets.
+. In approximately spring 2022, the digital asset markets as a whole experienced a significant downturn. This downturn came to a head in May 2022 with the crash of two significant and widely-traded digital assets, whose value crashed essentially to zero. There was significant contagion from this event, including a major decline in the value of bitcoin, ether and other digital assets. The devaluation of such central and high-volume digital assets resulted in major credit defaults throughout the digital asset industry, as the value of collateral guaranteeing various loans declined. As a result, a number of digital asset lenders and market participants made margin calls on borrowers, liquidated open positions, recalled loans and/or collapsed entirely, including into bankruptcy.
+. In approximately May and/or June 2022, Alameda was subject to a large number of such margin calls and loan recalls. It did not have sufficient liquid assets to service its loans. Instead, at the direction and/or under the supervision of Bankman-Fried and Ellison, Alameda greatly increased its usage of FTX customer assets to meet its external debt obligations. Alameda was able to rely on its undisclosed ordinary-course access to FTX credit and customer assets to facilitate these large withdrawals, which were several billion dollars in notional value. Defendants were aware of and/or responsible for this misappropriation of FTX customer assets.
+. By approximately mid-2022, FTX’s internal ledgers reflected that the balance of Alameda’s fiat liability to FTX totaled approximately $8 billion, a staggering amount that exceeded FTX total lifetime revenue.
+. Publicly during this time, Defendants’ public statements falsely portrayed that FTX and Alameda remained highly profitable and liquid. Following the market crash of May 2022, Bankman-Fried, through Alameda and other entities, bailed out several digital asset companies with loans or acquisitions. Bankman-Fried portrayed these activities as benevolent and for the benefit of the digital asset industry. In connection with the acquisition of one such digital asset lending platform from a bankruptcy sale, on October 2, 2022 Bankman-Fried tweeted that “our bids are generally determined by fair market price, no discounts; goal isn’t to make money buying assets at cents on the dollar, it’s to pay $1 on the $1 and get the $1 back to customers.”
+. On information and belief, Bankman-Fried stated privately that he was pursuing an aggressive acquisition strategy during this time at least in part to gain access to additional sources of capital that could be used to support his existing businesses and fill the hole in customer assets that had been created.
+. Bankman-Fried had acknowledged this large outstanding balance to a small group of key personnel of FTX and Alameda, including Ellison and Wang, throughout the Relevant Period. In one such conversation, Bankman-Fried indicated to an FTX executive that he was not concerned with Alameda’s liability on FTX.com because it was sufficiently collateralized by Alameda’s holdings of FTT tokens—the same tokens whose market price Alameda’s trading desk was actively trying to control.
+. At least in part to remediate the risk that Alameda’s large liability would be discovered, at Bankman-Fried’s direction, FTX executives reallocated Alameda’s approximately $8 billion in liabilities to a customer account on FTX’s systems that Bankman-Fried would later refer to as “our Korean friend’s account” and/or “the weird Korean account.” This was technically a sub-account of Alameda, but unlike other Alameda sub-accounts on FTX, it was not opened under an “@alameda-research.com” identifier and was not otherwise readily identifiable as being an Alameda-associated account. The system notes associated with the account described it as “FTX fiat old.” As a result, it was no longer apparent on FTX’s ledgers that Alameda had an $8 billion negative balance on its FTX account.
+. The same type of “allow negative flag” and exemption from liquidation characteristics were applied to the so-called Korean account as was applicable to the Alameda main account and other sub-accounts.
+
+[upperalpha, start=6]
+. [underline]#*Contemplated Shutdown of Alameda*#
+
+[numeric, start=82]
+. In or around September 2022, Bankman-Fried drafted and shared a document that questioned whether Alameda should be permanently shut down. The document, titled “We came, we saw, we researched” began: “I only started thinking about this today, and so haven’t vetted it much yet. But: I think it might be time for Alameda Research to shut down. Honestly, it was probably time to do that a year ago.” 
+. Bankman-Fried went on to lay out a number of reasons for the suggestion to shut down Alameda, including “[t]he fact that we didn’t hedge as much as we should have alone cost more in EV [expected value] than all the money Alameda has ever made or ever will make”; “[i]n the current environment, capital is really expensive, and Alameda doesn’t justify it”; and “Alameda is making some money trading, but not enough to justify its existence[.]” These admissions were directly contrary to contemporaneous public statements that Bankman-Fried and Alameda were making regarding Alameda’s profitability.
+. Bankman-Fried also laid out a number of “large downsides” to shutting down Alameda, including those that reflected the interconnectedness between Alameda and FTX’s operations such as “[l]ess liquidity on FTX” and the observation that “given the amount that Alameda is doing, we can’t really shut it down.” (emphasis in original).
+. Bankman-Fried also drafted a contemplated Twitter thread to announce the shutdown of Alameda, and concluded: “I feel really uncertain what’s right! So I guess my plan is that, this coming weekend, we should just make a call, and enact it before next Monday, one way or another. Thoughts?”
+. Alameda was not shut down at this time or at any point during the Relevant Period.
+
+[upperalpha, start=7]
+. [underline]#*November 2022 Collapse of FTX and Alameda*#
+
+[numeric, start=87]
+. On November 2, 2022, the online digital asset news publication Coindesk.com published an article titled “Divisions in Sam Bankman-Fried’s Crypto Empire Blur on His Trading Titan Alameda’s Balance Sheet,” and subtitled: “Alameda had $14.6 billion of assets as of June 30, according to a private document CoinDesk reviewed. Much of it is the FTT token issued by FTX, another Bankman-Fried company.” This article reported on a purported leaked Alameda balance sheet that showed that, at least as of June 30, 2022, an extremely high portion of Alameda’s $14.6 billion in assets consisted of the FTT token. 
+. On November 6, 2022, in response to this article, the CEO of Binance tweeted that, “[d]ue to recent revelations that have came [sic.] to light,” he would be selling the remainder of his significant FTT holdings, which he had acquired during the buyout from FTX seed investment.
+. In consultation with Bankman-Fried and others, Ellison responded on Twitter that Alameda would be willing to buy back all of Binance and Zhao’s FTT holdings at $22 per token. At the direction of Bankman-Fried and Ellison, FTX personnel began liquidating Alameda’s investments and trade positions to rapidly free up capital for FTT buybacks. Nevertheless, the market value of FTT steadily declined.
+. On the evening of November 6, as they monitored and reacted to the movements in FTT prices and the contagion effects on the digital asset market more broadly, Bankman-Fried, Ellison and another Alameda executive expressed surprise that these events had not had a larger negative impact on the prices of bitcoin, saying in a chat message:
+[Alameda executive 1]: “I'm surprised BTC isnt down more”
+Ellison: “me too”
+Bankman-Fried: “yea me 3”
+. At this time, bitcoin market prices, including on U.S. exchanges, had indeed begun to decline, likely as a direct or indirect result of the events described herein.
+. At the same time, an increasing number of FTX customers began requesting to withdraw their assets from the exchange. FTX personnel initially managed to keep FTX’s systems operating quickly enough to keep up with withdrawals, but soon fell behind.
+. By late in the day on November 7, it was apparent to Defendants that FTX did not have sufficient assets to cover all customer withdrawals, and that there were not sufficient assets held in various FTX accounts to cover all customer deposit obligations.
+. Bankman-Fried, Ellison and other key personnel of FTX and Alameda acknowledged internally that this shortfall was not merely a matter of having sufficient liquid assets on hand to cover customer withdrawals in the short term; rather, FTX customer assets were irrevocably lost because Alameda had misappropriated them.
+. That same day, the Alameda traders who had been liquidating Alameda’s open positions to free up capital for FTT buybacks were directed by Bankman-Fried and Ellison to instead sell everything that could be sold quickly from Alameda’s holdings, to maximize open lines of credit or any other available sources of capital, and generally do anything possible to quickly obtain billions of dollars in capital to send to FTX.
+. Bankman-Fried, reinforcing this instruction, confirmed a trader’s summation of the directive as “close everything down to generate capital, maximally aggressive” to “liquidate all positions.” Bankman-Fried responded that “there is definitely a fair bit of urgency” and asked for the “ETA on getting at least $2b of USD.”
+. On or about November 7, FTX US executives asked Wang and another FTX executive to evaluate the solvency of FTX US. They were readily able to carry out this request because numerous FTX personnel, including Wang, had access to and oversight of the FTX US (but not FTX US Derivatives) code, database and ledgers in the ordinary course of their duties. Wang and/or other FTX executives ultimately identified a shortfall they did not understand and were unable to quantify on FTX US.
+. Bankman-Fried quickly indicated that he would fill the hole at FTX US from liquidation of Alameda assets. On November 8, Bankman-Fried directed Alameda traders to prioritize meeting FTX US capital requirements and to send excess capital to FTX US. On information and belief, Alameda sent in excess of $185 million to FTX US to fill its shortfall.
+. Later that same day on November 8, Ellison stated in a chat message that “apparently part of what’s going on is that alameda actually has a long USDT/short USD margin position on FTX US that we aren’t tracking?” and said “which is why FTX US has less USD than we thought it should.”
+. In direct contradiction of this internal series of events, on November 7, in public statements and various Twitter messages, Bankman-Fried and others acting on behalf of FTX continued to portray the shortfall that was causing customers to be unable to withdraw their assets as merely a liquidity problem. They affirmatively (and falsely) stated that FTX continued to be solvent and that all customer deposits were safe. For example, Bankman Fried tweeted: 
+
+image::media/ch08-img01.png[FTX Tweet, 400,300, align=center]
+image::media/ch08-img02.png[FTX Tweet, 400,300, align=center]
+
+[numeric, start=101]
+. On information and belief, this and other tweets posted by Bankman-Fried on November 7-8, 2022 were intended to dissuade FTX customers from requesting to withdraw their assets from Defendants’ exchanges.
+. This and other iterations of proposed tweets by Bankman-Fried were debated and rewritten among a small group of Defendants’ key employees and other of Bankman-Fried’s confidants. On information and belief, several individuals expressed concerns that Bankman-Fried’s tweet was inaccurate and/or misleading.
+. At the same time as Bankman-Fried was making these public assurances, he and numerous others acting on behalf of FTX were also reaching out to as many sources of funding as possible in an attempt to quickly raise several billion dollars to cover the shortfall in customer assets. As their calculation of the amount of the shortfall grew from $1-2 billion, to $2-4 billion, to as much as $8 billion, the number of viable potential rescue options diminished. Numerous parties declined to bail out FTX regardless of the favorable terms being offered.
+. At approximately this same time, Bankman-Fried prepared or caused to be prepared a balance sheet to be shared with prospective investors showing the assets and liabilities of the companies. That balance sheet was unorthodox in a number of respects. Most notably, the balance sheet included an $8 billion negative balance from a “hidden, poorly internally labeled ‘fiat@’ account.” 
+. Upon information and belief, the “fiat@” account was in fact well-known to and understood by Bankman-Fried, who had previously directly managed and directed its use and characterization on the FTX systems.
+. On November 8, Bankman-Fried called the CEO of Binance to offer to sell FTX in its entirety to Binance. Binance initially accepted the offer and announced the news on Twitter, saying: “[t]his afternoon, FTX asked for our help. There is a significant liquidity crunch. To protect users, we signed a non-binding LOI [Letter of Intent], intending to fully acquire FTX and help cover the liquidity crunch. We will be conducting a full DD in the coming days.” Defendants thereafter provided Binance with various information in response to their due diligence inquiries in furtherance of the LOI.
+. On the morning of November 9 at approximately 10 AM ET, after the announcement of the then-contemplated Binance acquisition, Ellison held an “all-hands” meeting with Alameda staff. In that meeting, Ellison acknowledged that earlier that year, she, Bankman-Fried and other individuals had decided to use FTX customer assets to pay Alameda’s debts, and that Wang and another FTX executive were aware of this. Specifically, in that meeting, Ellison stated that, “starting last year” Alameda was “borrowing a bunch of money by open term loans” and used those assets to “make very illiquid investments.” Ellison further explained that following the widespread decline of digital asset prices most of Alameda’s loans had been recalled and, in order to meet those recalls, Alameda borrowed “a bunch of funds” from FTX, which in turn “led to FTX having a shortfall in user funds.” Ellison informed Alameda staff that FTX had “always allowed” Alameda to borrow customer assets, and did not require collateral for those loans. She also explained that Alameda could access user assets without requiring FTX’s approval as the “structure” allowed Alameda to “go negative in coins.” In response to an employee question, Ellison also acknowledged that her November 6 tweet to the Binance CEO offering to buy his FTT holdings at $22 per token was “kind of a misleading thing to tweet” and expressed remorse. Shortly after this meeting, most of Alameda’s staff resigned. 
+. On November 9, just one day after announcing the deal, Binance announced it would not be able to move forward with the deal to acquire FTX, saying: “[a]s a result of corporate due diligence, as well as the latest news reports regarding mishandled customer assets and alleged US agency investigations, we have decided that we will not pursue the potential acquisition of FTX.com.”
+. With the prospects of acquisition or bailout investment being unlikely, executives of Defendant entities and FTX US began advocating strongly for Bankman-Fried to move the FTX Enterprise towards bankruptcy and halt all remaining customer withdrawals from the platforms.
+. On November 10, FTX and FTX US halted all trading and withdrawals, and Bankman-Fried announced that Alameda was being wound down. Bankman-Fried also posted a lengthy Twitter thread purporting to explain how he “f[***]ed up.”
+. On November 10, at approximately 4:00 am ET, Bankman-Fried signed a document resigning his position as CEO of FTX and, as majority owner of all the FTX and Alameda companies, authorizing the appointment of an independent CEO and the filing of Chapter 11 bankruptcy proceedings.
+. The next day, on November 11, 134 separate companies simultaneously filed for Bankruptcy as part of those proceedings, which are ongoing and being jointly administered in the U.S. Bankruptcy Court for the District of Delaware.
+. In his initial declaration submitted shortly after the filing of the Bankruptcy petition, the FTX Enterprise’s newly-appointed CEO said the following of the situation he encountered at the FTX Enterprise:
+[none]
+.. I have over 40 years of legal and restructuring experience. I have been the Chief Restructuring Officer or Chief Executive Officer in several of the largest corporate failures in history. I have supervised situations involving allegations of criminal activity and malfeasance (Enron). I have supervised situations involving novel financial structures (Enron and Residential Capital) and cross-border asset recovery and maximization (Nortel and Overseas Shipholding). Nearly every situation in which I have been involved has been characterized by defects of some sort in internal controls, regulatory compliance, human resources and systems integrity. +
+Never in my career have I seen such a complete failure of corporate controls and such a complete absence of trustworthy financial information as occurred here. From compromised systems integrity and faulty regulatory oversight abroad, to the concentration of control in the hands of a very small group of inexperienced, unsophisticated and potentially compromised individuals, this situation is unprecedented.
+. In the days and weeks since Bankman-Fried resigned from the companies, he has continued to make widespread public statements, provide explanations and make admissions, including in live interviews. Several of his statements admit key facts pled herein. For example, in a November 15 chat message interview with a Vox publication reporter, which Bankman-Fried has confirmed he participated in, he characterized the course of relevant events as follows:
+[none]
+.. like, ‘oh FTX doesn’t have a bank account, I guess people can wire to Alameda’s to get money on FTX’ … 3 years later … ‘oh f**** it looks like people wired $8b to Alameda and oh god we basically forgot about the stub account that corresponded to that and so it was never delivered to FTX’
+
+[upperalpha, start=8]
+. [underline]#*Impact of These Events on Digital Asset Commodity Futures Markets*#
+
+[numeric, start=115]
+. The foregoing series of events had a significant, observable negative impact on digital asset commodity markets. For example, between the release of the November 2 Coindesk article and the November 9 announcement that Binance declined to acquire FTX, the price of bitcoin futures fell more than 23%, to two-year low prices.
+. Various data visualizations demonstrate a clear connection between the foregoing events and the price movement of digital asset commodities, including bitcoin and ether.
+. The foregoing conduct by Defendants caused, directly or in directly, significant negative price impact on the value of commodities in interstate commerce in the U.S., including bitcoin and ether spot and futures prices, as illustrated in the following three market data charts.
+. The following chart is a visualization of the price movement of bitcoin and ether digital asset commodity spot and futures prices on various major exchanges at the time of the foregoing events. On information and belief, the significant price movement demonstrated in this chart is a result of the conduct described herein:
+
+image::media/ch08-img03.png[FTX Tweet, 640,480, align=center]
+
+[numeric start=119]
+. The following chart is a visualization of the impact of various of the foregoing market events on bitcoin futures prices on the U.S. CME exchange, with several of the key foregoing events identified on the price and time line. On information and belief, the significant price movement demonstrated in this chart is a result of the conduct described herein:
+
+image::media/ch08-img04.png[FTX Tweet, 720,540, align=center]
+
+The following chart is a visualization of the impact of various of the foregoing market events on ether futures prices on the U.S. CME exchange, with several of the key foregoing events identified on the price and time line. On information and belief, the significant price movement demonstrated in this chart is a result of the conduct described herein:
+
+image::media/ch08-img05.png[FTX Tweet, 720,540, align=center]
+
+
+[upperroman, start=6]
+[.text-center]
+. [underline]#*VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND REGULATIONS*#
+[.text-center]
+*COUNT I: FRAUD*
+[.text-center]
+*AGAINST ALL DEFENDANTS*
+[.text-center]
+*Violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1) and Regulation 180.1(a)(1), (3), 17 C.F.R. 180.1(a)(1), (3) (2021)*
+
+[numeric, start=121]
+. The allegations set forth in paragraphs 1 through 120 are re-alleged and incorporated herein by reference.
+. During the Relevant Period, Defendants Bankman-Fried, FTX Trading Ltd., Alameda Research LLC, Ellison and Wang, intentionally or recklessly, in connection with any swap, or contract of sale or any commodity in interstate commerce, or contract for future delivery on or subject to the rules of any registered entity, directly or indirectly: used or employed, or attempted to use or employ, a scheme or artifice to defraud; and/or engaged in, or attempted to engage in, acts, practices, or a course of business that operated or would operate as a fraud or deceit on any person, including, but not limited to, FTX customers and/or other market participants. 
+. As a result of the foregoing conduct, Defendants’ fraudulent conduct violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(1), (3), 17 C.F.R. § 180.1(a)(1), (3).
+. Defendants are directly liable for their actions in violation of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(1), (3), 17 C.F.R. § 180.1(a)(1), (3).
+. Defendant Bankman-Fried directly or indirectly controlled the FTX Enterprise, including Alameda, and did not act in good faith, or knowingly induced, directly or indirectly, the acts constituting the violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(1), (3) committed by FTX Trading Ltd. and Alameda Research LLC. Therefore, pursuant to 7 U.S.C. § 13c(b), Defendant Bankman-Fried is also liable as control person for each of FTX Trading Ltd. and Alameda Research LLC’s violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(1), (3), 17 C.F.R. § 180.1(a)(1), (3).
+. Defendant Ellison directly or indirectly controlled Alameda Research LLC and did not act in good faith, or knowingly induced, directly or indirectly, the acts constituting the violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(1), (3) committed by Alameda Research LLC. Therefore, pursuant to 7 U.S.C. § 13c(b), Defendant Ellison is also liable as control person for each of Alameda Research LLC’s violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(1), (3), 17 C.F.R. § 180.1(a)(1), (3).
+. Defendant Wang directly or indirectly controlled FTX Trading Ltd. and did not act in good faith, or knowingly induced, directly or indirectly, the acts constituting the violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(1), (3) committed by FTX Trading Ltd. Therefore, pursuant to 7 U.S.C. § 13c(b), Defendant Wang is also liable as control person for each of FTX Trading Ltd.’s violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(1), (3), 17 C.F.R. § 180.1(a)(1), (3).
+. The acts and omissions of Bankman-Fried, Ellison, Wang and other officers, employees, or agents acting for FTX and/or Alameda described in this Amended Complaint were done within the scope of their office, employment, or agency with FTX Trading Ltd. and/or Alameda Research LLC. Therefore, pursuant to 7 U.S.C. § 2(a)(1)(B) and 17 C.F.R. § 1.2 (2021), FTX Trading Ltd. and/or Alameda Research LLC are liable as principals for each act, omission, or failure of Bankman-Fried, Ellison, Wang and the other officers, employees, or agents acting for FTX and/or Alameda constituting violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(1), (3).
+. Each and every use or employment or attempted use or employment of any manipulative device, scheme, or artifice to defraud; or act of engaging, or attempting to engage, in acts, practices or courses of business that operated or would have operated as a fraud or deceit on any person, including FTX customers and/or other market participants, is alleged as a separate and distinct violation of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(1), (3), 17 C.F.R. § 180.1(a)(1), (3).
+
+[.text-center]
+*COUNT II: FRAUDULENT MISSTATEMENTS OF MATERIAL FACT AND MATERIAL OMISSIONS*
+[.text-center]
+*AGAINST DEFENDANTS BANKMAN-FRIED, FTX TRADING LTD., ALAMEDA RESEARCH LLC AND ELLISON*
+[.text-center]
+*Violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1) and Regulation 180.1(a)(2), 17 C.F.R. 180.1(a)(2) (2021)*
+
+[numeric, start=130]
+. The allegations set forth in paragraphs 1 through 129 are re-alleged and incorporated herein by reference.
+. During the Relevant Period, Defendants Bankman-Fried, FTX Trading Ltd., Alameda Research LLC and Ellison intentionally or recklessly, in connection with any swap, or contract of sale of any commodity in interstate commerce, or contract for future delivery on or subject to the rules of any registered entity, directly or indirectly: made, or attempted to make, untrue or misleading statements of material fact, or omitted to state material facts necessary to make the statements made not untrue or misleading.
+. As a result of the foregoing conduct, Defendants Bankman-Fried, FTX Trading Ltd., Alameda Research LLC and Ellison’s fraudulent conduct violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(2), 17 C.F.R. § 180.1(a)(2).
+. Defendants Bankman-Fried and Ellison are directly liable for their actions in violation of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(2), 17 C.F.R. § 180.1(a)(2).
+. Defendant Bankman-Fried directly or indirectly controlled the FTX Trading Ltd. and Alameda Research LLC and did not act in good faith, or knowingly induced, directly or indirectly, the acts constituting the violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(2) committed by FTX Trading Ltd. and Alameda Research LLC. Therefore, pursuant to 7 U.S.C. § 13c(b), Defendant Bankman-Fried is also liable as control person for each of FTX Trading Ltd. and Alameda Research LLC’s violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(2), 17 C.F.R. § 180.1(a)(2). 
+. Defendant Ellison directly or indirectly controlled Alameda when serving as CEO or co-CEO from October 2021 to November 11, 2022 and did not act in good faith, or knowingly induced, directly or indirectly, the acts constituting the violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(2) committed by Alameda Research LLC. Therefore, pursuant to 7 U.S.C. § 13c(b), Defendant Ellison is also liable as control person for each of Alameda Research LLC’s violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(2), 17 C.F.R. § 180.1(a)(2) for the time period of October 2021 to November 11, 2022.
+. The acts and omissions of Bankman-Fried, Ellison, and other officers, employees, or agents acting for FTX and/or Alameda described in this Amended Complaint were done within the scope of their office, employment, or agency with FTX Trading Ltd. and/or Alameda Research LLC. Therefore, pursuant to 7 U.S.C. § 2(a)(1)(B) and 17 C.F.R. § 1.2, FTX Trading Ltd. and/or Alameda Research LLC are liable as principals for each act, omission, or failure of the other officers, employees, or agents acting for FTX and/or Alameda constituting violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a)(1), (3).
+. Each and every untrue or misleading statement of fact, omission of material fact necessary to make statements not untrue or misleading is alleged as a separate and distinct violation of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a)(2), 17 C.F.R. § 180.1(a)(2).
+
+[upperroman, start=7]
+. [underline]#*RELIEF REQUESTED*# +
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by Section 6c of the Act, 7 U.S.C. § 13a-l, and pursuant to the Court’s own equitable powers, enter:
+[upperalpha]
+.. An order finding that Defendants Samuel Bankman-Fried, FTX Trading Ltd., Alameda Research LLC, Caroline Ellison and Zixiao “Gary” Wang (collectively, “Defendants”), collectively and through their officers, employees and agents, violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2021).
+.. An order of permanent injunction prohibiting Defendants and any other person or entity associated with them, from engaging in conduct described above, in violation of Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2021).
+.. An order of permanent injunction prohibiting Defendants and any of their affiliates, agents, servants, employees, successors, assigns, attorneys and persons in active concert or participation with Defendants, from directly or indirectly:
+[lowerroman]
+... trading on or subject to the rules of any registered entity (as that term is defined in Section la of the Act, 7 U.S.C. § la(40));
+... entering into any transactions involving “commodity interests” (as that term is defined in Commission Regulation 1.3, 17 C.F.R. § 1.3 (2021)), or digital asset commodities, as that term is described herein, for Defendants’ own accounts or for any account in which they have a direct or indirect interest;
+... having any commodity interests or digital asset commodities, as that term is described herein, traded on Defendants’ behalf;
+... controlling or directing the trading for or on behalf of any other person or entity, whether by power of attorney or otherwise, in any account involving commodity interests or digital asset commodities, as that term is described herein;
+... soliciting, receiving, or accepting any funds and/or assets from any person for the purpose of purchasing or selling any commodity interests or digital asset commodities, as that term is described herein;
+... applying for registration or claiming exemption from registration with the Commission in any capacity, and engaging in any activity requiring such registration or exemption from registration with the Commission, except as provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2021);
+... acting as a principal (as that term is defined in Commission Regulation 3.1(a), 17 C.F.R. § 3.1(a) (2021)), agent or any other officer or employee of any person registered, exempted from registration or required to be registered with the Commission except as provided for in Regulation 4.14(a)(9);
+.. An order directing Defendants and any third-party transferee and/or successors thereof, to disgorge to any officer appointed or directed by the Court all benefits received including, but not limited to, trading profits, revenues, salaries, commissions, loans, or fees derived, directly or indirectly, from acts or practices which constitute violations of the Act as described herein, including pre-judgment and post-judgment interest;
+.. An order directing Defendants and any successors thereof, to rescind, pursuant to such procedures as the Court may order, all contracts and agreements, whether implied or express, entered into between, with, or among Defendants and any customer or investor whose funds and/or assets were received by Defendants as a result of the acts and practices that constituted violations of the Act, as described herein;
+.. An order requiring Defendants to make full restitution by making whole each and every customer or investor whose funds and/or assets were received or utilized by them in violation of the provisions of the Act as described herein, including pre-judgment interest;
+.. An order directing Defendants to pay civil monetary penalties, to be assessed by the Court, in an amount not more than the penalty prescribed by Section 6c(d)(1) of the Act, 7 U.S.C. § 13a-1(d)(1), as adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114–74, 129 Stat. 584, Title VII, Section 701, see Commission Regulation 143.8, 17 C.F.R. § 143.8 (2021), for each violation of the Act, as described herein;
+.. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C. §§ 1920 and 2412(a)(2); and
+.. Such other and further relief as the Court deems proper.
+
+[upperroman, start=8]
+. [underline]#*DEMAND FOR JURY TRIAL*#
+
+Plaintiff CFTC hereby demands a jury trial.
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+| &nbsp; +
+Dated: December 21, 2022
+|Commodity Futures Trading Commission +
+ &nbsp; +
+By its attorneys: +
+ &nbsp; +
+ 
+[underline]#/s/ Nina Ruvinsky# +
+&nbsp; +
+Nina Ruvinsky (Pro Hac Vice) +
+Senior Trial Attorney +
+nruvinsky@cftc.gov +
+ &nbsp; +
+Carlin Metzger (Pro Hac Vice) +
+Senior Trial Attorney +
+cmetzger@cftc.gov +
+ &nbsp; +
+Elizabeth N. Pendleton (Pro Hac Vice) +
+Chief Trial Attorney +
+ependleton@cftc.gov +
+&nbsp; +
+Robert T. Howell (Pro Hac Vice Forthcoming) +
+Deputy Director +
+rhowell@cftc.gov +
+&nbsp; +
+Commodity Futures Trading Commission +
+Ralph Metcalfe Federal Office Building +
+77 W. Jackson, Suite 800 +
+Chicago, Illinois 60604 +
+(312) 596-0700 +
+(312) 596-0714 (fax) +
+&nbsp; +
+John C. Murphy (Local Counsel) +
+Trial Attorney +
+jmurphy@cftc.gov+
+290 Broadway, 6th Floor+
+New York, NY 10007 +
+646-746-9700 +
+646-746-9888 (fax) +
+Attorneys for Plaintiff +
+Commodity Futures Trading Commission 
+|===
+
+____
+
+
+=== Discussion Questions ===
+. Placeholder question?
