@@ -923,3 +923,725 @@ ____
 === Discussion Questions ===
 
 . Placeholder 1?
+
+== CoinDeal Charged with Fraud ==
+
+[quote, SEC v. Chandran et al. (Case No. 2:23-cv-10017), https://www.sec.gov/litigation/complaints/2023/comp-pr2023-2.pdf ]
+____
+
+[.text-center]
+*UNITED STATES DISTRICT COURT +
+EASTERN DISTRICT OF MICHIGAN*
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|&nbsp; +
+UNITED STATES SECURITIES +
+AND EXCHANGE COMMISSION, +
+&nbsp; +
+Plaintiff, +
+&nbsp; +
+v. +
+&nbsp; +
+NEIL S. CHANDRAN, +
+GARRY J. DAVIDSON, +
+MICHAEL T. GLASPIE, +
+LINDA C. KNOTT, +
+AMY S. MOSSEL, +
+AEO PUBLISHING INC., +
+BANNER CO-OP, INC., and +
+BANNERSGO, LLC, +
+&nbsp; +
+Defendants.
+|&nbsp; +
+&nbsp; +
+Case No. 2:23-cv-10017 +
+&nbsp; +
+Hon. +
+&nbsp; +
+JURY TRIAL DEMANDED
+|===
+
+[.text-center]
+[underline]#*COMPLAINT*#
+
+Plaintiff, the United States Securities and Exchange Commission (“SEC”), alleges as follows:
+
+[.text-center]
+[underline]#*SUMMARY OF ACTION*#
+
+. This case concerns a brazen and far-reaching unregistered offering fraud conducted between at least 2018 and 2022 by Defendants Neil Chandran, Garry Davidson, Michael Glaspie, Linda Knott, Amy Mossel, Banner Co-Op, Inc. (“Banner Co-Op”), BannersGo, LLC (“BannersGo”), and AEO Publishing Inc. (“AEO Publishing”). 
+. Chandran, a recidivist securities law violator and convicted felon, claimed to own a unique blockchain technology that was on the verge of being sold for trillions of dollars to a group of reputable billionaire buyers (“CoinDeal”). Chandran further claimed his business required interim financial support until the sale transaction closed. Together with and through other named Defendants, Chandran targeted mostly unsophisticated investors with false and misleading promises and representations that investments in CoinDeal would soon yield extremely high returns from the imminent sale of his business. Ultimately, there was no sale, and no distribution of proceeds, because CoinDeal was a sham.
+. Given his criminal record, Chandran incentivized others such as Davidson (an investor in a prior Chandran scheme) and Glaspie (recruited by Davidson) to help raise funds for CoinDeal by soliciting public investment.
+. Glaspie, an online promoter, raised large sums for CoinDeal from tens of thousands of investors in multiple states and countries. As part of his promotional campaign, Glaspie knowingly or recklessly disseminated false information about CoinDeal that he received from Chandran via Davidson, including information concerning the supposed value and timeline of the sale transaction, as well as the purported involvement of prominent business people, financial institutions and governmental departments or agencies. Glaspie regularly communicated such false information to investors through near-daily written updates and weekly teleconferences, in which Davidson occasionally participated. 
+. Glaspie made additional misrepresentations and engaged in other fraudulent conduct, including by: creating and publicizing astronomical payout scales that ranged from multi-million dollar returns for investments of $1,000 or less, to returns in excess of $50 billion for investments of $100,000; offering referral bonuses to entice investors to recruit others to participate in CoinDeal; and personally guaranteeing to refund investors with 7% interest should CoinDeal not come to fruition.
+. Knott, who invested in CoinDeal through Glaspie and engaged in her own promotional activity, similarly fabricated payout scales with conspicuous rates of return and knowingly or recklessly disseminated false information about CoinDeal when soliciting prospective investors.
+. Chandran, Davidson, Glaspie (with substantial assistance from his wife, Mossel, and her business entity, AEO Publishing) and Knott raised over $45 million through the fraudulent CoinDeal offering. Investor funds typically flowed into financial accounts held by Glaspie’s entities, Banner Co-Op and BannersGo, were then transferred to accounts controlled by Davidson, and ultimately routed to accounts controlled by Chandran. Knott pooled investor funds she raised, which totaled at least $749,000, before periodically transferring amounts to Glaspie. Neither Knott, Glaspie nor Davidson transferred all CoinDeal investor funds upstream – rather, each diverted investor funds for personal use along the way.
+. Collectively, Chandran, Davidson, Glaspie, and Knott misappropriated tens of millions of dollars of investor funds for personal use and diverted funds to individuals and entities unrelated to CoinDeal, including Mossel and AEO Publishing.
+. As a result of their conduct, Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo intentionally, knowingly, or recklessly committed securities fraud and offered and sold unregistered securities. Mossel and AEO Publishing aided and abetted Glaspie’s violations.
+. Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated Sections 5(a), 5(c), and 17(a) of the Securities Act of 1933 (the “Securities Act”) [15 U.S.C. §§ 77e(a), 77e(c), and 77q(a)] and Section 10(b) of the Securities Exchange Act of 1934 (the “Exchange Act”) [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].
+. Pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77o(b)] and Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)], Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo aided and abetted Chandran’s violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+. Pursuant to Section 15(b) of the Securities Act and Section 20(e) of the Exchange Act, AEO Publishing and Mossel aided and abetted Glaspie’s violations of Sections 5(a), 5(c), and 17(a) of the Securities Act and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+. The SEC brings this lawsuit to prevent further harm to investors and to seek disgorgement, civil penalties, officer and director bars, permanent injunctions, and conduct-based injunctions stemming from the Defendants’ wrongdoing.
+. Unless the Defendants are permanently restrained and enjoined, they will continue to engage in the acts, practices, and courses of business set forth in this Complaint and in acts, practices, and courses of business of similar type and object.
+
+[.text-center]
+[underline]#*JURISDICTION AND VENUE*#
+[start=15]
+. The Court has jurisdiction over this action pursuant to Sections 20(b) and 22(a) of the Securities Act [15 U.S.C. §§ 77t(b) and 77v(a)], and Sections 21(d) and 27(a) of the Exchange Act [15 U.S.C. §§78u(d) and 78aa(a)].
+. Venue is proper in this judicial district pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)] and Section 27(a) of the Exchange Act [15 U.S.C. § 78aa(a)], because many of the acts, transactions and courses of business constituting the violations alleged in this Complaint occurred within the jurisdiction of this district. 
+. In connection with the conduct alleged in this Complaint, the Defendants, directly and indirectly, have made use of the mails and/or means or instrumentalities of transportation or communication in interstate commerce.
+
+[.text-center]
+[underline]#*DEFENDANTS*#
+[start=18]
+. Neil S. Chandran, age 51, is currently imprisoned in Nebraska while awaiting trial. Chandran resided in California and Nevada during the relevant time period. Chandran managed at least four entities under the umbrella name Virse: ViMarket, Inc., ViDelivery, Inc., Studio Vi, Inc., and Free Vi Lab (collectively, the “Chandran Entities”). In 2006, California’s Department of Corporations ordered Chandran to desist and refrain from offering or selling securities in California. In 2015, the Alberta Securities Commission sanctioned Chandran and his company for engaging in unregistered trading and illegal securities offerings and fined him $460,000 CAD. In 2016, the Ontario Securities Commission entered a reciprocal order against Chandran, banning him from trading in securities and soliciting investors to trade in securities. In 2018, Chandran pled guilty to grand larceny and securities fraud in the state of New York and was ordered to pay $2,868,000. In June 2022, the Department of Justice (“DOJ”) indicted Chandran for wire fraud and money laundering in connection with the CoinDeal scheme and obtained a court-ordered freeze of his assets. Chandran does not hold any securities licenses and has never registered with the SEC. 
+. Garry J. Davidson, age 68, resides in Henderson, Nevada. Davidson previously invested in another of Chandran’s purported business ventures and facilitated investments and payments in connection with CoinDeal and the Chandran Entities. In June 2022, the Alabama Securities Commission (“ASC”) ordered Davidson to cease and desist from offering or selling securities in Alabama due to his involvement with CoinDeal. Davidson does not hold any securities licenses and has never registered with the SEC.
+. Michael T. Glaspie, age 71, resides in Palm City, Florida. Glaspie controls BannersGo, LLC and Banner Co-Op, Inc. (collectively, the “Glaspie Entities”). In January 2020, Michigan’s Department of Licensing and Regulatory Affairs (“LARA”) ordered Glaspie to cease and desist from offering or selling unregistered securities in Michigan due to his involvement with CoinDeal. In June 2020, Glaspie agreed to cease and desist and pay a $15,000 fine; however, in October 2021, the Michigan Department of Attorney General obtained an injunction against Glaspie due to his ongoing violations of the June 2020 cease-and-desist order. More recently, in June 2022, the ASC ordered Glaspie to cease and desist from offering or selling securities in Alabama due to his involvement with CoinDeal. Glaspie does not hold any securities licenses and has never registered with the SEC. 
+. Linda C. Knott, age 57, resides in Oklahoma City, Oklahoma. Knott acted as a downstream promoter for CoinDeal and raised investor funds through her d/b/a entity, Together We Profit. In April 2022, LARA ordered Knott to cease and desist from offering or selling unregistered securities in Michigan due to her involvement with CoinDeal. In August 2022, Knott agreed to cease and desist and pay a $10,000 fine. Knott does not hold any securities licenses and has never registered with the SEC.
+. Amy Mossel, age 55, resides in Palm City, Florida. Mossel is married to Glaspie. Mossel controls AEO Publishing Inc. Mossel assisted Glaspie in disseminating information to the public regarding CoinDeal and collecting investor funds. Mossel does not hold any securities licenses and has never registered with the SEC.
+. AEO Publishing is a Delaware corporation formed in March 2000 with its principal place of business in Palm City, Florida. Mossel is the sole officer and director of AEO Publishing, an online publishing company. Mossel used AEO Publishing to collect investor funds. AEO Publishing has never registered with the SEC.
+. Banner Co-Op is a Delaware corporation formed in August 1998 with its principal place of business in Highland, Michigan. Glaspie is the president of Banner Co-Op, an internet services company. In January 2020, LARA ordered Banner Co-Op to cease and desist from offering or selling unregistered securities in Michigan due to its involvement with CoinDeal. In June 2020, Banner Co-Op agreed to cease and desist and pay a $15,000 fine; however, in October 2021, the Michigan Department of Attorney General obtained an injunction against Banner Co-Op due to its ongoing violations of the June 2020 cease and desist order. More recently, in June 2022, the ASC ordered Banner Co-Op to cease and desist from offering or selling securities in Alabama due to its involvement with CoinDeal. Banner Co-Op has never registered with the SEC.
+. BannersGo is a Michigan limited liability company formed in December 2019 with its principal place of business in Highland, Michigan. Glaspie organized BannersGo as an internet services company. BannersGo has never registered with the SEC.
+
+[.text-center]
+[underline]#*FACTS*#
+[.text-center]
+[underline]#*Chandran Created the “CoinDeal” Scheme*#
+[start=26]
+. From at least 2018, Chandran repeatedly touted an investment opportunity that supposedly revolved around valuable blockchain technology he was far along in the process of selling to a group of wealthy buyers at a trillion-dollar valuation. Chandran sought short-term funding for business operating expenses during the completion of the purported sale process and promised investors substantial returns once the sale closed. This investment opportunity later became widely known to investors as “CoinDeal.” 
+. In reality, CoinDeal was merely the most recent iteration of Chandran’s prior fraudulent schemes. No such buyer group existed, there was no impending sale, and Chandran was incapable of producing the astronomical returns he promised.
+. Given the public record of his legal troubles, Chandran sought to utilize others to solicit investors on his behalf. Chandran turned to Davidson, an investor in one of his prior schemes who remained in contact with Chandran in hopes of recouping his prior investment. Davidson agreed to find others to invest, financially motivated by Chandran’s offer to pay him increased returns based on the amount he could raise.
+
+[underline]#*Davidson Recruited Glaspie and Served as a Go-Between for Chandran*#
+[start=29]
+. Davidson sought avenues for fundraising and identified Glaspie through an internet search. In or around mid-2018, Davidson contacted Glaspie, based on Glaspie’s substantial online presence and reputed success with internet multi-level marketing programs.
+. Davidson presented the CoinDeal opportunity to Glaspie. Davidson described it as debt financing for a company involved with cryptocurrency and artificial intelligence that was pending sale. Davidson made Glaspie aware of Chandran’s involvement and offered Glaspie substantial returns.
+. Davidson and Glaspie had never met or spoken prior to this initial contact by Davidson. Nonetheless, Glaspie decided to invest and solicit others to invest in CoinDeal without conducting any independent research or other due diligence on Chandran, Davidson, or CoinDeal.
+. Specifically, Davidson and Glaspie agreed to solicit investments in CoinDeal from Glaspie’s expansive network of internet marketing contacts and to transfer monies raised from investors to Chandran and/or the Chandran Entities.
+. From 2018 to 2022, Davidson relayed information that he received from Chandran about CoinDeal to Glaspie to facilitate Glaspie’s solicitation efforts.
+. Chandran regularly used encrypted email, text messages, and phone calls to share with Davidson false and misleading information concerning CoinDeal. Chandran typically provided status updates on the supposed deal, including but not limited to: the involvement of foreign central banks and the United States Department of Homeland Security; the latest board meetings of the consortium of wealthy buyers; the role of certain political figures; and the causes of “temporary” delays to the sale closing. These updates were designed to lull investors and induce them to continue investing in CoinDeal. 
+. To distribute information received from Chandran via encrypted message, Davidson typically would copy and paste the latest supposed update regarding CoinDeal to an unencrypted email message to Glaspie.
+. Glaspie would then include the information received from Davidson in written and/or oral communications with investors and potential investors, such as “CoinDeal Updates” that were made available online and via email, and discussed during teleconferences.
+. For example, Chandran (cryptovirutal@hushmail.com) sent an encrypted email to Davidson (kgd526@gmail.com) on February 28, 2019, with the subject line: “Elite Sponsors : Statement Registration Requires Sign Off in SF ; Traveling to Obtain for Close of Business PST.”
+
+image::media/ch03-coindeal-01.png[75%,75%]
+
+[start=38]
+. On the same day, February 28, 2019, Davidson sent Glaspie an unencrypted email regarding an “update” with the information he had copied from Chandran’s email. As shown below, the email included information regarding the same subject of Chandran’s previous email, including travel to San Francisco for “statement registration”:
+
+image::media/ch03-coindeal-02.png[75%,75%]
+
+[start=39]
+. The very next day, in a March 1, 2019 “CoinDeal Update” communication, Glaspie shared with investors the same information he had received from Davidson the day before concerning “statement registration” in San Francisco:
+
+image::media/ch03-coindeal-03.png[75%,75%]
+
+[start=40]
+. The above-described pattern of communication between Chandran and Davidson, followed by communication between Davidson and Glaspie, followed by a CoinDeal investor update from Glapsie to investors, occurred regularly in the course of the CoinDeal offering.
+
+[underline]#*Chandran, Davidson, and Glaspie Offered CoinDeal to Investors Through Glaspie’s Network*#
+[start=41]
+. In or around January 2019, Glaspie began promoting the CoinDeal opportunity during weekly teleconferences that included over 100,000 invitees from his network of contacts. Glaspie explained that an unnamed Canadian resident had a very valuable (but anonymous) artificial intelligence and cryptocurrency company that was preparing for an imminent sale to a group of billionaire buyers. Glaspie further explained that the Canadian resident was unable to obtain conventional financing due to prior legal issues. Glaspie did not reveal that this unnamed individual was Chandran, and he also failed to disclose that this individual had a criminal history in the United States.
+. Davidson participated in certain of these weekly teleconferences alongside Glaspie. Glaspie explained to investors that Davidson brought the opportunity to Glaspie and described him as a representative of CoinDeal. For example, during teleconferences held on March 7, 2020, and August 5, 2020, Glaspie referred to Davidson as a CoinDeal trustee.
+. In or around January 2019, Glaspie also began making online posts and disseminating emails to solicit CoinDeal investments. The online posts and emails included materially false and misleading updates on CoinDeal based on information Glaspie received from Chandran via Davidson and a payout scale that promised investors outsized returns based on a given investment amount.
+. To attract prospective investors, Glaspie created his own payout scale using Chandran’s astronomical valuations of CoinDeal. Glaspie utilized a tiered payout scale by offering a higher return for larger investment amounts. As set forth below, Glaspie offered increasingly extravagant returns that grew from 10 times the investment amount in his updates from early 2019 to 500,000 times the investment amount in updates from late 2021.
+
+
+[underline]#*To Lure Investors, CoinDeal’s Premise Was Little Ventured, Much Gained*#
+[start=45]
+. In promoting CoinDeal, Glaspie anticipated that large numbers of investors would jump at the opportunity to obtain a life-changing financial reward, particularly if it did not require much outlay of capital. Thus, despite having no legitimate basis for doing so, Glaspie published online dozens of different high rates of return that continued to grow over time to encourage investment in CoinDeal, even when the supposedly imminent transaction had yet to occur. Based on these promised payouts, investors were misled to expect millions and potentially billions in return for a comparatively small, short-term investment.
+
+. For example, on June 12, 2019, Glaspie published online a promise to pay returns of 20-to-1 (2000%) on investments in CoinDeal:
+
+image::media/ch03-coindeal-04.png[75%,75%]
+
+[start=47]
+. On August 28, 2020, Glaspie published online CoinDeal payout terms ranging from $750,000 for a mere $250 investment to as high as $1 billion for a $100,000 investment:
+
+image::media/ch03-coindeal-05.png[75%,75%]
+
+[start=48]
+. On September 9, 2020 (less than two weeks later), Glaspie published online increased CoinDeal payout terms and offered even higher payouts for higher investment amounts, including over $2 billion for a $100,000 investment:
+
+image::media/ch03-coindeal-06.png[75%,75%]
+
+[start=49]
+. The following month, on October 19, 2020, Glaspie again published online increased CoinDeal payout terms, ranging from at least $1.5 million for a mere $250 investment to over $4 billion for a $100,000 investment:
+
+image::media/ch03-coindeal-07.png[75%,75%]
+
+[start=50]
+. On June 25, 2021, Glaspie published online CoinDeal payout terms that were far more extravagant, ranging from at least $12.5 million for a $500 investment to as high as $56.25 billion, plus a high-end luxury automobile, for a $100,000 investment: 
+
+image::media/ch03-coindeal-08.png[75%,75%]
+
+[start=51]
+. By promising ever-escalating high rates of return, based on false valuation information from Chandran (via Davidson), Glaspie was able to create and maintain investor interest in CoinDeal, even when the supposed deal failed to close on the short-term time horizons advertised to investors.
+
+
+[underline]#*Chandran, Davidson, and Glaspie Repeatedly Fabricated Excuses for Why CoinDeal’s Closing Was Delayed*#
+[start=52]
+. During the CoinDeal offering, Chandran, Davidson, and Glaspie repeatedly represented that CoinDeal was on the cusp of closing, purposefully misleading current and prospective investors to believe they could receive a large payout in a matter of days or weeks, not months or years.
+. For example, on March 21, 2019, Glaspie stated in his online update that he expected CoinDeal to close later that day.
+. On May 8, 2019, Glaspie stated in his online update that he expected CoinDeal to close the following day.
+. On October 2, 2019, Glaspie stated in his online update that CoinDeal was expected to close that night.
+. On April 11, 2020, Glaspie stated in his online update that CoinDeal would be closing within three days.
+. On January 11, 2021, Glaspie stated in his online update that CoinDeal would be closing by January 13, 2021.
+. Without disclosing his full name, Chandran participated in at least one teleconference hosted by Glaspie on October 24, 2020, and told investors that CoinDeal’s closing was only a week or two away.
+. CoinDeal, however, never existed and thus, by design, the deal never closed. Glaspie, based on information from Chandran (via Davidson), provided a continuous string of excuses for why closing did not occur. For example, on February 22, 2019, Glaspie falsely claimed in an online post that CoinDeal’s closing had been delayed due to a vendor company declaring bankruptcy:
+
+image::media/ch03-coindeal-09.png[75%,75%]
+
+[start=60]
+. On April 16, 2019, Glaspie falsely claimed in an online post that closing of CoinDeal had been delayed because a South Korean bank involved in the deal required in-person signatures in Hawaii:
+
+image::media/ch03-coindeal-10.png[75%,75%]
+
+[start=61]
+. On May 7, 2019, Glaspie falsely claimed in an online post that CoinDeal’s closing was delayed because an engineer familiar with the company systems was sick:
+
+image::media/ch03-coindeal-11.png[75%,75%]
+
+[start=62]
+. On July 24, 2019, Glaspie falsely claimed in an online post that closing was somehow delayed due to an issue involving the number of smart phones being supplied by a vendor:
+
+image::media/ch03-coindeal-12.png[75%,75%]
+
+[start=63]
+. During the CoinDeal offering, Glaspie provided other, similarly false and misleading explanations, based on information from Chandran (via Davidson), for why the closing of CoinDeal was delayed but remained imminent, in order to lull investors and induce them to continue investing in CoinDeal.
+
+[underline]#*Chandran, Davidson, and Glaspie Provided Investors With Additional False Information Regarding CoinDeal*#
+[start=64]
+. Throughout the relevant time period, prospective investors were constantly flooded with opportunities to invest in CoinDeal. Glaspie continued hosting weekly teleconferences and disseminating written updates on a near-daily basis (and occasionally multiple times in one day) to promote CoinDeal and solicit funds until 2022.
+. In addition to false statements about the expected profitability of the CoinDeal transaction, related false promises of outsized investment returns, and myriad false excuses for why CoinDeal had not yet closed, Glaspie and Davidson directly made various other material misrepresentations to investors and prospective investors.
+. For example, based on information from Chandran, Davidson falsely stated, during a teleconference on March 6, 2021, that Billionaire 1 and Billionaire 2 were each under consideration as the potential CEO for the CoinDeal business enterprise. Billionaire 1 is the founder and executive chairman of a large online retailing company. Billionaire 2 is the CEO of an electric car company. During the same teleconference, Davidson falsely stated that CoinDeal had a market capitalization of $50 trillion.
+. Based on information from Chandran (via Davidson), Glaspie similarly falsely stated in his June 7, 2021 online update that Billionaire 1 was a member of the billionaire buyers’ group that planned to purchase one or more Chandran Entities:
+
+image::media/ch03-coindeal-13.png[75%,75%]
+
+[start=68]
+. Based on information from Chandran (via Davidson), Glaspie falsely stated during a February 20, 2021 teleconference that Billionaire 2 was also a member of the buyers’ group that planned to purchase one or more Chandran Entities.
+. Glaspie also falsely claimed that he was under a strict non-disclosure agreement, which prevented him from disclosing the name of the seller, the names of the buyers, and the name of the company. In reality, this was merely another ruse to avoid scrutiny, as no such non-disclosure agreement existed.
+. Glaspie went so far as to falsely deny Chandran’s involvement. When investors asked Glaspie whether Chandran was the seller behind CoinDeal, Glaspie denied Chandran’s role in the scheme.
+. For example, on or about August 19, 2021, a prospective CoinDeal investor shared a link containing information about Chandran’s 2018 criminal charges and asked Glaspie to “confirm that Neil Chandran is NOT the seller of this transaction.” In response, Glaspie denied that Chandran was involved, admonished the individual for “spreading rumors,” and further stated: “Please make this the last email on this topic [as] I just don[’]t have time for this disrupting email.”
+. By way of further example, on or about September 3, 2021, Glaspie again denied Chandran’s involvement in CoinDeal to a prospective investor. On this occasion, the concerned individual told Glaspie: “I have been doing some digging around the internet. Some people say that ‘Neil’ the owner, is actually convicted fraudster Neil Chandran. Please tell me that’s not true.” The individual further described finding “red flags” when searching Chandran’s name on the internet. In response, Glaspie stated: “[W]here these rumors start is a mystery to me. The owner is NOT the man u think he is.”
+. Glaspie also lured investors through false guarantees to investors that he would repay all amounts invested in CoinDeal with 7% interest within three years if the CoinDeal sale transaction did not occur. In reality, Glaspie did not have the financial resources to make any such guarantee. 
+. For instance, on November 16, 2020, Glaspie published online in a written update his guarantee to pay 7% interest on all amounts invested in CoinDeal.
+
+image::media/ch03-coindeal-14.png[75%,75%]
+
+[start=75]
+. To entice further investment, Glaspie offered referral bonuses for investors who raised additional funds.
+. For example, Glaspie published online a 25% referral bonus offer in his October 19, 2020 update:
+
+image::media/ch03-coindeal-15.png[75%,75%]
+
+[start=77]
+. Similarly, on November 16, 2020, Glaspie published online in a written update his offer of a 25% referral bonus for bringing new investors to CoinDeal:
+
+image::media/ch03-coindeal-16.png[75%,75%]
+
+[underline]#*CoinDeal Investor Funds Flowed Through the Glaspie Entities to Davidson, Chandran, and the Chandran Entities*#
+[start=78]
+. At Glaspie’s direction, investors participated in the CoinDeal offering through the Glaspie Entities.
+. Glaspie instructed investors to send payments for CoinDeal investments to bank accounts in the name of his entities, Banner Co-Op and BannersGo, which he promised to investors he would pass along to Davidson for CoinDeal.
+. The Glaspie Entities received CoinDeal investor funds at certain bank institutions, some of which were located in Michigan. Investors’ funds were commingled and transferred to other accounts controlled by Glaspie and his wife, Mossel, including accounts in the name of Mossel’s company, AEO Publishing.
+. At Davidson’s instruction, Glaspie and/or Mossel caused the transfer of investor funds, held in accounts in the name of the Glaspie Entities and AEO Publishing, to specified bank accounts controlled by Davidson.
+. At Chandran’s direction, Davidson transferred the funds upstream to Chandran, the Chandran Entities, and Chandran’s associates.
+. Certain funds were also transferred directly from the Glaspie Entities to Chandran and the Chandran Entities following the closure of certain of Davidson’s bank accounts.
+. From 2019 to 2022, Glaspie, through the Glaspie Entities, raised over $45 million, as well additional amounts via crypto assets, from thousands of CoinDeal investors from multiple states and countries.
+
+[underline]#*Defendants Misappropriated Investor Funds*#
+[start=85]
+. Defendants failed to disclose to investors that funds invested in CoinDeal would be used for purposes unrelated to CoinDeal.
+. Chandran received at least $37 million in investor funds for CoinDeal. Chandran and the Chandran Entities misappropriated investors’ funds to purchase, among other items, a fleet of luxury vehicles, various real estate properties in California and Nevada, and a boat.
+. The Glaspie Entities were controlled by Glaspie, and, unbeknownst to investors, he determined how investor funds would be used upon receipt, including for his own personal use. Glaspie, through the Glaspie Entities, misappropriated approximately $5.9 million or more by transferring investor funds to other accounts that he and Mossel controlled that were unrelated to CoinDeal and by directly paying his and Mossel’s personal expenses. Glaspie used investors’ funds to contribute over $100,000 to an insurance policy for his son and to contribute $800,000 to an annuity policy in Mossel’s name. Glaspie also used investor funds to cover operating expenses for the Glaspie Entities and transferred millions to his associates to pay salaries and for other business ventures.
+. Davidson misappropriated at least $3 million of investors’ funds. Among other misuse of investor funds, Davidson purchased a $150,000 mobile home and used investor funds for personal living expenses.
+
+[underline]#*Mossel and AEO Publishing Substantially Assisted the CoinDeal Scheme*#
+[start=89]
+. Mossel was aware of Glaspie’s efforts to raise funds for CoinDeal and substantially assisted him in furthering the scheme.
+. Glaspie typically dictated his investor updates regarding CoinDeal to Mossel who would then post the updates online and circulate them via email. Mossel knew, recklessly disregarded, should have known, or consciously avoided knowing that the information and promises contained in Glaspie’s online updates were false and misleading.
+. Mossel served as a bookkeeper for the Glaspie Entities. Mossel issued invoices to CoinDeal investors on behalf of the Glaspie Entities and collected and commingled investor funds in bank accounts held in the name of Banner Co-Op, BannersGo, and her own company, AEO Publishing.
+. In her role as bookkeeper, Mossel regularly communicated with investors regarding the amount of their investments and potential payouts.
+. Mossel also transferred investor funds to Davidson and the Chandran Entities.
+. Glaspie and Mossel diverted at least $1 million of investors’ funds to Mossel and AEO Publishing.
+
+[underline]#*Knott Also Engaged in the CoinDeal Offering Fraud Through Her Own Promotional Activities*#
+[start=89]
+. Glaspie’s widespread marketing of CoinDeal and his offer of referral bonuses attracted promoters who established their own investor groups. These promoters would pool investor funds to reach higher levels on Glaspie’s tiered payout scale and obtain larger referral bonuses. One such promoter was Linda Knott.
+. In February 2021, Knott learned of CoinDeal through one of Glaspie’s teleconferences and decided to invest $1,000. Knott did not know of Glaspie before listening to the teleconference, and Knott did not conduct any independent research on Glaspie or CoinDeal before investing.
+. After learning of the aforementioned payout scale and referral bonuses promised by Glaspie, Knott started collecting funds for CoinDeal through an investor group called Together We Profit.
+. Together We Profit was a loose arrangement of individuals interested in participating in CoinDeal. Knott instructed members to send funds to accounts controlled by Knott, which she represented would be transferred to Glaspie for investing in CoinDeal. During the relevant time period, Together We Profit grew to approximately 10,000 members from multiple states and countries.
+. Similar to Glaspie, Knott disseminated email updates and hosted teleconferences concerning CoinDeal.
+. In written updates and during teleconferences with current and potential investors, Knott repeated misrepresentations made in Glaspie’s written CoinDeal updates and teleconferences, including misrepresentations regarding the involvement of prominent billionaire buyers.
+. Knott also repeated Glaspie’s baseless guarantee that CoinDeal investors would receive a full refund with 7% interest if the sale did not occur.
+. Knott facilitated investment by lowering the barrier to entry for CoinDeal by allowing prospective investors to participate for as little as $27, which was lower than the amounts permitted by Glaspie.
+. Knott created and disseminated her own payout scale to attract investors, including in emails and online posts in October and November 2021. Knott’s advertised payout scale grew over time from payouts of $500,000 for each $27 investment, to payouts of $14 million for each $27 investment.
+. During 2021, Knott raised at least $749,000 in fiat currency and additional amounts in crypto currency from thousands of investors from multiple states, including Michigan, and multiple countries.
+. While Knott assured investors she would transmit all of their funds to CoinDeal, that was false. She enriched herself by misappropriating approximately $79,000 or more for personal use and purposes unrelated to CoinDeal.
+
+
+[underline]#*Defendants Continued the Fraudulent CoinDeal Offering Even After State Authorities Ordered Them to Cease and Desist*#
+[start=106]
+. In January 2020, LARA ordered Glaspie and Banner Co-Op to cease and desist from offering or selling unregistered securities in Michigan in connection with CoinDeal. In June 2020, Glaspie settled by agreeing to cease and desist and paying a $15,000 fine.
+. Nevertheless, Glaspie continued offering and selling securities to investors in Michigan for CoinDeal.
+. In October 2021, the Michigan Department of Attorney General obtained an injunction against Glaspie and Banner Co-Op for their failure to abide by the June 2020 consent order. The judgment prohibited Glaspie and Banner Co-Op from continuing to solicit funds from and offering investment opportunities to Michigan residents.
+. On June 1, 2022, the Alabama Securities Commission ordered Glaspie, Davidson, and Banner Co-Op to cease and desist from offering or selling securities in Alabama.
+. Despite these actions by state regulatory authorities, Glaspie and Davidson continued to accept investor funds.
+. In 2021, Knott became aware of LARA’s cease-and-desist order and received warnings from a Glaspie associate about the legal ramifications of accepting funds from Michigan investors. Nonetheless, Knott created a workaround.
+. In September 2021, Knott addressed prospective Michigan investors and informed them that she, in lieu of Glaspie, would accept their funds for a higher fee ($30) through a separate company she had created:
+
+image::media/ch03-coindeal-17.png[75%,75%]
+[start=113]
+. In April 2022, LARA ordered Knott d/b/a Together We Profit to cease and desist from offering or selling unregistered securities in Michigan. In August 2022, Knott stipulated to a cease-and-desist order and a $10,000 fine.
+
+[underline]#*The CoinDeal Scheme Collapses*#
+[start=114]
+. In June 2022, the CoinDeal scheme largely collapsed when the DOJ indicted Chandran for wire fraud and money laundering violations and froze his assets. USA v. Chandran, Case No. 22-cr-03077 (D. Neb. 2022). The indictment described a scheme to defraud carried out by Chandran, in which he caused others to solicit funds from investors based on the false and misleading portrayal that their investments would soon yield extremely high returns upon the purchase of one or more of his entities by a wealthy buyer group. 
+. Even after Chandran’s arrest, Glaspie continued to lull investors with confounding rationalizations about the purported legitimacy and ongoing viability of CoinDeal. For example, on June 30, 2022, Glaspie published online the following update:
+
+image::media/ch03-coindeal-18.png[75%,75%]
+image::media/ch03-coindeal-19.png[75%,75%]
+
+[start=116]
+. On July 15, 2022, Glaspie published online another false and misleading update:
+
+image::media/ch03-coindeal-20.png[75%,75%]
+
+[start=117]
+. The vast majority of CoinDeal investors have not received the return of their principal investment amounts, and no investors have received any promised profits on their investments.
+. Chandran, Glaspie, and Mossel declined to testify during the SEC’s investigation, invoking their Fifth Amendment right against self-incrimination.
+
+[underline]#*Unregistered Securities Offerings*#
+[start=119]
+. As set forth above, the Defendants offered and sold CoinDeal investments and raised over $45 million from investors in multiple states and countries.
+. The Defendants recruited potential investors through teleconferences, online posts, and email.
+. The Defendants made no efforts to assess potential investors’ sophistication or accreditation status, and unaccredited investors participated in the CoinDeal offering. Many investors had no preexisting relationship with the Defendants.
+. The Defendants represented to CoinDeal investors that they would pool the money raised from investors and use it to cover operating or per diem expenses for CoinDeal.
+. CoinDeal investors did not exercise any control or authority over the operations of CoinDeal. Chandran exercised ultimate control and authority over CoinDeal, and investors relied on his purported managerial skills, along with the efforts of Davidson, Glaspie, and Knott, to provide a return on their investment. 
+. The Defendants used interstate commerce when they offered and sold CoinDeal investments in multiple states and countries by, among other things, corresponding with potential investors via email and teleconferences and receiving investor funds via interstate wire transfers.
+. The CoinDeal investments offered and sold by the Defendants were securities.
+. No registration statement was ever filed with the SEC or has ever been in effect with respect to any offers and sales of CoinDeal investments.
+
+[.text-center]
+*COUNT I +
+Violations of Section 17(a) of the Securities Act +
+[15 U.S.C. § 77q(a)] +
+[underline]#(Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=127]
+. Paragraphs 1 through 126 are realleged and incorporated by reference as though fully set forth herein.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, in the offer and sale of securities, by the use of the means and instruments of transportation or communication in interstate commerce or by use of the mails, directly or indirectly, (i) employed devices, schemes and artifices to defraud; (ii) obtained money and property by means of untrue statements of material facts and omissions to state material facts necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and (iii) engaged in transactions, practices, and courses of business which operated or would operate as a fraud or deceit upon the purchasers of such securities. 129. Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo acted intentionally, knowingly, recklessly, or negligently, in engaging in the conduct described above.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)].
+
+[.text-center]
+*COUNT II +
+Violations of Section 10(b) of the Exchange Act +
+and Exchange Act Rule 10b-5 +
+[15 U.S.C. § 78j(b) and 17 C.F.R. 240.10b-5] +
+[underline]#(Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=131]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, in connection with the purchase and sale of securities, by the use of the means and instrumentalities of interstate commerce and by the use of the mails, directly and indirectly, (i) employed devices, schemes and artifices to defraud; (ii) made untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices and courses of business which operated or would have operated as a fraud and deceit upon purchasers of securities and upon other persons. 
+. Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo acted intentionally, knowingly, or recklessly, in engaging in the fraudulent conduct described above.
+. Through the foregoing, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. 240.10b-5].
+
+[.text-center]
+*COUNT III +
+Violations of Section 5(a) and (c) of the Securities Act +
+[15 U.S.C. § 77e(a) and (c)] +
+[underline]#(Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=135]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. From in or about 2019 through in or about 2022, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, directly or indirectly, as to CoinDeal securities: (a) made use of the means or instruments of transportation or communication in interstate commerce or of the mails to sell securities through the use or medium of a prospectus or otherwise; or carried securities or caused such securities to be carried through the mails or in interstate commerce, by means or instruments of transportation, for the purpose of sale or delivery after sale; and (b) made use of the means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell or to offer to buy, through the use or medium of any prospectus or otherwise, securities without a registration statement having been filed with the SEC or being in effect as to such securities. 
+. No registration statements were filed with the SEC or were in effect in connection with offers or sales of CoinDeal securities by Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, and no exemption from the registration requirements applied to sales by Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated, and unless restrained and enjoined are reasonably likely to continue to violate Sections 5(a) and (c) of the Securities Act [15 U.S.C. §§ 77e(a) and (c)].
+
+[.text-center]
+*COUNT IV +
+Aiding and Abetting Violations of +
+Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5(b) +
+[15 U.S.C. § 78j(b) and 17 C.F.R. 240.10b-5] +
+[underline]#(Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=139]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Chandran, directly or indirectly, in connection with the purchase and sale of CoinDeal securities, by the use of the means and instrumentalities of interstate commerce and by the use of the mails, intentionally, knowingly, or recklessly made untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading. 
+. By engaging in the conduct described, Defendant Chandran violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5(b) thereunder [17 C.F.R. 240.10b-5].
+. Defendants Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo intentionally, knowingly, or recklessly provided substantial assistance to Defendant Chandran.
+. By reason of the foregoing, Defendants Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo aided and abetted the violations of Section 10(b) of the Exchange Act and Rule 10b-5(b) thereunder by Defendant Chandran and, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)], Defendants Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo are liable to the same extent as Defendant Chandran for his violations of Sections 10(b) of the Exchange Act and Rule 10b-5(b) thereunder.
+
+[.text-center]
+*COUNT V +
+Aiding and Abetting Violations of +
+Section 17(a) of the Securities Act +
+[15 U.S.C. § 77q(a)] +
+[underline]#(Mossel and AEO Publishing)#*
+[start=144]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Glaspie, directly or indirectly, in the offer and sale of CoinDeal securities by the use of the means and instruments of transportation or communication in interstate commerce or by use of the mails, intentionally, knowingly, recklessly, or negligently, (i) employed devices, schemes and artifices to defraud; (ii) obtained money and property by means of untrue statements of material facts and omissions to state material facts necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and (iii) engaged in transactions, practices, and courses of business which operated or would operate as a fraud or deceit upon the purchasers of such securities.
+. By engaging in the conduct described, Defendant Glaspie violated Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)].
+. Defendants Mossel and AEO Publishing intentionally, knowingly, or recklessly provided substantial assistance to Defendant Glaspie.
+. By reason of the foregoing, Defendants Mossel and AEO Publishing aided and abetted the violations of Section 17(a) of the Securities Act, by Defendant Glaspie and, pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77o(b)], Defendants Mossel and AEO Publishing are liable to the same extent as Defendant Glaspie for his violations of Section 17(a) of the Securities Act.
+
+[.text-center]
+*COUNT VI +
+Aiding and Abetting Violations of +
+Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5 +
+[15 U.S.C. § 78j(b) and 17 C.F.R. 240.10b-5] +
+[underline]#(Mossel and AEO Publishing)#*
+[start=149]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Glaspie, directly or indirectly, in connection with the purchase and sale of CoinDeal securities, by the use of the means and instrumentalities of interstate commerce and by the use of the mails, intentionally, knowingly, or recklessly, (i) employed devices, schemes and artifices to defraud; (ii) made untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices and courses of business which operated or would have operated as a fraud and deceit upon purchasers of securities and upon other persons.
+. By engaging in the conduct described, Defendant Glaspie violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. 240.10b-5].
+. Defendants Mossel and AEO Publishing intentionally, knowingly, or recklessly provided substantial assistance to Defendant Glaspie.
+. By reason of the foregoing, Defendants Mossel and AEO Publishing aided and abetted the violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder by Defendant Glaspie and, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)], Defendants Mossel and AEO Publishing are liable to the same extent as Defendant Glaspie for his violations of Sections 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+
+[.text-center]
+*COUNT VII +
+Aiding and Abetting Violations of +
+Sections 5(a) and (c) of the Securities Act +
+[15 U.S.C. §§ 77e(a) and (c)] +
+[underline]#(Mossel and AEO Publishing)#*
+[start=154]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Glaspie offered and sold CoinDeal securities when no registration statements were filed with the SEC or were in effect in connection with offers or sales of such securities, and no exemption from the registration requirements applied to Defendant Glaspie’s sales.
+. By engaging in this conduct, Defendant Glaspie violated Sections 5(a) and (c) of the Securities Act [15 U.S.C. §§ 77e(a) and (c)].
+. Defendants Mossel and AEO Publishing intentionally, knowingly, or recklessly provided substantial assistance to the unregistered offers and sales by Defendant Glaspie.
+. By reason of the foregoing, Defendants Mossel and AEO Publishing aided and abetted the violations of Section 5(a) and 5(c) of the Securities Act, by Defendant Glaspie and, pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77o(b)], Defendants Mossel and AEO Publishing are liable to the same extent as Defendant Glaspie for his violations of Sections 5(a) and (c) of the Securities Act.
+
+[.text-center]
+[underline]#*RELIEF REQUESTED*#
+
+THEREFORE, the SEC requests that this Court:
+[upperroman]
+. &nbsp; +
+Permanently enjoin Defendants, their officers, agents, servants, employees, attorneys and those persons in active concert or participation with Defendants who receive actual notice of the order of this Court, by personal service or otherwise, and each of them from, directly or indirectly, engaging in the transactions, acts, practices or courses of business described above, or in conduct of similar purport and object, in violation of Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)]; Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 CFR § 240.10b-5]; and Section 5 of the Securities Act [15 U.S.C. § 77e];
+. &nbsp; +
+Order Defendants to disgorge all ill-gotten gains and/or unjust enrichment received directly or indirectly, with pre-judgment interest thereon, as a result of the alleged violations, pursuant to Exchange Act Sections 21(d)(5) and 21(d)(7) [15 U.S.C. §§ 78u(d)(5) and 78u(d)(7)];
+. &nbsp; +
+Order Defendants to pay civil penalties pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange Act [15 U.S.C. § 78u(d)(3)];
+. &nbsp; +
+Enter an Order, pursuant to Section 21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)] permanently prohibiting Defendants Chandran, Davidson, Glaspie, Knott, and Mossel from serving as an officer or director of any issuer that has a class of securities registered pursuant to Section 12 [15 U.S.C. § 78l] of the Exchange Act or that is required to file reports pursuant to Section 15(d) of the Exchange Act [15 U.S.C. § 78o(d)];
+. &nbsp; +
+Permanently enjoin Defendant Chandran from directly or indirectly, including, but not limited to, through any entity owned or controlled by Chandran, participating in the issuance, purchase, offer, or sale of any security; provided, however, that such injunction shall not prevent Chandran from purchasing or selling securities for his own personal account; and
+. &nbsp; +
+Grant any other relief this Court deems appropriate.
+
+[.text-center]
+*JURY DEMAND*
+
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiff demands that this case be tried to a jury.
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|Dated: January 4, 2023
+|Respectfully Submitted, +
+&nbsp; +
+*UNITED STATES SECURITIES AND EXCHANGE COMMISSION* +
+&nbsp; +
+[underline]#s/Michael D. Foster# +
+Michael D. Foster, Illinois Bar No. 6257063 +
+Dante A. Roldán, Illinois Bar No. 6316972 +
+Caryn Trombino, Illinois Bar No. 6284159 +
+U.S. Securities and Exchange Commission +
+Chicago Regional Office +
+175 West Jackson Blvd., Suite 1450 +
+Chicago, Illinois 60604 +
+(312) 353-7390 +
+(312) 353-7398 (facsimile) +
+FosterMi@sec.gov +
+RoldanD@sec.gov +
+TrombinoC@sec.gov +
+&nbsp; +
+Local Counsel: +
+DAWN N. ISON +
+United States Attorney +
+Eastern District of Michigan +
+KEVIN ERSKINE (P69120) +
+Assistant United States Attorney +
+Eastern District of Michigan +
+211 W. Fort Street, Ste. 2001 +
+Detroit, MI 48226 +
+Tel: (313) 226-9610 +
+Email: Kevin.Erskine@usdoj.gov +
+&nbsp; +
+Attorneys for Plaintiff
+|===
+____
+
+=== Discussion Questions ===
+. what should the question be?
+
+== SEC v. Genesis & Gemini ==
+
+[quote, SEC v. Genesis Global Capital&comma; LLC and Gemini Trust Company&comma; LLC , https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf ]
+____
+*UNITED STATES DISTRICT COURT +
+SOUTHERN DISTRICT OF NEW YORK*
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|&nbsp; +
+*SECURITIES AND EXCHANGE COMMISSION, +
+&nbsp; +
+Plaintiff, +
+&nbsp; +
+v. +
+&nbsp; +
+GENESIS GLOBAL CAPITAL, LLC and +
+GEMINI TRUST COMPANY, LLC, +
+&nbsp; +
+Defendants.*
+|&nbsp; +
+&nbsp; +
+*23-cv-287 +
+&nbsp; +
+ECF Case +
+&nbsp; +
+[underline]#Complaint# +
+Jury Trial Demanded*
+|===
+
+
+Plaintiff Securities and Exchange Commission (the “Commission” or “SEC”) files this Complaint against Genesis Global Capital, LLC (“Genesis”) and Gemini Trust Company, LLC (“Gemini”) (collectively, “Defendants”) and alleges as follows:
+
+[.text-center]
+[underline]#*SUMMARY*#
+
+. Between February 2021 and November 2022, Genesis and Gemini engaged in an unregistered offer and sale of securities to U.S. retail investors, in violation of the federal securities laws. Through an investment opportunity that Defendants called the “Gemini Earn” program, investors tendered crypto assets to Genesis and, in exchange, Genesis promised to pay interest on those assets to investors. Through this unregistered offering, Defendants raised billions of dollars’ worth of crypto assets, principally from U.S. retail investors.
+. Both Defendants were integral to the operation and success of the Gemini Earn program. Genesis was the issuer and entity that received, pooled, deployed, and paid interest on investors’ assets. Genesis and Gemini marketed the Gemini Earn program through social media and Gemini’s website, touting the high interest rates that investors could earn through Gemini Earn. And Gemini provided retail investors with access to Genesis, which otherwise only engaged in crypto asset transactions with large institutional and other accredited investors.xref:sec_genesis_footnote_1[^*(1)*^] Crucially, both Defendants profited from the partnership and offering. 
+. To participate in the Gemini Earn program, Genesis and Gemini required that investors enter into a tri-party Master Digital Asset Loan Agreement with Genesis and Gemini (“Gemini Earn Agreement”), whereby Gemini Earn investors provided crypto assets to Genesis, with Gemini acting as the agent in the issuance. Genesis would send interest payments to Gemini, which would then deduct an “Agent Fee” before distributing the remainder of the interest payments to Gemini Earn investors.
+. Genesis pooled the crypto assets from Gemini Earn investors with assets from other investors. Genesis then deployed the crypto assets – primarily by lending the crypto assets to institutional counterparties (“Institutional Borrowers”) – in order to generate revenue for its business, including the revenue necessary to pay interest to Gemini Earn investors. Genesis earned revenue by lending the crypto assets at a higher rate than it paid to Gemini Earn and other investors.
+. The Genesis Earn Agreements, as offered and sold through the Gemini Earn program, were securities that Genesis and Gemini offered and sold to the investing public.
+. Defendants offered and sold the Gemini Earn Agreements through the Gemini Earn Program without registering the offer and sale with the SEC as required by the federal securities laws. As a result, investors lacked material information about the Gemini Earn program that would have been relevant to their investment decisions. Instead of providing investors with the full panoply of information required by the federal securities laws, Defendants have instead only made selective and inadequate disclosures.
+. The U.S. retail investors who participated in the Gemini Earn program have suffered significant harm. In November 2022, Genesis unilaterally announced that it would not allow hundreds of thousands of retail investors to withdraw their crypto assets from Gemini Earn because of “withdrawal requests which have exceeded our current liquidity” following volatility in the crypto asset market. At the time, Genesis held approximately $900 million in investor assets from approximately 340,000 Gemini Earn investors, most residing in the United States. As of the date of this Complaint, these retail investors still cannot withdraw their assets, and Genesis has formed a special committee to oversee a restructuring process.
+. While the Gemini Earn program has been terminated, both Genesis and Gemini continue to do business in the crypto asset industry. In particular, Genesis intends to reengage in crypto asset lending activities. Gemini continues to hold billions of dollars’ worth of crypto assets on behalf of retail investors in connection with its trading platform and other activity in this industry. Thus, Defendants remain positioned to violate the registration provisions if they are not enjoined from doing so.
+
+[.text-center]
+[underline]#*VIOLATIONS*#
+[start=9]
+. By engaging in the conduct described in this Complaint, Defendants violated Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. §§ 77e(a) and 77e(c)].
+. Unless Defendants are permanently restrained and enjoined, they will continue to engage in the acts, practices, and courses of business set forth in this Complaint and in acts, practices, and courses of business of similar type and object.
+
+[.text-center]
+[underline]#*NATURE OF THE PROCEEDING AND RELIEF SOUGHT*#
+[start=11]
+. The Commission brings this action pursuant to the authority conferred upon it by Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)]. 12. The Commission seeks a final judgment: (a) permanently enjoining Defendants from violating Sections 5(a) and 5(c) of the Securities Act, pursuant to Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)]; (b) ordering Defendants to disgorge their ill-gotten gains and to pay prejudgment interest thereon, pursuant to Sections 21(d)(3), (d)(5), and (d)(7) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S. Code § 78u(d)(3), (5), (7)]; and (c) imposing civil money penalties on Defendants pursuant to Section 20(d) of the Securities Act [15 U.S.C § 77t(d)].
+
+[.text-center]
+[underline]#*JURISDICTION AND VENUE*#
+[start=13]
+. This Court has jurisdiction over this action pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)].
+. Defendants, directly or indirectly, have made use of the means or instruments of transportation or communication in interstate commerce or of the mails in connection with the transactions, acts, practices, and courses of business alleged herein.
+. Venue is proper in the Southern District of New York pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)]. Gemini’s principal place of business is in this District, and Defendants sold the securities at issue in this case to investors residing in this District.
+
+[.text-center]
+[underline]#*DEFENDANTS*#
+[start=16]
+. *Genesis Global Capital, LLC (“Genesis”)* is a Delaware limited liability company formed in 2017 and a wholly owned subsidiary of Genesis Global Holdco, LLC, which is wholly owned by Digital Currency Group, Inc. (“DCG”). Genesis’ principal place of business is in Jersey City, New Jersey. Genesis claims that it is the “premier institutional digital asset financial services firm,”xref:sec_genesis_footnote_2[^*(2)*^] and “the world’s largest digital asset lender” and that “[h]olders of digital currencies can earn yield on their assets by lending directly to Genesis, a regulated and trusted counterparty.” Genesis is registered with FinCEN as a money services business (i.e., money transmitter). Genesis is one of several companies that DCG operates under the “Genesis” brand. Genesis is the issuer of securities under the Gemini Earn program. 
+. *Gemini Trust Company, LLC (“Gemini”)* is a New York limited liability trust company founded in 2014. Gemini is beneficially owned and controlled by Cameron and Tyler Winklevoss through Winklevoss Capital Fund, LLC. Gemini’s principal place of business is in New York, New York. Gemini is registered as a New York limited purpose trust company with the New York State Department of Financial Services (“NYSDFS”).
+
+[.text-center]
+[underline]#*STATUTORY AND REGULATORY FRAMEWORK*#
+[start=18]
+. The Securities Act sets forth a longstanding regime of full and fair disclosure in connection with the offer and sale of securities, in contrast to traditional commercial principles of caveat emptor. Congress mandated that persons who offer and sell securities to the investing public provide sufficient, accurate information to allow investors to make informed decisions before they invest.
+. The definition of a “security” under the Securities Act includes a wide range of investment vehicles, including “investment contracts” and “notes.” An investment contract is an investment of money in a common enterprise with a reasonable expectation of profits derived from the entrepreneurial or managerial efforts of others. Congress defined “security” broadly to embody a “flexible rather than a static principle, one that is capable of adaptation to meet the countless and variable schemes devised by those who seek the use of the money of others on the promise of profits.” SEC v. W.J. Howey Co., 328 U.S. 293, 299 (1946). According to the Supreme Court, the broad definition of “security” is “sufficient to encompass virtually any instrument that might be sold as an investment,” because “Congress’ purpose in enacting the securities laws was to regulate investments, in whatever form they are made and by whatever name they are called.” SEC v. Edwards, 540 U.S. 389, 393 (2004) (citations and internal quotation marks omitted) (emphasis in original). Courts have found that novel or unique investment vehicles constitute investment contracts, including interests in orange groves, animal breeding programs, railroads, mobile phones, and enterprises that exist only on the Internet, including crypto assets. 
+. Sections 5(a) and 5(c) of the Securities Act require that an issuer like Genesis register the offer or sale of securities with the SEC. Similarly, those provisions prohibit Gemini from engaging in the offer and sale of such unregistered securities. Registration statements relating to an offering of securities provide public investors with material information about the issuer and the offering, including but not limited to financial and managerial information, how the issuer will use offering proceeds, and the risks and trends that affect the enterprise and an investment in its securities.
+
+[.text-center]
+[underline]#*BACKGROUND ON CRYPTO ASSETS*#
+[start=21]
+. The term “crypto asset” generally refers to an asset that is issued and transferred using distributed ledger or blockchain technology, including, but not limited to, so-called “cryptocurrencies,” “coins,” and “tokens.”
+. A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitally recorded data packages. The system relies on cryptographic techniques for secure recording of transactions.
+
+[.text-center]
+[underline]#*FACTS*#
+
+[.text-center]
+[upperroman]
+. [underline]#*Genesis and Gemini Offered and Sold Investments*#
+
+[start=23]
+. In March 2018, Genesis began obtaining crypto assets from large institutional and other accredited investors in exchange for a promise to pay interest on those investors’ crypto assets. Genesis obtained crypto assets from its various investors for the use of its primary business – i.e., to lend crypto assets to Institutional Borrowers for interest – which generated revenue for Genesis and allowed it to pay interest to large institutional and other accredited investors. Genesis earned profit by lending the crypto assets to Institutional Borrowers at a higher rate than it paid to its investors. Genesis pooled the investors’ crypto assets and exercised discretion over how to deploy the assets to earn income.
+. Eventually, Genesis expanded its business model to transact with not just institutional and accredited investors, but also retail investors. In particular, in December 2020, Genesis entered into an agreement with Gemini to offer Gemini customers, including U.S. retail investors, an opportunity to tender their crypto assets to Genesis in exchange for Genesis’ promise to pay interest.
+
+[.text-center]
+*Gemini Earn Program*
+[start=25]
+. Specifically, beginning in February 2021, Genesis and Gemini began offering the Gemini Earn program to retail investors in the United States and Hong Kong, and later Singapore. There was no minimum investment amount to be eligible to participate in the Gemini Earn program. As of November 16, 2022, approximately 340,000 retail investors, most residing in the United States, had crypto assets invested with Genesis through the Gemini Earn program. By November 2022, the value of retail investors’ crypto assets held by Gemini exceeded the collective value of those tendered by institutional and accredited investors. 
+. Each Gemini Earn investor entered into a tri-party Gemini Earn Agreement with Gemini and Genesis. The agreement was a standard agreement and not individually negotiated with Gemini Earn investors. Under the terms of the Gemini Earn Agreement, Gemini Earn investors first needed to hold eligible crypto assets with Gemini – either by transferring the crypto assets to Gemini or acquiring them via Gemini’s crypto asset trading platform. Through Gemini Earn, investors would then tender their crypto assets to Genesis, with Gemini acting as the agent for retail investors to facilitate the transaction. Gemini aggregated the crypto assets to be invested in the Gemini Earn program and placed them in a digital wallet from which Genesis would take possession of the assets.
+. Genesis determined the types and aggregate amount of each crypto asset that were eligible to be invested by Gemini Earn investors. Genesis offered and agreed to pay the Gemini Earn investors in-kind interest on the crypto assets they had invested, which accrued on a daily basis. Genesis could unilaterally revise the interest rates and the aggregate amount of each crypto asset that Gemini Earn investors could invest, on a monthly basis.
+. Gemini Earn investors’ returns came from Genesis, with Gemini deducting an Agent Fee from the returns. Genesis had sole discretion over the gross interest rate that it paid for each crypto asset, while Gemini had sole discretion over its Agent Fee and thus the net rates of return offered to Gemini Earn investors.
+. Gemini published the list of crypto assets eligible for investment and the interest rates offered to Gemini Earn investors on its website as well as in Gemini’s mobile application (“app”). More than 50 crypto assets were eligible to be invested in the Gemini Earn program, including Bitcoin, Ether, USD Coin, and Dogecoin. 
+. As of October 2022, the net interest rate offered to Gemini Earn investors ranged from 0.45% to 8.05%, while Gemini’s Agent Fee ranged from 0.06% to 4.29%, depending on the type of crypto asset tendered to Genesis. For the three months ended March 31, 2022, Gemini received approximately $2.7 million in Agent Fees from the Gemini Earn program. 31. The Gemini Earn Agreement provided that the crypto asset transactions were “open term” unless otherwise specified, and Gemini Earn investors could terminate all, or a portion, of their investment in Gemini Earn at any time with no withdrawal fee. Per the Gemini Earn Agreement, Genesis was also obligated to return the invested crypto assets within three business days of an investor’s request for repayment to a digital wallet controlled by Gemini, and Gemini would then transfer the crypto assets and any accrued interest to the investor’s Gemini account where the assets and interest would be available for withdrawal. The Gemini Earn Agreement also provided that Genesis was responsible for repaying the crypto assets and all accrued interest to the Gemini Earn investors.
+. Under the terms of the Gemini Earn Agreement, a failure by Genesis to return crypto assets or a failure by Genesis to pay interest or late fees to a Gemini Earn investor is considered an event of default. In the event of a default, Gemini may declare the entire Gemini Earn balance payable, transfer any collateral to hold on behalf of itself and the Gemini Earn investors, and/or exercise all other rights and remedies available. If the event of default persists for 30 days or more, Gemini may terminate the Gemini Earn Agreement.
+
+[.text-center]
+*Genesis and Gemini Promoted Gemini Earn as an Investment*
+[start=33]
+. Genesis and Gemini both touted the profits investors could earn by investing their crypto assets with Genesis through Gemini Earn. Genesis advertised on its public website that “[h]olders of digital currencies can earn yield on their assets by lending directly to Genesis.” Genesis also published tweets highlighting its partnership with Gemini and the yield that Gemini Earn investors – i.e., retail investors – could earn. For example, on February 2, 2021, Genesis published a tweet stating, “Genesis is dedicated to building and partnering to lower barriers to digital asset markets.” 
+. Gemini similarly promoted the profit that investors could earn through the Gemini Earn program. In a February 2021 press release launching Gemini Earn, Gemini CEO Tyler Winklevoss stated, “We designed a program that allows our customers the ability to generate a real return on their crypto holdings.” On February 27, 2021, Gemini also posted a video on YouTube titled, “Invest Better with Gemini Earn.” On its website, Gemini described how users would earn interest, noting, “We are excited to launch Gemini Earn and offer more opportunities for you to grow your portfolio and earn yield.” Similarly, Gemini advertised on its website that investors could “[p]ut your crypto to work. With Gemini Earn, you can receive up to 8.05% APY on your cryptocurrency,” and listed the interest rate that investors could earn for each eligible crypto asset. Gemini also published tweets, including on May 26, 2021, promoting the high interest rates offered via Gemini Earn, with statements such as the following:
+
+image::media/ch03-genesis-01.png[]
+
+[start=35]
+. Gemini itself repeatedly described Gemini Earn as an investment on its website. For example, Gemini included this description in an FAQ entitled, “What are the risks of Gemini Earn?”:
+[none]
+** Cryptocurrency, like many assets, can be volatile and subject to price swings. There is always a risk in [underline]#investing#, and each customer needs to assess their own risk tolerance before making any [underline]#investment decisions#. Our partners in Gemini Earn have an obligation to return funds according to the terms of their loan agreement. However, Gemini Earn customers (the lenders) always assume some level of risk when they decide to lend their funds. We believe Gemini Earn gives our retail investors another way to stay long-term in the asset class and have the [underline]#option to invest and earn interest#, all on the Gemini platform.
+. Gemini’s website also claimed that Gemini Earn investors could “receive more than 100x the average national interest rate, among the highest rates on the market” and that Gemini Earn “offer[s] more flexibility than other yield-generating cryptocurrency investments.”
+. Additionally, Gemini’s website featured a calculator that would allow a user to select a deposit amount, crypto asset type, and a time frame to see how much interest could be earned by tendering crypto assets through Gemini Earn. The calculator would reveal the projected amount of interest that could be earned by investing the investor’s crypto assets for a period between one and four years.
+
+[.text-center]
+*Genesis’ Deployment of the Invested Gemini Earn Crypto Assets*
+[start=38]
+. Genesis pooled on its balance sheet the crypto assets that it received from the Gemini Earn investors and other investors, and in practice did not segregate the crypto assets it received from different groups of investors. Genesis retained possession and control over the investors’ crypto assets on its balance sheet, and determined how much to hold, lend out to others, and otherwise use. Genesis exercised its discretion in how to use investors’ crypto assets to generate revenue for its business and to pay the interest rates it promised Gemini Earn investors and other investors. The Gemini Earn Agreement did not contain any explicit terms restricting how investors’ crypto assets would be used by Genesis.
+. Generally, Genesis deployed the Gemini Earn investors’ crypto assets by either lending them to Institutional Borrowers or using the assets as collateral for Genesis’ own borrowing. Crypto assets not loaned to Institutional Borrowers or used for collateral were held by Genesis on its balance sheet in an effort to provide Genesis with liquidity to meet potential demand for loans as well as to repay the investors in its crypto asset program, including Gemini Earn. Genesis also had the ability to loan the crypto assets to related parties, including its parent company.
+. Genesis employed its discretion and judgment in determining the terms of transactions with Institutional Borrowers. For example, Genesis conducted due diligence on the Institutional Borrowers before entering into a transaction. Genesis negotiated an initial agreement with each Institutional Borrower, and then individually negotiated the terms – including the type of crypto assets to be lent, interest rate, duration of the loan, and collateral (if any) – of every subsequent lending transaction. Genesis separately evaluated each Institutional Borrower, as well as market conditions, when determining collateral rates.
+. The returns earned by each Gemini Earn investor were reliant on the pooling of the invested crypto assets and the ways in which Genesis deployed those assets, including Genesis’ evaluation of the Institutional Borrowers, negotiation of favorable terms, and management of market and counterparty risk. When Genesis loaned crypto assets it received through the Gemini Earn program, the assets were transferred to the Institutional Borrowers and left Genesis’ balance sheet. Ultimately, the returns of Gemini Earn investors were dependent on Genesis’ managerial efforts and risk management in its lending activities.
+. The interest income that Genesis received from lending crypto assets to Institutional Borrowers was used to generate revenue for Genesis and to pay the promised interest to Gemini Earn investors and other investors. Genesis did not have any other revenue-generating activities. For example, for the three months ended March 31, 2022, Genesis received approximately $169.8 million in interest income from Institutional Borrowers and paid $166.2 million in interest to the investors in its crypto asset program, including Gemini Earn. 
+. Genesis also loaned an additional $575 million worth of crypto assets, including those of Gemini Earn investors, to related party DCG, which DCG used to fund investment opportunities and repurchase DCG stock from non-employee shareholders in secondary transactions.
+
+[upperroman, start=2]
+. [underline]#*The Gemini Earn Program Constituted an Offer and Sale of Securities*#
+
+[upperalpha]
+. *The Gemini Earn Program Constituted an Offer and Sale of Securities Under Reves*
+
+[start=44]
+. Under Section 2(a)(1) of the Securities Act, the definition of a security includes any “note.” See 15 U.S.C. §§ 77b, 78c. A note is presumed to be a security unless it bears a strong resemblance to instruments that are not securities, which courts determine by examining four factors: (1) the motivation of the parties; (2) the plan of distribution; (3) the expectations of the investing public; and (4) the availability of an alternative regulatory regime that “significantly reduces the risk of the instrument” for investors other than the securities laws, “thereby rendering application of the Securities Acts unnecessary.” See Reves v. Ernst & Young, 494 U.S. 56, 64–69 (1990). Under Reves, the Gemini Earn Agreements were notes and offered and sold through Gemini Earn as securities.
+
+[start=1]
+. *The Purpose of the Gemini Earn Program*
+
+[start=45]
+. Genesis offered the Gemini Earn program to obtain crypto assets for the use of its business – namely, to run its institutional lending activities, generate profits for itself, and to pay the interest promised to Genesis investors, and investors in Gemini Earn were primarily interested in the profit they expected the program to generate.
+. Genesis controlled the crypto assets it obtained from investors and had complete discretion in determining how much to hold, lend and otherwise use. Genesis used the crypto assets it raised from Gemini Earn investors and other investors to make loans to Institutional Borrowers or as collateral for Genesis’ own borrowing. Genesis also had the discretion to hold the assets on its balance sheet to provide Genesis with liquidity to meet potential demand for loans as well as to repay the investors in its crypto asset program.
+. In turn, investors participated in the Gemini Earn program primarily for profit, i.e., to receive a return on their crypto assets. Genesis and Gemini both touted the profits investors could earn by investing their crypto assets with Genesis, including by advertising Gemini Earn as an investment and touting that investors could receive up to 8.05% annual percentage yield (“APY”) on their crypto assets. Investors who purchased the Gemini Earn notes were led to expect that by tendering and giving control over their crypto assets to Genesis, they would receive profit in the form of interest on those assets.
+. In short, Genesis intended to use the crypto assets for its business and its sole source of revenue, and the Gemini Earn investors were primarily motivated to earn a profit on their crypto assets in the form of interest.
+
+[start=2]
+. *The Gemini Earn Program was Offered and Sold to a Broad Segment of the Public*
+
+[start=49]
+. Genesis and Gemini publicly advertised the Gemini Earn Agreements, through Gemini Earn, on websites and on social media. Moreover, the Gemini Earn Agreements were offered and sold to any U.S. investor, including retail investors. As of November 16, 2022, there were approximately 340,000 retail investors, the majority of whom resided in the United States, who had crypto assets invested with Genesis through the Gemini Earn program. The Gemini Earn Agreements were offered and sold to a broad segment of the general public.
+
+[start=3]
+. *The Investing Public Considered these Notes as Investments*
+
+[start=50]
+. Genesis and Gemini, through websites and social media, promoted Gemini Earn as an investment, specifically as a way to earn high “returns” or “yield” on investors’ crypto assets. Gemini repeatedly described Gemini Earn as an investment on its own website and social media and repeatedly touted that the Gemini Earn interest rates were “among the highest rates on the market” and “higher than most existing options.” Gemini’s website further claimed that Gemini Earn investors could “receive more than 100x the national interest rate.” Gemini’s website also included a calculator that showed a user potentially how much interest they could earn by investing their crypto assets in the Gemini Earn program for a period between one and four years. The economic realities of the transaction, in which investors had an opportunity to tender crypto assets with Genesis in exchange for earning interest with some of the “highest rates” available for crypto assets, further underscore why the investing public considered the Gemini Earn program to be an investment opportunity.
+
+[start=4]
+. *No Alternative Regulatory Regime or Risk-Reducing Factors Exist to Protect Gemini Earn Investors*
+
+[start=51]
+. No alternative regulatory scheme or risk-reducing factors existed to protect investors with respect to the Gemini Earn program. In its own FAQs, Genesis noted that “[D]igital assets are not covered by SIPC insurance” and that “[e]stablishing a lending and borrowing relationship with Genesis is not the same as opening a depository account or a savings account” and that “[a]ccounts with Genesis do not enjoy FDIC protection.” Genesis Global Trading, Inc., the SEC registered broker-dealer affiliated with Genesis, did not have a role in the Gemini Earn program. Although Genesis has registered as a money services business (“MSB”) with FinCEN, the anti-money laundering and recording keeping and reporting requirements of an MSB – designed to prevent money services business from being used to facilitate money laundering and the financing of terrorist activities – do not provide the significant disclosures and other investor protections afforded by the federal securities laws. 
+. Similarly, although Gemini is registered with NYSDFS as a New York limited purpose trust company, NYSDFS did not have oversight over Genesis. Gemini publicly stated that Gemini Earn does not operate like a traditional bank account, is not protected by a governmental program, and is not backed by Gemini itself. In a February 2021 press release launching Gemini Earn, Gemini stated that “Gemini Earn is not a depository account. . . . Loans are not insured by Gemini or any governmental program or institution.” Likewise, on its website, Gemini noted that “Gemini Earn is structured similarly to non-deposit services offered by financial institutions and not insured by FDIC, SIPC, any other governmental program, or Gemini.”
+. Any capital reserve requirements applicable to Gemini did not apply to Genesis or to the crypto assets tendered to Genesis through Gemini Earn.
+. Under the terms of the Gemini Earn Agreement, Genesis was not required to post collateral. Gemini told investors, “All lending by you through our Program will be on an unsecured basis. We will not collect or hold collateral from Borrowers, nor maintain any collateral account for your benefit.” Although Genesis later provided some collateral to Gemini in August 2022, the collateral Genesis provided to Gemini was in the form of restricted shares that could not be liquidated immediately and amounted to only a fraction of the total investor assets held in Gemini Earn.
+. As evidenced by the current state of Gemini Earn, where investors have been unable to access their crypto assets or any form of collateral since November 16, 2022, any oversight of Genesis as an MSB and Gemini as a limited purpose trust company did not adequately reduce the risk of significant harm to Gemini Earn retail investors. 
+
+[upperalpha, start=2]
+. *The Gemini Earn Program Constituted the Offer and Sale of Investment Contracts under Howey*
+
+[start=56]
+. The offer and sale of Gemini Earn Agreements through the Gemini Earn program also constitutes the offer and sale of investment contracts under Howey.
+
+[start=1]
+. *Gemini Earn Involved the Investment of Money*
+
+[start=57]
+. The Gemini Earn program involved an investment of money. Between February 2021 and November 2022, Genesis raised billions of dollars from hundreds of thousands of retail investors, who tendered crypto assets to Genesis through the program.
+
+[start=2]
+. *Gemini Earn Investors and Defendants Invested in a Common Enterprise*
+
+[start=58]
+. Investors in Gemini Earn invested in a common enterprise with other investors and with Defendants.
+. Genesis pooled Gemini Earn investors’ and other investors’ crypto assets on Genesis’ balance sheet, and used those assets in order to generate returns for both Genesis and investors, including Gemini Earn investors. Genesis did not manage individual or separate accounts for each investor in Gemini Earn. Instead, the returns earned by each investor were reliant on the pooling of the invested crypto assets. As the invested crypto assets were not segregated in any way by Genesis, each investor’s fortune was tied to the fortunes of the other investors.
+. Gemini Earn investors’ fortunes were also tied to Genesis’ fortunes; both Genesis and Gemini Earn investors earned profits when Genesis deployed the pooled assets. Moreover, Genesis’ current situation, where it has experienced withdrawal requests that exceed its current liquidity and has consequently restricted Gemini Earn investors from withdrawing their crypto assets and begun a restructuring process, further demonstrates that the fortunes of Genesis and the fortunes of each Gemini Earn investor are tied to one another in a common enterprise. 
+
+[start=3]
+. *Gemini Earn Investors Reasonably Expected to Profit From the Efforts of Defendants*
+
+[start=61]
+. Investors in the Gemini Earn program reasonably expected to profit from the efforts of Defendants.
+. From its inception, Defendants have explicitly marketed the Gemini Earn program as an investment opportunity which led investors to reasonably expect to profit from their efforts. As detailed above, through their websites and social media channels, both Genesis and Gemini publicly touted the ability for investors to earn yield or returns via Gemini Earn. Gemini repeatedly itself described Gemini Earn as an investment on its own website; repeatedly touted that the Gemini Earn interest rates were “among the highest rates on the market” and that Gemini Earn investors could “receive more than 100x the national interest rate”; and Gemini’s website illustrated how much interest Gemini Earn investors could potentially earn by investing their crypto assets for a period between one and four years.
+. Genesis also described itself as the “premier institutional digital asset financial services firm,” and “the world’s largest digital asset lender” and that “[h]olders of digital currencies can earn yield on their assets by lending directly to Genesis, a regulated and trusted counterparty.” Accordingly, Gemini Earn investors were led to expect that Defendants’ efforts to generate the investment returns – i.e., the promised interest – would result in profit for investors.
+. As part of the Gemini Earn Agreements, investors ceded control over their crypto assets to Genesis, who has complete discretion in deploying the crypto assets. Genesis, not investors, undertook various complex tasks of pooling Gemini Earn crypto assets, identifying Institutional Borrowers to serve as counterparties, negotiating individual agreements with those counterparties, and managing market and counterparty risk. Investors understood that Genesis would conduct due diligence on Institutional Borrowers and evaluate market conditions in determining the appropriate collateral levels. 
+. Moreover, the economic realities of the Gemini Earn program demonstrate that Genesis was motivated to use its experience and skill as the “premier institutional digital asset financial services firm” and its economic power as “the world’s largest digital asset lender ” to select appropriate Institutional Borrowers to serve as counterparties, negotiate for the highest interest rates from those Institutional Borrowers, and set appropriate collateral levels, in order to generate maximum profit for itself. Defendants’ efforts were essential to the success or failure of the enterprise.
+. Investors understood that, on a monthly basis, the interest rate for their Gemini Earn investments would be revised by Genesis, reflecting Genesis’ ongoing managerial efforts to pay among “the highest rates in the market.”
+. Defendants’ statements and actions, and the economic reality of the Gemini Earn program, have led reasonable investors to expect Genesis to undertake significant and essential technical, managerial, and entrepreneurial efforts on their behalf, and investors in the Gemini Earn program reasonably expected to profit from those efforts.
+
+[upperroman, start=3]
+. [underline]#*Defendants Have Failed to Register their Offer and Sale of Securities Through Gemini Earn with the Commission*#
+
+[start=68]
+. Defendants offered and sold securities through the Gemini Earn program.
+. Defendants have used interstate commerce to offer and sell securities through Gemini Earn by, among other things, engaging in general solicitation through their websites and other promotional materials, including social media.
+. Defendants have never had a registration statement filed or in effect with the SEC for their offers and sales of securities through the Gemini Earn program.
+. Defendants’ public disclosures contained selective or no information about Genesis’ financial history, audited financial statements, management discussion and analysis of financial condition and results of operations, and ability to generate profits. Gemini Earn investors also had limited or inadequate information about Genesis’ operations, financial condition, liquidity, or other factors relevant in considering whether to invest in the Gemini Earn program. Investors also lacked full and detailed information regarding how Genesis deploys their crypto assets, including its exposure to volatility in crypto asset markets, the financial condition of Genesis’ counterparties and the amount of collateral Genesis obtained, if any, as part of its loans to Institutional Borrowers. In short, Gemini Earn investors lacked information that issuers provide under the Securities Act when they solicit public investment.
+
+[.text-center]
+*[underline]#CLAIM FOR RELIEF# +
+Violations of Section 5(a) and 5(c) of the Securities Act +
+[15 U.S.C. §§ 77e(a) and 77e(c)]*
+
+[start=72]
+. The SEC realleges and incorporates by reference paragraphs 1 through 71 above.
+. By virtue of the foregoing, without a registration statement in effect as to that security, Defendants, directly and indirectly, (a) made use of the means and instruments of transportation or communications in interstate commerce or of the mails to sell securities through the use or medium of any prospectus or otherwise; (b) carried or caused to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale; and (c) made use of the means and instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of a prospectus or otherwise, securities as to which no registration statement had been filed. 
+. By engaging in the conduct described above, each Defendant violated, and unless restrained and enjoined will continue to violate, Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. §§ 77e(a) and 77e(c)].
+
+[.text-center]
+*[underline]#PRAYER FOR RELIEF#*
+
+WHEREFORE, the Commission respectfully requests that the Court enter a Final Judgment:
+
+[upperroman]
+. &nbsp; +
+Permanently enjoining Defendants, and each of their respective agents, servants, employees, attorneys and other persons in active concert or participation with any of them, from violating, directly or indirectly, Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. § 77e(a) and 77e(c)];
+. &nbsp; +
+Ordering Defendants to disgorge all ill-gotten gains obtained within the statute of limitations, with prejudgment interest thereon, pursuant to Sections 21(d)(3), (d)(5), and (d)(7) of the Exchange Act [15 U.S.C. § 78u(d)(3), (5), (7)];
+. &nbsp; +
+Ordering Defendants to pay civil penalties pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)]; and
+. &nbsp; +
+Granting any other and further relief this Court may deem just and proper for the benefit of investors.
+
+[.text-center]
+*[underline]#JURY DEMAND#*
+
+The Commission demands a trial by jury.
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+
+|Dated: January 12, 2023
+|[underline]#&nbsp;&nbsp;/s/ Edward J. Reilly&nbsp;&nbsp;&nbsp;&nbsp;# +
+Edward J. Reilly* +
+Jonathan Austin (SDNY Bar No. JA-2073) +
+Ashley Sprague +
+Attorneys for Plaintiff +
+SECURITIES AND EXCHANGE COMMISSION +
+100 F Street NE +
+Washington, DC 20549 +
+(202) 551-6791 (Reilly) +
+Email: ReillyEd@sec.gov
+|===
+
+*Pending admission pro hac vice +
+&nbsp; +
+[underline]#Of Counsel# +
+Stacy Bogert +
+Deborah A. Tarasevich +
+James P. Connor
+
+[[sec_genesis_footnote_1]]
+[1] “Accredited investors” are those persons whose financial sophistication and ability to sustain the risk of loss of investment or fend for themselves render the protections of the Securities Act of 1933’s registration process unnecessary. See Rule 501(a) of the Securities Act of 1933 [17 C.F.R. § 230.501].
+[[sec_genesis_footnote_2]]
+[2] A “digital asset” is another term for crypto asset. 
+____
+
+
+=== Discussion Questions ===
+. what should the question be?
