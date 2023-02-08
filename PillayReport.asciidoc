@@ -1,0 +1,259 @@
+== Examiner Report on CELSIUS NETWORK LLC, et al. ==
+
+[quote, FINAL REPORT OF SHOBA PILLAY&comma; EXAMINER for Celsius Network et al.&comma; Case No. 22-10964 (MG), https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901312380000000039.pdf ]
+____
+&period;&period;&period;&period; +
+&period;&period;&period;&period;
+
+*[underline]#Part One: Investigation Background.#*
+
+Part One of this Report addresses the scope of, and investigative steps taken in, the Examiner’s investigation.
+[upperroman]
+. *Scope Of The Report.*
+
+On September 29, 2022, the Bankruptcy Court appointed Shoba Pillay (the “Examiner”) to investigate and report on certain topics related to Debtors Celsius Network LLC and related entities.xref:sec_pillay_footnote_1[^*(1)*^] The Court also directed the Examiner to review Celsius customer pro se filings on the Court’s docket to determine whether her investigation should be expanded.xref:sec_pillay_footnote_2[^*(2)*^] After considering those hundreds of filings and communicating with customers, the Examiner asked the Court to clarify that the Examiner’s investigative mandate included an examination of Celsius’s native currency, the CEL token, and Celsius’s representations to its customers.xref:sec_pillay_footnote_3[^*(3)*^] The Court so clarified.xref:sec_pillay_footnote_4[^*(4)*^] After directing the Examiner to confer with the parties,xref:sec_pillay_footnote_5[^*(5)*^] the Court further expanded the Examiner’s investigative mandate to include an examination of claims that Celsius’s business operations amounted to a Ponzi scheme.xref:sec_pillay_footnote_6[^*(6)*^] 
+
+Consistent with the Court’s Orders, the Examiner’s Report therefore addresses the following subjects:
+
+* “the Debtors’ cryptocurrency holdings, including a determination as to where the Debtors’ cryptocurrency holdings were stored pre-petition and are stored post-petition, and whether different types of accounts are commingled”xref:sec_pillay_footnote_7[^*(7)*^] and including “why and how other digital assets were converted into CEL tokens, and how these tokens were marketed, stored, and traded—including whether any of the Debtors’ trading practices involving CEL tokens generally or determinations of CEL tokens awarded as part of the Earn Rewards program—impacted their value;”xref:sec_pillay_footnote_8[^*(8)*^]
+* “the representations Debtors generally made in public representations to customers to attract them to their platform and about their cryptocurrency holdings and account offerings;”xref:sec_pillay_footnote_9[^*(9)*^]
+* whether “the Debtors used new deposits being made by customers to make payments or otherwise meet obligations to existing customers at a time when the Debtors had no other sources (whether liquid or which could have been monetized) from which to make such payments or meet such obligations;”xref:sec_pillay_footnote_10[^*(10)*^]
+* “the current status of the utility obligations of the Debtors’ mining business;”xref:sec_pillay_footnote_11[^*(11)*^] and
+* “the Debtors’ procedures for paying sales taxes, use taxes, and value added taxes and the extent of the Debtors’ compliance with any non-bankruptcy laws with respect thereto.”xref:sec_pillay_footnote_12[^*(12)*^]
+
+Parties are directed to the Examiner’s Interim Report, dated November 19, 2022, for the Examiner’s investigative findings regarding (i) “why there was a change in account offerings beginning in April 2022 from the Earn Program to the Custody Service for some customers while others were placed in a ‘Withhold Account;” and (ii) how and where the cryptocurrencies held in Custody and Withhold accounts were stored pre- and post-petition and whether assets in those accounts were commingled with other Celsius assets.xref:sec_pillay_footnote_13[^*(13)*^] Those findings are not repeated here.
+
+[upperroman, start=2]
+. *Executive Summary.*
+
+The business model Celsius advertised and sold to its customers was not the business that Celsius actually operated. Through its website, marketing emails, Twitter, livestream town hall meetings, and other messaging, Celsius sold its customers on the concept that it was better than traditional “big banks.” By investing with Celsius, its customers were told that they would be able to “unbank” themselves and enjoy “financial freedom” as part of the Celsius community. Celsius emphasized that it put “its community first” and that its business would be “built on trust” and “transparency” with its community members. Celsius promoted itself as an altruistic organization, bragging in one blog post: “Can we really bring unprecedented financial freedom, economic opportunity and income equality to everyone in the world? We are Celsius. We dream big.”
+
+Celsius boasted that its primary financial product—its “Earn” program—was the “safest place for your crypto.” Customers who participated in the Earn program transferred their crypto assets to Celsius in exchange for interest, or what Celsius called rewards. In turn, Celsius deployed its customers’ crypto assets—through further loans, investments, or on exchanges—to generate income, or what Celsius called yield. Celsius’s co-founder and majority owner, Alex Mashinsky, repeatedly told customers in his weekly livestream conversations (referred to as “Ask Mashinsky Anything” or “AMAs”) that customer-deposited coins “are your coins, not our coins . . . [i]t’s always your Bitcoin.” When asked what would happen in the event of a bankruptcy, Mr. Mashinsky told customers “coins are returned to their owners even in the case of bankruptcy.”
+Celsius advertised that it knew how to generate high returns with low risk by doing “what Celsius does best”—carefully vetting its financial counterparties and ensuring that when those counterparties borrowed crypto assets from Celsius, they pledged “over 100% collateral” to secure their loans. Celsius sold its customers on the promise that Celsius would pay them “at least 5% annual interest” and that their rewards would equal each customer’s share of up to 80% of Celsius’s revenues.
+
+Another cornerstone of Celsius’s marketing strategy was its promotion of its native CEL token. Celsius told its customers that CEL was its “backbone” with Mr. Mashinsky repeatedly equating the value of CEL with Celsius’s value. Celsius explained that it intended to raise the initial capital to fund its business by selling 325 million CEL through private pre-sales and an initial coin offering (“ICO”) and that these sales would raise $50 million. Celsius told customers that they would receive rewards in CEL that Celsius would obtain from its internal treasury (which would hold an additional 325 million CEL) or by buying CEL in the secondary market. According to Celsius, this process would create a self-sustaining “flywheel.” Celsius’s marketing efforts would start the wheel spinning by generating more users and thus more assets for Celsius to invest; Celsius in turn would earn more profits and buy more CEL in the market that it would use to pay rewards, and as result of the demand spurred by Celsius’s CEL purchases, CEL’s price would increase, generating more earnings for Celsius’s customers.
+
+From its inception, however, Celsius and the driving force behind its operations, Mr. Mashinsky, did not deliver on these promises. Behind the scenes, Celsius conducted its business in a starkly different manner than how it
+marketed itself to its customers in every key respect.
+
+*CEL Trading.*
+
+Celsius abandoned its promise of transparency from its start. Celsius’s first significant transaction after it was formed was to launch its ICO, a transaction that Celsius expected would raise $50 million. That did not happen. Instead, Celsius sold 203 million of the 325 million CEL offered for sale, raising $32 million. But Celsius never told its “community” that it failed to sell all of the CEL. Despite its promises of transparency, Celsius debated internally whether to tell its community how the ICO actually turned out but decided not to do so because it feared its community would be upset. Celsius also did not reveal that while Mr. Mashinsky originally pledged to purchase any unsold tokens from the ICO, he failed to close on that purchase. Those unsold tokens amounted to 117 million CEL. 
+
+Celsius also hijacked its flywheel, concealing from its customers the extent to which it was making the market for CEL. Initially, in 2018 and 2019, when the crypto markets were in decline, Celsius bought CEL, as it advertised it would, to pay rewards. During this time period, the price of CEL remained well below the ICO price of $0.20.
+
+But starting in 2020, Celsius decided to substantially expand its purchases of CEL for the purpose of increasing CEL’s price. Instead of buying CEL when it needed to pay rewards, Celsius began timing its purchases so that they would prop up CEL’s price by creating activity in the market. Celsius also began placing “resting” orders to buy CEL, which were triggered if the price of CEL dipped below a set amount. Celsius also began selling CEL in private over-the-counter (OTC) transactions, while making offsetting purchases of CEL in public markets where it believed its purchases would impact the trading price. Internally, Celsius referred to this new strategy as its “OTC Flywheel.”
+
+Celsius’s buying spree worked to push the price of CEL higher and higher. Although the crypto markets were up in 2020 and 2021, the percentage increase in CEL’s price was significantly greater than the overall market increase, due primarily to Celsius’s purchases of CEL. Between mid-March 2020 (just as Celsius was beginning its buying spree) and June 2021, CEL’s price increased by 14,751%.
+
+Although Celsius told customers that it would purchase CEL to pay customer rewards, it did not tell its customers the extent to which it was making the market for CEL. Instead, in one of his AMAs, Mr. Mashinsky told customers that the “over 2,000 percent increase this last year” in CEL’s price was “a great validation of the utility of [CEL] as well as the flywheel running on its own instead of us having to crank it up once in a while.” But internally, Celsius’s Head of Trading Desk recognized that Celsius was in fact cranking up the flywheel. He wrote to other employees, including Celsius’s then-Chief Financial Officer: “Just to clarify between us three: The last 3-4 months we bought always more CEL than what we pay as interest per week but we did not buy it for the interest payments, that is just what we told the community.” After a round of CEL purchases in September 2020, the same Celsius employees congratulated themselves on “our good work” resulting in “people thinking [the price of CEL] is going to the moon haha.”
+
+The increasing price of CEL had three significant consequences for Celsius and its insiders. First, it significantly inflated Celsius’s balance sheet. Celsius accounted for CEL in two buckets: (i) Treasury CEL consisting of the CEL Celsius minted at the time of the ICO but did not offer for sale; and (ii) Non-Treasury CEL consisting of the CEL that Celsius bought on the market for itself and its customers. In February 2019, Celsius added its Treasury CEL to its balance sheet at then-market prices resulting in an increase in reported assets of $6.6 million. By December 30, 2021, Celsius reported that the market value of its Treasury CEL was $1.5 billion. 
+
+The following chart illustrates how the increasing market price for CEL improved Celsius’s balance sheet and what happened as Celsius could no longer afford to prop up CEL’s price in the run-up to its bankruptcy filing.
+
+[.text-center]
+*TREASURY CEL BOOK VALUES*
+
+image::media/ch09-pillay-img01.png[]
+
+Note: This chart depicts the Treasury CEL values reflected on Celsius’s books and records from 2018 until the second quarter of 2022.
+
+
+[.text-center]
+*NON-TREASURY CEL BOOK VALUES*
+
+image::media/ch09-pillay-img02.png[]
+
+Note: This chart summarizes the non-Treasury CEL values (excluding CEL held to meet customer obligations) reflected on Celsius’s books and records from the second quarter of 2021 until the second quarter of 2022.
+
+Despite the values reflected on its balance sheet, CEL had limited utility, including because there was no market to deploy CEL outside of Celsius’s platform. In 2022, Celsius employees routinely discussed that CEL was “worthless,” stating that its price “should be 0,” and that Celsius should “assume CEL is $0 since we cannot liquidate our current CEL position,” and questioning whether any party (other than Celsius itself) was purchasing CEL.
+
+Second, the increasing price of CEL benefited Celsius’s insiders who held most of the CEL following the ICO and then made millions of dollars selling a substantial portion of their CEL tokens. Between 2018 and the Petition Date, Mr. Mashinsky sold at least 25 million CEL tokens, realizing at least $68.7 million on these sales. S. Daniel Leon, also a founder of Celsius, sold at least 2.6 million CEL tokens for at least $9.74 million.
+
+During the height of Celsius’s market making, Celsius often sought to protect CEL from price drops that it attributed to Mr. Mashinsky’s sales of large amounts of his personal CEL holdings. As a result of Mr. Mashinsky’s sales, Celsius often increased the size of its resting orders to buy all of the CEL that Mr. Mashinsky and his other companies were selling. These trades caused Celsius’s former Chief Financial Officer to write “[w]e are talking about becoming a regulated entity and we are doing something possibly illegal and definitely not compliant.” As one employee noted in an internal Slack communication: “if anyone ever found out our position and how much our founders took in USD could be a very very bad look . . . We are using users USDC to pay for employees worthless CEL . . . All because the company is the one inflating the price to get the valuations to be able to sell back to the company.”
+
+Finally, Celsius did not earn sufficient yield on its crypto asset deployments to fully fund its CEL buybacks. As a result, it began using customer-deposited Bitcoin (BTC) and Ether (ETH) to fund its CEL purchases. But because Celsius lacked adequate reporting systems to track and reconcile customer assets on a coin-by-coin basis, Celsius was unable to track when it was short the necessary coins to meet customer obligations. Celsius was therefore caught off guard in early 2021 when it discovered a shortfall in BTC and ETH (which it had been using to fund CEL buybacks). Because the prices of BTC and ETH were increasing at that time, the amount of dollars it cost Celsius to acquire the necessary number of BTC and ETH also increased. Celsius scrambled to correct the shortfall by using stablecoins to buy or borrow the number of BTC and ETH it needed.
+
+Correcting the shortfall in BTC and ETH cost Celsius approximately $300 million, which it paid in stablecoins. Celsius used customer deposits to acquire those stablecoins. As a result, Celsius was left with a hole in its balance sheet of stablecoins rather than BTC and ETH. That hole continued to grow as a result of Celsius’s continued buybacks of CEL and the significant losses Celsius suffered on some of its deployments in 2021. Celsius’s stablecoin deficit between May 28, 2021 and Celsius’s bankruptcy filing is depicted in the below chart and amounted to a billion-dollar hole in Celsius’s assets. As the chart also demonstrates, as customers began withdrawing BTC and ETH from Celsius in May and June 2022, Celsius had to unwind its borrowings to recover the BTC and ETH it had pledged. As a result, its stablecoin eficit was replaced with a deficit in BTC and ETH.
+
+[.text-center]
+*NET COIN SURPLUS/(DEFICIT) MAY 2021 TO PETITION DATE*
+
+image::media/ch09-pillay-img03.png[]
+
+Note: This chart reflects the net surplus or deficit in all coins (total AUM) categorized by coin type, from May 2021 through the Petition Date.
+
+Celsius recognized that it should not use customer assets to purchase the coins necessary to cover liabilities to other customers. But it justified its use of customer deposits to fill this hole in its balance sheet on the basis that it was not selling customer deposits but instead posting them as collateral to borrow the necessary coins. Celsius also used the proceeds of these borrowings to continue to purchase CEL. In April 2022, Celsius’s Coin Deployment Specialist described Celsius’s practice of “using customer stable coins” and “growing short in customer coins” to buy CEL as “very ponzi like.” A few weeks later when Celsius made another push to prop up the price of CEL, Celsius’s former Vice President of Treasury asked where the cash was coming from to make the CEL purchases and Celsius’s Coin Deployment Specialist replied, “users like always.” This same employee explained that at the time he made this statement, Celsius had “negative equity” and therefore necessarily was using customer funds when it made these purchases.
+
+In addition to using customer deposits, Celsius also turned to the funds it was raising from outside investors to buy CEL. Internally, Celsius’s managers expressed concern that Celsius was using “equity money [to buy CEL] that should be strategically used to grow the company.” When the Examiner asked Celsius’s former Vice President of Treasury why Celsius bought CEL to pay rewards rather than using the CEL it held in Treasury, he acknowledged that the answer lies in who holds the most CEL. Another manager put it more bluntly: “we spent all our cash paying execs and trying to prop up alexs [sic] net worth in CEL token.”
+
+In total, Celsius spent at least $558 million buying its own token on the market. From 2018 through the Petition Date, Celsius transferred at least 223 million CEL from the secondary market to its own wallets, a greater number than the total amount of CEL (203 million) released to the public in the ICO. In effect, Celsius bought every CEL token in the market at least one time and in some instances, twice.
+
+But once Celsius acquired this CEL, it had no ability to deploy its CEL outside of its own platform. In fact, Celsius never liquidated any of its CEL to address its liquidity needs, even as it scrambled to find liquid assets in the run up to June 12, 2022, the date on which it paused all customer withdrawals. Today, Celsius holds essentially the same amount of CEL as it did on January 1, 2022 (an amount which constitutes approximately 95% of all CEL in existence).
+
+*Reward Rates.*
+
+What Celsius told its customers about its reward rates also did not match what Celsius actually did. Celsius did not distribute up to 80% of its revenues to its customers because it had little to no profits to distribute. Celsius also made no effort to set its reward rates based on its yield. When regulators asked Celsius how it set its reward rates, Celsius explained that there was no correlation between the interest rates it paid to customers and the yield it generated from investing customer assets. Despite leading customers to believe that it had a defined reward rate setting policy that allowed it to distribute up to 80% of its revenues to customers, Celsius had no reward policy until July 2021. And the policy it adopted at that time did not correlate reward rates to yield.
+
+Importantly, if Celsius had set its reward rates based on its revenues or profits, those rates would have been substantially lower than what Celsius paid. Instead, Celsius consistently set its reward rates based on what it perceived was necessary to beat the competition and not based upon the yield it was earning from investing customer assets. While this strategy of offering high rates suggested to customers that Celsius was generating the high yield on investments that it advertised, the reality was that for most of Celsius’s existence, the rewards it paid exceeded by substantial amounts the revenues Celsius could earn.
+
+Some in Celsius’s management sounded alarm bells over this practice and attempted to lower reward rates. Mr. Mashinsky, who prioritized growth in Celsius’s customer base over profitability, however, overrode their recommendations and refused to do so. The result was that between 2018 and June 30, 2022, Celsius accrued reward obligations to customers of $1.36 billion more than the net revenue it generated from customer deposits.
+
+The disparity between Celsius’s yield on customer assets and the rewards it paid to customers was a significant reason why Celsius’s net interest margin (referred to as “NIM”), a key indicator of a financial institution’s health, was generally negative. As it did with other financial metrics (such as its profit margin for its mining business) Celsius calculated its NIM aggressively, by comparing the yield on its assets to their cost, instead of using the conventional (and more conservative) method of comparing the yield on assets to liabilities. Internally Celsius’s managers understood this had the effect of overstating Celsius’s NIM, but even as overstated, Celsius’s NIM demonstrated that Celsius was never a profitable company. As one of Celsius’s former Chief Financial Officers put it: while NIM can vary (and even at points be negative), “over time it should be around 3% as otherwise there is no business.” For much of its existence, Celsius’s NIM was either negligible or negative and was never close to 3% .
+
+*Risky Investments.*
+
+Mr. Mashinsky’s insistence that Celsius maintain its high reward rates, often over the objection of other managers, led Celsius to turn to riskier investments to increase its yield. Initially, Celsius deployed its customer assets as it advertised it would—by loaning crypto assets to institutions in the form of fully collateralized loans or allowing customers to use their crypto assets as collateral for loans Celsius made to those customers. But as Celsius’s customer base grew exponentially in the crypto market boom of 2020 and 2021, the need to increase yield to close the gap between customer reward rates and revenue led Celsius to make riskier investments. Celsius made loans that were not fully secured or were unsecured so that it could charge higher interest rates; it placed crypto assets into DeFi and staking protocols; it purchased a DeFi company, KeyFi, Inc. (a purchase that failed within months and now is in litigation); it allocated crypto assets to exchanges; and it invested approximately $604 million in the form of an intercompany loan to start a BTC mining operation.
+
+Despite these material changes to its investment strategies, Celsius continued to promote the idea that it was investing customer funds in low-risk and fully collateralized institutional and retail loans. In 2021, Mr. Mashinsky told the Financial Times that “[f]rom a risk standpoint, we are probably one of the least risky businesses that regulators worldwide have ever seen.” Mr. Mashinsky continued to tell customers that “we only do asset back lending so always have 200% collateral.” In another AMA, he told customers “Celsius is very, very strict who we lend to . . . We do not do unsecured lending.” After he made this statement, Celsius’s then Chief Financial Officer wrote to Celsius’s then Head of the Trading Desk: “I just told [Mr. Mashinsky] that the number [of unsecured loans] is increasing and the overall ratio of collateral with institutions is going down.” The Chief Investment Officer responded that Mr. Mashinsky’s statements were “dangerous” because the borrowers with unsecured loans could tell everyone Mr. Mashinsky is a “liar.” Celsius’s records demonstrate just how far off the mark Mr. Mashinsky’s representations were. In December 2020, approximately 14% of Celsius’s institutional loans were wholly unsecured. By June 2021, it was routine for one-third of Celsius’s institutional loan portfolio to be wholly unsecured and more than half of the portfolio to be under-collateralized, as demonstrated in the following chart:
+
+image::media/ch09-pillay-img04.png[]
+
+Although the above chart appears to indicate that in the Fall of 2021, fully collateralized loans increased, that is misleading because the collateral Celsius accepted did not provide real security. During that time period, Celsius accepted FTX’s native token, FTT, as collateral from FTX, despite knowing that the price of FTT was largely dependent on FTX, and thus failed to provide meaningful security against a default by FTX (the same sort of correlated risk that led lenders not to accept CEL as collateral from Celsius).
+
+The below chart breaks down by asset type the collateral Celsius held over time:
+
+*ASSETS PLEDGED AS COLLATERAL (12/19 – 10/21)*
+
+image::media/ch09-pillay-img05.png[]
+
+Note: This chart presented to Celsius’s Risk Committee describes Celsius’s deployment of coins as collateral for loans over time.
+
+In addition to making riskier loans, in 2021, Celsius recognized losses of over $800 million primarily as a result of investments with Equities First Holdings, LLC, Grayscale, KeyFi, Inc., and Stakehound. Celsius did not report these losses to its customers at the time they were incurred. None of these investments were the fully collateralized institutional loans that Celsius told its customers it was making with their crypto assets.
+
+*Risk Management.*
+
+Although Celsius sold its customers on its ability to manage risk—claiming that risk management was “what Celsius does best”—Celsius did not have a risk management function or written risk policies in place before 2021. In 2021, in response to the significant losses it had suffered, Celsius hired its first risk management team—four individuals who had previously held risk compliance positions with traditional financial institutions. This new team began to institute what were described as “stop-gap” measures to allow time to implement more robust procedures in 2022.
+
+A key priority for this new team was developing an internal audit procedure to ensure risk policies were being followed—a critical component of a robust risk management policy. Although Celsius hired an individual for this audit role in August 2021, Celsius’s executive team delayed his proposals to implement a formal internal audit process. As a result, Celsius never fully implemented a robust risk management policy before it filed for bankruptcy.
+
+Celsius also lacked the ability to accurately track and report on its assets and liabilities, a problem that became more acute as Celsius engaged in riskier deployments. To correct for these problems, Celsius developed two internal reports—the Freeze and Waterfall Reports. But Celsius did not devote the necessary resources to fully develop its Freeze Report, viewing it as a “band-aid” until a better reporting system could be devised. In addition, Celsius employees believed that the Waterfall Report overstated its profitability. An internal Celsius document listing Celsius’s challenges noted that Celsius had “[a]bsolutely pathetic systems of records” and as a result, Celsius did “not do a good job of knowing anything about how our assets are actually performing. Our systems are horrible, and . . . can cause us to take on excessive risk.” Further, Celsius managers knew that these reports incorrectly calculated NIM and therefore presented an inaccurate and overly optimistic view of Celsius’s financial
+performance.
+
+Both reports also did not precisely track Celsius’s assets and liabilities and were only “directional” estimates of Celsius’s assets and liabilities. As a result, when Celsius attempted to execute more sophisticated trading strategies in 2021 and 2022 to increase its yield, it lacked the real-time information about its positions necessary to successfully execute these trades and lost over $150 million. When Celsius’s new Chief Risk Officer reviewed these losses, he expressed concern over the fact that Celsius was engaged in this type of trading because Celsius “had conveyed to the public that we take coins and lend them out.”
+
+*Key Contract Terms.*
+
+Celsius’s Terms of Use, which customers accepted by clicking their agreement when opening a Celsius account, also conflicted with what Celsius told its customers. In its marketing materials and AMAs, Celsius and its managers told customers that the crypto assets they deposited with Celsius were “your assets” and that the coins belonged to the customers. But Celsius’s Terms of Use stated from March 2020 forward that a customer transferred all “rights of ownership” in her crypto assets by depositing them in a Celsius account. Similarly, Mr. Mashinsky told customers that in the event of a bankruptcy they would get their coins back, while the Terms of Use told customers (starting in March 2020) that in the event of bankruptcy they may not be able “to recover or regain ownership” of their crypto assets. 
+
+*Celsius’s Efforts To Erase Its Misrepresentations.*
+
+Internally, Celsius managers recognized that many of the statements that Mr. Mashinsky made during AMAs and in his tweets, particularly about how Celsius was deploying customer assets, were not true. Starting in May 2021 Celsius’s Chief Risk Officer raised the prospect of editing the AMAs after the fact and before posting them to YouTube to eliminate any misleading statements. Mr. Mashinsky resisted that suggestion fearing that any delay would create “FUD” (Fear, Uncertainty, and Doubt) in the community. The AMA that prompted this initial concern continues to be available on the internet.
+
+Throughout 2021 and up through the bankruptcy filing, Celsius continued to identify incorrect statements Mr. Mashinsky made during the AMAs. Lists containing these misstatements were circulated internally. In some instances, Celsius was able to edit the AMAs after posting; in other instances, it was not. But what Celsius and Mr. Mashinsky never did was correct the record after the fact for the thousands of live audience members who heard these misstatements or for those who watched the recorded videos on YouTube before they were edited. Instead, in some instances, internal documents suggest that Celsius employees hoped viewers would not notice the discrepancies that had been
+edited from the videos.
+
+In every key respect—from how Celsius described its contract with its customers to the risks it took with their crypto assets—how Celsius ran it business differed significantly from what Celsius told its customers. The Examiner interviewed and communicated with a number of Celsius’s customers, many of whom stated that Celsius’s misstatements about how it would handle their crypto assets led them to invest significant crypto assets with Celsius that they would not have invested if they had understood the level of risk Celsius was taking or that many of the things Celsius presented in its AMAs, tweets, and other marketing materials were not true.
+
+*Celsius’s Collapse.*
+
+In the run-up to the June 12, 2022 pause on customer withdrawals and Celsius’s July 12, 2022 bankruptcy filing, Celsius’s problems came to a head. During a bull market, in 2021, Celsius still recorded a pre-tax loss of $811 million. As the markets began to fall in 2022, Celsius continued to lose money, reporting a first quarter loss of $165 million. The bear market also made it more difficult to close the gap between Celsius’s reward rates and the yield it could earn on its customers’ assets and fill the hole in its balance sheet as a result of its CEL buybacks and other losses. In January 2022, for example, nearly every opportunity Celsius had to deploy its BTC was below its cost of funding, contributing to an overall continuing firmwide negative NIM. As a result, Celsius’s Treasury department began pushing Mr. Mashinsky to change the way Celsius set its reward rates so that those rates did not exceed Celsius’s yield. Mr. Mashinsky continued to resist because of his belief that “all of our customers will leave us” if rates were cut. In particular, Mr. Mashinsky refused to reduce the reward rates for CEL or to suspend the ability of customers to collateralize their loans with CEL. When Celsius’s new Chief Financial Officer pressed these issues, Mr. Mashinsky told him to “tell your team to stay in their lane” and that he did not need help with marketing, as he would “bring in a few billion just like I brought in the first 20B.”
+
+Instead of lowering the reward rate for CEL, Mr. Mashinsky did the opposite. He instituted a policy that allowed any user that held 1 CEL to earn a 10% bonus on their in-CEL earnings. Celsius’s customers quickly took advantage of this new offer. Because Celsius did not charge for swaps, customers began to arbitrage, taking their higher CEL rewards and then swapping that CEL for other coins.
+
+As Celsius struggled with its reward rates, it also began experiencing a severe and rapid reduction in its liquidity. By early May 2022, Celsius’s capital was “near zero.” And Celsius’s employees were openly speculating about its ability to survive. Between May 7 and May 9, 2022, as the price of the Terra stablecoin (UST) dropped, Celsius scrambled to reduce its exposure, escaping with a $30 million loss. By May 11, 2022, Celsius had failed its own Modeled Liquidity Outflow (or “MLO”) test. Celsius developed the MLO test to determine how much of each type of coin it would need to hold to meet anticipated withdrawals if prices dropped significantly over one day or over one week. When he tests began to fail, however, Celsius relaxed the test instead of prohibiting further deployments as its Liquidity Risk Policy required.
+
+Between May 9 and May 24, 2022, Celsius began to experience significant customer withdrawals—a net loss of over $1.4 billion in assets:
+
+image::media/ch09-pillay-img06.png[]
+
+On May 12, 2022, the price of CEL had fallen to $0.57, causing one employee to comment CEL was “legit being wiped out.” Celsius propped up the market that day, leading to a temporary increase in the price to $0.90, which its former Vice President of Treasury took as “proof we are the only buyers.” Later on May 12, Mr. Mashinsky directed the purchase of $5 million of CEL, but Celsius only had $1.6 million of stablecoin and could not make the purchase, marking the end of Celsius’s sustained efforts to support CEL’s price. By June 12, 2022, the price of CEL had fallen to $0.28.
+
+By May 27, 2022, Celsius only had sufficient liquidity to meet 30% of its BTC obligations and 21% of its ETH obligations to customers. Celsius also had triggered the modified stress test introduced only three weeks earlier. The percentage of Celsius’s assets that constituted “Deployable Liquidity” (i.e., assets Celsius could access within seven days) went from approximately 49% in February to under 33% by the end of May and under 24% by the Pause. In other words, a substantial majority of Celsius’s assets were essentially unavailable to meet withdrawal requests.
+
+Throughout May 2022, as Celsius’s employees openly expressed the view that Celsius was a “sinking ship” without a plan, Mr. Mashinsky continued to assure customers that all was well at Celsius. On May 11, 2022, both Celsius and Mr. Mashinsky posted on Twitter that “All user funds are safe.” That same day, Mr. Mashinsky posted that “Celsius has not experienced any significant losses and all funds are safe.” At the beginning of the May 13, 2022 AMA, he stated “Celsius is stronger than ever.”
+
+Celsius also continued to focus on growth, attempting to attract additional deposits by offering promo codes and reassurances about its liquidity. In a May 27, 2022 AMA, Celsius offered rewards for referring friends to Celsius. On May 29, 2022, Mr. Mashinsky offered to pay $1,000 to one new Celsius customer that week.
+
+In early June 2022, Mr. Mashinsky continued to publicly represent that customers’ crypto assets were safe at Celsius. He pushed promo and referral codes to attract new customers. But on June 5, 2022, a report appeared that Stakehound lost the keys to 35,000 of Celsius’s ETH one year earlier in May 2021—a loss that Celsius had not previously made public. In response to those reports, between June 7 and 10, 2022, Celsius published a series of blog posts and continued to livestream AMAs in which it continued to emphasize its core themes of transparency and liquidity. Mr. Mashinsky told a June 10 AMA audience that Celsius had “billions” in liquidity. Behind the scenes, on June 9, 2022, the Risk Committee reported that additional withdrawals would deplete Celsius’s liquidity.
+
+By June 12, 2022, Celsius was forced to pause all withdrawals. One month later, on July 12, 2022, Celsius filed its chapter 11 petition. Celsius’s former Vice President of Treasury summed up Celsius’s problems as follows: “Pay unsustainable yields so you can grow AUM [assets under management], forcing you to take on more risk, experience losses bc of those risks + bad controls / judgment and you are where you are.”
+
+*Celsius’s Use Of New Customer Assets To Fund Withdrawals.*
+
+The Court directed the Examiner to investigate “whether the Debtors used new deposits being made by customers to make payments or otherwise meet obligations to existing customers at a time when the Debtors had no other sources (whether liquid or which could have been monetized) from which to make such payments or meet such obligations.”
+
+To address this question, the Examiner assessed Celsius’s liquidity in the time period leading up to the pause of customer withdrawals. Celsius ranked its assets based on their ability to be liquidated within certain time frames. Assets ranked in Tier 1 were capable of being liquidated immediately and assets ranked in Tiers 5 and 6 were considered illiquid because only a small percentage of deployments in these tiers could be unwound. Assets in Tiers 2, 3, and 4 were capable of being liquidated in one day, two to three days, and four to seven days respectively.
+
+The Examiner reviewed all coin types and then for each coin category, the percentage of assets within each tier, as categorized by Celsius, and included all assets under management. The charts below depict the liquidity shortfall in respective tiers over all coins between February 28 and June 20, 2022.
+
+[.text-center]
+*ALL COIN LIQUIDITY ($)*
+
+image::media/ch09-pillay-img07.png[]
+
+Note: This chart reflects all coins comprising Celsius AUM (excluding CEL and custody assets) measured in dollars, in Liquidity Tiers 1, 1-3, and 1-4 as reflected in Celsius’s records.
+
+[.text-center]
+*ALL COIN LIQUIDITY (%)*
+
+image::media/ch09-pillay-img08.png[]
+
+Note: This chart reflects all coins comprising Celsius AUM (excluding CEL and custody assets) measured as a percentage of all coins in AUM, in Liquidity Tiers 1, 1-3, and 1-4 as reflected in Celsius’s records.
+
+As these charts demonstrate, due in part to the billion-dollar hole in its balance sheet, Celsius lacked liquidity to cover anticipated future withdrawals, and its remaining liquid assets were being quickly depleted. If Celsius had not instituted the Pause and the run on the bank continued, new customer deposits inevitably would have become the only liquid source of coins for Celsius to fund withdrawals.
+
+But as of the Pause, Celsius appeared to satisfy the withdrawal requests from the commingled pool of crypto assets under management. In some instances, however, between June 9 and June 12, Celsius did directly use new customer deposits to fund customer withdrawal requests. The detail regarding these transactions is set forth in the Report. The Examiner’s identification of the instances where Celsius directly used new customer deposits to fund customer withdrawals is not a comprehensive or exhaustive list of all transactions for all time periods.
+
+*Celsius Mining’s Utility Obligations.*
+
+The Examiner also was tasked with investigating the “current status of the utility obligations of Celsius’s Bitcoin mining business.” Celsius Mining LLC (“Celsius Mining”) conducts its Bitcoin mining at sites operated by third-party hosts and at sites it owns and operates. The fees it pays its third-party mining hosts include utility charges. Celsius Mining pays utilities directly for the sites it owns and operates.
+
+Celsius Mining’s unpaid utility-related bills total $13,982,152. Of this amount, $8,381,830 consists of post-petition amounts owed to one of its mining hosts that are disputed. The remaining balance of $5,600,322 consists of pre-petition invoices that are either disputed or that were not paid due to the bankruptcy filing. Celsius Mining’s mining hosts, however, also hold prepayment balances totaling $46,809,756, which may be available to offset Celsius Mining’s obligations.
+
+*Celsius’s Use, Value Added, And Sale Tax Obligations.*
+
+The Examiner’s investigation into Celsius’s “procedures for paying sales taxes, use taxes and value added taxes” uncovered significant tax compliance deficiencies. Celsius did not employ any dedicated tax professionals for the first three years of its existence. Once Celsius established a tax department in June 2021, its professionals failed to institute the necessary systems and procedures to ensure that its operating subsidiaries complied with their use tax and value added tax (“VAT”) obligations on a timely basis. The result is that Celsius Mining owed $16.5 million in use taxes as of the Petition Date and may owe $6.6 million in use taxes after the Petition Date. In addition, Celsius Network Limited (“Celsius Network (UK)”), a United Kingdom private limited company, which until August 2021 operated Celsius’s customer-facing network business, has reserved $3.7 million for its potential VAT liability.
+
+Celsius Mining incurs significant use tax liabilities, primarily when deploying mining rigs in the United States that it purchased from foreign vendors that do not collect sales tax as part of the transactions and when there is no available tax exemption or exclusion. When Celsius Mining deploys those mining rigs (i.e., starts operating the mining rigs), it must pay use tax to the jurisdiction in which the mining rigs will be operated. Celsius Mining also has the potential to incur additional use tax when it moves mining rigs from one jurisdiction to another.
+
+With respect to use taxes, the Examiner’s investigation revealed that Celsius and Celsius Mining lacked adequate systems and procedures to track and to timely pay use taxes when due. These failures, however, did not create use tax compliance failures until 2022. Prior to 2022, Celsius Mining’s use tax obligations were satisfied by either paying sales tax to its United States vendors when no exemptions or exclusions were available or relying on its data center host, Core Scientific, Inc., to identify and obtain the appropriate exemptions.
+
+That changed in 2022 when Celsius Mining began purchasing mining rigs from foreign vendors that did not collect sales taxes, triggering the obligation to pay use taxes. Although contemporaneous emails and other documents demonstrate that questions were raised at the end of 2021 and throughout the spring of 2022 about the need to address use tax issues with respect to the foreign-sourced mining rigs that were expected to be deployed in 2022, no one in Celsius’s tax department took responsibility for ensuring that Celsius Mining was addressing its use tax obligations. As a result, neither Celsius Mining nor Celsius’s tax department applied for relevant use tax exemptions in Pennsylvania and Georgia—the two states in which Celsius Mining deployed foreign-purchased mining rigs before the bankruptcy filing. Lior Koren, Celsius’s most senior tax professional, told the Examiner that it was “unknown to [him]” how or why Celsius Mining did not apply for use tax exemptions on a timely basis. Celsius’s tax professionals are attempting to mitigate the consequences of this failure, but if those efforts are unsuccessful, Celsius Mining will owe  ubstantial pre-petition use taxes.
+
+Celsius Mining’s lack of coordination with Celsius’s tax department continued even after June 2022, when Mr. Morgan told the Examiner he first believed he had responsibility for ensuring Celsius Mining’s compliance with its use tax obligations. After the filing of the bankruptcy cases, Celsius Mining deployed foreign-sourced mining rigs in Texas, triggering an estimated $6.6 million in use tax liabilities. Celsius’s tax professionals are now working after the fact to address this liability, which has not been paid.
+
+With respect to Celsius Network (UK)’s VAT liability, in 2021, Celsius engaged Mazars to advise on its VAT obligations. Celsius Network (UK) did not receive its first letter from Mazars about its obligation to register with the United Kingdom’s tax authority, HM Revenue & Customs (“HMRC”) and pay VAT until January 14, 2022—two years after it first met the threshold to register with HMRC and pay VAT. Celsius explains this delay by pointing to the fact that its first tax professional was not on board until June 2021.
+
+Based on Mazar’s advice, Celsius Network (UK) believes that it was not required to register with the United Kingdom’s applicable taxing authority until January 2020 and that Celsius Network (UK) owes approximately $1.085 million in VAT for its business activities between January 1, 2020 and July 31, 2021. Celsius Network (UK) is now working with Mazars to complete its registration, and it intends to file a VAT return and seek mitigation of any late penalties associated with the VAT it owes. Celsius Network (UK) has obtained professional advice that its activities no longer trigger VAT obligations because it transferred its customer-facing business to a U.S. entity in August 2021. 
+
+*III. Investigative Steps.*
+
+The Examiner’s Final Report is the culmination of her review of voluminous data and records, as well as information gathered during interviews of current and former Celsius employees, customers, and vendors. The Examiner also met with numerous interested parties, including representatives of Celsius, the Unsecured Creditors’ Committee, state and federal regulatory agencies, and the ad hoc committees from whom she gathered relevant information.
+
+&period;&period;&period;&period;+
+&period;&period;&period;&period;
+
+
+[[sec_pillay_footnote_1]]
+[1] Order Approving the Appointment of Chapter 11 Examiner dated September 29, 2022, In re Celsius Network LLC, Case No. 22-10964 (MG) [Dkt. 923]; Order Directing Appointment of an Examiner Pursuant to Section 1104(c) of the Bankruptcy Code dated September 14, 2022, In re Celsius Network LLC, Case No. 22-10964 (MG) [Dkt. 820] (“Examiner Order”). Unless otherwise indicated, all references to the “Dkt.” are to filings found on the docket for the lead case, In re Celsius Network LLC, Case No. 22-10964 (MG). +
+Debtors in this case are Celsius Network LLC; Celsius KeyFi LLC; Celsius Lending LLC; Celsius Mining LLC; Celsius Network Inc.; Celsius Network Limited; Celsius Networks Lending LLC; Celsius US Holding LLC; GK8 Ltd.; GK8 UK Limited; and GK8 USA LLC. For ease of reference, this Report uses “Celsius” to include Celsius Network LLC and its affiliated debtors and debtors-in-possession.
+[[sec_pillay_footnote_2]]
+[2] Examiner Order at ¶ 16.
+[[sec_pillay_footnote_3]]
+[3] Examiner’s Motion to Confirm Examination Scope or Alternatively for Expansion of the Scope of the Examination dated October 18, 2022 [Dkt. 1112].
+[[sec_pillay_footnote_4]]
+[4] Order Approving Examiner’s Motion to Confirm Examination Scope or Alternatively For Expansion of the Scope of the Examination dated November 1, 2022 [Dkt. 1260] (“Order Approving Examiner’s Motion”).
+[[sec_pillay_footnote_5]]
+[5] Hearing Transcript (November 1, 2022), at 80:14-18.
+[[sec_pillay_footnote_6]]
+[6] Stipulation and Agreed Order Modifying the Scope of Examiner Order dated November 14, 2022 [Dkt. 1343] (“Stipulation and Agreed Order”).
+[[sec_pillay_footnote_7]]
+[7] Examiner Order at ¶ 3.
+[[sec_pillay_footnote_8]]
+[8] Order Approving Examiner’s Motion at ¶ 2.
+[[sec_pillay_footnote_9]]
+[9] Id. at ¶ 3.
+[[sec_pillay_footnote_10]]
+[10] Stipulation and Agreed Order at ¶ 1.
+[[sec_pillay_footnote_11]]
+[11] Examiner Order at ¶ 3.
+[[sec_pillay_footnote_12]]
+[12] Id. at ¶ 3.
+[[sec_pillay_footnote_13]]
+[13] Interim Report Of Shoba Pillay, Examiner dated November 19, 2022 [Dkt. 1411] (“Examiner’s Interim Report”).
+____
+
+=== Discussion Questions ===
+. what should the question be?
