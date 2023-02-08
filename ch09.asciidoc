@@ -824,7 +824,7 @@ Based on Mazar’s advice, Celsius Network (UK) believes that it was not require
 
 The Examiner’s Final Report is the culmination of her review of voluminous data and records, as well as information gathered during interviews of current and former Celsius employees, customers, and vendors. The Examiner also met with numerous interested parties, including representatives of Celsius, the Unsecured Creditors’ Committee, state and federal regulatory agencies, and the ad hoc committees from whom she gathered relevant information.
 
-&period;&period;&period;&period;+
+&period;&period;&period;&period; +
 &period;&period;&period;&period;
 
 
