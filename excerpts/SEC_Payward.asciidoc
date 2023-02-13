@@ -1,0 +1,386 @@
+== Payward Ventures and Payward Trading ==
+
+[quote, SEC v. Payward Ventures and Payward Trading&comma; Case No. 23-cv-588, https://www.sec.gov/litigation/complaints/2023/comp-pr2023-25.pdf]
+____
+[.text-center]
+*UNITED STATES DISTRICT COURT +
+NORTHERN DISTRICT OF CALIFORNIA +
+SAN FRANCISCO DIVISION*
+
+
+[cols="1,1", frame=none, grid=none]
+|===
+
+|SECURITIES AND EXCHANGE COMMISSION, +
+&nbsp; +
+Plaintiff, +
+&nbsp; +
+v. +
+&nbsp; +
+PAYWARD VENTURES, INC. (D/B/A KRAKEN); +
+and +
+PAYWARD TRADING, LTD. (D/B/A KRAKEN), +
+&nbsp; +
+Defendents.
+
+|&nbsp; +
+&nbsp; +
+Case No. 23-cv-588  +
+&nbsp; +
+&nbsp; +
+*COMPLAINT AND DEMAND FOR JURY TRIAL*
+|===
+Plaintiff Securities and Exchange Commission (the “SEC” or “Commission”), for its Complaint against Defendants Payward Ventures, Inc. d/b/a Kraken and Payward Trading, Ltd. d/b/a Kraken (collectively “Defendants” or “Kraken”), alleges as follows: 
+
+[.text-center]
+[underline]#*SUMMARY*#
+
+. This case concerns the illegal unregistered offer and sale of securities involving the staking of crypto assets.xref:sec_payward_footnote_1[^*(1)*^] In particular, Defendants have offered and sold an investment contract to the general public, including United States investors, whereby investors transfer certain crypto assets to Kraken for “staking” in exchange for advertised annual investment returns of as much as 21% (the “Kraken Staking Program” or “Program”).
+. “Staking” concerns the “proof of stake” validation protocols that certain blockchains utilize. These protocols offer rewards to those who “validate”—or confirm—transactions on the blockchain. To become a validator and obtain such rewards, holders of crypto assets must first “stake”—or commit—crypto assets (typically, the “native” crypto asset on a particular blockchain such as Ethereum (ETH), Cardano (ADA), Polkadot (DOT), and Cosmos (ATOM)). Validators are selected based on the size of their stake, among other factors, creating an incentive to stake, or commit, greater quantities of crypto assets. The protocols incentivize validators to add legitimate transactions to the blockchain because validators are rewarded if they do and could be penalized if they do not, including by having the staked crypto assets “slashed” (or destroyed).
+. The Kraken Staking Program is an investment program created by Defendants that aggregates investors’ crypto assets to enable Kraken to stake these pooled investor assets and achieve a competitive advantage in the staking marketplace. Through this pooling of crypto assets and Defendants’ efforts, the Kraken Staking Program purports to offer investors benefits that are not available to investors who stake on their own. Among other things, Defendants advertise regular investment returns and payouts, no staking minimums, their technical expertise in staking, and an easy-to-use platform created by Defendants. In addition, Defendants offer investors instant rewards accrual and the ability instantly to
+unstake (essentially, to take back the assets immediately).
+. Defendants market the Kraken Staking Program by touting specified investment returns for certain staking-eligible crypto assets on the kraken.com website, on social media channels, and through advertisement emails. Defendants determine these returns, not the underlying blockchain protocols, and the returns are not necessarily dependent on the actual returns that Kraken receives from staking. If interested in obtaining these returns, investors can transfer eligible crypto assets to the Program, including by first purchasing the tokens from Kraken’s trading platform for the market price of the token plus a fee or transferring the eligible crypto assets obtained elsewhere to Kraken. Defendants pool these tokens, designating some for staking and some purportedly as a liquidity reserve. Investors lose possession and control over their crypto assets when they transfer those assets to Defendants and accordingly take on risks associated with the Kraken platform.
+. Pooling and retaining control over the tokens potentially reduces Defendants’ transaction costs and risks and, in the case of tokens actually staked by Defendants to proof of stake protocols, increases the likelihood that Defendants will be selected to validate blockchain transactions and therefore earn rewards, and provides smoother, more reliable rewards. Defendants advertise that their significant efforts, discussed in more detail below, provide investors with constant and regular returns (called “rewards”), more so than investors could achieve if they tried to implement a staking strategy on their own without the benefit of Defendants’ scale and expertise.
+. By April 2022, U.S. investors had over $2.7 billion worth of crypto assets invested in the Kraken Staking Program. Kraken has earned approximately $147 million in net revenue from the Program since its commencement, and a substantial portion of this net revenue—more than $45 million—is attributable to crypto assets obtained from U.S. investors. By June 2022, more than 135,000 unique U.S.-based usernames had transferred crypto assets to participate in the Kraken Staking Program.
+. Through the Kraken Staking Program, Defendants have offered and sold investment contracts without registering the offer or sales with the SEC as required by the federal securities laws, and no exemption from the registration requirement applied. The absence of any registration statement means that investors have lacked material information about the Kraken Staking Program. Missing material information includes, but is not limited to, the business and financial condition of Defendants, the fees charged by Defendants, the extent of Defendants’ profits, and specific and detailed risks of the investment, including how Defendants determine to stake investor tokens or purportedly hold them in reserve and the extent of these purported liquidity reserves, or whether tokens are put to some other use. Investors have had no insight into Defendants’ financial condition and whether Defendants have the means of paying the marketed returns—and indeed, per the Kraken Terms of Service, Defendants retain the right not to pay any investor return. Defendants have disclosed only the information that they wish, not the information required by law. 
+. Defendants continue to offer and sell the Kraken Staking Program without any registration statement, meaning that, until the illegal offering is enjoined, investors will continue to bear the substantial risk resulting from Defendants’ violations of the federal securities laws. 
+
+[.text-center]
+[underline]#*VIOLATIONS*#
+
+[start=9]
+. By engaging in the conduct set forth in this Complaint, Defendants engaged in and are currently engaging in the unlawful offer and sale of securities in violation of Sections 5(a) and 5(c) of the Securities Act of 1933 (“Securities Act”) [15 U.S.C. §§ 77e(a) and 77e(c)].
+. Unless Defendants are permanently restrained and enjoined, they will continue to engage in the acts, practices, and courses of business set forth in this Complaint and in acts, practices, and courses of business of similar type and object.
+
+[.text-center]
+[underline]#*NATURE OF THE PROCEEDING AND RELIEF SOUGHT*#
+
+[start=11]
+. The Commission brings this action pursuant to the authority conferred upon it by Section 20 of the Securities Act [15 U.S.C. § 77t].
+. The Commission seeks a final judgment: (a) permanently enjoining Defendants from violating Sections 5(a) and 5(c) of the Securities Act; (b) permanently enjoining Defendants and any entity controlled by them from, directly or indirectly, offering or selling securities through crypto asset staking services or staking programs; (c) ordering Defendants to disgorge their ill-gotten gains and to pay prejudgment interest thereon pursuant to Section 21(d)(3), (5) and (7) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S.C. § 78u(d)(3), (5) and (7)]; and (d) imposing civil money penalties on Defendants pursuant to Section 20(d) of the Securities Act [15 U.S.C § 77t(d)]. 
+
+[.text-center]
+[underline]#*JURISDICTION AND VENUE*#
+
+[start=13]
+. This Court has jurisdiction over this action pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)]. Defendants, directly or indirectly, have made use of the means or instruments of transportation or communication in interstate commerce or of the mails in connection with the transactions, acts, practices, and courses of business alleged herein.
+. Venue is proper in this District pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)]. Defendants marketed and offered the Kraken Staking Program to residents of this District, including through the kraken.com website and social media, and, according to a filing made with the California Secretary of State, Defendant Payward
+Ventures, Inc. has its principal address in this District. 
+
+[.text-center]
+[underline]#*INTRADISTRICT ASSIGNMENT*#
+
+[start=15]
+. Pursuant to Civil Local Rule 3-2(d), the case properly is assigned to the San Francisco Division because, according to records filed with the California Secretary of State, Defendant Payward Ventures, Inc. has its principal address in San Francisco, California, and a substantial part of the events and omissions giving rise to the violations occurred in San Francisco County.
+
+[.text-center]
+[underline]#*DEFENDANTS*#
+
+[start=16]
+. *Payward Ventures, Inc., d/b/a Kraken (“Ventures”),* is a Delaware corporation, and, according to records filed with the California Secretary of State, has a principal address of 237 Kearny St., #102, San Francisco, California, 94108. Ventures operates Kraken’s online crypto asset trading platform. From its inception until October 2021, Ventures also offered and managed the Kraken Staking Program to U.S. investors, per the Kraken Terms of Service. Since the Staking Program’s inception, Ventures has maintained the wallets and private keys associated with the Kraken Staking Program.
+. *Payward Trading, Ltd. d/b/a Kraken (“Trading”)* is a corporation registered in the British Virgin Islands. Trading has offered and managed the Kraken Staking Program to U.S. investors since October 2021, per the Kraken Terms of Service. Trading is a  wholly-owned subsidiary of Seven Cities Pte Ltd., a corporation registered in Singapore;
+Seven Cities Pte Ltd., in turn, is a wholly-owned subsidiary of Payward, Inc., which is also the parent company of Ventures.
+
+[.text-center]
+[underline]#*RELATED ENTITY*#
+
+[start=18]
+. Payward, Inc. (“Payward”) is a Delaware corporation, and, according to records filed with the California Secretary of State, has a principal address of 237 Kearny St., #102, San Francisco, California 94108. Payward is the corporate parent of Ventures and Trading.
+
+[.text-center]
+[underline]#*STATUTORY AND LEGAL FRAMEWORK*#
+
+[start=19]
+. The Securities Act sets forth a regime of full and fair disclosure, in contrast to traditional commercial principles of caveat emptor. Congress mandated that persons who offer and sell securities to the investing public provide sufficient, accurate information to allow investors to make informed decisions before they invest.
+. The definition of a “security” under the Securities Act includes a wide range of investment vehicles, including “investment contracts.” Investment contracts are instruments through which a person invests money in a common enterprise and reasonably expects profits or returns derived from the entrepreneurial or managerial efforts of others. SEC v. W.J. Howey Co., 328 U.S. 293, 299 (1946). Courts have found that novel or unique investment vehicles constitute investment contracts, including interests in orange groves, animal breeding programs, railroads, mobile phones, and enterprises that exist only on the Internet, including crypto assets.
+. Sections 5(a) and 5(c) of the Securities Act require that issuers of securities register the offer or sale of securities with the SEC, unless an exemption applies. Similarly, those provisions prohibit engaging in the unregistered offer and sale of such securities. Registration statements relating to the offer and sale of securities provide public investors with material information about the issuer and the offering, including financial and managerial information, how the issuer will use offering proceeds, and the risks and trends that affect the enterprise and an investment in its securities. 
+
+[.text-center]
+[underline]#*BACKGROUND ON CRYPTO ASSETS AND STAKING*#
+
+[start=22]
+. The term “crypto asset” generally refers to an asset issued and/or transferred using distributed ledger or blockchain technology, including assets sometimes referred to as “cryptocurrencies,” digital “coins,” and digital “tokens.”
+. A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitallyrecorded data packages. The system relies on cryptographic techniques for secure recording of transactions.
+. People can own crypto assets and hold them at a blockchain address under their control. Typically, someone controls an address—and the crypto assets held at that address—with a private cryptographic key for that address. Anyone with that private key can sign and submit a transaction to the blockchain that will transfer the crypto assets at that address to another address. Typically, in a single blockchain address, people can hold multiple types of crypto assets.
+. Individuals often control multiple blockchain addresses and store their private keys for those addresses in software called a “wallet.” A “wallet” allows them to manage their crypto assets and key information and to communicate with a blockchain. People also can own crypto assets by opening an account on a trading platform (like the Kraken trading platform) and then transferring their crypto assets from their own blockchain address to an address controlled by the trading platform.
+. Crypto assets may be traded on crypto asset trading platforms in exchange for other crypto assets or fiat currency (legal tender issued by a country), at times by being allocated to investors’ accounts in the records of the platform (i.e., “off-chain”), without necessarily being transferred from one blockchain address to another (i.e., “on-chain”).
+Crypto asset trading platforms typically receive a fee for facilitating such trades. 
+. Blockchains typically employ a consensus mechanism to “validate” crypto asset transactions. A consensus mechanism describes the particular protocol used by a blockchain to agree on which transactions are valid, to update the blockchain, and to compensate certain participants with additional crypto assets. There can be multiple sources
+for the compensation, including from fees charged to those transacting on the blockchain or from new crypto assets created or “mined” by the validation of transactions, under the terms of the blockchain protocol. Compensation in the form of newly issued crypto assets may dilute the value of the existing tokens.
+. Validators who participate in confirming transactions on blockchains may collect fees to participate in the validation of transactions.
+. The consensus mechanism typically is a set of rules followed by the validator nodes, or computers on a blockchain’s network running the blockchain protocol that are able to validate transactions. “Proof of work” and “proof of stake” describe the two major “consensus mechanisms” used by blockchains.
+. Proof of work, such as in the protocol used by the Bitcoin blockchain, involves computers, or validator nodes, attempting to “mine” a “block” of transactions, in part, by guessing a pre-determined number. The first miner to successfully guess this number earns the right to update the blockchain and to be rewarded with crypto assets. This mining process typically requires a large amount of computing power and energy.
+. Proof of stake, used by blockchains such as the Cardano (ADA), Ethereum (ETH), Polkadot (DOT), and Cosmos (ATOM) blockchains, involves the protocol selecting from crypto asset holders who have committed or “staked” a minimum number of tokens to validate transactions. Typically, users can stake their own crypto assets, or they can delegate their crypto assets to a particular node for that node to use them in staking. Nodes often act as “staking pools” when others designate their crypto assets to that node for staking of their tokens. A person or entity operating a node is called a “node operator.”
+. In general, the greater portion of crypto assets staked by an individual or group relative to all the staked tokens, the more likely that holder is to be selected as a validator and earn the ability to receive the staking rewards. Thus, the most successful staking operations are those that maximize the chances of being selected by the protocol, and thus being rewarded with more crypto assets—typically by staking a large number of tokens and minimizing server downtime. In addition, for some crypto assets, the probability of being selected as validator increases when a node operator delegates its own tokens for staking alongside its customers.
+. Typically, crypto assets are unavailable for trading or other purposes when staked, while protocols will automatically distribute a portion of the crypto asset rewards to the successful node operator. To encourage more nodes to participate in validation, protocols typically cap rewards once the nodes reach a certain size. As the cap is approached, node operators can start an additional node.
+. The “staking” of crypto assets is meant to incentivize good faith and honest validation of transactions, as staked tokens may be “slashed” (or destroyed), and no rewards will be paid, if transactions are not validated appropriately. Typically, the protocol rewards the selected validator with additional crypto assets only if the validator successfully and correctly validates a new block on the chain.
+. Another component of certain proof of stake protocols is known as the “bonding”/“unbonding” period. The bonding period is a length of time set by the protocol for a crypto asset to be staked by a validator in order to begin earning rewards. The unbonding period is a length of time set by the protocol to release staked crypto assets back to the validator. In certain cases, a bonding period may mean that it can take weeks before a crypto asset validator can begin earning rewards. The unbonding period can mean it can take weeks for a crypto asset validator to unbond tokens (release them from staking) and potentially do something else with them, such as trade them for other crypto assets or exchange them for fiat. During the time the crypto assets are bonded, the crypto asset owners are unable to transact in them, for example, to react to market price fluctuations of the tokens. 
+. Certain protocols charge crypto asset validators fees to stake and unstake tokens, require an upfront refundable deposit in addition to the tokens staked, and/or require the delegation of a minimum amount of tokens to participate in staking. 
+
+[.text-center]
+[underline]#*FACTS*#
+
+[upperroman]
+. THE KRAKEN STAKING PROGRAM
+
+[start=37]
+. In December 2019, Kraken launched its Staking Program as a means to participate in, and profit from, the “proof of stake” consensus mechanism of certain blockchains, by obtaining investors’ crypto assets, pooling those assets, and then staking some portion of those assets in order to obtain rewards, a portion of which Kraken distributes to the investors and a portion of which Kraken retains.
+. Kraken advertises that the Program offers investors worldwide, including most U.S. investors, an investment opportunity to participate in proof of stake consensus and receive benefits that may not be available to those investors if they staked on their own. For example, Defendants’ Program offers to investors no staking minimums, no upfront fees or deposits, purported industry-leading cybersecurity protections, a simplified and easy-to-use one-stop-shop trading platform, and the ability, through Kraken’s efforts, to obtain returns based on Kraken’s participation in proof of stake activities for different types of tokens. In addition, for most of the Kraken Staking Program’s staking-eligible crypto assets, the Program also offers investors instant reward accrual, the ability to instantly “unstake” (i.e., to demand the immediate return of crypto assets and not have to comply with unbonding periods that would apply if the investor participated directly), automatic weekly or twice-weekly payout dates, and custom and steady returns with promised minimum returns.
+
+[upperalpha]
+. [underline]#*Defendants’ Efforts Result In Unique Benefits To Investors In The Kraken Staking Program*#
+
+[start=39]
+. The Kraken Staking Program has several features that differentiate it from staking and earning rewards on your own.
+
+[.text-center]
+[underline]#*Passive Investment Opportunity*#
+
+[start=40]
+. The Kraken Staking Program is a passive investment opportunity. To participate, investors need only establish an account at kraken.com and purchase stakingeligible tokens from the kraken.com trading platform (for a fee), or transfer their existing staking-eligible tokens to a kraken.com account. Investors then sign-up for the Kraken Staking Program and transfer their crypto assets to the possession and control of Defendants.xref:sec_payward_footnote_2[^*(2)*^]
+. Defendants then perform all of the efforts necessary and expected by the investors to obtain the advertised and promised investment return. These efforts include:
+** Determining how many tokens to actually stake (see infra, ¶¶ 51-54);
+** Determining how many tokens to reserve in order to provide “instant unstaking” and liquidity for investors (see infra, ¶¶ 49-52);
+** Staking investor tokens, operating the nodes, and validating blockchain transactions in order to obtain rewards;
+** Determining the pro rata investor return (see infra, ¶¶ 44-48);
+** Distributing those investor returns;
+** Providing a user-friendly, one-stop-shop investor interface (see infra, ¶ 58); and
+** Taking further steps as detailed below.
+
+[.text-center]
+[underline]#*Pooling of Crypto Assets*#
+
+[start=42]
+. Defendants control and pool crypto assets invested in the Kraken Staking Program together with their own proprietary tokens in wallets controlled by Defendants. They then determine when and how many of these pooled tokens to stake in the underlying protocol.
+. The pooling of tokens, and the correspondingly larger number of tokens to be staked in the proof of stake protocols, increases the probability that the blockchain protocol will select Defendants to validate transactions and earn rewards and provides smoother, more reliable rewards. According to a Kraken Blog Post dated December 8, 2020: “As staking via Kraken pools client tokens together, it improves the chances that they will be selected to verify transactions, thereby increasing potential payouts.” 
+
+[.text-center]
+[underline]#*Kraken-Determined Investment Returns*#
+
+[start=44]
+. The returns that investors receive from the Kraken Staking Program differ from the returns that an investor could expect if the investor staked directly (assuming the investor even had the technological capability and sufficient tokens to stake and obtain rewards). Investors in the Kraken Staking Program receive a reward determined by Defendants, not the reward determined by the underlying blockchain protocol.
+. In general, staking services can offer set or discretionary reward amounts. Here, Defendants retain the discretion to determine the reward amounts while marketing specific returns (e.g., 4-7% for Ethereum, 9-12% for Polkadot, and 12-15% for Cosmos). In other words, Defendants reserve the right not to pay this advertised return—or indeed any reward. The Kraken Terms of Service states that the marketed return is “an estimate only and not guaranteed” and “may change at any time in Payward Trading’s sole discretion.”xref:sec_payward_footnote_3[^*(3)*^] 
+. The marketed return does not account for all staking rewards. Defendants retain for themselves those rewards that exceed the marketed range and do not generally disclose to investors the amount of rewards Defendants retain for themselves. In other words, Defendants do not disclose sufficient information for investors to determine if they are receiving their fair share of the staking rewards. 
+. While information about fees, margin, and node success rates are generally available via the underlying protocol itself (or from third-parties), Defendants do not disclose their fees or operating costs for the Kraken Staking Program. Defendants tell investors that their “fee can vary based on the rewards that we earn on behalf of our clients each month. The important point to remember is that our fixed rewards are net of any fees that we charge.” 
+
+[.text-center]
+[underline]#*Frequent, Regular Payouts*#
+
+[start=48]
+. Defendants also promise regular investment payouts for most staked tokens—typically weekly or twice per week—that deviate from the way rewards are distributed by the underlying staking protocol. In this regard, Defendants advertise that they have “taken the initiative to smooth this revenue stream for our clients by enabling predictable pay-outs as part of our staking services.” For example, regarding staking for certain crypto assets, Kraken’s blog states, “Payouts happen twice a week – every Monday and Thursday at 14:00 UTC […] among the fastest in the industry.”
+
+[.text-center]
+[underline]#*Liquidity and Immediate Rewards*#
+
+[start=49]
+. Defendants emphasize that investors in the Kraken Staking Program, with limited exceptions, are not subject to bonding and unbonding periods as they would be if they staked these crypto assets directly with most underlying staking protocols. In other words, unlike staking-on-your-own, investors in the Kraken Staking Program are promised enhanced liquidity and immediate rewards. A 2020 Kraken blog post states: “Unlike other staking services, you start earning rewards within minutes of staking your funds,” highlighting an investor’s “flexibility to instantly unstake and trade your funds [on Kraken’s trading platform].” Kraken’s website provides:
+[none]
+.. Unlike other staking services, at Kraken there is no minimum On-chain staking time needed to earn rewards. You start earning pro-rated rewards for On-chain staking as soon as your instructions to stake are processed by Kraken (which may be within minutes of you staking your funds). +
+&nbsp; +
+For example, if you utilized On-chain staking for a few hours and then un-staked your funds, you would still be credited prorated rewards on the next payout day. In contrast, on other services you would not receive anything. Unlike other staking services we also have no bonding and unbonding period for Onchain staking (other than ETH2). 
+. In effect, Defendants are advertising that they will pay rewards to investors during the period between when the investor transfers his or her assets to the Kraken Staking Program and when the investor demands to receive his or her crypto assets back from the Program. Defendants promise that the Staking Program will begin paying rewards (returns) when investors transfer their crypto assets to the Program, regardless of a blockchain protocol’s bonding period, and promise immediately to return investors’ crypto assets even if the tokens used by Defendants and staked with a protocol actually remain locked and unavailable for the unbonding period.
+
+[.text-center]
+[underline]#*Not All Tokens Staked*#
+
+[start=51]
+. Defendants claim that they are able to offer instant liquidity (regardless of the unbonding period) because the pooled tokens are fungible and, according to them, Defendants do not actually stake every investor token transferred to them. For many of these crypto assets, Defendants state that they hold back a subset of tokens as a “liquidity reserve.”
+. However, Defendants do not disclose the extent of these “unstaked” tokens and how they are used. Investors accordingly have no way of analyzing whether Kraken actually can meet all requests for instant liquidity through these reserves or otherwise. In other words, given the limited disclosure regarding the Kraken Staking Program, Defendants do not provide sufficient information to demonstrate that they, at all times, maintain a token reserve that is adequate to honor the Program’s “no unbonding period” and “instant unstaking” representations should multiple investors with large staking positions seek to redeem those positions at the same time.
+. Defendants are under no obligation to segregate the crypto assets that investors transfer to them in exchange for the advertised return (marketed as being from proof of stake activities). Defendants can account for these transfers by rebalancing their internal ledger. 
+. Moreover, Defendants do not disclose the extent to which Defendants commingle “unstaked” tokens with Defendants’ other assets or business endeavors. Nor do Defendants disclose the true source of the returns paid to investors to the extent rewards are paid with respect to “unstaked” tokens. 
+
+[.text-center]
+[underline]#*Not Directly Subject To Transaction And Deposit Fees, Or Minimum Staking Thresholds*#
+
+[start=55]
+. Certain underlying staking protocols impose upfront transaction fees for staking and unstaking, as well as require a refundable deposit above the amount of staked tokens.
+. Investors in the Kraken Staking Program are not directly subject to these fees as they do not actually participate in the staking protocols directly, and no initial deposits are required. However, the amount of return that investors receive may be reduced by Defendants based on these and other fees and expenses. Defendants are not required to verify the amount of rewards received, nor verify the amount of any fees charged to Defendants when participating in the staking protocols, or otherwise.
+. In addition, staking protocols generally require a certain threshold number of tokens to be able to participate in staking. The Kraken Staking Program does not require that investors commit any minimum threshold of tokens to participate in the Program.
+
+[.text-center]
+[underline]#*Purportedly Safe, Easy-To-Use Platform*#
+
+[start=58]
+. Kraken offers a simplified user interface. Kraken’s blog states: “Token holders have previously had little choice other than to stake tokens themselves, something that requires technical understanding.” The FAQs state: “Couldn’t I Stake Myself for Free? While you are certainly able to stake yourself, that process can be complex[.]” Another blog entry states: “Instead of needing to purchase special equipment to compete for newly minted network tokens, users are instead able to stake their funds in Kraken’s stake pool.”
+. Kraken also advertises the supposed security of the platform. It touts that its “team of experts have built in a number of sophisticated measures to prevent theft of funds, NFTs or information. Theft isn’t the only threat of course. As a professional exchange we offer financial stability, with full reserves, healthy banking relationships and the highest standards of legal compliance.” 
+. Kraken further states that it has “assembled a global team of top security professionals who take a risk-based approach to ensuring our clients’ assets are protected at the highest levels while maintaining exceptional performance and an unparalleled client experience. Our team has decades of experience building security programs for the world’s top brands, investigating the largest consumer data breaches, developing security technology trusted by millions of businesses and discovering vulnerabilities in the technology used by billions of people every day.”
+. Defendants also tout that they are trustworthy. A November 10, 2022 blog post on Kraken.com titled, “How Kraken Continues to Lead the way in Transparency and Trust” states, in part:
+[none]
+..[W]e are proud to say that Kraken has long taken the lead when it comes to transparency. In fact, we pioneered the use of regular asset audits in 2014 and hired [an accounting firm] to produce two Proof of Reserve audits over the past year alone. These cryptographic audits are more precise and immutable than any other form of financial statement
+and we are one of the first exchanges to perform them regularly. +
+Proof of Reserve audits cryptographically prove that we hold the assets we say we hold on your behalf. While this process is almost impossible for traditional financial institutions to conduct, the open and transparent properties of cryptocurrencies enable us to produce these precise audits regularly.xref:sec_payward_footnote_4[^*(4)*^]
+. A November 18, 2022 blog post on Kraken.com similarly states: “Kraken offers a comprehensive approach to Proof of Reserves that verifies not just reserves, but also liabilities. Cryptographically proving that we hold our clients’ covered assets in reserve at the time of an audit is only half the battle. Kraken’s Proof of Reserves also includes covered liabilities (i.e., tokens in client accounts).” However, Defendants also describe the limitations of the purported audit, including that it “cannot identify any hidden encumbrances or prove that funds had not been borrowed for purposes of passing the audit.” In other words, the “proof of reserves” audit is akin to a balance sheet that lists assets but not every liability; proof of reserves may not offer investor protection in this scenario.
+
+[upperalpha,start=2]
+. [underline]#*Defendants Market The Kraken Staking Program As An Investment Opportunity*#
+
+[start=63]
+. Defendants tout the Kraken Staking Program as an investment opportunity on the kraken.com website, in social media, and in mass emails to existing customers.
+. For example, Defendants market the possibility of profits through an expected rate of investment return. The kraken.com website, imaged below, states that investors can “*Earn up to 21%* yearly on your crypto”: 
+
+image::media/ch03-payward-01.png[]
+
+[start=65]
+. Defendants historically have put forward marketing materials advertising the investor return from the Kraken Staking Program, including: 
+** “At 6% compounded annually, we offer the highest fixed-rate returns in the industry.”
+** “Enjoy one of the highest returns in the industry (12% for DOT and 7% for ATOM).”
+** “Last year, we paid out over $27 million in token staking rewards … Want to earn up to 20% a year staking crypto assets?”
+** “Staking is a great way to maximize your holdings in staking coins and fiat that would otherwise be sitting in your Kraken account. Once you have staked your assets you can earn staking rewards on top of your holdings and grow them further by compounding those future rewards.”
+** “Your rewards will be compounded with the Grow Rewards feature, which adds your earned rewards every week back into On-chain staking. This means if you continue to leave your funds staked you may earn more than the RPY percent.”
+
+[upperalpha,start=3]
+. [underline]#*The Kraken Staking Program Has Generated Tens Of Millions Of Dollars In Investment Returns*#
+
+[start=66]
+. Throughout the relevant period, Defendants have offered the Kraken Staking Program to all U.S. residents except New York and Washington State residents. These U.S. residents have been able to “stake” fifteen different crypto assets through the Kraken Staking Program, summarized in the table below:
+
+|===
+|*Protocol Name* |*Token Name* |*Approximate Date Available for Kraken Staking Program*
+|Cardano |ADA |May 4, 2021
+|Algorand |ALGO |October 22, 2021
+|Cosmos |ATOM |August 17, 2020
+|Polkadot |DOT |August 17, 2020
+|Ethereum |ETH |December 3, 2020
+|Flow |FLOW |October 18, 2021
+|Kava |KAVA |December 14, 2020
+|Kusama |KSM |November 23, 2020
+|Luna |LUNA |March 8, 2022 – May 28, 2022
+|Mina |MINA |January 18, 2022
+|Secret |SCRT |March 29, 2022
+|Solana |SOL |July 1, 2021
+|Tron |TRX |January 28, 2022
+|Tezos |XTZ |December 11, 2019
+|Polygon |MATIC |June 29, 2022 
+|===
+[.text-center]
+Supported Crypto Assets for U.S. Investors
+
+[start=67]
+. As of June 2022, there were more than 135,000 unique U.S.-based usernames investing in the Kraken Staking Program. 
+. Since launching the Kraken Staking Program in December 2019 and through mid-2022, U.S. investors had staked over $2.7 billion worth of crypto assets in the Kraken Staking Program. Kraken has earned at least $147 million as net revenue throughout the life of the Program, of which at least $45.2 million is attributable to U.S. investors. Defendants’ net income attributable to U.S. investors in the Staking Program is $14.95 million. According to Kraken’s 2021 Annual Shareholder Update, “Staking was Kraken’s fastest growing product in 2021 and accounted for more than one-third of Kraken’s gross revenue growth.” As also stated in the same Update: “As we continue to support new staking assets and offer highly attractive rewards, clients are incentivized to keep more assets on platform, increasing the amount of capital available for clients to exchange between assets, driving volume growth and promoting client stickiness.” 
+
+[upperroman, start=2]
+. [underline]#*THE KRAKEN STAKING PROGRAM IS OFFERED AND SOLD AS A SECURITY*#
+
+[start=69]
+. At all relevant times, the Kraken Staking Program was offered and sold as an investment contract and therefore a security whose offers and sales were subject to the registration requirements of the federal securities laws. 
+
+[upperalpha]
+. [underline]#*Participants In The Kraken Staking Program Invest Money*#
+
+[start=70]
+. Defendants’ offer and sale of the Kraken Staking Program involves an investment of money. Under the Howey framework, an investment of “money” may but need not take the form of fiat currency. Here, investors purchase crypto assets from Defendants (with fiat or crypto assets) and then transfer them to the Defendants’ Kraken Staking Program; alternatively, investors transfer their own crypto assets to Defendants for staking.
+. Investors put their crypto assets at risk as part of the Kraken Staking Program. Defendants have control over all the crypto assets invested in the Kraken Staking Program and choose when and how to use them. (As explained above, Defendants do not actually stake all crypto assets received from investors.) Moreover, according to the Kraken Terms of Service, these crypto assets may be encumbered by Kraken’s creditors. In addition, to the extent that an investor’s crypto assets actually are staked to the underlying blockchain protocol, those assets are at risk of being slashed.xref:sec_payward_footnote_5[^*(5)*^]
+. Investors also have liquidity and market risk. Defendants market the Kraken Staking Program’s advantage of “instant unbonding” and instant return of “staked” crypto assets. But, as noted above, Defendants do not disclose the extent of their crypto-asset reserves and whether these reserves are sufficient to meet all redemption demands. If these reserves are insufficient, Kraken may be unable to honor a redemption request in a timely fashion, if at all. Investors could suffer market losses if the value of their crypto assets declines while waiting for redemption. 
+
+[upperalpha, start=2]
+. [underline]#*Investors And Defendants Participate In A Common Enterprise*#
+
+[start=73]
+. Investors in the Kraken Staking Program participate in a common enterprise with other investors and with Defendants.
+. Investor tokens are transferred and pooled in wallets for the purposes of the Kraken Staking Program, and Defendants determine when and how many of these pooled tokens to stake. During this time, and for as long as the investor chooses to stake his or her tokens, investors receive a pre-calculated payout from Defendants. Defendants market that these payouts are distributed pro rata to investors depending on the amount of tokens they have staked (i.e., Defendants advertise a fixed return for all investors). Defendants do not segregate or separately manage an individual investor’s crypto assets as part of the Kraken Staking Program.
+. The fortunes of investors and Defendants also are tied together in this common enterprise. For example, as explained above, the larger the pool of assets for staking, the higher the likelihood of obtaining rewards, which inures to the benefit of all investors and Defendants.
+. In addition, the revenues and profits that Defendants stand to receive (i.e., the portion of the staking rewards that Defendants keep for themselves and use to fund their operations) grow as more investors participate in the Kraken Staking Program and purchase tokens on Kraken’s trading platform to stake. All rewards generated from the Kraken Staking Program also flow directly to Defendants, who determine whether and how many tokens in the pool to stake, and how often (and how much in rewards) to pay investors. If the pools are more successful in generating returns than Kraken’s advertised reward rates, Defendants retain the difference. Further, Defendants contribute their own tokens to the pool of tokens contributed by investors to the Kraken Staking Program when they engage in proof of stake activities.
+
+[upperalpha, start=3]
+. [underline]#*Investors Reasonably Expect To Profit From The Efforts Of Defendants*#
+
+[start=77]
+. Investors in the Kraken Staking Program reasonably expect to profit from Defendants’ efforts.
+. From its inception, Defendants have marketed the Kraken Staking Program as an investment opportunity. As detailed above, through the kraken.com website, a Kraken blog, and social media channels, Defendants have promoted the Kraken Staking Program as a way for investors to earn a high investment return—“the highest fixed-rate returns in the industry.”
+. Defendants also market the advantages of the Kraken Staking Program over staking independently. According to Defendants, these advantages include simplifying a complex staking process with an easy-to-use interface in a secure and trustworthy environment operated by technical experts.
+. Investors are led to expect that Defendants will expend efforts to generate the investment returns. For example, Defendants advertise that they have the technical ability and expertise to stake crypto assets, to undertake strategies about when and how to stake crypto assets, and to obtain and manage the regular and frequent reward payouts. Defendants’ efforts are essential to the success or failure of the enterprise. 
+. Moreover, because Defendants advertise that Defendants will retain a portion of the staking rewards, investors are reasonably led to expect that Defendants have strong financial incentives to engage in the efforts required to make the enterprise successful. 
+. Defendants’ statements and actions, and the economic reality of the arrangements with respect to the Kraken Staking Program, have led and will continue to lead reasonable investors to expect Defendants to undertake significant and essential technical, managerial, and entrepreneurial efforts.
+
+[upperroman, start=3]
+. *DEFENDANTS HAVE FAILED TO REGISTER THE OFFERS AND SALES OF THE KRAKEN STAKING PROGRAM WITH THE COMMISSION*
+
+[start=83]
+. Defendants have used interstate commerce to offer and sell the Kraken Staking Program by, among other things, engaging in general solicitation through the kraken.com website and other promotional materials, including emails and social media. 
+. Defendants have never had a registration statement filed or in effect with the SEC for their offers and sales of the Kraken Staking Program. No exemption from registration applied or applies.
+. Defendants’ public disclosures have contained selective or no information about Defendants’ financial history, audited financial statements, management discussion and analysis of financial condition and results of operations, and ability to generate profits. Investors in the Kraken Staking Program also have not received information about Defendants’ operations, financial condition, liabilities, or other factors relevant in considering whether to invest in the Kraken Staking Program. Investors further have lacked full and detailed information regarding how Defendants use reserves to meet redemptive requests (including whether there are segregated reserves and the extent of those reserves) and have been deprived of information about the staking rewards that Defendants keep for themselves. For example, Defendants do not disclose fees and expenses related to the Kraken Staking Program. Nor do Defendants disclose what they do with “unstaked” tokens, the extent to which Defendants are staking investor tokens, whether Defendants are lending, borrowing, trading, or otherwise alienating investor tokens into some enterprise other than staking protocols, whether and to what extent Defendants are commingling “unstaked” tokens with other assets, the source of rewards paid to investors particularly with respect to “unstaked” tokens, and sufficient information for investors to otherwise determine whether they are receiving a fair share of staking rewards from Defendants.
+
+[.text-center]
+[underline]#*CLAIM FOR RELIEF*#
+
+[.text-center]
+*Violations of Sections 5(a) and 5(c) of the Securities Act*
+
+[start=86]
+. The Commission realleges and incorporates by reference herein the allegations in paragraphs 1 through 85.
+. By virtue of the foregoing, Defendants, directly and indirectly: (a) without a registration statement in effect as to that security, made use of the means and instruments of transportation or communications in interstate commerce or of the mails to sell securities through the use or medium of any prospectus or otherwise, (b) without a registration statement in effect as to that security, carried or caused to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale, and (c) made use of the means and instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of a prospectus or otherwise, securities as to which no registration statement had been filed.
+. By reason of the conduct described above, Defendants, directly or indirectly, violated, are violating, and, unless enjoined, will continue to violate Securities Act Sections 5(a) and 5(c) [15 U.S.C. §§ 77e(a), (c)].
+
+[.text-center]
+[underline]#*PRAYER FOR RELIEF*#
+
+WHEREFORE, the Commission respectfully requests that the Court enter a Final Judgment:
+
+[.text-center]
+*I.*
+
+Permanently enjoining Defendants, and each of their respective agents, servants, employees, attorneys and other persons in active concert or participation with each of them, from violating, directly or indirectly, Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. § 77e(a), 77e(c)];
+
+[.text-center]
+*II.*
+
+Permanently enjoining Defendants and any entity controlled by them from, directly or indirectly, offering or selling securities through crypto asset staking services or staking programs, pursuant to Section 21(d)(5) of the Exchange Act [15 U.S.C. § 78u(d)(5)]; 
+
+[.text-center]
+*III.*
+
+Ordering Defendants to disgorge all ill-gotten gains, with prejudgment interest thereon, pursuant to Section 21(d)(3), (5) and (7) of the Exchange Act [15 U.S.C. § 78u(d)(3), (5) and (7)];
+
+[.text-center]
+*IV.*
+
+Ordering Defendants to pay civil money penalties pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)]; and
+
+[.text-center]
+*V.*
+
+Granting any other and further relief this Court may deem just and proper for the benefit of investors.
+
+JURY DEMAND
+
+The Commission demands a trial by jury.
+
+[cols="1,1", frame=none, grid=none]
+|===
+|Dated: February 9, 2023 +
+&nbsp; 
+|By: [underline]#/s/ Eugene N. Hansen# +
+David Hirsch +
+Jorge Tenreiro +
+James Connor +
+Eugene Hansen +
+SECURITIES AND EXCHANGE +
+COMMISSION +
+100 F Street NE +
+Washington, DC 20549 +
+(202) 551-6091 (Hansen) +
+Email: hansene@sec.gov +
+&nbsp; +
+Attorneys for Plaintiff 
+|===
+
+[[sec_payward_footnote_1]]
+[1] As used in this Complaint, “crypto asset” refers to an asset that is issued and/or transferred using distributed ledger or blockchain technology—including, but not limited to, so-called “digital assets,” “virtual currencies,” “cryptocurrencies,” “coins,” and “tokens.” 
+[[sec_payward_footnote_2]]
+[2] Investors do not have to be “accredited investors” as defined by Rule 501 of Regulation D of the Securities Act. 
+[[sec_payward_footnote_3]]
+[3] Defendants have complete control over the amount and distribution of staking rewards to investors. The Terms of Service states:
+[none]
+.. By opting-in a portion or your entire balance of Supported Tokens, Payward Trading shall remit to you the applicable percentage of staking rewards received from the Supported Token protocol attributable to your staked Supported Tokens (*“Staking Rewards”*) as detailed in your Kraken Account. The applicable percentage and timing of such remittances will: (i) be determined by Payward Trading in its sole discretion; (ii) be subject to Payward Trading’s staking fee; (iii) vary by the Supported Token protocol; and (iv) be further detailed in your Kraken Account. *You agree and understand that neither Payward Trading nor Kraken guarantees that you will receive Staking Rewards and that the applicable percentage (i) is an estimate only and not guaranteed, (ii) may change at any time in Payward Trading’s sole discretion, and (iii) may be more or less than the actual staking rewards Payward Trading receives from the Supported Token protocol.* +
+(emphasis in original).
+
+[[sec_payward_footnote_4]]
+[4] Proof of reserves is a term crypto asset participants use to describe a voluntary method for offering evidence that shows, in the aggregate, an entity has sufficient reserve assets to cover what is held for customers and/or accounts at a given point in time. A proof of reserves engagement is not as rigorous as, as comprehensive as, or equivalent to a financial statement audit and may not provide any level of assurance to investors other than a snapshot of reserve assets at a specific point in time. 
+[[sec_payward_footnote_5]]
+[5] Per Kraken’s Terms of Service, Defendants will compensate investors for some, but not all, “slashing penalties.” For example, Defendants disclaim any obligation to compensate investors for slashed tokens if the tokens are slashed because of protocol “maintenance, bugs, or errors,” acts by a hacker or other malicious actor, or force majeure events. 
+
+____
+
+=== Discussion Questions ===
+. what should the question be?
