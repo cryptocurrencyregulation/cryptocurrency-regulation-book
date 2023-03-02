@@ -1,0 +1,540 @@
+== Terraform & Kwon (Kwonzi Scheme) ==
+[quote, SEC v. Terraform &amp; Kwon&comma; Case1:23-cv-01346, https://www.docdroid.net/xC1daxt/kwonzi-scheme-pdf   ]
+____
+
+*UNITED STATES DISTRICT COURT*
+*SOUTHERN DISTRICT OF NEW YORK* 
+
+|===
+|&nbsp; +
+SECURITIES AND EXCHANGE COMMISSION, +
+&nbsp; +
+Plaintiff, +
+&nbsp; +
+v. +
+&nbsp; +
+TERRAFORM LABS PTE LTD. and  DO HYEONG KWON, +
+&nbsp; +
+Defendants. +
+&nbsp; |&nbsp; +
+&nbsp; +
+&nbsp; +
+&nbsp; +
+No. 1:23-cv-1346 +
+JURY TRIAL DEMANDED 
+|===
+
+[.text-center]
+[underline]#*COMPLAINT*#
+
+Plaintiff Securities and Exchange Commission (the “SEC” or “Commission”), for its Complaint against Defendants Terraform Labs PTE Ltd. (“Terraform”) and Do Hyeong Kwon (“Kwon”) (collectively “Defendants”), alleges as follows: 
+
+[.text-center]
+*SUMMARY* 
+
+. From at least April 2018 through May 2022 (“Relevant Period”), Terraform and Kwon offered and sold crypto asset securitiesxref:sec_kwonzi_footnote_1[^*(1)*^]  in unregistered transactions and perpetrated a fraudulent scheme that led to the loss of at least $40 billion of market value, including devastating losses for U.S. retail and institutional investors.   
+. Defendants’ crypto asset securities offerings involved an array of interrelated tokens that were created, developed, promoted, offered, and sold by Defendants as profit-seeking investments. 
+. Terraform and Kwon marketed the crypto asset securities to investors in the United States and abroad, repeatedly claiming that the tokens would increase in value and touting Defendants’ managerial and entrepreneurial efforts to do so.  For example, Defendants touted and marketed a Terraform-created “yield-bearing” blockchain protocol, dubbed the 
+Anchor Protocol, which promised to pay 19-20% interest on one of Terraform’s crypto assets.  
+. Defendants’ efforts at attracting investors and growing the size and value of the Terraform “ecosystem” were initially successful.  By April 2022, one of Terraform’s crypto asset securities, the LUNA token, had a market value among the ten highest in the world for crypto assets.  And Terraform’s so-called “stablecoin” Terra USD (“UST”) – a crypto asset security that Terraform designed to maintain a one-to-one peg to the U.S. dollar by virtue of an algorithm coded into the blockchain tying its value to LUNA – was also among the world’s largest, with a total market value of over $17 billion as of April 2022.   
+. Defendants also engaged in a fraudulent scheme to mislead investors about the Terraform blockchain and its crypto asset securities.  Terraform and Kwon repeatedly – and falsely – told the investing public that a popular Korean electronic mobile payment application called “Chai” employed the Terraform blockchain to process and settle commercial transactions between customers and merchants.  If true, this would have been a breakthrough for the Terraform blockchain, a supposed real-world use that could increase the value of LUNA as demand for the token rose in connection with increased use of the Terraform blockchain. Investors bought in, purchasing LUNA and other Terraform crypto assets, based in part on Terraform’s and Kwon’s claims that Chai payment transactions were being processed and settled on the Terraform blockchain.  But in reality, Chai payments did not use the Terraform blockchain to process and settle payments.  Rather, Defendants deceptively replicated Chai payments onto the Terraform blockchain, in order to make it appear that they were occurring on the Terraform blockchain, when, in fact, Chai payments were made through traditional means.    
+. Terraform and Kwon also misled investors about one of the most important aspects of Terraform’s offering – the stability of UST, the algorithmic “stablecoin” purportedly pegged to the U.S. dollar.  UST’s price falling below its $1.00 “peg” and not quickly being restored by the algorithm would spell doom for the entire Terraform ecosystem, given that UST and LUNA had no reserve of assets or any other backing.   
+. In May 2021, UST dropped below $1.00.  In response, Defendants secretly discussed with a third party that the third party would purchase massive amounts of UST to restore the $1.00 peg.  As UST returned to $1.00, Kwon and Terraform publicly and repeatedly touted the restoration of the $1.00 UST peg as a triumph of decentralization and the “automatically self-heal[ing]” UST/LUNA algorithm over the “decision-making of human agents in time of market volatility,” misleadingly omitting the actual reason why the $1.00 peg was restored:  the third party’s intervention to prop up UST’s price.  By late May, Terraform was publicly boasting to the investing public that it had purportedly proven the reliability of the UST $1.00 peg – the “lynchpin for the entire [Terraform] ecosystem” – in a “black swan” event that was “as intense of a stress test in live conditions as can ever be expected.” 
+. After the UST peg was restored in May 2021, investors poured additional billions of dollars into the Terraform ecosystem, mostly through investor purchases of LUNA and UST.     
+. One year later, in May 2022, under selling pressure from large UST holders, UST de-pegged from the U.S. dollar again.  This time, without secret intervention to save it, the price of UST and LUNA plummeted to nearly zero, bringing down with them the other crypto asset securities in the interconnected Terraform ecosystem, wiping out over $40 billion of total market value in these assets and sending shock waves through the crypto asset community.  A number of retail investors in the United States lost their life savings.  And some U.S. institutional investors lost billions of dollars in the market value of their LUNA and UST holdings.   
+
+[.text-center]
+*VIOLATIONS*
+[start=10]
+. As a result of the conduct alleged in this Complaint, Defendants violated the securities offering registration provisions of the federal securities laws, namely Section 5(a) and 5(c) of the Securities Act of 1933 (“Securities Act”), 15 U.S.C. § 77e, along with certain security-based swap provisions of the federal securities laws, specifically, Section 5(e) of the Securities Act, 15 U.S.C. § 77e, and Section 6(l) of the Securities Exchange Act of 1934 (“Exchange Act”), 15 U.S.C. § 78f(l).  Specifically, Defendants offered and sold crypto asset securities to investors without registering the offers and sales with the SEC as required by the federal securities laws.  Defendants further violated the federal securities laws by offering, selling, and effecting transactions in securities-based swaps, in the form of “mAssets” based on the value of underling equity securities, to non-eligible contract participants in transactions that were not executed on a national securities exchange and without having an effective registration statement filed with the Commission covering the offer and sale. 
+. Defendants’ conduct set forth in this Complaint also violated the antifraud provisions of federal securities laws, Section 17(a) of the Securities Act, 15 U.S.C. § 77q(a), Section 10(b) of the Exchange Act and Rule 10b-5 thereunder, 15 U.S.C. § 78j(b) and 17 C.F.R. § 240.10b-5, along with Section 20(a) of the Exchange Act, 15 U.S.C. § 78t(a).  
+. Unless restrained and enjoined, Defendants will continue to violate the federal securities laws.  
+
+[.text-center]
+*NATURE OF PROCEEDINGS AND RELIEF SOUGHT*
+[start=13]
+. The Commission brings this action pursuant to the authority conferred upon it by Section 20(b) of the Securities Act, 15 U.S.C. § 77t(b), and Section 21(d)(1) of the Exchange Act, 15 U.S.C. §§ 78u(d)(1).   
+. The Commission seeks a final judgment: (i) ordering permanent injunctions restraining and enjoining Defendants from again violating the federal securities laws described herein; (ii) ordering Defendants to pay disgorgement with prejudgment interest; (iii) ordering Defendants to pay civil money penalties; and (iv) prohibiting Defendants from (a) participating, directly or indirectly, in the purchase, offer, or sale of any crypto asset security, or (b) engaging in activities for purposes of inducing or attempting to induce the purchase, offer, or sale of any crypto asset security by others; and (v) imposing such other and further relief as the Court may deem just and appropriate. 
+
+[.text-center]
+*DEFENDANTS*
+[start=15]
+. Terraform Labs PTE Ltd. (“Terraform”) is a private company registered and headquartered in Singapore.  During the Relevant Period, Terraform had numerous employees located in the United States, including its General Counsel, Head of Research, and Director of Special Projects.  Terraform also operated a website available in the United States that offered and sold crypto asset securities to U.S.-based investors and, through its authorized representatives, often met with investors in the United States to offer and sell Terraform’s crypto asset securities.  Neither Terraform nor its offers or sales of crypto asset securities were registered with the SEC in any capacity.   
+. Do Hyeong Kwon, age 31, was a resident of Korea and Singapore during the Relevant Period.  Kwon is and was the ultimate decision-maker at Terraform throughout the Relevant Period.  Kwon is also the sole director, Chief Executive Officer, and majority shareholder of Terraform, owning 92% if its shares.  Press reports indicate that a Korean court issued an arrest warrant for Kwon.  His current address is unknown.  During the Relevant Period, Kwon traveled to the United States on behalf of Terraform to market, offer, and sell Terraform’s crypto asset securities. 
+
+[.text-center]
+*JURISDICTION AND VENUE*
+[start=17]
+. The Court has subject matter jurisdiction over this action pursuant to Sections 20(b), 20(d) and 22(a) of the Securities Act, 15 U.S.C. §§ 77t(b), 77t(d) and 77v(a), and Sections 21(d) and 27(a) of the Exchange Act, 15 U.S.C. §§ 78u(d) and 78aa(a). 
+. The Court has personal jurisdiction over Defendants and venue is proper in this District pursuant to Section 22(a) of the Securities Act, 15 U.S.C. § 77v(a), and Section 27(a) of the Exchange Act, 15 U.S.C. § 78aa(a), because, among other things, some of the acts and transactions in which Defendants engaged and that constitute violations of the federal securities laws occurred in this District.  For example, as alleged herein, Defendants offered and sold securities and made materially false and misleading statements to investors located in this District in unregistered transactions.  One or more investors who purchased crypto asset securities offered by Terraform and Kwon also had their principal place of business and/or residence within this District.     
+. In addition, this Court has personal jurisdiction over Defendants because Defendants engaged in conduct within the United States that constituted significant steps in furtherance of the violations of the federal securities laws alleged in this Complaint, even if some of the transactions at issue may have occurred outside the United States and involved foreign investors; and/or further because Defendants, whether within or outside of the United States, engaged in conduct that had a foreseeable substantial effect within the United States. 
+. In connection with the conduct alleged in this Complaint, Defendants, directly and indirectly, singly or in concert with others, have made use of the means or instrumentalities of interstate commerce, the means or instruments of transportation or communication in interstate commerce, the mails, and/or the facilities of a national securities exchange – namely, through Defendants’ use of the Internet and the U.S. banking system when engaging in the acts and transactions described herein.
+
+[.text-center]  
+*STATUTORY AND LEGAL FRAMEWORK*
+[start=21]
+. Congress enacted the Securities Act to regulate the offer and sale of securities. In contrast to ordinary commercial principles of caveat emptor, Congress enacted a regime of full and fair disclosure, requiring those who offer and sell securities to the investing public to provide sufficient, accurate information to allow investors to make informed decisions before they invest. 
+. Sections 5(a) and 5(c) of the Securities Act require that an issuer of securities like Terraform register offers and sales of those securities with the SEC when they offer and sell securities to the public. Registration statements relating to an offering of securities thus provide public investors with material information about the issuer and the offering, including financial and managerial information, how the issuer will use offering proceeds, and the risks and trends that affect the enterprise and an investment in its securities. 
+. The definition of a “security” under the federal securities laws includes a wide range of investment vehicles, including “investment contracts.  See 15 U.S.C. § 77b(a)(1) (Securities Act Section 2(a)(1)).  Investment contracts are instruments through which a person invests money in a common enterprise and reasonably expects profits or returns derived from the entrepreneurial or managerial efforts of others. Courts have found that novel or unique investment vehicles constitute investment contracts, including interests in orange groves, animal breeding programs, railroads, mobile phones, crypt assets, and enterprises that exist only on the Internet. As the United States Supreme Court noted in SEC v. W.J. Howey Co., Congress defined “security” broadly to embody a “flexible rather than a static principle, one that is capable of adaptation to meet the countless and variable schemes devised by those who seek the use of the money of others on the promise of profits.” 328 U.S. 293, 299 (1946). 
+. Security based swaps, which are themselves securities, include any agreement, contract, or transaction that is a swap as defined in Section 1a of the Commodity Exchange Act (CEA) and is based on a single security, including on the value thereof.  See 15 U.S.C.  § 78c(a)(68) (Exchange Act Section 3(a)(68)).  Section 1a(47) of the CEA defines “swap” to include “any agreement, contract, or transaction” that “provides on an executory basis for the exchange . . . of 1 or more payments based on the value or level of 1 or more . . . securities . . . and that transfers, as between the parties to the transaction, in whole or in part, the financial risk associated with a future change in any such value or level without also conveying a current or future direct or indirect ownership interest in [the] asset . . . .”   
+. Securities Act Section 5(e) makes it unlawful for any person to offer to sell, offer to buy, or purchase or sell a security-based swap to any person who is not an “eligible contract participant” without an effective registration statement.  15 U.S.C. § 77e(e).  Exchange Act Section 6(l) also makes it unlawful for any person to effect transactions in security-based swaps to any person who is not an “eligible contract participant” unless the transaction is effected on a registered national securities exchange.  “Eligible contract participants” are defined to include high-net-worth individuals with “amounts invested on a discretionary basis” of $10 million (or $5 million if the individual enters into a hedging agreement) and certain types of sophisticated and/or regulated entities.  7 U.S.C. § 1a(18).   
+
+[.text-center]
+*BACKGROUND ON CRYPTO ASSETS*
+[start=26]
+. The term “crypto asset” generally refers to an asset issued and/or transferred using distributed ledger or blockchain technology, including assets sometimes referred to as “cryptocurrencies,” “digital assets,” “virtual currencies,” “digital coins,” and “digital tokens.” 
+. A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitally recorded data packages. The system relies on cryptographic techniques for secure recording of transactions.  Blockchains can also record “smart contracts,” essentially computer programs designed to execute the terms of a contract when certain triggering conditions are met. 
+. Blockchains typically employ a consensus mechanism to “validate” transactions, which, among other things, aims to achieve agreement on a data value or on the state of the ledger.  Crypto assets may be traded on crypto asset trading platforms in exchange for other crypto assets or fiat currency (legal tender issued by a country). 
+. A blockchain “protocol” is a code, software, or algorithm that governs how a blockchain, or a feature of a blockchain, operates. 
+. On July 25, 2017, the SEC issued the Report of Investigation Pursuant to Section 
+21(a) of the Securities Exchange Act of 1934: The DAO, advising “those who would use . . . distributed ledger or blockchain-enabled means for capital raising[] to take appropriate steps to ensure compliance with the U.S. federal securities laws,” and finding that the offering of crypto assets at issue in that report involved investment contracts and, therefore, securities.  In analyzing whether something is a security, “form should be disregarded for substance,” Tcherepnin v. Knight, 389 U.S. 332, 336 (1967), “and the emphasis should be on economic realities underlying a transaction, and not on the name appended thereto.” United Housing Found., Inc. v. Forman, 421 U.S. 837, 849 (1975). 
+
+[.text-center]
+*FACTS*
+[upperroman]
+. *Defendants Created and Developed the Terraform Ecosystem.*
+
+[start=31]
+. In March 2018, Defendants began creating the Terraform ecosystem.  Kwon and Terraform’s co-founder published a white paper announcing the Terraform blockchain (referred to as the “Terra protocol”) and the LUNA token, the first crypto asset created by Terraform.  Eventually, the ecosystem would come to include a series of interconnected crypto assets whose purported adoption, liquidity, and value became highly dependent on the public’s willingness to buy into Terraform and Kwon’s blockchain empire. 
+. In April 2019, Kwon and others published another white paper, entitled “Terra Money: Stability and Adoption,” that announced the adoption of so-called “stable-coins,” including one later named UST, which Terraform described as the “lynchpin” of Defendants’ interrelated “ecosystem” of crypto assets. 
+. In the April 2019 white paper and elsewhere, Defendants stated that UST’s value was pegged to the U.S. dollar by virtue of an algorithm tying UST’s value to LUNA. Specifically, this algorithm sought to maintain UST’s price at $1.00 through a complex system in which, rather than being backed by actual dollars, UST would be created, or “minted,” and “burned,” or destroyed, in parallel with Terraform’s companion token, LUNA.  For example, holders of LUNA could swap $1.00 worth of LUNA for 1 UST based on LUNA’s then-current market price.  And holders of UST could likewise exchange 1 UST for $1.00 worth of LUNA.  The algorithm theoretically provided an arbitrage opportunity for traders to help keep the price of UST pegged at one dollar.  If, for example, UST slipped to $0.95, traders could buy UST at that price and exchange it for $1 of LUNA “burning” UST and “minting” LUNA.  Doing so reduced the supply of UST and, in theory, would increase its price until it reached a dollar. 
+. On or about April 24, 2019, Terraform and Kwon officially launched the Terraform blockchain and created one billion LUNA tokens.  Kwon wrote the code underlying the initial version of the blockchain.  As described in more detail below, Terraform and Kwon offered and sold LUNA to investors to raise funds to develop the Terraform blockchain and ecosystem.  During the Relevant Period, Terraform maintained over a hundred code repositories that enabled Terraform employees, including Kwon, to create, contribute, maintain, and update the Terraform blockchain protocols. 
+. Throughout the Relevant Period, Terraform and Kwon continued to develop and market the Terraform blockchain and related protocols and crypto assets, which they promoted as profit opportunities for investors.  In September 2020, for example, Terraform and Kwon began publicly marketing UST as a “yield bearing” stablecoin together with something they called the Anchor Protocol.  Terraform launched the Anchor Protocol in March 2021, with Defendants advertising rates of return of 19-20% on investors’ deposited UST, leading to significant investor demand for UST.  
+. The total amount of UST, which was first “minted” in June 2019, was slow to grow, with under 300 million UST circulating by early 2021.  In the 2 months following the launch of the Anchor Protocol, the number of UST in circulation increased by close to one billion.  By May 2022, there were approximately 19 billion UST, with 14 billion deposited in the Anchor Protocol.   
+. Over time, Defendants created other protocols and crypto asset securities.  In December 2020, Defendants launched the “Mirror Protocol,” which they continued to develop and maintain.  The Mirror Protocol allowed users to create what Terraform called an “mAsset,” short for “mirrored asset”, which was designed to track or “mirror” the price of equity securities or other types of securities, including U.S. equity securities.  For example, mAssets designed to “mirror” the stock of Apple, Inc. were named “mAAPL” and were designed so that their value increased and decreased with the value of Apple, Inc. stock.  As Terraform explained on its website, “mAssets mimic the price behavior of real-world assets and give traders anywhere in the world open access to price exposure without the burdens of owning or transacting real assets.”   
+. The Mirror Protocol also provided users with the ability to obtain a “MIR token,” the so-called “governance token”xref:sec_kwonzi_footnote_2[^*(2)*^]  for the Mirror Protocol.  MIR tokens received value based upon, among other things, fees generated under the Mirror Protocol.
+
+[upperroman, start=2]
+.	*Terraform’s Crypto Assets Were Offered and Sold As Securities.*
+
+[start=39]
+. As alleged in greater detail below, Terraform offered and sold five groups of crypto asset securities: LUNA tokens, a version of LUNA called “wrapped” LUNA, UST, MIR tokens, and security-based swaps or mAssets.  Defendants solicited investors for these crypto assets by touting their profit potential.  Defendants repeatedly stated that the crypto assets would increase in value based on Terraform’s development, maintenance, and promotion of its blockchain, protocols, and the entire Terraform ecosystem.  Defendants also promoted to investors the ability to trade Terraform’s crypto assets on the secondary market, with the success of the investment again depending on Defendants’ efforts.   
+. Defendants further touted the professional expertise and success of the Terraform team, including Kwon, claiming that Terraform was “led by serial entrepreneurs” and was a team with “deep relevant expertise,” and providing biographies or links to LinkedIn profiles that highlighted Terraform employees’ and Kwon’s expertise in crypto assets, finance, and technical experience with software coding, engineering, and development.  
+. In addition, Defendants advertised their considerable efforts to ensure that UST – the “lynchpin of the [Terraform] ecosystem” – maintained its $1.00 peg.  In January 2022, Defendants announced the creation of the “Luna Foundation Guard,” which had no employees and was controlled by Kwon, with the purpose of serving as an “asset reserve [] to back the UST.”  The Luna Foundation Guard was funded with a “gift” of 50 million LUNA (at the time, worth billions of dollars) directly from Terraform.  
+. Defendants also aggressively marketed Terraform’s crypto asset securities to U.S. investors, by posting information and promotional materials to accounts on several publicly accessible online social media platforms, such as Twitter accounts, blog posts, YouTube, and messaging applications like Telegram.  Kwon and other Terraform employees further gave interviews or quotes to media promoting its crypto assets, including U.S.-based outlets, as described in greater detail below.   
+. Additionally, during the Relevant Period, Kwon and other Terraform employees traveled to the United States to meet personally with existing and potential investors to solicit investment in Terraform’s crypto asset securities, including meetings in San Francisco and New York, and to attend and speak at an industry conference and events in New York.  Defendants’ U.S.-based promotional efforts also included a partnership with the Washington Nationals baseball team, as a result of which the word “Terra” was placed on every seat behind home plate and elsewhere around the stadium in Washington, D.C.  Defendants also arranged to have several of their crypto assets listed (made available for trading) on several major crypto asset trading platforms, including a prominent U.S.-based trading platform.  
+
+[upperalpha]
+.. *LUNA*
+[numeric]  
+... *Investment of Money.* 
+
+[start=44]
+. Investors tendered fiat currency or crypto assets in exchange for LUNA. Institutional investors typically purchased LUNA directly from Terraform after meeting with Kwon in person or via videoconference.  U.S. retail (or non-institutional) investors, who purchased LUNA from crypto asset trading platforms, including at least one trading platform in the U.S., also tendered fiat currency or crypto assets in exchange for LUNA. 
+
+[numeric, start=2]    
+...	*Common Enterprise.* 
+
+[start=45]
+. Purchasers of LUNA invested into a common enterprise with other LUNA purchasers, as well as with Terraform and Kwon. 
+. Terraform and Kwon pooled the funds received from investors to develop the Terraform ecosystem and increase the value of LUNA.  Investors in LUNA shared equally in LUNA price increases, or suffered LUNA price decreases equally, such that if one investor profited, all investors did so as well.  Because LUNA is fungible, the fortunes of LUNA purchasers were tied to one another, and each depended on the success of Defendants’ efforts and strategy and the Terraform ecosystem.   
+. Specifically, proceeds of Terraform’s sales of LUNA were sent to crypto asset wallet addresses controlled by Terraform to fund Terraform’s efforts to develop and fund operations.  During fundraising presentations, Terraform and Kwon explained how Terraform would use proceeds from LUNA sales to help grow and expand the Terraform ecosystem.  For example, in August 2018, when Terraform announced its first raise of capital of $32 million, it noted that “Terra will invest the initial seed capital in building the modern financial system on the blockchain.”  In fact, Terraform presentations to investors stated that at least 20% of the initial billion LUNA tokens were to be used for development and operations.   
+. Moreover, throughout the Relevant Period, Defendants held a significant amount of LUNA, tying their fortunes with respect to LUNA with LUNA investors’ fortunes.  Terraform owned hundreds of millions of LUNA tokens through the Relevant Period.  In 2020, Kwon tweeted that he had purchased 50 million LUNA, in addition to the 70 million LUNA tokens that he owned from the time of the blockchain launch in 2019.
+
+[numeric, start=3]
+... *Reasonable Expectation of Profits From Defendants’ Managerial Efforts.*
+
+[start=49] 	 
+. Investors in LUNA reasonably expected to profit from Defendants’ efforts to develop and support the Terraform ecosystem.   
+. Defendants publicly pitched LUNA as an investment that would increase in value with increased usage of the Terraform blockchain that could result from Defendants’ continued development and maintenance.  Defendants publicly stated that as the Terraform ecosystem grew based on Defendants’ efforts, the value of LUNA would go up as well.  As Kwon explained in an April 7, 2021 thread on Twitter (referring to LUNA as “moon”): 
+
+image::media/ch03_kwonzi_01.jpg[]
+
+[start=51]  
+. In the same April 7, 2021 thread, Kwon explicitly touted that the value of LUNA could grow as the Terraform “ecosystem” grows, specifically tying that potential growth to his own efforts (which he promised would be successful by touting that he would “kick ass”) while investors remained passive (or “s[a]t back”) in the enterprise.   
+
+image::media/ch03_kwonzi_02.jpg[]
+
+[start=52]
+. As one Terraform employee put it in Terraform’s publicly-available Telegram messaging application, the “[v]alue of Luna grows as Terra [ecosystem] gets adopted and used.” Another Terraform employee noted in an online Ask-Me-Anything interview on Reddit: “[i]n the long-run … Terra’s transaction volume will be the main determinant of Luna’s value.”xref:sec_kwonzi_footnote_3[^*(3)*^]   
+. In marketing materials distributed to potential investors in January 2019, Terraform described purchases of LUNA as “investments” and LUNA buyers as “investors.”  The same materials noted that “top global exchanges and funds” already had “invested in” Terraform (referring to their purchase of LUNA), and that Terraform had raised $32 million in July 2018 from an “elite group of VCs” referring to venture capital firms. 
+. Some of Terraform’s offers and sales of LUNA were governed by purchase agreements between Terraform and LUNA investors.  These agreements generally entitled buyers to acquire LUNA at a discount to market prices.  By selling at a discount to market prices, Defendants incentivized buyers to seek to sell their LUNA into public markets in order to realize a profit.  Moreover, for some buyers who purchased LUNA prior to the public launch of the token, Defendants provided in some of the agreements for a gradated token distribution schedule that would control for the flow of LUNA tokens being sold into the market, such that early investors would receive their LUNA continuously over a period of 12-18 months.  These provisions controlled the release of LUNA over a longer period of time in smaller quantities, to control for potential negative effects on LUNA’s price that could occur with large distributions of LUNA into the market.  These provisions reflected the expectations of both Defendants and investors that that these LUNA investors would seek to sell their LUNA into public markets for a profit and sought to protect LUNA’s trading price by limiting amounts that could be resold during any given time period.
+. Defendants also engaged in efforts to develop, support, and grow the Terraform ecosystem.  Defendants publicly touted these efforts through a variety of forums, including widely accessible online social media platforms, such as accounts with Twitter and Medium, messaging applications with public channels like Telegram, and YouTube.  Terraform’s stated efforts to grow the Terraform ecosystem included four substantial version upgrades of the Terraform blockchain, adding myriad back-end technical features and front-end user applications, entering into partnerships with collaborators to develop ecosystem features, and otherwise extensively and publicly promoting the Terraform ecosystem. 
+. As Defendants engaged in and touted these efforts, the market price of LUNA increased from under a dollar in early 2021 to a high of around $119.18 in April 2022, before it crashed to under a penny in May 2022, as represented by the graph below: 
+
+image::media/ch03_kwonzi_03.jpg[]
+
+[start=57]
+. Defendants also provided monthly “Community Updates” on publicly available Medium blog posts, which discussed Defendants’ coding and development the Terraform ecosystem.  Similarly, Terraform employees and Kwon touted their efforts to develop and support the Terraform ecosystem in monthly investor emails that they distributed called “Terraform Labs Investor Update” (later renamed to “Terraform Labs Ecosystem Update”).  The recipients of these “Updates” had email addresses that included, for example, an email group investment@terra.money.  These emails highlighted Terraform’s engineering, coding, and integration of applications to the Terraform ecosystem, among other things.  These emails also announced new Terraform hiring for positions “key” to the ecosystem’s development. 
+. Terraform and Kwon also engaged in other efforts to create LUNA resale opportunities by applying to crypto asset trading platforms to make LUNA available for trading, including submitting questionnaires that provided information about LUNA and Terraform, and then furthered LUNA investors’ reasonable expectations of profits by publicly announcing new trading platform listings.
+
+[upperalpha, start=2]
+	.. *“Wrapped” LUNA*
+
+[start=59] 
+. Some crypto assets, like UST, LUNA, and the MIR tokens on the Terraform blockchain, are issued and transferred on a particular blockchain – meaning that they are represented on that blockchain.  Generally speaking, different blockchains are not interoperable with one another.  In other words, crypto assets on one blockchain cannot be automatically transferred to another blockchain.   
+. To address this limitation, “cross-chain” and “bridge” protocols were created to allow investors to move value across blockchains.  One example is the “wrapped” LUNA token (or “wLUNA”).  These wLUNA tokens are generally created, or “bridged,” from the Terraform blockchain to another blockchain by depositing LUNA in a particular wallet address on the Terraform blockchain, and then having an associated smart contract on different blockchains, such as the Ethereum blockchain, to create wLUNA. 
+. Similarly, wLUNA could be bridged back to the Terra blockchain by having wLUNA destroyed, or “burned,” by the smart contract on the non-Terraform blockchains and receiving LUNA from the address or smart contract on the Terraform blockchain.  In essence, this mechanism created a pool of LUNA on the Terraform blockchain, through which wLUNA owners could convert their holdings back into LUNA.
+
+[numeric]
+...	*Investment of Money.*
+ 
+[start=62]
+. Investors purchased wLUNA with other crypto assets or with fiat currency through crypto asset trading platforms.  For example, to create wLUNA, investors deposited LUNA to an address or smart contract on the Terraform blockchain, which was then “bridged” to the Ethereum or other blockchains to create wLUNA.   
+
+[numeric, start=2]
+...	*Common Enterprise.*
+
+[start=63]
+. Investors in wLUNA invested in a common enterprise with other wLUNA investors and LUNA investors.  To create wLUNA, LUNA was pooled together in an address or smart contract on the Terraform blockchain.  For each LUNA that entered into the pool, a new wLUNA would be created on a different blockchain, such as Ethereum.   
+. As LUNA and wLUNA were exchangeable on a one-to-one basis, the price of wLUNA generally equaled the price of LUNA.  Therefore, holders of wLUNA shared in the rise and fall of the value of the wLUNA and LUNA token.  As a result, the fortunes of wLUNA investors were tied to one another and to the fortunes of Defendants. 
+
+[numeric, start=3]
+...	*Expectation of Profits from Defendants’ Managerial Efforts.* 
+
+[start=65] 
+. Just like LUNA investors, investors in wLUNA had an expectation of profits based on the managerial efforts of Defendants because the price of wLUNA, by definition, equaled the price of LUNA. 
+. Reasonable investors purchasing wLUNA either understood this economic reality, or believed that they were purchasing LUNA when they were in fact purchasing wLUNA.  In fact, Kwon himself used the terms LUNA and wLUNA interchangeably.  For instance, when Kwon tweeted about wLUNA’s availability on a prominent U.S.-based trading platform, he referred to it as “$LUNA,” which is how he frequently referred to LUNA. 
+. Regardless of whether investors understood the difference between LUNA and wLUNA, investors purchased wLUNA with the understanding that the value of the token would be driven by the value of LUNA.  As described above, Defendants led investors to reasonably expect to profit from LUNA, and therefore wLUNA, based on the managerial efforts of Terraform and Kwon to develop the Terraform ecosystem.
+
+[numeric, start=4]
+...	*wLuna Is a Receipt for a Security.*
+
+[start=68]
+. The definition of security under Securities Act 2(a)(1) and Exchange Act Section 3(a)(10) includes a “receipt for” a security. As described above, when an investor “bridges” LUNA to obtain wLUNA, the owner of the wLUNA has the right and ability at any time to exchange the wLUNA for LUNA, which was offered and sold as a security.  This mechanism created a pool of LUNA on the Terraform blockchain through which wLUNA owners could convert their holdings back into LUNA. As a result, wLUNA is also a security because it is a receipt for a security.
+
+[upperalpha, start=3]
+.. *UST*
+[numeric, start=1]
+... *Investment of Money.*
+ 
+[numeric, start=69]
+. Investors tendered fiat currency or crypto assets in exchange for UST.  As advertised by Defendants, to “earn” nearly 20% annual returns via the Anchor Protocol, investors deposited their UST into a smart contract associated with the Anchor Protocol.
+
+[numeric, start=2]
+... *Common Enterprise.*
+
+[start=70]
+. Investors in UST invested in a common enterprise with other UST purchasers, as well as with Terraform and Kwon. 
+. Defendants created, developed, updated and maintained profit-bearing opportunities for UST, including the yield-bearing “Anchor Protocol” to generate profits for UST purchasers.  Defendants’ Anchor Protocol pooled UST investor funds and lent them out to borrowers to generate returns for the investors.  Defendants’ Anchor Protocol also did not manage individual or separate accounts for investors.  If deployment of funds within the Anchor Protocol was successful in generating returns, all investors profited equally in proportion to their investment.  Accordingly, each investor’s fortune was tied to the fortunes of the other investors. 
+. UST investors’ fortunes were also tied to Defendants’ fortunes.  Terraform and Kwon both deposited UST, sometimes in the millions or tens-of millions, respectively, into the Anchor Protocol.  Kwon tweeted in May 2021 that Terraform owned $59 million in UST, and Kwon consistently held in excess of 1 million UST, further showing that investors’ fortunes were tied to the fortunes of Defendants.  
+. That Defendants’ and investors’ fortunes were tied to each other and to the success of the Anchor Protocol was demonstrated when, in May 2022, the UST de-peg resulted in the collapse of the Terraform ecosystem and left the UST held by investors and Defendants nearly valueless. 
+
+[numeric, start=3]
+... *Reasonable Expectation of Profits Based on the Managerial Efforts of Defendants.*
+ 
+[start=74] 
+. Defendants led UST/Anchor Protocol investors to reasonably expect profits based on Defendants’ managerial efforts.  
+. As advertised by Defendants, to “earn” what Terraform advertised as nearly 20% annual returns via the Anchor Protocol, investors deposited their UST into a smart contract associated with the Anchor Protocol.  Just prior to the collapse of the Terraform ecosystem in early May 2022, over 70% of UST was deposited into the Anchor Protocol, meaning that investors deposited into the protocol close to 14 billion (or nearly 74 percent) of the almost 19 billion in overall UST.    
+. Defendants also engaged in efforts to engineer, develop, and support the Anchor Protocol, for the purpose of maintaining the promised returns to investors.  Defendants touted these efforts to investors in their monthly investor updates, including, among other things, their efforts building out its front-end user access and back-end features, facilitating user access to the protocol through third-parties’ crypto asset financial services, and funding and managing the Anchor Protocol “yield reserve,” which was used to pay investors interest on their UST.  
+. Specifically, when revenue from the Anchor Protocol was not sufficient to cover its advertised returns to UST depositors, Terraform and Kwon sought to ensure that the Anchor Protocol had enough reserve assets to pay investors the promised interest and continue attracting 
+UST/Anchor Protocol investors.   
+. For example, in July 2021, Terraform provided approximately $70 million of UST to the Anchor Protocol yield reserve.  By early 2022, the yield reserve was quickly running out of money, and it again was topped up by the Luna Foundation Guard with another approximately $450 million of UST.  This replenishment was directed by Kwon, who at the time was the director of the Luna Foundation Guard.  At Kwon’s request and authorization, the Luna Foundation Guard directed some of its LUNA to the Anchor Protocol to be converted into UST and deposited into the yield reserve. 
+. Defendants touted that returns to UST investors from the Anchor Protocol were derived from their efforts supporting the Anchor Protocol, highlighting in public statements and statements to groups of investors that Defendants’ work would support the Anchor Protocol and its yield rate.  For example, in January 2022, Kwon tweeted publicly about Defendants’ efforts to support the Anchor Protocol’s yield reserve: 
+
+image::media/ch03_kwonzi_04.jpg[]
+
+[start=80]
+. Defendants also took drastic steps to maintain UST’s “peg” to the U.S. dollar, including by gifting the Luna Foundation Guard billions of dollars to buy UST in the event of the price of UST going below $1 and “defend the peg.” 
+. Many domestic retail investors purchased UST for the sole purpose of earning a return on the Anchor Protocol developed and maintained by Defendants.   
+. These U.S. retail investors, all of whom lost nearly their entire UST investments in May 2022, lacked the technical expertise to generate returns with respect to their UST purchase for themselves.  They included a musician in Venice, California; a pharmacist in Cypress, California; a painter in Brattleboro, Vermont; an accountant in Stockton, California; an engineer in Knoxville, Tennessee; and an IT worker in Orange County, California.  Many lacked significant investment experience and educated themselves about UST and the Anchor Protocol via the Internet and social media.  They considered UST to be safe with an almost 20% yield when invested in the Anchor Protocol, as marketed by Terraform and Kwon.   
+. For much of the Relevant Period, UST and the Anchor Protocol appeared to meet investors’ expectations.  With the exception of a brief episode in May 2021 (discussed below), the price of UST remained pegged to the U.S. dollar until plummeting to under a penny and wiping out billions of dollars of investor money in May 2022. 
+
+[numeric,start=4]
+...	*UST Is a Security Because It Could Be Exchanged for LUNA*
+
+[start=84]
+. UST is also a security because it gave investors a “right to subscribe or purchase” another securityxref:sec_kwonzi_footnote_4[^*(4)*^]—namely, it could be exchanged for LUNA, another security as detailed above.  Given that UST investors had the right to convert UST to one dollar’s worth of LUNA via the Terraform blockchain, investors who bought UST had the right to subscribe to or purchase a security (i.e. LUNA). 
+
+[upperalpha, start=4]
+.. *MIR Tokens*
+[numeric,start=1] 
+... *Investment of Money.*
+
+[start=85]
+. Investors in MIR tokens tendered crypto assets or fiat currency in exchange for MIR.     
+
+[numeric,start=2] 
+... *Common Enterprise.*
+
+[start=86] 
+. Investors in MIR tokens invested in a common enterprise with other MIR token purchasers, as well as with Defendants.
+. Proceeds of the sales of MIR tokens were pooled together to develop and fund Terraform operations and, specifically, the Mirror Protocol.  The ability of a MIR investor to profit was dependent on the success of the Mirror Protocol because MIR increased in value with increased usage of the Mirror Protocol.   
+. Moreover, MIR tokens are fungible and interchangeable with each other.  MIR investors shared equally in MIR price increases, or suffered MIR price decreases equally, such that if one investor profited, all investors did so as well. 
+. After the launch of the Mirror Protocol, Terraform “farmed” MIR tokens to distribute to investors pursuant to agreements between investors and a wholly owned subsidiary of Terraform which were signed by Kwon.  Terraform farmed more MIR tokens than it was required to distribute, and retained or sold the excess tokens.  If the price of MIR increased (or decreased), both Defendants and investors would benefit (or suffer losses) in proportion to their holdings, thus tying the MIR investors’ fortunes to those of Defendants.
+
+[numeric,start=3] 
+... *Reasonable Expectation of Profits Based on Defendants’ Managerial  Efforts.*
+ 
+[start=90]
+. Defendants touted an investment in MIR as a way for investors to invest in the potential success of the Mirror Protocol. 
+. Investors bought MIR with the expectation that the price of MIR would increase based on Defendants’ managerial efforts.  Defendants told investors that the price of the MIR was directly correlated with Terraform’s and Kwon’s efforts to increase the usage of the Mirror Protocol because its value was dependent on the fees generated by usage of the Mirror Protocol. In promotional materials provided to investors in September 2020, Terraform noted that 
+Defendants would heavily promote the Mirror Protocol, which would increase the price of the MIR tokens.  These materials also provided a revenue projections table that estimated the price of MIR based on how much the Mirror Protocol was used. 
+. Defendants further held themselves out to the public as managing and working on the Mirror Protocol as part of their work to build out the Terraform ecosystem.   
+. Consistent with their public touting, Defendants engaged in entrepreneurial and managerial efforts to make the Mirror Protocol a successful enterprise.  For example, they controlled websites related to the Mirror Protocol that promoted, explained, and facilitated its use for the general public.   
+. Defendants, in fact, controlled many aspects of the Mirror Protocol and engaged in myriad efforts to facilitate and support its function. For example, Terraform engineered, launched, and upgraded versions of the Mirror Protocol.  In addition to employing engineers responsible for coding and substantially upgrading the Mirror Protocol, Terraform also employed a “product manager” for the Mirror Protocol.  Terraform further controlled a mechanism that provided a price check on the underlying assets for the mAssets for the purpose of facilitating the creation and liquidation of mAssets on the protocol.   
+. Terraform and Kwon also promoted the Mirror Protocol through, among other means, Terraform’s website, web application, social media accounts, podcast interviews, and through U.S. media.  Kwon tweeted extensively prior to and after the release of the Mirror Protocol, noting Terraform’s continued participation and partnerships to help the project succeed.  Upon announcing the Mirror Protocol to the public in December 2020, Kwon tweeted 
+“Going forward, we look forward to being active contributors in the community to help @mirror_protocol succeed.”  Following the launch of the Mirror Protocol, Terraform and Kwon advertised it aggressively, including in blog posts, tweets and interviews.  In January 2021, a Mirror Community update on the Mirror Medium page stated, “We’re always working hard to improve Mirror and rely on our brilliant community for feedback and ideas.”  Terraform and Kwon also regularly emailed updates about Terraform’s work and development on the Terraform ecosystem, including to an email group with the recipient name of “mirror_investors.”  
+. Terraform employees also engaged in public and extensive entrepreneurial and managerial efforts with respect to the Mirror Protocol, including by heavily promoting it and touting its growth in public presentations.  For example, in June 2021, Terraform’s U.S.-based Director of Special Projects provided a presentation to the “Defi Summit” on behalf of Terraform that included an extensive discussion of Terraform’s Mirror Protocol.  Among other things, Terraform’s Director of Special Projects stated that, not only was Terraform responsible for launching the Mirror Protocol, but “we’ve grown [the Mirror Protocol] to two billion [dollars] in total value locked and one million [dollars] in liquidity.”  He also discussed how “we just want to create a very delightful and magical experience . . . for users providing a Robinhood-like interface.”  Additionally, Terraform’s Business Development lead and its Head of Communications participated in an interview that publicized and explained the Mirror Protocol, noting that Terraform has a “team of [approximately] 40 people working full-time across Asia/US.”  The article explained that “Mirror is a synthetic assets protocol” and that Terraform planned to expand Mirror “beyond SE Asia and the typical US market.”  
+
+[upperalpha, start=5]
+.. *mAsset Transactions Were Security-Based Swaps*
+
+[start=97] 
+. Terraform’s Mirror Protocol permitted the creation of assets—called “mAssets”— that “mirrored” the price of securities.  The mAssets were created when, based on the smart contract coded into the Terraform blockchain, an investor provided a payment equal to 150% of the value of the security that the mAsset mirrored.  In return, the investor received an mAsset equal to the value of the security that the mAsset was designed to mirror, such as the stock of Apple, Inc. 
+. Once an mAsset was created, if the price of the referenced security rose so that the collateral rate was no longer satisfied, the investor was required to deposit additional collateral based on the value of such increases or the investor’s collateral would be liquidated. 
+. The investor could terminate the transaction by making a final payment in the form of the mAsset (also called “burning” or returning the mAsset).  At the point of the termination of the transaction, the investor was entitled to receive payment back in the form of the entire collateral.  
+. For example, an investor could create an “mAAPL” mAsset by making a payment equal to at least 150% of the value of Apple stock into a smart contract on the Mirror Protocol.  In return, the investor received “mAAPL.”  If the actual price of Apple stock rose in value, the investor was required to deposit additional payments such that the investor’s collateral equaled 150% of the now increased value of Apple, or else the collateral would be liquidated and a portion paid back to the investor.  The investor could terminate the transaction by paying the mAAPL back to the smart contract in the Mirror Protocol, at which point the investor was entitled to receive a payment back of all of the investor’s collateral. 
+. Each transaction offering or selling an mAsset thus constituted a security-based swap.  First, each transaction provided on an executory basis for an exchange of a payment, based on the value of a security.  That is, an investor provided a payment in the form of collateral equal to at least 150% of the value of the security (e.g., Apple stock) that the mAsset mirrored, in exchange for an mAsset (e.g., mAAPL).
+. Second, each transaction transferred, between the investor and the Mirror Protocol, the financial risk associated with a future change in the value of a security without also conveying a current or future direct or indirect ownership interest in the underlying security.  This is because the mAsset (e.g., “mAAPL”) tracked the rise or fall in price of the underlying security, (e.g., Apple stock), but did not convey any direct or indirect interest in the underlying security (i.e., the investor in mApple did not own any direct or indirect interest in Apple stock even though the value of her mApple tracked the change in value of Apple stock). 
+. The mAsset transactions were generally offered, sold, or effected through the Mirror Protocol (and not a registered national securities exchange) with or for persons who were not eligible contract participants, in violation of Securities Act Section 5(e) and Exchange Act Section 6(l). 
+
+[upperroman, start=3]
+. *Defendants Offered and Sold Crypto Asset Securities in Unregistered Transactions*
+ 
+[start=104]
+. Beginning in 2018 and continuing until the collapse of the Terraform ecosystem in May 2022, Defendants engaged in capital fundraising activities through the unregistered offering and sales of the crypto asset securities described above.   
+. With respect to LUNA, the unregistered public offering included a pre-seed and seed round, a public initial sale, loans of LUNA for distribution into the market for resales, and 
+Terraform’s direct sales on crypto asset trading platforms.   
+. From at least April 2018 through September 2018, as part of one continuous offering, Terraform sold close to 200 million LUNA to institutional investors, including at least one U.S. entity, and offshore entities controlled by U.S. entities.  The terms of these sales imposed no restrictions on when those tokens could be resold by the investors.  Terraform distributed to some of the investors less than a year after the executed agreements, and Kwon signed the purchase agreements.  The terms of these agreements reflect the expectation that most, if not all, of these purchasers would sell their LUNA into public markets.  In other words, Defendants were essentially embarking on a large-scale unregistered public distribution of LUNA.    
+. Between January and late February 2019, Terraform also sold approximately $60,000 worth of LUNA in a worldwide sale that was advertised on Terraform’s publicly available messaging channels and through email.  The offering involved general solicitations into the United States.  Defendants also contracted with a company to make the LUNA available to investors worldwide online.  Investors in these sales were told by Defendants that they would receive the tokens for a discount on market prices three months after the token launch.  The LUNA tokens that Terraform and Kwon sold did not restrict purchaser resales into the United States or elsewhere. 
+. Later that year, in November 2019, Terraform and its wholly owned subsidiary loaned 30 million LUNA to a U.S.-based proprietary trading firm (the “U.S. Trading Firm”).  Kwon emailed a small group of investors to inform them that the purpose of the transaction was to “improve liquidity” of LUNA, because of the “lackluster [ ] performance of the LUNA token.”  In July 2020, the U.S. Trading Firm began actively selling LUNA into the market, allowing public investors to purchase LUNA through transactions in secondary markets.   
+. In September 2020, Terraform and its wholly owned subsidiary “loaned” an additional 65 million LUNA to the U.S. Trading Firm.  In order to receive the LUNA, the U.S. Trading Firm had to meet certain thresholds related to trading in UST.  It met the first threshold and began receiving LUNA pursuant to the loan from Terraform in January 2021.  The U.S. Trading Firm subsequently began continuously selling LUNA into the market, including through a major U.S. crypto asset trading platform once that platform began listing LUNA in August 2021.  Terraform’s “loan” to the U.S. Trading Firm and the U.S. Trading Firm’s subsequent sales thus allowed public investors, including those in the U.S., to acquire or transact in LUNA through transactions in the secondary market and generated speculative interest in LUNA.   
+. These two transactions between Terraform, its subsidiary, and the U.S. Trading Firm, which are described in more detail below, were, in essence, public distributions of LUNA by Terraform.  The U.S. Trading Firm acquired the LUNA from Terraform and its subsidiary and sold it into the market directly with Terraform’s knowledge and expressed intent that the LUNA provided would be so distributed in order to “improve liquidity.” 
+. During the Relevant Period, LUNA was also made available for trading on multiple crypto asset trading platforms.  From at least August 2019, through at least February 2022, Terraform sold billions of dollars of LUNA directly into secondary markets through transactions on crypto asset trading platforms, including those available to U.S. investors.    
+. Prior to the launch of the Mirror Protocol, Terraform and Kwon raised over three million dollars by selling more than 37 million MIR tokens through agreements between investors and a wholly owned subsidiary of Terraform.  These agreements were signed by Kwon and entered into with at least six U.S. purchasers.  The contracts were signed in September of 2020, and the MIR tokens became available to these pre-launch purchasers by January or 
+February of 2021.   
+. Terraform and Kwon sold these 37 million MIR tokens without restricting the resale of their tokens and did not take any steps to verify investors’ accredited status.  Although there is no indication of general solicitation, no exemptions to registration were available given the fact that tokens sold in this offering were available for resale on an unrestricted basis less than a year after the initial transactions.   
+. In addition to selling MIR tokens pre-launch, Terraform also later sold them directly into the market through crypto asset trading platforms and made them available on the Terraform-controlled website for the Mirror Protocol that could be accessed in the U.S. Terraform entered into a listing agreement with at least one U.S. crypto asset trading platform for the listing of MIR tokens on the platform.  In addition, Terraform and Kwon “loaned” MIR tokens to market makers with no restrictions on resale, who then sold the loaned MIR upon receipt on U.S.-based crypto asset trading platforms and other crypto asset trading platforms that are available to U.S. investors. Again, the terms of these transactions reflect the expectation that these market makers would sell their MIR tokens into public markets. 
+. Beginning in late 2020, Terraform also created, offered, sold, and effected transactions in mAssets through the Mirror Protocol.  Terraform and Kwon offered and sold mAssets by (i) creating and maintaining the Mirror Protocol, (ii) promoting the investment opportunity in blog posts, tweets and interviews, and (iii) making them available for sale on Terraform-controlled websites or through crypto asset trading platforms.  For example, when a user navigated to the website with the domain name http://terra.mirror.finance/trade#buy, a website controlled by Terraform that was accessible to U.S. investors, the potential investor could choose to create, trade, or buy mAssets that mimicked the price of U.S. equity securities: 
+
+image::media/ch03_kwonzi_05.jpg[] 
+  
+[start=116]
+. Terraform created, offered, sold, and effected transactions in mAssets through the Mirror Protocol to persons who were not eligible contract participants, and Defendants made no effort to determine whether potential or actual investors were eligible contract participants.
+. No registration statement has been filed or was in effect with respect to any of the offers and sales of crypto asset securities described above.  No exemption was available from registration under the Securities Act for any crypto asset securities offered or sold by Defendants.
+
+[upperroman, start=4]
+. *Terraform and Kwon Misled, Deceived, and Defrauded Investors*
+
+[start=118]
+. To inspire confidence in the Terraform ecosystem, and encourage trading in its crypto asset securities, Defendants engaged in a scheme to deceive and mislead investors and prospective investors in the U.S. and abroad.  In particular, from at least mid-2019 through at least March 2022, Defendants misled investors and prospective investors into believing that the Terraform blockchain was being used to process and settle real world purchases by retail consumers in Korea.  In addition, when UST de-pegged briefly from the U.S. dollar in May 2021, Defendants falsely represented that the peg was restored due to the success of UST’s algorithm, which, according to Terraform, was the “lynchpin of the entire [Terraform] ecosystem.”  Defendants misleadingly omitted the real reason for the re-peg – the deliberate intervention by a third party, as discussed with Defendants, to buy large amounts of UST to restore its value.   
+. Defendants’ statements were materially false and misleading and made during a time when Defendants were actively offering, selling, and/or marketing Terraform’s crypto assets, including LUNA and UST.  Defendants knew or were reckless in not knowing that these representations were false when they were made. 
+. As one Terraform employee stated in a chat with another employee on September 1, 2021, “working at terra has reinforced my belief in conspiracy theories . . . just the white lies to prop up anchor and mirror and the illusion of decentralization and true extent of chai adoption . . . all from the armchair of a single man sipping whisky” – the reference to a man sipping whisky being Kwon. 
+
+[upperalpha, start=1]
+.. *Terraform and Kwon Deceived Investors About Chai*
+
+[start=121]
+. Terraform and Kwon marketed the Terraform blockchain as having a real-world use.  Specifically, Terraform and Kwon repeatedly claimed that a Korean company, Chai Corporation (“Chai”), used the Terraform blockchain to process and settle millions of transactions for Korean consumers at retail establishments, such as online stores, movie theaters,and convenience stores.  These statements were materially false and misleading.  Chai transactions were neither processed nor settled on the Terraform blockchain.   
+. To further deceive investors, Terraform and Kwon recorded completed Chai transactions onto the Terraform blockchain to make it appear as if they were processed on the blockchain when, in fact, they were not.  The purported “real-world use” of the Terraform blockchain was a literal fabrication. 
+. Chai is a mobile payment service provider in Korea, similar to PayPal or Venmo, which Kwon launched, together with Terraform’s co-founder, in or around June 2019.   
+. Until early 2020, Chai and Terraform were closely associated with each other, sharing an office space and overlapping personnel.  During that time, Kwon sat on Chai’s board of directors and was kept up to date on Chai activities.   
+. Sometime in early 2020, Kwon and Terraform’s co-founder took steps to separate Terraform’s business from Chai.  Kwon took control of Terraform and moved its offices to a new location.  At the same time, the majority of Terraform’s employees began working solely for Terraform.  However, until approximately May 2022, Kwon continued to sit on Chai’s board and Defendants continued to represent publicly that Terraform was connected to Chai. 
+. From mid-2019 through at least March 2022, Defendants made numerous and repeated statements falsely representing that the “backend” of Chai transactions were being processed and settled using the Terraform blockchain.  Terraform and Kwon also falsely stated that Chai’s use of the Terraform blockchain provided incentives to both Korean merchants and consumers to use Chai for their transactions.  Specifically, Terraform and Kwon claimed that Chai’s use of the Terraform blockchain meant that merchants experienced faster processing times and lower transaction fees through Chai than through competitor mobile payment services providers.  Likewise, Terraform and Kwon maintained that Chai customers would benefit from additional consumer discounts flowing from the lower costs associated with Chai’s purported use of the Terraform blockchain.  With these misrepresentations, Terraform and Kwon misleadingly used Chai’s growth as a proxy for the growth and success of the Terraform ecosystem as a whole. 
+. Terraform and Kwon made these false and misleading statements in presentations to solicit investments in Terraform’s crypto asset securities, including LUNA, from investors and prospective investors in the U.S. and overseas.  In addition, Terraform made and disseminated these false and misleading statements in public interviews, Terraform-sponsored podcasts, and social media posts, which were available to U.S. investors and prospective investors.   
+. For instance, in a presentation aired on CNBC Africa that Terraform made available to U.S. investors when it posted it to YouTube on October 14, 2019, Kwon discussed Chai in depth, explaining:   
+[none]
+... [I]n the backend, it uses Terra’s blockchain technology to solve some major pain points and problems for the merchants. +
+ &period; &period; &period; +
+But in the backend is where the real magic starts to happen. And I contend that Terra solves two of the biggest roadblocks to the adoption of digital payments in Asia and the rest of the world.  So the first is slow settlement periods. +
+ &period; &period; &period; +
+Terra settles in six seconds.  So every block for every transaction that has been made, we batch it up and then send it to the merchant so they can have easy and early access to working capital should they choose to do so.  The second problem that we solve is high transaction fees. +
+ &period; &period; &period; +
+So in the thirteen weeks in which we have been operational, early response has been quite explosive.  Up - up to today we have had 430,000 shoppers over the Chai gateway, and most of them coming in the last month. And we’ve processed nearly 2,000,000 transactions up to date.  And we think that this number will continue to grow.  In terms of daily active users, Terra and Chai has already surpassed some of the most popular tokens.  Our daily active user numbers today currently stand at around 58,000 users. . . +
+ &period; &period; &period; +
+So, basically what we are going for is to facilitate everyday retail transactions that are powered by Terra. 
+
+[start=129]
+. In an email sent on February 6, 2020 directly to investors, including U.S.-based institutional investors, Kwon noted that “Chai sits at 1.18 million active accounts today, and we passed the 1M mark on Jan 14th.”  Similarly, on February 9, 2020, Kwon wrote in the Terra General Discord Channel chat accessible to the public that “[r]ight now Chai has 12 merchants, all of whom get settled in KRT on the Terraform blockchain.” 
+. Terraform provided a September 2020 investor slide deck to at least one U.S.based institutional investor, in which it touted the purported speed and efficiency of Chai in using the Terraform blockchain to process transactions.  One slide titled “Explosive adoption of payment solutions has generated Terra 16M in annualized fees” contained a chart of various crypto assets and associated that $16 million with “LUNA, Terra’s Native Token.”  Later slides in the deck also touted Chai’s success in promoting the investment opportunities of other Terraform crypto asset securities. 
+. In a series of Tweets posted on May 24, 2021 through @terra_money, Terraform again emphasized Chai’s use of the Terraform blockchain and highlighted its growth, stating:  
+[none]
+.. 17/ As long as we create useful applications that people use on top of Terra, the strong locus of demand will always exist. 
+.. 18/ And the use cases are already there. CHAI has more than 2 million active users in Korea. 
+. And on March 31, 2022, in an interview posted to the public YouTube channel Blockworks Macro, Kwon again touted Chai and its use of the Terraform blockchain: 
+[none]
+.. So, we've launched apps like Chai in Korea. And so, the idea was that we were close to retail loop with things that people can buy, and transact with using, you know, Terra payments. So, you could take it to most e-commerce merchants of your choice. I could go to movie theaters, convenience stores, and things like that. 
+. In addition to making and disseminating these materially false and misleading statements, Terraform and Kwon engaged in other deceptive acts, including by entering transactions on the Terraform blockchain using “KRT” (yet another algorithmic stablecoin offered by Terraform that was pegged to Korean currency, Won), which purported to reflect Chai commercial transactions.  Specifically, from June 2019 through at least May 12, 2022, the Terraform blockchain appeared to reflect that Chai transactions were being settled on the blockchain in KRT, when, in fact, Chai payments were processed in Korean Won. 
+. To carry out this deception, Terraform programmed a server, which was referred to internally as the “LP Server,” to receive and process data about Chai transactions, and then issue instructions to the Terraform blockchain to replicate those transactions as if they had originally “settled” on the Terraform blockchain.   
+. Analysis of Terraform blockchain data reflects that, in replicating the Chai transactions, Terraform used one wallet address (“Terraform Master Wallet”) to fund up to 2.7 million other wallets.  Terraform controlled each of these wallets and used them to execute batched or “multisend” transfers that would replicate multiple Chai transactions together in a single transaction, using data received by the LP Server.  Analysis of Terraform blockchain data further reflects that Terraform used the Terraform Master Wallet to begin each batch of transactions that replicated the real transactions that Chai was processing in Korean Won. 
+. In statements to investors, Kwon has confirmed that the batched blockchain transactions that utilized this Terraform Master Wallet were purportedly connected to Chai (though he did not disclose that they merely replicated Chai transactions, which were not actually settled on the blockchain).  For instance, in a private Discord chat on June 22, 2019, Kwon told a small number of investors that Terraform blockchain transactions that are “multisend [are] pretty much all Chai.” 
+. To further his deception, Kwon “challenged” his Twitter followers to identify purported merchant wallet addresses from these replicated blockchain transactions.  Specifically, in a February 8, 2020 tweet posted through @stablekwon, Kwon challenged his followers to identify Chai merchant wallet addresses from the blockchain, posting: 
+[none]
+.. Fun thought: currently @terra_money payments app Chai is linked with 12 merchants in Korea.  Can anyone guess which wallet address belongs to which merchant?  First person to respond with the correct guess and explain reasoning get 5000 $LUNA. 
+. At least one of Kwon’s Twitter followers purportedly accepted the challenge and searched the Terraform blockchain to match the follower’s real-world Chai app payments with transactions recorded on the blockchain.  As a result, the follower claimed to have discovered eleven of the twelve purported merchant wallet addresses.     
+. On February 9, 2020, Kwon posted a follow-up tweet falsely stating that the follower had correctly identified the Chai merchant wallets.  In fact, a blockchain analysis reveals that each identified transaction began with the Terraform Master Wallet and the purportedly identified merchant wallet addresses were controlled by Terraform. 
+. These Terraform blockchain transactions purporting to represent real Chai transactions were purely sham transactions.  An analysis of the blockchain indicates that virtually all the KRT used to fund the Terraform Master Wallet originated from other Terraform-controlled wallets, including a reserve of Terraform stablecoins, called Terraform SDR (SDT).  Similarly, virtually all the KRT used to replicate these Chai transactions remained in or was returned to Terraform-controlled wallets through at least May 12, 2022.  The analysis further reflects that, from June 2019 until at least May 2022, with very few exceptions, the wallet addresses used in Terraform Master Wallet transactions were used in no other transactions other than those initiated from the Terraform Master Wallet.  In other words, these blockchain transactions do not reflect real-world, arms-length transfers of KRT between consumers and merchants.  Instead, they reflect a closed system in which Terraform transferred KRT between millions of wallets that it controlled in order to replicate millions of transactions processed through Chai to make it appear that they had been processed and settled on the Terraform blockchain. 
+. In reality, Chai did not process or settle transactions on the Terraform blockchain, but instead used traditional payment methods of receiving Korean Won from its customers and paying Korean Won to participating merchants.  Neither Chai consumers nor Chai merchants were transacting in KRT.  The transactions that were executed by the LP Server on the Terraform blockchain merely recorded transactions that had already happened in the real world using Korean Won.   
+. Breaks in the continuity of new blocks created on the Terraform blockchain confirm that no Chai transactions occurred on the blockchain.  The Terraform blockchain typically creates new blocks reflecting new states of the blockchain (including transactions) every six or so seconds.  However, in at least five instances between October 2021 and March 2022, there were one or more days when no transactions whatsoever were confirmed on the Terraform blockchain.  Yet, there is no evidence that the Chai payment application was not functioning during those periods.   
+. Chai itself has denied in emails to its own investors that it used a blockchain to process its payments and claimed that doing so would not have been legally permitted in Korea.  
+. Terraform employees that knew of the deception also knew to maintain its secrecy.  For example, one Terraform employee explained in a chat with another employee on October 9, 2021, “btw we don’t want to say stuff about LP server too much . . . it breaks the perception that chai depends on Terra . . . Basically chai doesn’t need Terra to work . . . It’s what copies chai’s transactions from their data base to create tx activity.” 
+. As a founder and former director of Chai, Kwon (and through Kwon, Terraform) knew or were reckless in not knowing that Chai did not actually process or settle transactions on the Terraform blockchain.  Kwon personally wrote much of the Terraform blockchain code from its genesis through two version upgrades and was primarily responsible for Terraform’s coding and engineering strategy decisions.  At the time of Chai’s development and launch, Kwon held the most senior technical position at Terraform. 
+. Kwon knew or was reckless in not knowing that the LP Server was merely replicating Chai transaction data that had not actually occurred on the Terraform blockchain because Kwon directly supervised and instructed the Terraform employees who programmed the LP Server in the first instance.  Kwon also participated in technical discussions that required an understanding of how Chai transactions were reflected on the Terraform blockchain, including that they were batched in “multisend” transactions, and demonstrated knowledge of the location of Chai-related files in Terraform’s code repositories.  Kwon further demonstrated his understanding of the Chai transaction replication process by publicly confirming Terraform blockchain wallet addresses that purportedly belonged to Chai merchants.  
+. Defendants’ misleading statements and omissions, and their deceptive acts, with respect to the non-existent Chai transactions, were material to investors in Terraform’s crypto assets securities.  
+. Terraform and Kwon used these material misrepresentations about Chai to encourage and solicit investments by retail and institutional investors in Terraform crypto assets, including LUNA and wLUNA.  For example, in a June 19, 2020 blog post on Terraform’s Medium website, Terraform’s Head of Ecosystem Development directly tied Chai’s purported use of the Terraform blockchain to the returns to Terraform investors, writing:  
+[none]
+... In this piece we’d like to go beyond the numbers to reflect on the key role that transaction fees play in determining network value and security. The fundamental driver of transaction fees in the Terra network is the broad adoption of CHAI by consumers and merchants. 
+. Defendants’ efforts worked.  U.S.-based retail and institutional investors believed that Chai operated on the Terraform blockchain and found it significant in deciding to invest in Terraform crypto assets, including LUNA.  For example, on December 3, 2020, the CEO of a U.S. based institutional investor posted to Twitter: “Terra’s payment app Chai is up to 80k daily active users.  Koreans are fast adopters.  Watch this grow. $LUNA.”  On May 18, 2022, that same CEO posted a memo to Twitter purporting to explain the basis for investing in LUNA.  In the memo, the CEO highlighted as one significant factor, Chai’s use of the Terra blockchain, describing it as “crypto finding a real-world use case.” 
+. Similarly, in or around November 2021, Kwon and another Terraform employee approached another U.S.-based institutional investor to solicit that investor to purchase LUNA tokens.  In pitching the LUNA investment, Terraform and Kwon told the investor that the Terraform blockchain was being used to process Chai transactions.  The investor found this fact to be significant in deciding to invest with Terraform.  This investor specifically highlighted Chai’s purported transactions on the Terraform blockchain in the investor’s internal investment memorandum in early January 2022.  On or about January 24, 2022, that investor (through a foreign subsidiary) signed an agreement to purchase $57 million in LUNA tokens. 
+. From December 27, 2019, to March 10, 2022, U.S.-based institutional investors (either directly or through offshore affiliates) purchased approximately $656 million of LUNA tokens from Terraform (or a wholly-controlled subsidiary).  These institutional investors included hedge funds and venture capitalists based in California, New York, Massachusetts, Florida, and Washington D.C.  Similarly, from September 2021 through May 2022, retail investors, including investors in the U.S., purchased billions of dollars of LUNA and wLUNA on crypto asset trading platforms.   
+
+[upperalpha, start=2]
+.. *Terraform and Kwon Mislead Investors about the May 2021 De-peg*
+
+[start=152]
+. Terraform and Kwon also engaged in a scheme to mislead investors and potential investors about the stability of Terraform’s stablecoin “UST” (including as offered and sold with the Anchor Protocol) and the algorithm that purportedly pegged UST’s price to the U.S. dollar.  Specifically, in May 2021, when the value of UST became “unpegged” from the U.S. dollar, Terraform, through Kwon, secretly discussed plans with a third party, the “U.S. Trading Firm,” to buy large amounts of UST to restore its value.   
+. When UST’s price went back up as a result of these efforts, Defendants falsely and misleadingly represented to the public that UST’s algorithm had successfully re-pegged UST to the dollar, giving the investing public the false and misleading impression that the re-peg had occurred without human intervention and misleadingly omitting the real reason for the re-peg:  intervention by the U.S. Trading Firm 
+. Starting on or about November 2019, the U.S. Trading Firm and Terraform or its subsidiaries entered into a series of agreements (negotiated and signed by Kwon on behalf of Terraform), whereby the U.S. Trading Firm was to provide Terraform market-making services with respect to LUNA, and eventually UST, in exchange for compensation (generally by receiving LUNA at a significant discount to market prices).  These agreements generally provided for the U.S. Trading Firm to receive LUNA after achieving certain benchmarks in its trading of UST.   
+. From 2019, when UST was first coded onto the Terraform blockchain, until mid-May 2021, there were no significant market disruptions to UST.   
+. But on May 19, 2021, UST began to de-peg from $1.00.  On May 23, 2021, UST’s price declined sharply, dropping to nearly $0.90.  That morning and continuing throughout the day, Kwon communicated repeatedly with the U.S. Trading Firm.  In these communications, Kwon expressed concern over UST’s value and discussed with the U.S. Trading Firm how to restore UST’s peg to the dollar.   
+. The U.S. Trading Firm responded by purchasing large quantities of UST throughout the day on May 23 and continuing through May 27 in an effort to restore the peg.  Ultimately, the U.S. Trading Firm made net purchases of over 62 million UST across at least two crypto asset trading platforms.  As depicted in the chart below, UST’s market price began to rise shortly after the U.S. Trading Firm’s purchases, and eventually was restored to near $1.
+
+image::media/ch03_kwonzi_06.jpg[]
+
+[start=158] 
+. Shortly thereafter, Kwon on behalf of Terraform agreed to remove the loan agreement conditions that required the U.S. Trading Firm to achieve the requisite benchmarks in order to receive the loaned LUNA tokens.  Instead, Terraform agreed to deliver on specified dates, without conditions, specific amounts of the remaining 61,458,334 LUNA tokens to the U.S. Trading Firm under the agreements.  Under the modified terms of the agreements, the final LUNA delivery to the U.S. Trading Firm was set to occur by September 1, 2025.   
+. Those modifications were subsequently reduced to writing in a July 21, 2021 agreement signed by Kwon.  Under the terms of the modified agreement, U.S. Trading Firm received LUNA tokens at $0.40 per token, even during periods when LUNA was trading at more than $90 in the secondary market.   
+. The U.S. Trading Firm ultimately profited approximately $1.28 billion by selling LUNA acquired from Terraform under the terms of the 2019 and 2020 loan agreements, as modified.                
+. Almost immediately upon UST’s recovery in May 2021, Terraform and Kwon began to make materially misleading statements about how UST’s peg to the dollar was restored.  Specifically, Terraform and Kwon emphasized the purported effectiveness of the algorithm underlying UST in maintaining UST pegged to the dollar – misleadingly omitting the true cause of UST’s re-peg: the deliberate intervention by the U.S. Trading Firm to restore the peg.   
+. For instance, in May 23, 2021, Kwon posted a series of statements on his Twitter account @d0h0k1, including:   
+[none]
+.. 16/ Is $UST growth manipulated by Terraform Labs?   
+Nobody who’s used mirror or anchor could believe this – but just for clarification we currently hold only ~59M $UST. 
+.. Reminder that there’s currently over 2B in UST stablecoins. 
+.. . . . 
+.. Building pure, unbiased and decentralized money is the long game. . . 
+. Similarly, on May 24, 2021, Terraform tweeted the following from @terra_money:    
+[none]
+.. Plagued by the cumbersome nature of stress-induced decision-making of human agents in time of market volatility, it’s why central banks are exploring CBDCs.  Algorithmic, calibrated adjustments of economic parameters are more effective than faxes and suits in meetings. 
+. Kwon continued to make similar material misstatements over the course of the next year.  For instance, during a March 1, 2022 Twitter talk show, Kwon talked about UST’s de-peg in May 2021, stating:   
+[none]
+.. … it took a few days for the slippage cost to naturally heal back to spot. So that’s another feature of the market module where when the exchange rate has deviated from the peg, the protocol automatically self-heals the exchange rate back to whatever the spot price is being quoted by the oracle.  So that’s why it took several days for the peg to recover. 
+
+[none]
+. A transcript of that talk show was also posted to a publicly available website located at terraspaces.org, which was funded by Kwon. 
+
+[start=165]
+. These statements were materially false and misleading.  Despite Defendants’ statements to the contrary, UST did not “automatically self-heal[].”  UST’s  “[a]lgorithmic, calibrated adjustments of economic parameters” failed.  UST’s peg to the dollar was not restored until after Defendants took deliberate steps to discuss with the U.S. Trading Firm a plan to deploy capital to restore UST’s price to one dollar.  While Defendants led investors to believe UST’s peg was restored by the algorithm, in fact, as Defendants knew, it was the deliberate actions of “human agents,” including Terraform, Kwon, and the U.S. Trading Firm, that ultimately led to the restoration of the peg. 
+. And Terraform and Kwon knew or were reckless in not knowing that these statements were materially false and misleading.  Terraform and Kwon knew that the U.S. Trading Firm had intervened to buy up UST because Terraform and Kwon discussed it with the U.S. Trading Firm at the time.  In fact, the U.S. Trading Firm was rewarded for its role in restoring the peg by having the terms of its loan agreements modified to the U.S. Trading Firm’s benefit.   
+. Defendants never disclosed their or U.S. Trading Firm’s roles in restoring UST’s peg.  Instead, they misled investors who were actively buying and trading UST to believe that the algorithm had “self-heal[ed]” to restore the peg without any human involvement. 
+. Terraform and Kwon’s misrepresentations and omissions about the May 2021 depeg were material to numerous U.S.-based retail and institutional investors who were unaware that any third party had intervened to restore the peg and continued to buy and hold UST (including as offered and sold with Anchor Protocol) on the belief that the algorithm had worked to restore the peg.
+
+[upperalpha, start=3]
+.. *May 2022 Collapse of the Terraform Ecosystem*
+
+[start=169]
+. In May 2022, UST de-pegged from the U.S. dollar again.  This time UST’s price did not recover.  Several factors contributed to the crash, including the sale of large amounts of UST by one or more sophisticated trading firms beginning on or about May 7, 2022.  The algorithm failed to maintain the peg for UST, and its price fell to near zero, as did the prices of Terraform’s other crypto assets.   
+. By the end of May 2022, UST, LUNA, wLUNA and MIR were essentially worthless, wiping out more than $40 billion in combined market value. 
+. Domestic institutional investors experienced billions of dollars in losses in market valuations.  Countless retail investors lost their life savings and ended up in debt as a result of the collapse.  For example, a pharmacist in California borrowed $400,000 against the value of his home to purchase UST and lost his entire investment.  A painter in Vermont invested $20,000 in UST set aside for his son’s college education, but lost it all when the Terraform ecosystem collapsed.   
+. Defendants still retain valuable proceeds from the Terraform ecosystem.  Specifically, Defendants transferred over 10,000 Bitcoin from Terraform and Luna Foundation Guard crypto asset platform accounts to an un-hosted wallet, or “cold” wallet (i.e., a self-custody wallet that is not on any exchange).  On a periodic basis since May 2022, Terraform and Kwon have transferred – and continue to transfer – Bitcoin from this wallet to a financial institution based in Switzerland and have converted the Bitcoin to cash.  Between June 2022 and the date of this complaint, over $100 million in fiat currency has been withdrawn from that Swiss bank. 
+
+[.text-center]
+[underline]#*FIRST CLAIM FOR RELIEF*#
+[.text-center]
+*Fraud in the Offer of Sale of Securities (Violation of Section 17(a) of the Securities Act)*
+
+[start=173] 
+. The Commission realleges and incorporates by reference herein the allegations in paragraphs 1 through 172. 
+. Defendants, in the offer or sale of securities, by the use of means or instrumentalities of transportation or communication in interstate commerce or by use of the mails, directly or indirectly:  (1) knowingly or recklessly employed devices, schemes, or artifices to defraud; (2) knowingly, recklessly, or negligently obtained money or property by means of untrue statements of material fact or by omitting to state material facts necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and (3) knowingly, recklessly, or negligently engaged in transactions, practices, or courses of business which operated or would operate as a fraud or deceit upon the purchaser. 
+. By their conduct described above, Defendants violated, and unless restrained and enjoined will continue to violate, Securities Act Section 17(a), 15 U.S.C. § 77q(a). 
+
+[.text-center]
+[underline]#*SECOND CLAIM FOR RELIEF*#
+[.text-center]
+*Fraud in Connection with the Purchase or Sale of Securities (Violations of Section 10(b) of the Exchange Act and Rule 10b-5 Thereunder)*
+
+[start=176] 
+. The Commission re-alleges and incorporates by reference the allegations contained in paragraphs 1 through 172. 
+. By reason of the conduct described above, Defendants, directly or indirectly, in connection with the purchase or sale of securities, by the use of the means or instrumentalities of interstate commerce or of the mails, or of any facility of any national securities exchange, knowingly or recklessly, (i) employed devices, schemes, or artifices to defraud; (ii) made untrue statements of a material fact or omitted to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices, or courses of business which operated or would operate as a fraud or deceit upon any persons, including purchasers of the securities.  
+. By reason of the conduct described above, Defendants violated, and unless restrained and enjoined will continue to violate, Exchange Act Section 10(b), 15 U.S.C. § 78j(b), and Rule 10b-5, 17 C.F.R. § 240.10b-5, thereunder. 
+
+[.text-center]
+[underline]#*THIRD CLAIM FOR RELIEF*#
+[.text-center]
+*Control Person Liability under Section 20(a) of the Exchange Act for Violation of Section 10(b) of the Exchange Act and Rule 10b-5 Thereunder*
+
+[start=179] 
+. The Commission re-alleges and incorporates by reference the allegations contained in paragraphs 1 through 172. 
+. Kwon is, or was, directly or indirectly, a control person of Terraform for purposes of Exchange Act Section 20(a), 15 U.S.C. § 78t(a).  
+. As a control person of Terraform, Kwon is jointly and severally liable with and to the same extent as the controlled entity for its violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder. 
+
+[.text-center]
+[underline]#*FOURTH CLAIM FOR RELIEF*#
+[.text-center]
+*Unregistered Offers and Sales of Securities Violation of Sections 5(a) and 5(c) of the Securities Act*
+
+[start=182] 
+. The Commission re-alleges and incorporates by reference the allegations contained in paragraphs 1 through 172. 
+. By virtue of the foregoing, Defendants, directly and indirectly: without a registration statement in effect as to that security, (a) made use of the means and instruments of transportation or communications in interstate commerce or of the mails to sell securities through the use or medium of any prospectus or otherwise; (b) carried or caused to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale; and (c) made use of the means and instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of a prospectus or otherwise, securities as to which no registration statement had been filed.  
+. By their conduct described above, Defendants violated, and unless restrained and enjoined will continue to violate, Sections 5(a) and 5(c) of the Securities Act, 15 U.S.C. § 77e(a) and 77e(c). 
+
+[.text-center]
+[underline]#*FIFTH CLAIM FOR RELIEF*#
+[.text-center]
+*Unregistered Offer of Security-Based Swaps with Non-Eligible Contract Participants (Violations of Section 5(e) of the Securities Act)*
+[start=185] 
+. The Commission re-alleges and incorporates by reference the allegations contained in paragraphs 1 through 172. 
+. Defendants, directly or indirectly, made use of the means or instruments of transportation or communication in interstate commerce or the mails, to offer to sell, offer to buy or purchase or sell, a security-based swap to persons who are not eligible contract participants as defined in Section 1a(18) of the Commodity Exchange Act, 7 U.S.C. § 1a(18), without an effective registration statement. 
+. By engaging in the foregoing conduct, Defendants have violated, and unless restrained and enjoined will continue to violate, Section 5(e) of the Securities Act, 15 U.S.C. § 77e(e). 
+
+[.text-center]
+[underline]#*SIXTH CLAIM FOR RELIEF*#
+[.text-center]
+*Effecting Transactions in Security-Based Swaps with Non-Eligible Contract Participants (Violations of Section 6(l) of the Exchange Act)*
+
+[start=188] 
+. The Commission re-alleges and incorporates by reference the allegations contained in paragraphs 1 through 172. 
+. Defendants effected transactions in security-based swaps with or for a person that is not an eligible contract participant, without such transaction being effected on a national securities exchange registered pursuant to subsection 6(b) of the Exchange Act, 15 U.S.C. § 78f(b).  
+. By engaging in the foregoing conduct, Defendants have violated, and unless restrained and enjoined will continue to violate, Section 6(l) of the Exchange Act, 15 U.S.C. § 78f(1).   
+
+[.text-center]
+*PRAYER FOR RELIEF*
+
+WHEREFORE, the Commission respectfully requests that this Court enter a Final Judgment: 
+
+[upperalpha]
+. Finding that Defendants committed the violations alleged in this Complaint; 
+. Permanently restraining and enjoining Defendants from violating Sections 5(a) and 5(c) of the Securities Act, 15 U.S.C. § 77e(a), (c); Section 5(e) of the Securities Act, 15 U.S.C. § 77e(e); Section 6(l) of the Exchange Act, 15 U.S.C. § 78f(l); Section 17(a) of the Securities Act, 15 U.S.C. § 77q(a); Section 10(b) of the Exchange Act, 15 U.S.C. § 78j(b), and Rule 10b-5 thereunder, 17 C.F.R. § 240.10b-5; and permanently enjoining Kwon from violating Section 20(a) of the Exchange Act, 15 U.S.C. § 78t(a). 
+. Ordering Defendants to disgorge their ill-gotten gains, plus prejudgment interest thereon, pursuant to Sections 21(d)(3), (5) and (7) of the Exchange Act, 15 U.S.C. §§ 78u(d)(3), (5) and (7); 
+. Ordering Defendants to pay civil money penalties pursuant to Section 20(d) of the Securities Act, 15 U.S.C. § 77t(d) and Section 21(d)(3) of the Exchange Act, 15 U.S.C. § 78u(d)(3); 
+. Imposing a conduct-based injunction pursuant to Section 21(d)(5) of the Exchange Act, 15 U.S.C. §§ 78u(d)(5), prohibiting Defendants from (i) participating, directly or indirectly, in the purchase, offer, or sale of any crypto asset security, or (ii) engaging in activities for purposes of inducing or attempting to induce the purchase, offer, or sale of any crypto asset security by others. 
+. Grant such further relief as the Court deems appropriate. 
+
+[.text-center]
+*JURY DEMAND* 
+
+The SEC demands a trial by jury on all issues so triable.
+
+|===
+|Dated:  February 16, 2023 |Respectfully submitted, +
+&nbsp; +
+/s/ James P. Connor +
+Jorge G. Tenreiro  +
+James P. Connor* +
+Laura E. Meehan +
+Devon S. Staren +
+Ladan F. Stewart +
+Attorneys for Plaintiff +
+U.S. SECURITIES AND EXCHANGE +
+COMMISSION +
+100 F Street NE +
+Washington, DC 20549 +
+Tel: (202) 551-8394 +
+Email: connorja@sec.gov 
+|===
+
+*Pending admission pro hac vice 
+
+[underline]#Of counsel:# + 
+Elisabeth Goot +
+Kathleen Hitchins +
+Roger J. Landsman +
+Reid A. Muoio +
+James F. Murtha 100 F Street NE  Washington, DC 
+
+
+***
+[[sec_kwonzi_footnote_1]]
+[1] As used in this complaint, “crypto asset security” refers to an asset that is issued and/or transferred using distributed ledger or blockchain technology – including, but not limited to, socalled “digital assets,” “virtual currencies,” “coins,” and “tokens” – and that meets the definition of “security” under the federal securities laws.  “Security” includes any “investment contract,” “security-based swap,” or “receipt for” a security. 
+[[sec_kwonzi_footnote_2]]
+[2] “Governance tokens” are tokens that can, among other features, purportedly give their holders voting power over the development and structure of the protocol or blockchain, including the right to propose changes
+[[sec_kwonzi_footnote_3]]
+[3] Another Terraform employee agreed in an internal communication:  “Luna receives value from Terra [stablecoin] as Terra [stablecoin] is transacted.  In a way, investing in Luna is a bet that Terra’s economy will grow larger over time. Investors buy into Luna, not Terra.”   
+[[sec_kwonzi_footnote_4]]
+[4] Securities Act Section 2(a)(1); Exchange Act Section 3(a)(10) 
+
+____
+
+=== Discussion Questions ===
+. what should the question be?
