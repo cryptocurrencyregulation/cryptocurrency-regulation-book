@@ -1,0 +1,157 @@
+== ACCEPTING CRYPTOCURRENCY AS AN ADVANCE FEE FOR LEGAL SERVICES ==
+
+[quote, ACCEPTING CRYPTOCURRENCY AS AN ADVANCE FEE FOR LEGAL SERVICES&comma; LEGAL ETHICS OPINION 1898, https://www.vsb.org/docs/LEO/1898.pdf]
+____
+|===
+|LEGAL ETHICS OPINION 1898 |ACCEPTING CRYPTOCURRENCY AS +
+ AN ADVANCE FEE FOR LEGAL +
+ SERVICES 
+|===
+
+In this opinion the committee considers the ethics issues that arise when a lawyer accepts an advance fee paid by the client in Bitcoin or other cryptocurrency for legal services. For example, a lawyer is hired by a client to pursue a contested divorce against the client’s spouse. The lawyer asks for an advance payment or fee of $20,000 to handle the case to completion with a final decree of divorce. The client wishes to pay the advance fee in Bitcoin. The client tenders the current market equivalent in Bitcoin to pay the advance fee of $20,000. 
+
+For purposes of this opinion, cryptocurrency also means virtual or digital currency. 
+
+[.text-center]
+*Questions Presented*
+.	What are the ethical obligations of a lawyer who accepts cryptocurrency as an advance fee for payment for legal services? 
+.	May the lawyer keep the cryptocurrency in its digital form, or must it be converted to US Currency and deposited in the lawyer’s trust account as required by Rule 1.15(a) of the Virginia Rules of Professional Conduct? 
+.	Is the lawyer’s acceptance of cryptocurrency as an advance fee payment a “business transaction” subject to Rule 1.8(a) of the Virginia Rules of Professional Conduct? 
+.	What actions must the lawyer take to safekeep cryptocurrency that has been delivered to the lawyer as an advance fee? 
+[.text-center]
+*Short Answers*
+.	A lawyer may accept cryptocurrency as an advance fee for services yet to be performed. However, the lawyer must ensure that the fee arrangement is reasonable, objectively fair to the client, and has been agreed to by the client only after being informed of its implications and given the opportunity to seek the advice of independent counsel, all of which is confirmed in writing. In addition, if the lawyer accepts cryptocurrency as an advance fee, the lawyer must also take competent and reasonable security precautions to safekeep the client’s property. 
+.	Yes, the lawyer may keep the cryptocurrency in its digital form and is not required to convert payment into US currency and deposit the funds in the lawyer’s trust account pursuant to Rule 1.15(a) of the Virginia Rules of Professional Conduct. 
+.	Yes, the lawyer’s acceptance of cryptocurrency as an advance fee payment is a “business transaction” subject to Rule 1.8(a) of the Virginia Rules of Professional Conduct. However, Rule 1.8(a) does not apply if the lawyer accepts cryptocurrency as payment for an earned fee. 
+.	If cryptocurrency is used to pay an advance fee, the lawyer should safekeep cryptocurrency as client property with the care of a professional fiduciary and take reasonable security measures to safekeep the client’s property from theft, loss, destruction or misdelivery. 
+
+[.text-center]
+Applicable Rules of Professional Conduct 
+[none]
+.. Rule 1.1 (Competence): A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation. 
+.. &period;&period;&period;
+.. Rule 1.5 (Fees) 
+[none]
+... (a)	A lawyer’s fee shall be reasonable. 
+... (b)	The lawyer’s fee shall be adequately explained to the client. 
+.. &period;&period;&period;
+.. Rule 1.8 (Conflict of Interest; Special Rules) 
+[none]
+... (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless: 
+[none]
+.... (1)	the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing to the client in a manner which can be reasonably understood by the client; 
+.... (2)	the client is given a reasonable opportunity to seek the advice of independent counsel in the transaction; and 
+.... (3)	the client consents in writing thereto. 
+.. &period;&period;&period;
+.. Rule 1.15 (Safekeeping Property) 
+.. Comment [1]: A lawyer should hold property of others with the care required of a professional fiduciary. Securities should be kept in a safe deposit box, except when some other form of safekeeping is warranted by special circumstances. For purposes of this Rule, the term “fiduciary” includes personal representative, trustee, receiver, guardian, committee, custodian, and attorney-in-fact. All property that is the property of clients or third persons should be kept separate from the lawyer's business and personal property and, if funds, in one or more trust accounts. 
+
+[.text-center]
+Prior Relevant Virginia Legal Ethics Opinions 
+
+Legal Ethics Opinion 1593 (April 11, 1994); Virginia Legal Ethics Opinion 1489 (November 16, 1992); Virginia Legal Ethics Opinion 1041 (February 19, 1988); Virginia Legal Ethics Opinion 1564 (February 15, 1995). 
+
+[.text-center]
+*Discussion*
+
+Cryptocurrency is used as a medium of exchange via a peer-to-peer computer network that is not reliant on or controlled by any central authority such as a government or bank, to uphold, maintain or verify it. Cryptocurrency is given the name because it uses encryption to verify transactions. Advance coding is used in storing and transmitting cryptocurrency data between wallets and to public digital ledgers. Cryptocurrency is not currency in the traditional sense and while various names have been given to classify or categorize it (i.e., commodities, securities, as well as currencies), it is generally viewed as a distinct asset class. In 2014, the IRS issued Notice 2014-21, 2014-16 I.R.B. 938, explaining that cryptocurrency is taxed as property for Federal income tax purposes. 
+
+Cryptocurrency does not exist in physical form and is not issued by any central authority. It is a tradeable digital asset, or digital form of money, built on blockchain technology that exists only online. An advance payment by a client to a lawyer in cryptocurrency cannot be deposited into the lawyer’s trust account. As of 2021 there were over ten thousand cryptocurrencies. Some popular currencies are Bitcoin, Ethereum, Litecoin and Dogecoin. Bitcoin, first released as open-source software in 2009, is the first decentralized cryptocurrency. Each cryptocurrency works through “distributed ledger technology,” typically a blockchain, that serves as a public financial transaction database. 
+
+Holders or owners of cryptocurrency may use digital (hot) wallets or hardware (cold) wallets to store and secure cryptocurrency. Cryptocurrency may be purchased through an exchange using real currency and then stored in a wallet until the owner is ready to use it. Cryptocurrency may be used to send payments to individuals and businesses for goods and services, but it is not yet a form of payment that has mainstream acceptance. It is also held as a speculative and volatile investment that can increase or decrease rapidly in value. Because cryptocurrencies are driven by supply and demand, and have no central issuer or regulatory authority, they can fluctuate in value unpredictably from day to day or even minute to minute. Thus, an agreement to value a transaction in cryptocurrency or convert cryptocurrency into traditional currency on a certain date carries potential risks for both sides. 
+
+Considering a cryptocurrency’s extreme fluctuation, any transaction in which it is used as an advance payment to a lawyer involves a great deal of risk undertaken by the lawyer and/or client as to the ultimate value of the legal services for which the parties have contracted. Unless an agreement between the lawyer and client is reached on when the value of the cryptocurrency payment is determined, the lawyer could, for example, receive an inappropriate windfall due to an extreme overpayment—an excessive and unreasonable fee for the value of the legal service. Because all fee agreements must be reasonable and adequately explained to the client, Rule 1.5(a) and (b) are applicable to lawyers who accept cryptocurrency as payment for legal fees. 
+
+Despite its market volatility, cryptocurrency as a medium of payment has rapidly made inroads to several marketplaces. As a result, some law firms are accepting or considering accepting certain cryptocurrencies, such as Bitcoin, as payment for legal services. See, e.g., Sara Merken, “More Law Firms are Accepting Bitcoin Payments,” ABA BNA Lawyers Man. Prof. Conduct (Sept. 6, 2017); Melissa Stanzione, “Client Cryptocurrency Payments May Pose Ethical Risks for Lawyers,” ABA BNA Lawyers Man. Prof. Conduct (May 11, 2019). 
+
+Given the extraordinary nature of the transaction, the committee agrees with three other state bar ethics opinions that the client’s payment of an advance fee using cryptocurrency “has the essential qualities of a business transaction with the client” subject to the requirements of Rule 1.8(a). North Carolina State Bar Ethics Opinion 2019-05 (October 25, 2019); D.C. Bar Ethics Opinion 378 (June 2020); New York City Bar Ass’n Ethics Opinion 2019-5 (July 11, 2019). 
+As Rule 1.15 indicates, a lawyer is not limited to accepting money for payment of a legal fee and may instead accept property as payment for legal services. This committee has previously opined that a lawyer may accept property, for example stock in the client’s company, as payment of the lawyer’s advance fee on services to be rendered. Virginia Legal Ethics Opinion 1593 (April 11, 1994). Applying DR-5-104 of the Code of Professional Responsibility, the predecessor to Rule 1.8(a), the committee stated: 
+[none]
+.. An attorney may, under DR 5-104(A), provide legal services to a corporation in consideration of the stock issued so long as he feels his independent professional judgment will not be affected by his status as a stockholder, the client consents after full disclosure by the lawyer of the potential conflicts of interest, and provided that the transaction is not unconscionable, unfair or inequitable when made. 
+See also Comment [4], ABA Model Rule 1.5: 
+[none]
+.. A lawyer may accept property in payment for services, such as an ownership interest in an enterprise, providing this does not involve acquisition of a proprietary interest in the cause of action or subject matter of the litigation contrary to Rule 1.8 (i). However, a fee paid in property instead of money may be subject to the requirements of Rule 1.8(a) because such fees often have the essential qualities of a business transaction with the client.
+
+All three state bar ethics opinions cited above conclude that the lawyer’s acceptance of cryptocurrency as payment of an advance fee is more in the nature of accepting property from the client rather than fiat currency. When a client is using cryptocurrency to pay an advance fee for future services, the reasonableness of the transaction is based not only on the amount of the fee charged by the lawyer for the legal service, but also on how well the lawyer has explained to the client the financial risks considering the agreed upon fee and the volatility of cryptocurrency.  
+
+[none]
+.. Rule 1.8(a) recognizes the fiduciary relationship between attorney and client, requiring that a business transaction with the client must be fair and reasonable. The Rule requires that: 
+[none]
+... (1)	the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing to the client in a manner which can be reasonably understood by the client; 
+... (2)	the client is given a reasonable opportunity to seek the advice of independent counsel in the transaction; and 
+... (3)	the client consents in writing thereto. 
+
+[.text-center]
+*Is the Acceptance of Cryptocurrency as an Advanced Legal Fee a “Business Transaction” under Rule 1.8(a)?*  	
+
+In general, a “business transaction” between attorney and client is any business or commercial transaction other than the contract of representation. See Comment [1], ABA Model Rule 1.8 (“does not apply to ordinary fee agreements between client and lawyer, which are governed by Rule 1.5, although its requirements must be met when the lawyer accepts an interest in the client's business or other nonmonetary property as payment of all or part of a fee.”). 
+
+Also, as Comment [1] to Virginia Rule 1.8 explains: 
+[none]
+.. Paragraph (a) does not, however, apply to standard commercial transactions between the lawyer and the client for products or services that the client generally markets to others, for example, banking or brokerage services, medical services, products manufactured or distributed by the client, and utilities services. In such transactions, the lawyer has no advantage in dealing with the client, and the restrictions in paragraph (a) are unnecessary and impracticable. 
+
+For example, if a lawyer obtains a loan from a client while representing that client, that situation is subject to the “business transaction rule.” Virginia Legal Ethics Opinion 1489 (November 16, 1992). See also Virginia Legal Ethics Opinion 1593, supra (attorney accepting stock in client’s company for payment of legal fees); Virginia Legal Ethics Opinion 1041 (February 19, 1988) (attorney going into partnership with friend and drafting partnership agreement; assuming friend relied on attorney’s services and professional judgement); Virginia Legal Ethics Opinion 1564 (February 15, 1995) (referral of real estate client to lawyer-owned company for title and settlement services). See also ABA Formal Opinion 00-418 (July 7, 2000) (acquiring ownership interest in client company, i.e., stock, while performing legal services for client company). 
+
+The transaction proposed in this opinion is not an ordinary fee agreement or a standard commercial transaction. Instead, as the New York City Bar Association’s Ethics Committee observes: 
+[none]
+.. It is one in which the lawyer and the client must negotiate potentially complex questions, and in which an unsophisticated client may therefore place unwarranted trust in the lawyer to resolve these questions fairly or advantageously to the client.  The variables associated with payment in cryptocurrency include the rate of exchange on any given day, any associated fees when converting cryptocurrency to currency, whether (and when) cryptocurrency must be converted into cash, the exchange to be used, the type of cryptocurrency being used (or whether the payment would be in a single cryptocurrency or a combination of cryptocurrencies), and how any dispute will be handled in the event of a disagreement between the lawyer and the client related to these issues. 
+
+[.text-center]
+*At What Point in the Engagement is “Fairness” and “Reasonableness” to be Determined?*
+
+This question is important when analyzing the fairness of a fee arrangement in which a volatile asset like cryptocurrency is being offered for services not yet rendered. In ABA Formal Opinion 00-418, supra, concerning accepting stocks or partial ownership of a client in lieu of fees the committee opined that: 
+[none]
+.. For purposes of judging the fairness and reasonableness of the transaction and its terms, the Committee's opinion is that, as when assessing the reasonableness of a contingent fee, only the circumstances reasonably ascertainable at the time of the transaction should be considered. 
+
+ABA Formal Op. 00-418 at 4. The DC Bar agrees with this approach: 
+
+[none]
+.. Rule 1.8(a) and the commentary thereto are silent on how fairness is to be determined, and whether it is to be determined only by reference to facts and circumstances existing at the time the arrangement is accepted by the parties, or by reference to subsequent developments (for example, a huge appreciation in the value of the shares received as fees such that the lawyer is effectively compensated at 100-fold the reasonable value of his services). For ethics purposes (and not for purposes of assessing common law fiduciary duties), we believe that the “fairness” of the fee arrangement should be judged at the time of the engagement. In other words, if the fee arrangement is “fair and reasonable to the client” at the time of the engagement, no ethical violation could occur if subsequent events, beyond the control of the lawyer, caused the fee to appear unfair or unreasonable. 
+
+See also Restatement (3d) of the Law Governing Lawyers, § 126, Comment e (2000) (“Fairness is determined based on facts that reasonably could be known at the time of the transaction, not as facts later develop.”).
+
+Therefore, any fee arrangement that charges fees in cryptocurrency, or that allows or requires a client to either provide an advance fee or accept a settlement payment from a party in cryptocurrency, should be assessed for fairness at the time that it is agreed upon, based on the facts then available. 
+
+[.text-center]
+*What Disclosures to the Client does Rule 1.8(a) Require?*
+
+At the very least, Rule 1.8(a) requires the lawyer to disclose to the client the risks associated with accepting cryptocurrency as payment of an advance fee and how those risks will be addressed. Particularly, what happens if the value of the cryptocurrency rises above or falls below the actual currency value of the legal services agreed upon by the parties? The information that a lawyer must disclose will vary, of course. However, as the DC Bar Ethics Committee recommends:  
+[none]
+.. a lawyer accepting cryptocurrency should consider including a clear explanation of how the client will be billed (i.e., in dollars or cryptocurrency); whether and how frequently cryptocurrency held by the lawyer will be calculated in dollars, or otherwise trued-up or adjusted for accounting purposes and whether, upon that accounting, market increases and decreases in the value of the cryptocurrency triggers obligations by either party; how responsibility for payment of cryptocurrency transfer fees (if any) will be allocated; which cryptocurrency exchange platform will be utilized to determine the value of cryptocurrency upon receipt and, in the case of advance fees, as the representation proceeds (i.e., as fees are earned) and upon its termination; and who will be responsible if cryptocurrency accepted by the lawyer in settlement of the client’s claims loses value and cannot satisfy third party liens. 
+
+[.text-center]
+*Safekeeping Client Property under Rule 1.15—Competently Safeguarding Cryptocurrency* 
+Comment [1] to Virginia Rule 1.15 states that a lawyer should safekeep the property of clients and third parties with the care required of a professional fiduciary. The rule also requires segregation of client and thirdparty property from the property of the lawyer. As a fiduciary, the lawyer may not commingle, misappropriate, or convert to the lawyer’s personal use property that has been entrusted to the lawyer under Rule 1.15.
+
+The first Rule of Professional Conduct, Rule 1.1, requires that a lawyer must act competently in representing a client. Ancillary to that rule, Comment [6] states that the lawyer “should pay attention to the benefits and risks of relevant technology.” Applying these principles, several points require discussion.
+
+Before accepting cryptocurrency by a lawyer, the duty of competence requires the lawyer to have the knowledge and skill to understand the risks associated with this technology, and safeguard against the many ways cryptocurrency may be stolen or lost. D.C. Bar Ethics Opinion 378, supra. “Because blockchain transactions are unregulated, uninsured, anonymous, and irreversible, cryptocurrency is regularly targeted for digital fraud and theft.” Id.
+
+Unlike traditional funds deposited in a lawyer’s trust account, cryptocurrency is not FDIC insured. Cryptocurrency online wallets and exchange platforms may be fraudulent. Even legitimate online wallets and platforms may be hacked. Transactions stored on a digital (hot) wallet connected to an online network may be vulnerable to malware and hacking.
+
+The private key is very important, because if lost or stolen, the cryptocurrency is likely permanently inaccessible. The user must keep the private key secret, not share it with anyone and store it in a safe place. Some recommend a “cold wallet” to store cryptocurrency more securely. However, even “cold wallets” (offline software, hardware or paper) may be lost, stolen, damaged or destroyed and therefore the lawyer must exercise reasonable care to protect them. Some recommend purchasing a hardware wallet to store cryptocurrency and avoiding using digital wallets that are connected online. 
+
+When accepting cryptocurrency for “safekeeping” under Rule 1.15, the lawyer-client agreement should specify that the cryptocurrency remains the property of the client until earned by the lawyer – as does the appreciation or loss on the cryptocurrency. The agreement should address responsibility for the safekeeping, discuss the safekeeping mechanism(s), and allocate responsibility for security and responsibility for storage costs and risk of loss – whether loss of value or actual loss of the property through hacking or loss of the key. Since property held for safekeeping under Rule 1.15 remains property of the client, the client should be specifically allowed to cause the lawyer to sell the cryptocurrency (whether to prevent market losses, appreciate gain in value or otherwise), and to determine the procedures the lawyer should use in doing so. 
+
+Assuming the client has the right to direct the lawyer to sell the cryptocurrency, a lawyer should consider and address in the agreement with the client: (1) whether the cryptocurrency should be sold or exchanged in its present state or converted to fiat currency; and, who bears the responsibility for payment of any expenses incurred as a result of any sale, exchange or conversion; (2) what portion of the sale proceeds will be applied to the advance fee agreed upon by the parties versus what portion will be returned to the client; (3) who bears the risk if the cryptocurrency is sold at a loss or less than the value of the agreed advance fee, i.e., will the client be obligated to replenish any deficiency; and (4) if the direction to sell is incident to the termination of the lawyer-client relationship, what portion of the sales proceeds has been earned by the lawyer and how much the client is owed as a refund. These are some but by no means all of the questions that could arise if the client has directed the lawyer to sell the cryptocurrency.  
+
+Once the cryptocurrency can be applied to earned fees, the agreement should state that it becomes the lawyer’s property, the lawyer has the risk of gain or loss, and the lawyer makes the decision when and how to sell the cryptocurrency. Any gain recognized by the lawyer on the value will not be credited to the client’s future fees. 
+
+Many of the same security measures lawyers can be expected to use with cloud-based software and storage apply to handling cryptocurrency. 
+
+Some important measures include: 
+
+* Use a private and secure internet connection and not public wi-fi when making transactions. 
+* Use a unique and robust password. 
+* Use two-factor authentication to better secure and verify transactions. 
+* Keep the security level high and do not install unsecured apps. 
+
+[.text-center]
+*Conclusion*
+
+A lawyer may accept client property including cryptocurrency offered as an advance payment for the lawyer’s services, provided the lawyer’s fee is reasonable under Rule 1.5, and this business transaction with the client meets the requirements of Rule 1.8(a), namely, that the transaction is fair and reasonable to the client, the transaction and terms are fully disclosed in writing in a manner the client understands, the client is advised of the opportunity to consult with independent counsel, and the client’s consent is confirmed in writing. When cryptocurrency is being held by the lawyer as an advance fee, the requirements of Rule 1.15 regarding safekeeping client property apply and require that the lawyer take reasonable steps to secure the client’s property against loss, theft, damage or destruction. When cryptocurrency is used by the client for payment of an earned fee, Rules 1.8(a) and 1.15 do not apply but the lawyer’s fee must be reasonable under Rule 1.5.  
+ 
+____
+
+=== Discussion Questions ===
+. what should the question be?
