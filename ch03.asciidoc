@@ -238,7 +238,7 @@ ____
 
 === Discussion Questions ===
 
-. Placeholder 1?
+. In LBRY, some of the token purchases were made with consumptive intent and some token purchases were made with investment intent, does the proportion of the purchases for investment vs. consumption matter for the Howey test?  Would it make a difference for the Howey test if there were other organizations beyond LBRY promoting the LBC token?  Could LBRY have applied Bill Hinman's reasoning to argue that even though LBC was originally a security, it was no longer a security by the time of the SEC action, similar to Ethereum? 
 
 == In the Matter of Zachary Coburn ==
 
