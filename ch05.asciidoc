@@ -45,4 +45,4 @@ ____
 
 === Discussion Questions ===
 
-. How can a balance between no sensorship (a feature claimed by cryptocurrencies) and security be achieved? 
+. Mixers enhance privacy and hide information.  Governments which wish to control the monetary system prefer a lack of privacy.  Should mixers be against the law?  Should a mixer be against the law if a majority of the users are criminals?  What if only some of the users are criminals? 
