@@ -60,4 +60,4 @@ Jason.A.Gonzalez@frb.gov +
 ____
 
 === Discussion Questions ===
-. what is this if not a placeholder for discussion question 1?
+. If Voyager receives the benefits of FDIC insurance for the funds it deposits at MCB, why are funds deposited by Voyager customers in Voyager's account not eligible for FDIC insurance?
