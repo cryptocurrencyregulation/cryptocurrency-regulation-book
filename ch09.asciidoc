@@ -472,7 +472,7 @@ Chief United States Bankruptcy Judge
 ____
 
 === Discussion Questions ===
-. what should the question be?
+. Who do you think should own the crypto assets in Earn accounts?  If the assets are still traceable, should the assets be returned to the customer?  
 
 == Examiner Report on CELSIUS NETWORK LLC, et al. ==
 
@@ -732,4 +732,4 @@ Debtors in this case are Celsius Network LLC; Celsius KeyFi LLC; Celsius Lending
 ____
 
 === Discussion Questions ===
-. what should the question be?
+. At what point should a company like Celsius inform customers that the company can not meet its obligations?
