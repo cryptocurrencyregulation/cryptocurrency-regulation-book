@@ -72,7 +72,7 @@ ____
 
 === Discussion Questions ===
 
-. What makes a digital asset a security?
+. Is a digital asset a security under the Howey test, or is the transaction of sale for the digital asset an investment contract under the Howey test?
 . Bill Hinman stated that he wanted to discuss when a token that is originally created as a security is no longer a security.  Does this phrasing make sense to you?  Does this transition make sense?
 
 
