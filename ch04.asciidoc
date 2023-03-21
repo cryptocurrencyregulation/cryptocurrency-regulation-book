@@ -38,7 +38,7 @@ The charges contained in the Indictment are merely accusations, and the defendan
 ____
 
 === Discussion Questions ===
-. With the need of having a central authority policing fraud, to what extent are decentralization and trustless operations pracitcal?
+. Do NFTs have to be considered securities for a charge of insider trading to make sense?  Can you have insider trading with baseball cards or artworks?
 
 
 == Founder and Majority Owner of Cryptocurrency Exchange Bitzlato Charged footnote:[Founder and Majority Owner of Cryptocurrency Exchange Charged with Processing Over $700 Million of Illicit Funds, <https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million>] ==
@@ -85,7 +85,7 @@ A criminal complaint is merely an allegation. All defendants are presumed innoce
 ____
 
 === Discussion Questions ===
-. what should the question be?
+. Bizlato is an example of a cryptocurrency exchange being charged with a crime when it is utilized by illicit operators.  When should a foreign exchange be subject to U.S. law?
 
 == Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case footnote:[Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case, <https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case>] ==
 
@@ -122,4 +122,4 @@ ____
 
 
 === Discussion Questions ===
-. what should the question be?
+. Ishan is the first insider to plead guilty to insider trading based on cryptocurrency.  Do you believe he had fair notice that insider trading of cryptocurrency was against the law?
