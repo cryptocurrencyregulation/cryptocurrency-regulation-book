@@ -238,7 +238,9 @@ ____
 
 === Discussion Questions ===
 
-. In LBRY, some of the token purchases were made with consumptive intent and some token purchases were made with investment intent, does the proportion of the purchases for investment vs. consumption matter for the Howey test?  Would it make a difference for the Howey test if there were other organizations beyond LBRY promoting the LBC token?  Could LBRY have applied Bill Hinman's reasoning to argue that even though LBC was originally a security, it was no longer a security by the time of the SEC action, similar to Ethereum? 
+. In LBRY, some of the token purchases were made with consumptive intent and some token purchases were made with investment intent, does the proportion of the purchases for investment vs. consumption matter for the Howey test?  
+. Would it make a difference for the Howey test if there were other organizations beyond LBRY promoting the LBC token?  
+. Could LBRY have applied Bill Hinman's reasoning to argue that even though LBC was originally a security, it was no longer a security by the time of the SEC action, similar to Ethereum? 
 
 == In the Matter of Zachary Coburn ==
 
@@ -492,7 +494,8 @@ ____
 
 === Discussion Questions ===
 
-. Placeholder 1?
+. Is it fair that Coburn was still required by the SEC to pay a fine for his time running EtherDelta even though he sold EtherDelta prior to the settlement.  
+. If Coburn had just created a smart contract on the blockchain enabling trading of ERC20 tokens and had not created a centralized off chain trading pairs website, would he have still violated the SEC's interpretation of the securities laws? 
 
 == Securities and Exchange Commission v. Ellison et al ==
 
@@ -923,7 +926,7 @@ ____
 
 === Discussion Questions ===
 
-. Placeholder 1?
+. FTX and Sam Bankman Fried are the most public case of cryptocurrency fraud so far with numerous pending legal actions.  Is it fair that lesser known frauds are either ignored by the government or receive settlements for fines while the better known FTX defendents face criminal charges involving prison terms?
 
 == CoinDeal Charged with Fraud ==
 
@@ -1372,7 +1375,7 @@ Attorneys for Plaintiff
 ____
 
 === Discussion Questions ===
-. what should the question be?
+. Is Coindeal just another example of fraud in the cryptocurrency space?
 
 == SEC v. Genesis & Gemini ==
 
@@ -1645,7 +1648,7 @@ ____
 
 
 === Discussion Questions ===
-. what should the question be?
+. Should programs like Gemini Earn be regulated by the SEC?  
 
 == In the Matter of Nexo Capital Inc. ==
 
@@ -1801,7 +1804,7 @@ ____
 
 
 === Discussion Questions ===
-. what should the question be?
+. NEXOs settlement requires it to leave U.S. Markets, is this a good settlement for U.S. consumers?
 
 == Payward Ventures and Payward Trading ==
 
@@ -2188,7 +2191,7 @@ Attorneys for Plaintiff
 ____
 
 === Discussion Questions ===
-. what should the question be?
+. Kraken is one of the most popular cryptocurrency exchanges in the u.S.A.  Does this complaint mean that the U.S. exchanges can no longer have staking programs?
 
 == Terraform & Kwon (Kwonzi Scheme) ==
 [quote, SEC v. Terraform &amp; Kwon&comma; Case1:23-cv-01346, https://www.docdroid.net/xC1daxt/kwonzi-scheme-pdf   ]
@@ -2729,4 +2732,4 @@ James F. Murtha 100 F Street NE  Washington, DC
 ____
 
 === Discussion Questions ===
-. what should the question be?
+. The failure of Luna and Terraform is another famous example of cryptocurrency fraud.  Do you think the SEC would have prosecuted Kwon if Luna hadn't failed?
