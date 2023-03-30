@@ -98,7 +98,11 @@ ____
 
 === Discussion Questions ===
 . After reading this paper, you may have technical issues to consider.  For example, why is trust an issue? Is Bitcoin truly trustless? Why can't Eastern Standard Time be used as a Timestamp? Do you think proof-of-work varying difficulty is fair for all participating nodes? How do malicious nodes affect the overall network? Can a malicious node claim a proof-of-work completed by another node? Are there any disincentives in bitcoin? Is Bitcoin anonymous or can transactions be traced?  
-. You may also have legal issues to consider.  Is it legal to create your own currency under U.S. Law?  Does it matter whether Bitcoin was created in the U.S. or not?   Who owns Bitcoin?  What does it mean to say that you own Bitcoin in a wallet?  If you receive Bitcoin in a wallet, is it taxable income that you have to report on your tax return?    
+. You may also have legal issues to consider.  Is it legal to create your own currency under U.S. Law?  Does it matter whether Bitcoin was created in the U.S. or not?   Who owns Bitcoin?  What does it mean to say that you own Bitcoin in a wallet?  If you receive Bitcoin in a wallet, is it taxable income that you have to report on your tax return? 
+
+Satoshi Nakamoto is a pseudoynm.  We don't knoe the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
+
+
 
 == WRIGHT vs. McCORMACK: High Court Approved Judgment footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
 [quote,High Court Approved Judgment WRIGHT v McCORMACK (2022)., Retrieved 4 August 2022&#44; from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf]
