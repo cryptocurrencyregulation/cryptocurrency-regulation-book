@@ -1,4 +1,3 @@
 = TBD =
 . Chapter 1 Bitcoin
-. Chapter 2 Ethereum
-. Chapter 3 SEC
+. Chapter 
