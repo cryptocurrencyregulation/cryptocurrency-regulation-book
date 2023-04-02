@@ -1,4 +1,4 @@
-= Commodity Futures Trading Commission (CFTC) =
+= FTX Chapter =
 
 == CFTC v. Bankman-Fried et al. ==
 [quote, Commodity Futures Trading Commission v. Bankman-Fried et al (Case No. 1:22-cv-10503-PKC), https://www.courtlistener.com/docket/66631227/commodity-futures-trading-commission-v-bankman-fried/ ]
