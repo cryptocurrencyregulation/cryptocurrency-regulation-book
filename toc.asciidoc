@@ -1,5 +1,5 @@
 
-= Chapter 1 Bitcoin =
+= Bitcoin Chapter =
 
 Bitcoin White Paper
 
