@@ -1,4 +1,12 @@
-= Bankruptcy =
+= Celsius Chapter =
+
+On June 12, 2022, a memo to the Celsius Community was posted on Medium.  https://celsiusnetwork.medium.com/a-memo-to-the-celsius-community-59532a06ecc6
+
+The memo stated that, "Due to extreme market conditions, today we are announcing that Celsius is pausing all withdrawals, Swap, and transfers between accounts. We are taking this action today to put Celsius in a better position to honor, over time, its withdrawal obligations."  
+
+The memo continued by stating, "Acting in the interest of our community is our top priority. In service of that commitment and to adhere to our risk management framework, we have activated a clause in our Terms of Use that will allow for this process to take place. Celsius has valuable assets and we are working diligently to meet our obligations."
+
+Below are some of the legal documents that have resulted from this pause in withdrawls (and the underlying conditions that made the pause necessary): 
 
 == Celsius Network LLC, et al. ==
 
