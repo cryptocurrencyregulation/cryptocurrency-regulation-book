@@ -47,7 +47,7 @@ U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
 
 = Terraform Labs and Luna Chapter =
 
-Terraform & Kwon (Kwonzi Scheme)
+
 
 = Voyager Chapter = 
 
@@ -74,6 +74,8 @@ Consent Order in the matter of Coinbase, Inc.
 = Stablecoins =
 
 Tether
+
+Terraform & Kwon (Kwonzi Scheme)
 
 
 
