@@ -14,7 +14,7 @@ CoinDeal Charged with Fraud
 SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
 
 
-= Initial Coin Offerings, Staking, and Token Sales Chapter =
+= Initial Coin Offerings and Token Sales Chapter =
 
 Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: 
 The DAO
@@ -26,6 +26,8 @@ When Howey Met Gary
 TurnKey Jet No Action Letter
 
 SEC vs. LBRY
+
+= Staking and Lending Chapter =
 
 SEC v. Genesis & Gemini
 
