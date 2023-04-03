@@ -1,4 +1,6 @@
 
+= Introduction Chapter =
+
 = Bitcoin Chapter =
 
 Bitcoin White Paper
