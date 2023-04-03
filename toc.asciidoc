@@ -7,23 +7,23 @@ Wright vs. McCormack
 
 = Pyramid Schemes and Fraud =
 
+CoinDeal Charged with Fraud
+
+SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
+
 
 = Initial Coin Offerings, Staking, and Token Sales Chapter =
 
 Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: 
 The DAO
 
-When Howey Met Gary
-
-SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
-
-SEC vs. LBRY
-
 In the Matter of Zachary Coburn
 
-Securities and Exchange Commission v. Ellison et al
+When Howey Met Gary
 
-CoinDeal Charged with Fraud
+TurnKey Jet No Action Letter
+
+SEC vs. LBRY
 
 SEC v. Genesis & Gemini
 
@@ -46,6 +46,8 @@ Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Tradi
 
 U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats
 
+U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
+
 = Terraform Labs and Luna Chapter =
 
 Terraform & Kwon (Kwonzi Scheme)
@@ -55,6 +57,8 @@ Terraform & Kwon (Kwonzi Scheme)
 Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act
 
 = FTX Chapter =
+
+Securities and Exchange Commission v. Ellison et al
 
 CFTC v. Bankman-Fried et al.
 
