@@ -47,10 +47,6 @@ U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets D
 
 U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
 
-= Voyager Chapter = 
-
-Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act
-
 = FTX Chapter =
 
 Securities and Exchange Commission v. Ellison et al
@@ -74,6 +70,10 @@ Consent Order in the matter of Coinbase, Inc.
 Tether
 
 Terraform & Kwon (Kwonzi Scheme)
+
+= Supplemental Materials Chapter = 
+
+Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act
 
 
 
