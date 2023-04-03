@@ -3,7 +3,7 @@
 
 ## Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
-This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+This book is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.  No claim is made to copyright on the public domain cases, statutes, or other government documents. 
 
 ## Translations and Derivatives (eg. PDF, HTML, EPUB ebooks)
 
