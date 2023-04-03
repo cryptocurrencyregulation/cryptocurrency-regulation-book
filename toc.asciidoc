@@ -47,10 +47,6 @@ U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets D
 
 U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
 
-= Terraform Labs and Luna Chapter =
-
-
-
 = Voyager Chapter = 
 
 Joint Letter Regarding Potential Violations of the Federal Deposit Insurance Act
