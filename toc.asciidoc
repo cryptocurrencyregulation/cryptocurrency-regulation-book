@@ -10,6 +10,9 @@ Wright vs. McCormack
 
 = Initial Coin Offerings, Staking, and Token Sales Chapter =
 
+Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: 
+The DAO
+
 When Howey Met Gary
 
 SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
@@ -28,7 +31,8 @@ In the Matter of Nexo Capital Inc.
 
 Payward Ventures and Payward Trading
 
-Terraform & Kwon (Kwonzi Scheme)
+
+Blockfi Lending
 
 = Cryptocurrency and NFT Insider Trading Chapter =
 
@@ -44,6 +48,7 @@ U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets D
 
 = Terraform Labs and Luna Chapter =
 
+Terraform & Kwon (Kwonzi Scheme)
 
 = Voyager Chapter = 
 
@@ -67,7 +72,7 @@ Consent Order in the matter of Coinbase, Inc.
 
 = Stablecoins =
 
-
+Tether
 
 
 
