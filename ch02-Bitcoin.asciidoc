@@ -1,116 +1,137 @@
-= Bitcoin Chapter=
+[role="pagenumrestart"]
+[[bitcoin_chapter]]
+= Bitcoin Chapter =
 
 On October 31, 2008, a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" was published on the internet under the alias of Satoshi Nakamoto. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.
 
-
+[[bitcoin_whitepaper]]
 == Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.] ==
-[quote, Nakamoto&#44; Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.]
-____
+[.text-right]
+_Nakamoto, Satoshi., "Bitcoin: A peer-to-peer electronic cash system." +
+Decentralized Business Review (2008): 21260._
 
+- - -
+[.text-center]
+[.lead]
+Bitcoin: A peer-to-peer electronic cash system
+
+[[bitcoin_whitepaper_section1]]
 **1. Introduction**
-
+[.text-justify]
 Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transactions, it still suffers from the inherent weaknesses of the trust based model. Completely non-reversible transactions are not really possible, since financial institutions cannot avoid mediating disputes. The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions, and there is a broader cost in the loss of ability to make non-reversible payments for nonreversible services. With the possibility of reversal, the need for trust spreads. Merchants must be wary of their customers, hassling them for more information than they would otherwise need.A certain percentage of fraud is accepted as unavoidable. These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party.
-
+[.text-justify]
 What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party. Transactions that are computationally impractical to reverse would protect sellers from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. In this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions. The system is secure as long as honest nodes collectively control more CPU power than any cooperating group of attacker nodes.
 
+[[bitcoin_whitepaper_section2]]
 **2. Transactions **
-
+[.text-justify]
 We define an electronic coin as a chain of digital signatures. Each owner transfers the coin to the next by digitally signing a hash of the previous transaction and the public key of the next owner and adding these to the end of the coin. A payee can verify the signatures to verify the chain of ownership.
 
-[#image-01]
-image::media/ch01-img01.png[]
-
+[[bitcoin_whitepaper_image01]]
+image::media/ch01-img01.png[Transactions, align="center", pdfwidth=60%,scaledwidth=60%, scale=60%, width=60%]
+[.text-justify]
 The problem of course is the payee can't verify that one of the owners did not double-spend the coin. A common solution is to introduce a trusted central authority, or mint, that checks every transaction for double spending. After each transaction, the coin must be returned to the mint to issue a new coin, and only coins issued directly from the mint are trusted not to be double-spent. The problem with this solution is that the fate of the entire money system depends on the company running the mint, with every transaction having to go through them, just like a bank.
-
+[.text-justify]
 We need a way for the payee to know that the previous owners did not sign any earlier transactions. For our purposes, the earliest transaction is the one that counts, so we don't care about later attempts to double-spend. The only way to confirm the absence of a transaction is to be aware of all transactions. In the mint based model, the mint was aware of all transactions and decided which arrived first. To accomplish this without a trusted party, transactions must be publicly announced , and we need a system for participants to agree on a single history of the order in which they were received. The payee needs proof that at the time of each transaction, the majority of nodes agreed it was the first received. 
 
+[[bitcoin_whitepaper_section3]]
 **3. Timestamp Server **
-
+[.text-justify]
 The solution we propose begins with a timestamp server. A timestamp server works by taking a hash of a block of items to be timestamped and widely publishing the hash, such as in a newspaper or Usenet post. The timestamp proves that the data must have existed at the time, obviously, in order to get into the hash. Each timestamp includes the previous timestamp in its hash, forming a chain, with each additional timestamp reinforcing the ones before it.
 
-[#ch01-image02]
-image::media/ch01-img02.png[]
+[[bitcoin_whitepaper_image02]]
+image::media/ch01-img02.png[Timestamps, align="center", pdfwidth=60%,scaledwidth=60%, scale=60%, width=60%]
 
+[[bitcoin_whitepaper_section4]]
 **4. Proof-of-Work **
-
+[.text-justify]
 To implement a distributed timestamp server on a peer-to-peer basis, we will need to use a proofof-work system similar to Adam Back's Hashcash, rather than newspaper or Usenet posts. The proof-of-work involves scanning for a value that when hashed, such as with SHA-256, the hash begins with a number of zero bits. The average work required is exponential in the number of zero bits required and can be verified by executing a single hash. 
-
+[.text-justify]
 For our timestamp network, we implement the proof-of-work by incrementing a nonce in the block until a value is found that gives the block's hash the required zero bits. Once the CPU effort has been expended to make it satisfy the proof-of-work, the block cannot be changed without redoing the work. As later blocks are chained after it, the work to change the block would include redoing all the blocks after it.
 
-[#ch01-image03]
-image::media/ch01-img03.png[]
-
+[[bitcoin_whitepaper_image03]]
+image::media/ch01-img03.png[Proof-of-Work, align="center", pdfwidth=60%,scaledwidth=60%, scale=60%, width=60%]
+[.text-justify]
 The proof-of-work also solves the problem of determining representation in majority decision making. If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote. The majority decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it. If a majority of CPU power is controlled by honest nodes, the honest chain will grow the fastest and outpace any competing chains. To modify a past block, an attacker would have to redo the proof-of-work of the block and all blocks after it and then catch up with and surpass the work of the honest nodes. We will show later that the probability of a slower attacker catching up diminishes exponentially as subsequent blocks are added.
-
+[.text-justify]
 To compensate for increasing hardware speed and varying interest in running nodes over time, the proof-of-work difficulty is determined by a moving average targeting an average number of blocks per hour. If they're generated too fast, the difficulty increases.
 
+[[bitcoin_whitepaper_section5]]
 **5. Network **
-
+[.text-justify]
 The steps to run the network are as follows:
+[numeric]
+.. New transactions are broadcast to all nodes.
+.. Each node collects new transactions into a block.
+.. Each node works on finding a difficult proof-of-work for its block.
+.. When a node finds a proof-of-work, it broadcasts the block to all nodes.
+.. Nodes accept the block only if all transactions in it are valid and not already spent.
+.. Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
 
-. New transactions are broadcast to all nodes.
-. Each node collects new transactions into a block.
-. Each node works on finding a difficult proof-of-work for its block.
-. When a node finds a proof-of-work, it broadcasts the block to all nodes.
-. Nodes accept the block only if all transactions in it are valid and not already spent.
-. Nodes express their acceptance of the block by working on creating the next block in the chain, using the hash of the accepted block as the previous hash.
-
+[.text-justify]
 Nodes always consider the longest chain to be the correct one and will keep working on extending it. If two nodes broadcast different versions of the next block simultaneously, some nodes may receive one or the other first. In that case, they work on the first one they received, but save the other branch in case it becomes longer. The tie will be broken when the next proofof-work is found and one branch becomes longer; the nodes that were working on the other branch will then switch to the longer one.
-
+[.text-justify]
 New transaction broadcasts do not necessarily need to reach all nodes. As long as they reach many nodes, they will get into a block before long. Block broadcasts are also tolerant of dropped messages. If a node does not receive a block, it will request it when it receives the next block and realizes it missed one. 
 
+[[bitcoin_whitepaper_section6]]
 **6. Incentive **
-
+[.text-justify]
 By convention, the first transaction in a block is a special transaction that starts a new coin owned by the creator of the block. This adds an incentive for nodes to support the network, and provides a way to initially distribute coins into circulation, since there is no central authority to issue them. The steady addition of a constant of amount of new coins is analogous to gold miners expending resources to add gold to circulation. In our case, it is CPU time and electricity that is expended.
-
+[.text-justify]
 The incentive can also be funded with transaction fees. If the output value of a transaction is less than its input value, the difference is a transaction fee that is added to the incentive value of the block containing the transaction. Once a predetermined number of coins have entered circulation, the incentive can transition entirely to transaction fees and be completely inflation free.
-
+[.text-justify]
 The incentive may help encourage nodes to stay honest. If a greedy attacker is able to assemble more CPU power than all the honest nodes, he would have to choose between using it to defraud people by stealing back his payments, or using it to generate new coins. He ought to find it more profitable to play by the rules, such rules that favour him with more new coins than everyone else combined, than to undermine the system and the validity of his own wealth.
 
 ...
 
-_**Sections 7 and 8 omitted.**_
+_Sections 7 and 8 omitted._
 
 ...
-
+[[bitcoin_whitepaper_section9]]
 **9. Combining and Splitting Value **
+[.text-justify]
 Although it would be possible to handle coins individually, it would be unwieldy to make a separate transaction for every cent in a transfer. To allow value to be split and combined, transactions contain multiple inputs and outputs. Normally there will be either a single input from a larger previous transaction or multiple inputs combining smaller amounts, and at most two outputs: one for the payment, and one returning the change, if any, back to the sender. 
 
-[#ch01-image04]
-image::media/ch01-img04.png[]
-
+[[bitcoin_whitepaper_image4]]
+image::media/ch01-img04.png[Combining and Splitting Value, align="center", pdfwidth=30%,scaledwidth=30%, scale=30%, width=30%]
+[.text-justify]
 It should be noted that fan-out, where a transaction depends on several transactions, and those transactions depend on many more, is not a problem here. There is never the need to extract a complete standalone copy of a transaction's history
 
+[[bitcoin_whitepaper_section10]]
 **10. Privacy **
-
+[.text-justify]
 The traditional banking model achieves a level of privacy by limiting access to information to the parties involved and the trusted third party. The necessity to announce all transactions publicly precludes this method, but privacy can still be maintained by breaking the flow of information in another place: by keeping public keys anonymous. The public can see that someone is sending an amount to someone else, but without information linking the transaction to anyone. This is similar to the level of information released by stock exchanges, where the time and size of individual trades, the "tape", is made public, but without telling who the parties were.
 
-[#ch01-image05]
-image::media/ch01-img05.png[]
-
+[[bitcoin_whitepaper_image5]]
+image::media/ch01-img05.png[Privacy Model, align="center", pdfwidth=75%,scaledwidth=75%, scale=75%, width=75%]
+[.text-justify]
 As an additional firewall, a new key pair should be used for each transaction to keep them from being linked to a common owner. Some linking is still unavoidable with multi-input transactions, which necessarily reveal that their inputs were owned by the same owner. The risk is that if the owner of a key is revealed, linking could reveal other transactions that belonged to the same owner.
 
 ...
 
-_**Section 11 omitted.**_
-
-____
-
+- - -
+[[bitcoin_whitepaper_discussion_questions]]
 === Discussion Questions ===
+[.text-justify]
 . After reading this paper, you may have technical issues to consider.  For example, why is trust an issue? Is Bitcoin truly trustless? Why can't Eastern Standard Time be used as a Timestamp? Do you think proof-of-work varying difficulty is fair for all participating nodes? How do malicious nodes affect the overall network? Can a malicious node claim a proof-of-work completed by another node? Are there any disincentives in bitcoin? Is Bitcoin anonymous or can transactions be traced?  
 . You may also have legal issues to consider.  Is it legal to create your own currency under U.S. Law?  Does it matter whether Bitcoin was created in the U.S. or not?   Who owns Bitcoin?  What does it mean to say that you own Bitcoin in a wallet?  If you receive Bitcoin in a wallet, is it taxable income that you have to report on your tax return? 
 
+[.text-justify]
 Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
 
+[[wright_v_mccormack]]
+== WRIGHT vs. McCORMACK footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
 
+[.text-right]
+_WRIGHT v McCORMACK +
+[2022] EWHC 2068 (QB)_
 
-== WRIGHT vs. McCORMACK: High Court Approved Judgment footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
-[quote,High Court Approved Judgment WRIGHT v McCORMACK (2022)., Retrieved 4 August 2022&#44; from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf]
-____
+- - -
+
 *MR JUSTICE CHAMBERLAIN:* 
 
 *Introduction*
-
+[.text-justify]
 . In 2008, a “white paper” entitled Bitcoin: A Peer-to-Peer Electronic Cash System was published under the pseudonym Satoshi Nakamoto (“Satoshi”). It is widely believed that the author or authors went on to invent Bitcoin, releasing early versions of the software and modifying the source code until 2010, and that this person or these persons still own a significant quantity of early Bitcoin, currently worth many billions of US dollars.
 
 .  There has been much speculation about the identity of Satoshi. Various individuals or groups have been proposed. One of these is the Claimant, Dr Craig Wright, a computer scientist and businessman active in the cryptocurrency and blockchain sphere who also aspires to an academic career in more than one field. Dr Wright now avows the claim that he is Satoshi.
@@ -135,15 +156,16 @@ not among the issues I have to determine.
 *The Publications and their context*
 
 [start=8]
+[.text-justify]
 . I set out below the publications forming the subject matter of this claim, in context. The words complained of are underlined.
 . On 29 March 2019, there were two tweets from Calvin Ayre:
-[quote]
-“yup… Dr Craig Wright is Satoshi Nakamoto…and #BSV is the only real #Bitcoin. All others are attacking Craig to sell their dysfunctional snake oil crypto products. Craig has proven this to me directly in a number of ways.” +
+[none]
+.. “yup… Dr Craig Wright is Satoshi Nakamoto…and #BSV is the only real #Bitcoin. All others are attacking Craig to sell their dysfunctional snake oil crypto products. Craig has proven this to me directly in a number of ways.” +
 {empty} +
 “Craig has started filing lawsuit against those falsely denying he is Satoshi…they can all have a day in court to try to prove their fake case but the judge will rule that Craig invented Bitcoin because he did and he can prove it.”
 . Mr McCormack replied at 8.17pm in these terms (Publication 1): 
-[quote]
-“Can I go first? +
+[none]
+.. [.underline]#“Can I go first? +
 {empty} +
 Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
@@ -153,39 +175,35 @@ Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
-Craig Wright is not Satoshi”
-
+Craig Wright is not Satoshi”#
 . On 9 April 2019 Calvin Ayre tweeted a photograph of himself, Dr Wright and five others standing behind a conference table in what appears to be a lawyer’s office. Mr Ayre has one arm around Dr Wright’s shoulder and is giving a “thumb’s up” sign with the other hand. The others pictured include Adam Wolanski QC, Dr Wright’s leading counsel in these proceedings. The text accompanying the photograph is: +
-[quote]
-“Craig and I are polishing our muskets at today’s Troll Hunting meeting in London. #CraigisSatoshi.”
+[none]
+.. “Craig and I are polishing our muskets at today’s Troll Hunting meeting in London. #CraigisSatoshi.”
 
 . Mr McCormack responded at 1.47pm on 10 April 2019 (Publication 2): 
-[quote]
-[.underline]#“Craig Wright is not Satohis! [sic] +
+[none]
+.. [.underline]#“Craig Wright is not Satohis! [sic] +
 When do I get sued?”#
-
 . At 10.23pm on 10 April 2019, Mr McCormack tweeted (Publication 3):
-[quote]
-[.underline]#“Dear @CalvinAyre, +
+[none]
+.. [.underline]#“Dear @CalvinAyre,# +
 {empty} +
-I would like to formally state that: +
-1. Craig Wright is not Satoshi +
-2. Craig Wright is a fraud +
-3. I hope as many people ReTweet this as possible +
+I would like to formally state that:# +
+[.underline]#1. Craig Wright is not Satoshi# +
+[.underline]#2. Craig Wright is a fraud# +
+[.underline]#3. I hope as many people ReTweet this as possible# +
 {empty} +
-Please send legal correspondence to [Mr McCormack’s home address]”#
-
+[.underline]#Please send legal correspondence to [Mr McCormack’s home address]#”
 . At 2.16pm on 12 April 2019, Mr McCormack replied to his own tweet as follows (Publication 4):
-[quote]
-[.underline]#“@CalvinAyre mate, that is over 1k RTs and 2.3k likes, I demand my lawsuit… +
+[none]
+.. [.underline]#“@CalvinAyre mate, that is over 1k RTs and 2.3k likes, I demand my lawsuit… +
 {empty} +
 …but you aren’t going to do it are you? You are just trying to bully people into silence with empty threats. +
 {empty} +
 Craig Wright is a fraud, bring it or go jogging.”#
-
 . By 12 April 2019, Mr McCormack had received a letter from Dr Wright’s solicitors complaining about his tweets and asking him to delete the tweets, undertake not to repeat the claims and apologise publicly. His response was to post a copy of the letter with a series of tweets, the first of which was at 5.04pm. These were as follows (Publication 5):
-[quote]
-[.underline]#“1/ So I got my letter from Craig Wright and @CalvinAyre. This is what they are sending out to people, now you can all see. +
+[none]
+.. [.underline]#“1/ So I got my letter from Craig Wright and @CalvinAyre. This is what they are sending out to people, now you can all see. +
 {empty} +
 I absolutely reject their requirements. +
 {empty} +
@@ -201,43 +219,32 @@ F**k them!”#
 
 ...
 
-_** Paragraphs 16-49 ommitted **_
+_**Paragraphs 16-49 ommitted**_
 
 ...
 
 [start=50]
+[.text-justify]
 . On 29 November 2019, Dr Wright served further revised draft Amended Particulars of Claim, in the same form as ultimately served on 19 December 2019. This altered the
 Claimant’s case on serious harm, abandoning the contentions relating to Dr Wright’s relationships with individuals at Leicester University, SOAS and CNAM. The fact that he
 no longer picked his children up from school was now pleaded as a particular of distress, but not of serious harm. The averment that he had been deterred from undertaking work with public bodies and applying for roles in public life was replaced with a more limited averment that the publications had made it more difficult for him to achieve his ambition of becoming a magistrate in Surrey. The claim in relation to serious harm to reputation in EU states was abandoned; the harm pleaded was now confined to that said to have been suffered in England and Wales.
-
 . Dr Wright’s new case was that, in the period between 1 January and 31 March 2019, he had been invited to speak and present academic papers at eight academic conferences and that:
-[quote]
-“25.9.2 Prior to publication of the words complained of, the Claimant had been invited to speak at numerous further such conferences. In several instances those invitations followed the successful submission by the Claimant of proposed academic papers for blind peer review. However following publication of the words complained of, invitations to the Claimant were withdrawn by the following conferences: +
-&emsp; 25.9.2.1. The Twenty-sixth International Conference on Telecoms, +
-&emsp; held in Hanoi, Vietnam on 8 to 10 April 2019; +
-&emsp; 25.9.2.2. The IEEE International Conference on Computer Communications,  +
-&emsp; held in Paris, France on 29 April to 2 May 2019; +
-&emsp; 25.9.2.3. The Forty-first ACM/IEEE International Conference on Software Engineering,  +
-&emsp; held in Montreal, Canada on 25 to 31 May 2019; +
-&emsp; 25.9.2.4. The Sixth International Symposium on Networks, Computers and Communications,  +
-&emsp; held in Istanbul, Turkey on 18 to 20 June 2019; +
-&emsp; 25.9.2.5. The Twenty-second International Conference on Business Information Systems,  +
-&emsp; held in Seville, Spain, on 26 to 28 June 2019; +
-&emsp; 25.9.2.6. The Forty-second International Conference on Telecommunications and Signal Processing,  +
-&emsp; held in Budapest, Hungary on 1 to 3 July 2019; +
-&emsp; 25.9.2.7. The Second Vietnam Symposium in Leadership and Public Policy,  +
-&emsp; held in Ho Chi Minh City, Vietnam on 28 to 29 October 2019; +
-&emsp; 25.9.2.8. The Twenty-fifth Asia-Pacific Conference on Communications,  +
-&emsp; held in Ho Chi Minh City, Vietnam on 6 to 8 November 2019; +
-&emsp; 25.9.2.9. CHAINSIGHTS Fintech and Blockchain Summit,  +
-&emsp; held in New York City, USA on 10 October 2019; and +
-&emsp; 25.9.2.10. MoneyConf,  held in Lisbon, Portugal on 5 to 7 November 2019. +
-{empty} +
-25.9.3. Given the timings of these exclusions it is to be inferred that the primary cause of these exclusions was publication of the words complained of. +
-{empty} +
-25.9.4. As a result of the exclusion of the Claimant from the conferences set out at paragraphs 25.9.2.1 to 25.9.2.8 the academic papers which the Claimant had been due to present were not presented at those conferences and, as a result, the Claimant has been unable to publish them to the world at large. The inability of the Claimant to present and publish those papers has led to considerable difficulties for the Claimant in pursuing academic opportunities. The Claimant wishes to develop an academic career in England (having previously taught as an Adjunct Lecturer in the Faculty of Business, School of Computing and Mathematics at Charles Sturt University, Australia) but needs to demonstrate the recent publication of academic papers to obtain such positions. +
-{empty} +
-25.9.5. Further, the inability of the Claimant to publish academic papers has a detrimental impact upon the value of the patents which the Claimant files and creates. The publication of academic papers assists in the promotion of patents: a patent which has a published academic paper behind it can be worth many times as much as a patent which does not.” 
+[none]
+.. “25.9.2 Prior to publication of the words complained of, the Claimant had been invited to speak at numerous further such conferences. In several instances those invitations followed the successful submission by the Claimant of proposed academic papers for blind peer review. However following publication of the words complained of, invitations to the Claimant were withdrawn by the following conferences: 
+[none]
+... 25.9.2.1. The Twenty-sixth International Conference on Telecoms, held in Hanoi, Vietnam on 8 to 10 April 2019; 
+... 25.9.2.2. The IEEE International Conference on Computer Communications, held in Paris, France on 29 April to 2 May 2019; 
+... 25.9.2.3. The Forty-first ACM/IEEE International Conference on Software Engineering, held in Montreal, Canada on 25 to 31 May 2019; 
+... 25.9.2.4. The Sixth International Symposium on Networks, Computers and Communications, held in Istanbul, Turkey on 18 to 20 June 2019; 
+... 25.9.2.5. The Twenty-second International Conference on Business Information Systems, held in Seville, Spain, on 26 to 28 June 2019; 
+... 25.9.2.6. The Forty-second International Conference on Telecommunications and Signal Processing, held in Budapest, Hungary on 1 to 3 July 2019; 
+... 25.9.2.7. The Second Vietnam Symposium in Leadership and Public Policy, held in Ho Chi Minh City, Vietnam on 28 to 29 October 2019; 
+... 25.9.2.8. The Twenty-fifth Asia-Pacific Conference on Communications, held in Ho Chi Minh City, Vietnam on 6 to 8 November 2019; 
+... 25.9.2.9. CHAINSIGHTS Fintech and Blockchain Summit,held in New York City, USA on 10 October 2019; and 
+... 25.9.2.10. MoneyConf,  held in Lisbon, Portugal on 5 to 7 November 2019. 
+.. 25.9.3. Given the timings of these exclusions it is to be inferred that the primary cause of these exclusions was publication of the words complained of. 
+.. 25.9.4. As a result of the exclusion of the Claimant from the conferences set out at paragraphs 25.9.2.1 to 25.9.2.8 the academic papers which the Claimant had been due to present were not presented at those conferences and, as a result, the Claimant has been unable to publish them to the world at large. The inability of the Claimant to present and publish those papers has led to considerable difficulties for the Claimant in pursuing academic opportunities. The Claimant wishes to develop an academic career in England (having previously taught as an Adjunct Lecturer in the Faculty of Business, School of Computing and Mathematics at Charles Sturt University, Australia) but needs to demonstrate the recent publication of academic papers to obtain such positions. +
+.. 25.9.5. Further, the inability of the Claimant to publish academic papers has a detrimental impact upon the value of the patents which the Claimant files and creates. The publication of academic papers assists in the promotion of patents: a patent which has a published academic paper behind it can be worth many times as much as a patent which does not.” 
 
 ...
 
@@ -246,9 +253,9 @@ _** Paragraphs 52-93 ommitted **_
 ...
 
 [start=94]
+[.text-justify]
 . Dr Wright now accepts that his evidence (though not his pleading) was wrong, but says that this was inadvertent. In assessing this, it is necessary to set out what the evidence now shows and the extent to which this diverges from the case originally advanced.
-
-. There is no documentary evidence that: (i) Dr Wright had a paper accepted following a blind peer review process at any of the academic conferences identified in para. 25.9.2 of the ReAmended Particulars of Claim; or (ii) Dr Wright ever received an invitation to speak at any of those conferences, with the possible exception of Seville; or (iii) that any such invitation was rescinded. I have borne in mind Dr Wright’s evidence that he no longer has access to the emails sent to his CNAM account, but even if that account is true, emails are often retained by the sender as well as the recipient. It is striking that, with the assistance of his very well-resourced lawyers, he has been unable to locate any documentary evidence to support his account that invitations were made and then rescinded: see, in this regard, Wetton (as Liquidator of Mumtaz Properties Ltd) v Ahmed [2011] EWCA Civ 61, [14] (Arden LJ).
+. There is [.underline]#no# documentary evidence that: (i) Dr Wright had a paper accepted following a blind peer review process at [.underline]#any# of the academic conferences identified in para. 25.9.2 of the ReAmended Particulars of Claim; or (ii) Dr Wright ever received an invitation to speak at [.underline]#any# of those conferences, with the possible exception of Seville; or (iii) that any such invitation was rescinded. I have borne in mind Dr Wright’s evidence that he no longer has access to the emails sent to his CNAM account, but even if that account is true, emails are often retained by the sender as well as the recipient. It is striking that, with the assistance of his very well-resourced lawyers, he has been unable to locate any documentary evidence to support his account that invitations were made and then rescinded: see, in this regard, _Wetton (as Liquidator of Mumtaz Properties Ltd) v Ahmed_ [2011] EWCA Civ 61, [14] (Arden LJ).
 
 ...
 
@@ -257,6 +264,7 @@ _** Paragraphs 96-109 ommitted **_
 ...
 
 [start=110]
+[.text-justify]
 . A conclusion that a witness has given deliberately false evidence should not be drawn lightly. There are times, however, when the application of Occam’s razor impels such a conclusion. In this case, there is no other plausible explanation. I reach that view having observed Dr Wright give oral evidence and on the basis of a combination of: (i) the circumstances in which the case on serious harm was pleaded; (ii) the extent to which that case – and the evidence contained in the first witness statement – were subsequently shown to be false; (iii) the timing of Dr Wright’s third witness statement (in response to the new evidence exposing the falsity of his earlier case); (iv) the vague and unimpressive oral evidence given by Dr Wright in support of his new case at trial; and (v) the lack of any adequate or convincing explanation for the falsity of the original case and evidence.
 
 . I therefore conclude that Dr Wright’s original case on serious harm, and the evidence supporting it, both of which were maintained until days before trial, were deliberately false.
@@ -270,28 +278,30 @@ _** Paragraphs 112-140 ommitted **_
 *Relief*
 
 [start=141]
+[.text-justify]
 . By way of relief, Dr Wright claims damages, an injunction and an order for publication of a summary of the judgment pursuant to s. 12 of the 2013 Act. There has been correspondence in which Mr McCormack’s solicitors have offered undertakings in the event of a finding against Mr McCormack on liability. In my judgment, the appropriate way to proceed is for me to resolve the question of damages first and then invite further submissions as to whether any injunctive or other relief should be granted in the light of my findings. 
-. The general approach to the assessment of damages for defamation cases was set out by Warby J in Monroe v Hopkins at [75]-[78]. However, it is also well established that “a person should only be compensated for injury to the reputation they actually possess” and it is accordingly open to a defendant to adduce evidence of a claimant’s bad reputation in mitigation of damages: Lachaux, [74] (Warby J). In assessing the proper level of damages or in mitigation of damages, the court can take into account evidence admitted on another issue: Gatley on Libel and Slander (13th ed., 2022), §34-096; Dhir v Saddler [2017] EWHC 3155 (QB), [2018] 4 WLR 1, [118]; Bokova v Associated Newspapers Ltd [2018] EWHC 2032 (QB), [2019] QB 861, [29].
+. The general approach to the assessment of damages for defamation cases was set out by Warby J in _Monroe v Hopkins_ at [75]-[78]. However, it is also well established that “a person should only be compensated for injury to the reputation they actually possess” and it is accordingly open to a defendant to adduce evidence of a claimant’s bad reputation in mitigation of damages: _Lachaux_, [74] (Warby J). In assessing the proper level of damages or in mitigation of damages, the court can take into account evidence admitted on another issue: Gatley on Libel and Slander (13th ed., 2022), §34-096; _Dhir v Saddler_ [2017] EWHC 3155 (QB), [2018] 4 WLR 1, [118]; _Bokova v Associated Newspapers Ltd_ [2018] EWHC 2032 (QB), [2019] QB 861, [29].
 
 . In a libel action brought by an individual, compensation is awarded for injury to reputation (objectively assessed) and for injury to feelings. Had it not been for Dr Wright’s deliberately false case as to serious harm, a more than minimal award of damages would have been appropriate, though the quantum would have been reduced to reflect the fact that Mr McCormack was goaded into making the statements he did and, having found Dr Wright not to be a witness of truth, I would have rejected in its entirety his case as to the distress he claims to have suffered.
 
 . But the deliberately false case on serious harm advanced by Dr Wright until days before trial in my judgment requires more than a mere reduction in the award of damages. In my judgment, it makes it unconscionable that Dr Wright should receive any more than nominal damages.
 
-. In Joseph v Spiller [2012] EWHC 2958 (QB), a claim heard before the 2013 Act, the claimant was a member of a musical group. The defendant was one of the directors of an
+. In _Joseph v Spiller_ [2012] EWHC 2958 (QB), a claim heard before the 2013 Act, the claimant was a member of a musical group. The defendant was one of the directors of an
 entertainment bookings service. He published something defamatory of the claimant’s group on his website. The claimant advanced a claim for special damages for the cancellation of a booking, said to have been occasioned by the publication complained of. Tugendhat J held that the claimant had carried on a sophisticated deception of the court by putting forward a witness statement he knew to be false and by relying on a false document to mislead the court. As a result, although the claim succeeded, “there would be no injustice to Mr Joseph if he is awarded only nominal damages” – and that is what happened: see at [177]-[178] and [184].
 
-. In FlyMeNow Ltd v Quick Air Jet Charter GmbH [2016] EWHC 3197 (QB), Warby J awarded damages of £10 to a company which succeeded in a claim for libel in respect of a statement by one of its creditors imputing insolvency. This very low or nominal award was justified in part by a finding that the claimant had fobbed the defendant off with a series of dishonest excuses (see [127]), but also by the finding that “a central element of its case was false from the beginning and should have been recognised as such by the company’s principal”, who had “given false evidence” (see [128]). The latter findings were “disreputable facts that are properly before the court, which logically affect the extent to which the claimant is entitled to vindication of its reputation through an award of damages”. This approach was said to be supported by Joseph v Spiller.
+. In _FlyMeNow Ltd v Quick Air Jet Charter GmbH_ [2016] EWHC 3197 (QB), Warby J awarded damages of £10 to a company which succeeded in a claim for libel in respect of a statement by one of its creditors imputing insolvency. This very low or nominal award was justified in part by a finding that the claimant had fobbed the defendant off with a series of dishonest excuses (see [127]), but also by the finding that “a central element of its case was false from the beginning and should have been recognised as such by the company’s principal”, who had “given false evidence” (see [128]). The latter findings were “disreputable facts that are properly before the court, which logically affect the extent to which the claimant is entitled to vindication of its reputation through an award of damages”. This approach was said to be supported by _Joseph v Spiller_.
 
 . In my judgment, the same principle applies here:
 .. Dr Wright advanced a deliberately false case as to the disinvitations from academic conferences in his Amended Particulars of Claim and his first witness statement. That case was designed to show that the Publications had caused serious harm, which is now an essential element of the tort of defamation. It was also relevant to the quantum of damages sought. These were both central issues in the claim.
 .. The case was maintained until shortly before the trial and, on my findings, would have been maintained at trial had Mr McCormack not served evidence from two of the organisers of the academic conferences from which Dr Wright said he had been disinvited after previously having had papers accepted following blind peer review.
 .. Dr Wright’s response to this evidence was to change his case and withdraw significant parts of his earlier evidence, while seeking to explain that the errors were inadvertent. I have rejected that explanation as untrue.
-.. I have found that the Publications did cause serious harm without reference to the earlier deliberately false case as to the academic conferences. However, I am entitled to take into account my findings as to the earlier false case in assessing damages.
-.. As in Joseph v Spiller, I find that there would be no injustice if Dr Wright were to recover only nominal damages.
+.. I have found that the Publications [.underline]#did# cause serious harm without reference to the earlier deliberately false case as to the academic conferences. However, I am entitled to take into account my findings as to the earlier false case in assessing damages.
+.. As in _Joseph v Spiller_, I find that there would be no injustice if Dr Wright were to recover only nominal damages.
 . In the light of this conclusion, it is not necessary to resolve the differences between the parties as to the extent of publication; and it would not be a proportionate use of judicial resources to do so.
 
 *Conclusions*
 [start=149]
+[.text-justify]
 . For these reasons, I conclude that:
 .. Publication 16 meant that there were reasonable grounds for questioning or inquiring as to whether the Claimant had fraudulently claimed to be Satoshi. This was defamatory at common law. 
 .. Mr McCormack is responsible for the re-publication of Publication 16 by the posting of the recording on YouTube.
@@ -299,8 +309,12 @@ entertainment bookings service. He published something defamatory of the claiman
 .. However, because he advanced a deliberately false case and put forward deliberately false evidence until days before trial, he will recover only nominal damages.
 . Accordingly, I shall enter judgment for Dr Wright on the claim in the sum of £1.
 . I shall invite written submissions in the light of this judgment on the question of injunctive or other relief and on costs. 
-____
+
+- - -
+
+[[wright_v_mccormack_discussion_questions]]
 
 === Discussion Questions ===
+[.text-justify]
 1. Satoshi Nakamoto's posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", more information at https://www.bookofsatoshi.com/.  Do the activities of Dr. Wright seem compatible with the writings collected in that book? 
 2. Does this case answer the question as to whether Dr. Wright is the person behind the identity of Satoshi Nakamoto?
