@@ -120,7 +120,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
 
 [[wright_v_mccormack]]
-== WRIGHT vs. McCORMACK footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
+== Satoshi Nakamoto Pseudonym footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
 
 [.text-right]
 _WRIGHT v McCORMACK +
@@ -219,7 +219,7 @@ F**k them!”#
 
 ...
 
-_**Paragraphs 16-49 ommitted**_
+_**Paragraphs 16-49 omitted**_
 
 ...
 
@@ -259,7 +259,7 @@ _** Paragraphs 52-93 ommitted **_
 
 ...
 
-_** Paragraphs 96-109 ommitted **_
+_** Paragraphs 96-109 omitted **_
 
 ...
 
