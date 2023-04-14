@@ -7,11 +7,7 @@ Bitcoin White Paper
 
 Wright vs. McCormack
 
-= Pyramid Schemes and Fraud =
 
-CoinDeal Charged with Fraud
-
-SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
 
 
 = Initial Coin Offerings and Token Sales Chapter =
@@ -36,6 +32,12 @@ In the Matter of Nexo Capital Inc.
 Payward Ventures and Payward Trading
 
 Blockfi Lending
+
+= Pyramid Schemes and Fraud =
+
+CoinDeal Charged with Fraud
+
+SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
 
 = Cryptocurrency and NFT Insider Trading Chapter =
 
@@ -73,6 +75,6 @@ Tether
 
 Terraform & Kwon 
 
-Decentralized Autonomous Organizations (DAOs)
+= Decentralized Autonomous Organizations (DAOs) =
 
 
