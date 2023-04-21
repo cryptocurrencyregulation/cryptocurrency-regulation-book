@@ -1,125 +1,164 @@
 = Cryptocurrency and NFT Insider Trading Chapter =
 
 
+[[doj_insider_trading]]
+== Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme ==
+////
+Department of Justice U.S. Attorney’s Office Southern District of New York, 
+‘Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme’ (2022) <https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme> accessed July 12, 2022] 
+////
 
-== Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme footnote:[Department of Justice U.S. Attorney’s Office Southern District of New York, ‘Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme’ (2022) <https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-assetinsider-trading-scheme> accessed July 12, 2022] ==
+[.text-right]
+_Department of Justice, June 1, 2022 +
+Press Release Number: 22-180_
 
+- - -
 
-[qoute, Department of Justice U.S. Attorney’s Office Southern District of New York, ‘Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme’ (2022) ]
-
-____
+[.text-center]
 *Defendant Allegedly Traded on Inside Information About NFTs That Were Scheduled to be Featured on The Homepage of The Largest NFT Marketplace*
 
+[.text-justify]
 Damian Williams, the United States Attorney for the Southern District of New York, and Michael J. Driscoll, Assistant Director-in-Charge of the New York Field Office of the Federal Bureau of Investigation (“FBI”), announced today the unsealing of an Indictment charging NATHANIEL CHASTAIN, a former product manager at Ozone Networks, Inc. d/b/a OpenSea (“OpenSea”), with wire fraud and money laundering in connection with a scheme to commit insider trading in Non-Fungible Tokens, or “NFTs,” by using confidential information about what NFTs were going to be featured on OpenSea's homepage for his personal financial gain.  CHASTAIN was arrested this morning in New York, New York and will be presented today in the United States District Court for the Southern District of New York.
-
+[.text-justify]
 U.S. Attorney Damian Williams said:  “NFTs might be new, but this type of criminal scheme is not.  As alleged, Nathaniel Chastain betrayed OpenSea by using its confidential business information to make money for himself.  Today's charges demonstrate the commitment of this Office to stamping out insider trading -- whether it occurs on the stock market or the blockchain.”
-
+[.text-justify]
 FBI Assistant Director-in-Charge Michael J. Driscoll said:  “In this case, as alleged, Chastain launched an age-old scheme to commit insider trading by using his knowledge of confidential information to purchase dozens of NFTs in advance of them being featured on OpenSea's homepage. With the emergence of any new investment tool, such as blockchain supported non-fungible tokens, there are those who will exploit vulnerabilities for their own gain. The FBI will continue to aggressively pursue actors who choose to manipulate the market in this way.”
 
-As alleged in the Indictment unsealed today in Manhattan federal court:
-
+As alleged in the Indictment unsealed today in Manhattan federal court:xref:doj_insider_trading_fn_1[^*(1)*^]
+[.text-justify]
 This case concerns insider trading in NFTs on OpenSea, the largest online marketplace for the purchase and sale of NFTs. In violation of the duties of trust and confidence he owed to his employer, OpenSea, CHASTAIN exploited his advanced knowledge of what NFTs would be featured on OpenSea's homepage for his personal financial gain.
-
+[.text-justify]
 As part of his employment, CHASTAIN was responsible for selecting NFTs to be featured on OpenSea's homepage. OpenSea kept confidential the identity of featured NFTs until they appeared on its homepage. After an NFT was featured on OpenSea's homepage, the price buyers were willing to pay for that NFT, and for other NFTs made by the same NFT creator, typically increased substantially.
-
+[.text-justify]
 From at least in or about June 2021 to at least in or about September 2021, CHASTAIN used OpenSea's confidential business information about what NFTs were going to be featured on its homepage to secretly purchase dozens of NFTs shortly before they were featured. After those NFTs were featured on OpenSea, CHASTAIN sold them at profits of two- to five-times his initial purchase price. To conceal the fraud, CHASTAIN conducted these purchases and sales using anonymous digital currency wallets and anonymous accounts on OpenSea.
 
-***
-
+[.text-center]
+&ast;&emsp;&emsp;&ast;&emsp;&emsp; &ast;
+[.text-justify]
 CHASTAIN, 31, of New York, New York is charged with one count of wire fraud and one count of money laundering, each of which carries a maximum sentence of 20 years in prison. 
-
+[.text-justify]
 The maximum potential sentences are prescribed by Congress and are provided here for informational purposes only, as any sentencing of the defendant will be determined by a judge.
-
+[.text-justify]
 Mr. Williams praised the outstanding work of the FBI. Mr. Williams also thanked the National Cryptocurrency Enforcement Team for their assistance in the investigation. 
-
+[.text-justify]
 This case is being handled by the Office's Securities and Commodities Fraud Task Force. Assistant U.S. Attorneys Thomas S. Burnett and Nicolas Roos are in charge of the prosecution. 
-
+[.text-justify]
 The charges contained in the Indictment are merely accusations, and the defendant is presumed innocent unless and until proven guilty.
-____
+
+&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;
+[.text-justify]
+[[doj_insider_trading_fn_1]]
+[1] As the introductory phrase signifies, the entirety of the text of the Indictment, and the description of the Indictment set forth in this release constitute only allegations, and every fact described should be treated as an allegation.
+
+- - -
 
 === Discussion Questions ===
+[.text-justify]
+
 . Do NFTs have to be considered securities for a charge of insider trading to make sense?  Can you have insider trading with baseball cards or artworks?
 
+== Founder and Majority Owner of Cryptocurrency Exchange Bitzlato Charged ==
+////
+Founder and Majority Owner of Cryptocurrency Exchange Charged with Processing Over $700 Million of Illicit Funds, <https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million>
+////
 
-== Founder and Majority Owner of Cryptocurrency Exchange Bitzlato Charged footnote:[Founder and Majority Owner of Cryptocurrency Exchange Charged with Processing Over $700 Million of Illicit Funds, <https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million>] ==
+[.text-right]
+_Department of Justice, January 18, 2023 +
+Press Release Number: 23-51_
 
-[quote, Founder and Majority Owner of Cryptocurrency Exchange Charged with Processing Over $700 Million of Illicit Funds, https://www.justice.gov/opa/pr/founder-and-majority-owner-cryptocurrency-exchange-charged-processing-over-700-million]
-____
+- - -
+[.text-center]
 *Founder and Majority Owner of Cryptocurrency Exchange Charged with Processing Over $700 Million of Illicit Funds*
 
+[.text-justify]
 The founder and majority owner of a cryptocurrency exchange, Bitzlato Ltd. (Bitzlato), was arrested last night in Miami for his alleged operation of a money transmitting business that transported and transmitted illicit funds and that failed to meet U.S. regulatory safeguards, including anti-money laundering requirements. 
-
+[.text-justify]
 Anatoly Legkodymov, 40, a Russian national who resides in Shenzhen, People’s Republic of China, is scheduled to be arraigned this afternoon in the U.S. District Court for the Southern District of Florida. French authorities and the U.S. Department of the Treasury’s Financial Crimes Enforcement Network (FinCEN) are taking concurrent enforcement actions.
-
+[.text-justify]
 “Today the Department of Justice dealt a significant blow to the cryptocrime ecosystem,” said Deputy Attorney General Lisa O. Monaco. “Overnight, the Department worked with key partners here and abroad to disrupt Bitzlato, the China-based money laundering engine that fueled a high-tech axis of cryptocrime, and to arrest its founder, Russian national Anatoly Legkodymov. Today’s actions send the clear message: whether you break our laws from China or Europe – or abuse our financial system from a tropical island – you can expect to answer for your crimes inside a United States courtroom.”
-
+[.text-justify]
 “As alleged, the defendant helped operate a cryptocurrency exchange that failed to implement required anti-money laundering safeguards and enabled criminals to profit from their wrongdoing, including ransomware and drug trafficking,” said Assistant Attorney General Kenneth A. Polite, Jr. of the Justice Department’s Criminal Division. “The National Cryptocurrency Enforcement Team’s tremendous efforts to disrupt Bitzlato and arrest the defendant demonstrate that we will continue to work with our partners – both foreign and domestic – to combat cryptocurrency-fueled crimes, even if they transcend international borders.”
-
+[.text-justify]
 According to court documents, Legkodymov is a senior executive and the majority shareholder of Bitzlato, a Hong Kong-registered cryptocurrency exchange that operates globally. Bitzlato has marketed itself as requiring minimal identification from its users, specifying that “neither selfies nor passports [are] required.” On occasions when Bitzlato did direct users to submit identifying information, it repeatedly allowed them to provide information belonging to “straw man” registrants.
-
+[.text-justify]
 “Institutions that trade in cryptocurrency are not above the law and their owners are not beyond our reach,” said U.S. Attorney Breon Peace for the Eastern District of New York. “As alleged, Bitzlato sold itself to criminals as a no-questions-asked cryptocurrency exchange, and reaped hundreds of millions of dollars’ worth of deposits as a result. The defendant is now paying the price for the malign role that his company played in the cryptocurrency ecosystem.”
-
+[.text-justify]
 As a result of these deficient know-your-customer (KYC) procedures, Bitzlato allegedly became a haven for criminal proceeds and funds intended for use in criminal activity. Bitzlato’s largest counterparty in cryptocurrency transactions was Hydra Market (Hydra), an anonymous, illicit online marketplace for narcotics, stolen financial information, fraudulent identification documents, and money laundering services that was the largest and longest running darknet market in the world. Hydra users exchanged more than $700 million in cryptocurrency with Bitzlato, either directly or through intermediaries, until Hydra was shuttered by U.S. and German law enforcement in April 2022. Bitzlato also received more than $15 million in ransomware proceeds.
-
+[.text-justify]
 “The FBI will continue to pursue actors who attempt to mask their criminal activity behind keyboards and use means such as cryptocurrency to evade law enforcement,” said Associate Deputy Director Brian Turner of the FBI. “We, along with our federal and international partners, will work relentlessly to disrupt and dismantle these types of criminal enterprises. Today’s arrest should serve as a reminder the FBI will impose risk and consequences upon those who engage in these activities.”
-
+[.text-justify]
 “As alleged today, Legkodymov knowingly allowed Bitzlato to become a perceived safe haven for funds used for and resulting from a variety of criminal activities,” said Assistant Director in Charge Michael J. Driscoll of the FBI New York Field Office. “The FBI and our partners remain steadfast in our commitment to keeping cryptocurrency markets – as with any financial market – free from illicit activity.  Today’s action should serve as an example of this commitment as Legkodymov will now face the consequences of his actions in our criminal justice system.”
-
+[.text-justify]
 As alleged in the complaint, Bitzlato’s customers routinely used the company’s customer service portal to request support for transactions with Hydra, which Bitzlato often provided, and admitted in chats with Bitzlato personnel that they were trading under assumed identities. Moreover, Legkodymov and Bitzlato’s other managers were aware that Bitzlato’s accounts were rife with illicit activity and that many of its users were registered under others’ identities. For instance, on May 29, 2019, Legkodymov used Bitzlato’s internal chat system to write to a colleague that Bitzlato’s users were “known to be crooks,” using others’ identity documents to register their accounts. Legkodymov was repeatedly warned by colleagues that Bitzlato’s customer base consisted of “addicts who buy drugs at [] Hydra” and “drug traffickers,” with one senior executive even stressing that Bitzlato should combat drug dealers only “nominally,” to avoid hurting the company’s bottom line. An internal spreadsheet saved in Bitzlato’s shared management folder encapsulated the company’s view of itself: “Positives: No KYC. . . . Negatives: Dirty money. . . .”
-
+[.text-justify]
 As alleged in the complaint, although Bitzlato claimed not to accept users from the United States, it did substantial business with U.S.-based customers, and its customer service representatives repeatedly advised users that they could transfer funds from U.S. financial institutions. Moreover, Legkodymov – who himself administered Bitzlato from Miami in 2022 and 2023 – received reports reflecting substantial traffic to Bitzlato’s website from U.S.-based Internet Protocol addresses, including over 250 million such visits in July 2022.
-
+[.text-justify]
 Legkodymov is charged with conducting an unlicensed money transmitting business. If convicted, he faces a maximum penalty of five years in prison.
-
+[.text-justify]
 Concurrent with the arrest announced today, French authorities, working with Europol and partners in Spain, Portugal, and Cyprus, dismantled Bitzlato’s digital infrastructure, seized Bitzlato’s cryptocurrency, and took other enforcement actions.
-
+[.text-justify]
 In addition, the Treasury Department’s FinCEN announced an Order pursuant to section 9714(a) of the Combating Russian Money Laundering Act, as amended, identifying Bitzlato as a “primary money laundering concern” in connection to Russian illicit finance. The order imposes a special measure prohibiting certain transmittals of funds involving Bitzlato by any covered financial institution.
-
+[.text-justify]
 National Cryptocurrency Enforcement Team (NCET) Trial Attorneys Alexander Mindlin, Scott Meisler, and Matthew Blackwood of the Justice Department’s Criminal Division and Assistant U.S. Attorney Artie McConnell for the Eastern District of New York are prosecuting the case, with assistance from Paralegal Specialist Mary Clare McMahon.
-
+[.text-justify]
 The Justice Department investigated this case in close coordination with French law enforcement authorities and the Treasury Department’s FinCEN, both of which took separate enforcement actions today under their respective authorities. The Justice Department’s Office of International Affairs and the FBI’s Legal Attaché in France provided critical assistance in this case, with significant support from the department’s Cyber Operations International Liaison. The NCET and U.S. Attorney’s Office for the Eastern District of New York also extend their appreciation to the Cyber Division of the Paris Prosecution Office and to France’s Gendarmerie Nationale Cyberspace Command (Cyber Crime Investigation Unit / C3N). Assistance was also provided by the Customs and Border Protection, the Transportation Safety Administration, and the New York City Police Department. EUROPOL and Dutch and Belgian authorities have contributed to the overall investigation with respect to operational expertise, coordination, and information-sharing.
-
+[.text-justify]
 The NCET was established to combat the growing illicit use of cryptocurrencies and digital assets. Under the Criminal Division, the NCET conducts and supports investigations into individuals and entities that enable the use of digital assets to commit and facilitate a variety of crimes, with a particular focus on virtual currency exchanges, mixing and tumbling services, and infrastructure providers. The NCET also sets strategic priorities regarding digital asset technologies, identifies areas for increased investigative and prosecutorial focus, and leads the department’s efforts to collaborate with domestic and foreign government agencies as well as the private sector to aggressively investigate and prosecute crimes involving cryptocurrency and digital assets. 
-
+[.text-justify]
 A criminal complaint is merely an allegation. All defendants are presumed innocent until proven guilty beyond a reasonable doubt in a court of law.
-____
+- - -
 
 === Discussion Questions ===
+[.text-justify]
 . Bizlato is an example of a cryptocurrency exchange being charged with a crime when it is utilized by illicit operators.  When should a foreign exchange be subject to U.S. law?
 
-== Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case footnote:[Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case, <https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case>] ==
 
-[quote, Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case, https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case]
-____
+== Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case == 
+
+////
+Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case, 
+<https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case> ==
+////
+
+[.text-right]
+_Department of Justice, February 7, 2023 +
+Press Release Number: 23-040_
+
+- - -
+
 *Ishan Wahi Tipped His Associates Regarding Crypto Assets That Were Going To Be Listed On Coinbase Exchanges*
 
+[.text-justify]
 Damian Williams, the United States Attorney for the Southern District of New York, announced today that ISHAN WAHI, a former product manager at Coinbase Global, Inc. (“Coinbase”), pled guilty to two counts of conspiracy to commit wire fraud in connection with a scheme to commit insider trading in cryptocurrency assets by using confidential Coinbase information about which crypto assets were scheduled to be listed on Coinbase’s exchanges.  WAHI was arrested and charged in July 2022 and pled guilty earlier today before U.S. District Judge Loretta A. Preska.
-
+[.text-justify]
 U.S. Attorney Damian Williams said: “Ishan Wahi – a former Coinbase product manager – admitted in court today that he tipped others regarding Coinbase’s planned token listings so that they could trade in crypto assets for a profit.  Wahi is the first insider to admit guilt in an insider trading case involving the cryptocurrency markets.  Whether it occurs in the equity markets or the crypto markets, stealing confidential business information for your own personal profit or the profit of others is a serious federal crime.  The Southern District of New York has decades of experience pursuing insider trading cases, and we will continue to use our expertise to prosecute this crime no matter what form it takes and where it occurs.”
-
+[.text-justify]
 According to the allegations in the Indictment and statements made in public court proceedings:
-
+[.text-justify]
 At all relevant times, Coinbase was one of the largest cryptocurrency exchanges in the world.  Coinbase users could acquire, exchange, and sell various crypto assets through online user accounts with Coinbase.  Periodically, Coinbase added new crypto assets to those that could be traded through its exchange, and the market value of crypto assets typically significantly increased after Coinbase announced that it would be listing a particular crypto asset.  Accordingly, Coinbase kept such information strictly confidential and prohibited its employees from sharing that information with others, including by providing a “tip” to any person who might trade based on that information.
-
+[.text-justify]
 Beginning in approximately October 2020, ISHAN WAHI worked at Coinbase as a product manager assigned to a Coinbase asset listing team.  In that role, WAHI was involved in the highly confidential process of listing crypto assets on Coinbase’s exchanges and had detailed and advanced knowledge of which crypto assets Coinbase was planning to list and the timing of public announcements about those crypto asset listings. 
-
+[.text-justify]
 On multiple occasions between June 2021 and April 2022, WAHI violated his duties of trust and confidence to Coinbase by providing confidential business information that he learned in connection with his employment at Coinbase to Nikhil Wahi and Sameer Ramani so that they could secretly engage in profitable trades around public announcements by Coinbase that it would be listing certain crypto assets on Coinbase’s exchanges.  Following Coinbase’s public listing announcements, on multiple occasions, Nikhil Wahi and Ramani sold the crypto assets for a profit. 
-
+[.text-justify]
 On April 12, 2022, a Twitter account that is well known in the crypto community tweeted regarding an Ethereum blockchain wallet “that bought hundreds of thousands of dollars of tokens exclusively featured in the Coinbase Asset Listing post about 24 hours before it was published.”  The trading activity referenced in the April 12 tweet was trading previously conducted by Ramani based on tips provided by WAHI.  Coinbase thereafter publicly replied on Twitter, noting that it had already begun investigating the matter and, a few weeks later, stated in a public blog post that any Coinbase employee who leaked confidential company information would be “immediately terminated and referred to relevant authorities (potentially for criminal prosecution).”  On May 11, 2022, Coinbase’s director of security operations emailed WAHI to inform him that he should appear for an in-person meeting relating to Coinbase’s asset listing process at Coinbase’s Seattle, Washington, office on May 16, 2022.  WAHI confirmed he would attend the meeting.
-
+[.text-justify]
 On the evening of May 15, 2022, WAHI purchased a one-way flight to India that was scheduled to depart the next day shortly before WAHI was supposed to be interviewed by Coinbase.  In the hours between booking the flight and his scheduled departure, WAHI called and texted Nikhil Wahi and Ramani about Coinbase’s investigation and sent both of them a photograph of the messages he had received on May 11, 2022, from Coinbase’s director of security operations.  Prior to boarding the May 16, 2022, flight to India, WAHI was stopped by law enforcement and prevented from leaving the country.
 
-*                *                *
+[.text-center]
+&ast;&emsp;&emsp;&ast;&emsp;&emsp; &ast;
 
+[.text-justify]
 ISHAN WAHI, 32, of Seattle, Washington, pled guilty to two counts of conspiracy to commit wire fraud, which each carry, respectively, a maximum sentence of 20 years in prison.
-
+[.text-justify]
 The statutory maximum sentence is prescribed by Congress and is provided here for informational purposes only, as any sentencing of the defendant will be determined by a judge.  WAHI is scheduled to be sentenced by Judge Preska on May 10, 2023, at 12:00 p.m.
-
+[.text-justify]
 Mr. Williams praised the investigative work of the Federal Bureau of Investigation.  He also acknowledged the assistance of the Justice Department’s National Cryptocurrency Enforcement Team, as well as that of the Securities and Exchange Commission, which separately initiated civil proceedings against WAHI.
-
+[.text-justify]
 This case is being handled by the Office’s Securities and Commodities Fraud Task Force.  Assistant U.S. Attorneys Noah Solowiejczyk and Nicolas Roos are in charge of the prosecution.
-____
 
+- - - 
 
 === Discussion Questions ===
+[.text-justify]
 . Ishan is the first insider to plead guilty to insider trading based on cryptocurrency.  Do you believe he had fair notice that insider trading of cryptocurrency was against the law?
