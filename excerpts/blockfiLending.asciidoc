@@ -1,0 +1,236 @@
+== BlockFi Lending ==
+
+[.text-right]
+_Securities and Exchange Commission +
+ADMINISTRATIVE PROCEEDING, File No. 3-20758_
+
+- - - 
+[.text-center]
+*UNITED STATES OF AMERICA +
+Before the +
+SECURITIES AND EXCHANGE COMMISSION*
+
+
+*SECURITIES ACT OF 1933 +
+Release No. 11029 / February 14, 2022*
+
+*INVESTMENT COMPANY ACT OF 1940 +
+Release No. 34503 / February 14, 2022*
+
+*ADMINISTRATIVE PROCEEDING +
+File No. 3-20758*
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|&nbsp; +
+In the Matter of +
+&nbsp; +
+&emsp;&emsp;&emsp;BLOCKFI LENDING LLC, +
+&nbsp; +
+Respondent. +
+&nbsp; |ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS PURSUANT TO SECTION 8A OF THE SECURITIES ACT OF 1933 AND SECTION 9(f) OF THE INVESTMENT COMPANY ACT OF 1940, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER
+|===
+[.text-center]
+*I&period;*
+[.text-justify]
+The Securities and Exchange Commission (“Commission”) deems it appropriate that public cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Section 9(f) of the Investment Company Act of 1940 (“Investment Company Act”) against BlockFi Lending LLC (“BlockFi” or “Respondent”).
+
+[.text-center]
+*II&period;*
+[.text-justify]
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Ceaseand-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 9(f) of the Investment Company Act of 1940, Making Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
+
+[.text-center]
+*III&period;*
+[.text-justify]
+On the basis of this Order and Respondent’s Offer, the Commission findsxref:blockfi_lending_ftnote_1[^*1*^]
+that:
+
+[.text-center.underline]
+Summary
+[.text-justify]
+. From March 4, 2019 to the present, BlockFi, a New Jersey-based financial services company and wholly owned subsidiary of BlockFi, Inc., has offered and sold BlockFi Interest Accounts (“BIAs”) to investors, through which investors lend crypto assets to BlockFi in exchange for BlockFi’s promise to provide a variable monthly interest payment. BlockFi generated the interest paid out to BIA investors by deploying its assets in various ways, including loans of crypto assets made to institutional and corporate borrowers, lending U.S. dollars to retail investors, and by investing in equities and futures. As of March 31, 2021, BlockFi and its affiliates held approximately $14.7 billion in BIA investor assets. As of December 8, 2021, BlockFi and its affiliates held approximately $10.4 billion in BIA investor assets, and had approximately 572,160 BIA investors, including 391,105 investors in the United States.
+. Based on the facts and circumstances set forth below, the BIAs were securities because they were notes under Reves v. Ernst & Young, 494 U.S. 56, 64–66 (1990), and its progeny, and also because BlockFi offered and sold the BIAs as investment contracts, under SEC v. W.J. Howey Co., 328 U.S. 293, 301 (1946), and its progeny, including the cases discussed by the Commission in its Report of Investigation Pursuant To Section 21(a) Of The Securities Exchange Act of 1934: The DAO (Exchange Act Rel. No. 81207) (July 25, 2017). BlockFi promised BIA investors a variable interest rate, determined by BlockFi on a periodic basis, in exchange for crypto assets loaned by the investors, who could demand that BlockFi return their loaned assets at any time. BlockFi thus borrowed the crypto assets in exchange for a promise to repay with interest. Investors in the BIAs had a reasonable expectation of obtaining a future profit from BlockFi’s efforts in managing the BIAs based on BlockFi’s statements about how it would generate the yield to pay BIA investors interest. Investors also had a reasonable expectation that BlockFi would use the invested crypto assets in BlockFi’s lending and principal investing activity, and that investors would share profits in the form of interest payments resulting from BlockFi’s efforts. BlockFi offered and sold the BIAs to the general public to obtain crypto assets for the general use of its business, namely to run its lending and investment activities to pay interest to BIA investors, and promoted the BIAs as an investment. BlockFi offered and sold securities without a registration statement filed or in effect with the Commission and without qualifying for an exemption from registration; as a result, BlockFi violated Sections 5(a) and 5(c) of the Securities Act. 
+. BlockFi also made a materially false and misleading statement on its website from March 4, 2019 to August 31, 2021, concerning its collateral practices and, therefore, the risks associated with its lending activity. As a result, and as discussed in more detail below, BlockFi violated Sections 17(a)(2) and 17(a)(3) of the Securities Act.
+. In addition, from at least December 31, 2019 to at least September 30, 2021, BlockFi operated as an unregistered investment company because it is an issuer of securities engaged in the business of investing, reinvesting, owning, holding, or trading in securities and owning investment securities, as defined by Section 3(a)(2) of the Investment Company Act, having a value exceeding 40% of its total assets (exclusive of Government securities and cash items). BlockFi violated Section 7(a) of the Investment Company Act by engaging in interstate commerce while failing to register as an investment company with the Commission. 
+
+[.text-center.underline]
+Respondent
+[.text-justify, start=5]
+. *BlockFi* is a Delaware limited liability company formed in 2018 and a wholly
+owned subsidiary of BlockFi Inc., with its principal place of business in Jersey City, New Jersey.
+On March 4, 2019, BlockFi began publicly offering and selling BIAs.
+Other Relevant Entities
+. *BlockFi Inc.* is a Delaware corporation formed in 2017 with the same principal
+place of business as BlockFi.
+. *BlockFi Trading LLC (“BlockFi Trading”)* is Delaware limited liability
+company formed in May 2019 and a wholly owned subsidiary of BlockFi Inc., with the same
+principal place of business as BlockFi.
+
+[.text-center.underline]
+Facts
+
+[.text-center]
+BlockFi Offered and Sold BIAs +
+as Investment Opportunities
+[.text-justify, start=8]
+. On March 4, 2019, BlockFi publicly announced the launch of the BIA, through which investors could lend crypto assets to BlockFi and in exchange, receive interest, “paid monthly in cryptocurrency.” Interest began accruing the day after assets were transmitted to BlockFi and compounded monthly, with interest payments made to accounts associated with each BIA investor, in crypto assets, on or about the first business day of each month.
+. BlockFi offered and sold BIAs to obtain crypto assets for the general use of its business, namely to use the assets in its lending and investment activities, which generated income both for BlockFi and to pay interest to BIA investors. BlockFi pooled the loaned assets, and exercised full discretion over how much to hold, lend, and invest. BlockFi had complete legal ownership and control over the loaned crypto assets, and advertised that it managed the risks involved.
+. Under BlockFi’s terms for the BIA, investors: 
+[.text-justify]
+[.quoteblock]#grant BlockFi the right, without further notice to [the investor], to hold the cryptocurrency held in [the] account in BlockFi’s name or in another name, and to pledge, repledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer, invest or use any amount of such cryptocurrency, separately or together with other property, with all attendant rights of ownership, and for any period of time and without retaining in BlockFi’s possession and/or control a like amount of cryptocurrency, and to use or invest such cryptocurrency at its own risk.#
+
+[text-justify, start=11]
+. At all relevant times, BlockFi represented that it earned interest on the assets that it borrowed from BIA investors by lending those crypto assets to institutional borrowers. Beginning in September 2020, BlockFi disclosed on its website that it also purchased “SEC-regulated equities and predominantly CFTC-regulated futures” using BIA assets.
+. To begin investing in a BIA, an investor could transfer crypto assets to the digital wallet address assigned by BlockFi to the investor, or purchase crypto assets with fiat currency from BlockFi Trading for the purpose of investing in a BIA. BlockFi Trading accepted the crypto asset or fiat from the investor, and then transferred the asset or fiat to BlockFi. BlockFi did not hold private keys for the investors’ wallet addresses; rather, investors’ crypto assets were sent to BlockFi’s wallet addresses at third-party custodians. 
+
+image::media/blockfi_lending_image1.png[]
+
+[text-justify, start=13]
+. BIA investors were permitted to withdraw the equivalent to the crypto assets they loaned to BlockFi at any time, with some limitations, and could borrow money in U.S. dollars against the amount of crypto assets deposited in BIAs.
+. BlockFi adjusted the interest rates payable on BIAs for particular crypto assets periodically, and typically at the start of each month. BlockFi set the rates based, in part, on “the yield that [BlockFi] can generate from lending,” to institutional borrowers, and thus it was correlated with the efforts that BlockFi put in to generate that yield. BlockFi periodically adjusted its interest rates payable on the BIAs in part after analysis of current yield on its investment and lending activity. BIA investors could demand that BlockFi repay the loaned crypto assets at any time.
+. BlockFi regularly touted the profits investors may earn by investing in a BIA. When announcing the BIA, BlockFi promoted the interest earned, promising “an industry-leading 6.2% [annual percentage yield],” compounded monthly. BlockFi described it as “an easy way for crypto investors to earn bitcoin as they HODL.”xref:blockfi_lending_ftnote_2[^*2*^]
+. Within the first few weeks of launching the BIA, BlockFi again touted investors’ potential for profit. On March 20, 2019, BlockFi announced that BIAs experienced significant growth, including from large firms who participated in BIAs “as a way to bolster their returns.” BlockFi asserted that it “provide[d] the average crypto investor with the tools to build their wealth,” and that it “look[ed] forward to giving even more investors a chance to earn a yield on their crypto.”
+. On April 1, 2019, BlockFi began to “tier” the interest rates that investors received, initially announcing that “BIA balances of up to and including 25 [Bitcoin] or 500 [Ether] (equivalent to roughly $100,000 and $70,000 respectively) will earn the 6.2% APY interest rate. All balances over that limit will earn a tiered rate of 2% interest.” Even when changing the interest rates customers receive, BlockFi touted the yields to investors. On August 27, 2021, BlockFi stated that the adjustments to interest rates are done “with the goal of maintaining great rates for the maximum number of clients.”
+. On January 1, 2021, BlockFi advertised that it had “distributed more than $50 million in monthly interest payments to [its] clients.” 
+. As of November 1, 2021, the interest rates BlockFi paid investors ranged from 0.1% to 9.5%, depending on the type of crypto asset and the size of the investment. For example, investors could receive 9.5% in interest for up to 40,000 Tether (“USDT”) and 8.5% for anything over 40,000 USDT, as well as 4.5% interest for up to 0.1 Bitcoin (“BTC”), 1% for 0.1 to 0.35 BTC, and 0.1% for anything over 0.35 BTC.
+. BlockFi offered and sold the BIA securities to investors, including retail investors, through advertising and general solicitations on its website, www.blockfi.com. BlockFi also promoted distribution of the BIA offering through its social media accounts, including YouTube, Twitter, and Facebook. In addition, through its “Partner” program, an affiliate marketing program in which participants could “earn passive income by introducing your audience to financial tools for crypto investors,” BlockFi extended its distribution of the BIA securities to retail investors through certain offers and promotions.
+. BlockFi did not have a Securities Act registration statement filed or in effect with the Commission for the offer and sale of the BIAs, nor did the offer and sale of BIAs qualify for an exemption from registration under the Securities Act. 
+
+[.text-center]
+*BlockFi Misrepresented the Level of + 
+Risk in the BIA Investment Opportunity*
+
+[text-justify, start=22]
+. BlockFi made a material misrepresentation to BIA investors concerning the level of risk in its loan portfolio. Beginning at the time of the BIA launch on March 4, 2019 and continuing to August 31, 2021, BlockFi made a statement in multiple website posts that its institutional loans were “typically” over-collateralized, when in fact, most institutional loans were not. When BlockFi began offering the BIA investment, it intended to require over-collateralization on a majority of its loans to institutional investors, but it quickly became apparent that large institutional investors were frequently not willing to post large amounts of collateral to secure their loans. Approximately 24% of institutional crypto asset loans made in 2019 were overcollateralized; in 2020 approximately 16% were over-collateralized; and in 2021 (through June 30, 2021) approximately 17% were over-collateralized. As a result, BlockFi’s statement materially overstated the degree to which it secured protection from defaults by institutional borrowers through collateral. Through operational oversight, BlockFi’s personnel failed to take steps to update the website statement to accurately reflect the fact that most institutional loans were not over-collateralized.
+. Although BlockFi made other disclosures on its website regarding its risk management practices, because of BlockFi’s misrepresentation and omission about the level of risk in its loan portfolio, BIA investors did not have complete and accurate information with which to evaluate the risk that, in the event of defaults by its institutional borrowers, BlockFi would be unable to comply with its obligation to pay BIA investors the stated interest rates or return the loaned crypto assets to investors upon demand.
+
+[.text-center]
+*BlockFi Operated as an Unregistered Investment Company*
+
+[text-justify, start=24]
+. As the issuer of the BIA, BlockFi is an “issuer” for purposes of the Investment Company Act.
+. After the launch of the BIA, BlockFi pooled the crypto assets it borrowed, and commingled and rehypothecated these crypto assets received from investors in the BIAs with
+BlockFi’s other assets, including collateral received from institutional borrowers. As BlockFi took
+ownership of the loaned crypto assets from investors in the BIAs, BlockFi used the commingled assets to, among other things, make loans to institutional and retail borrowers, stake crypto assets, and purchase crypto asset trust shares and interests in private funds. 
+. From at least December 31, 2019 to at least September 30, 2021, BlockFi owned certain investment securities, as defined by Section 3(a)(2) of the Investment Company Act—such as loans of crypto assets and U.S. dollars to counter parties, investments in crypto asset trusts and funds, and intercompany receivables—exceeding 40% of the value of its total assets (exclusive of Government securities and cash items) on an unconsolidated basis. For example, as of December 31, 2020, BlockFi held loans to counter parties valued at over $1.9 billion, investments in crypto asset trusts and funds valued at approximately $1.5 billion, and intercompany receivables valued at approximately $847 million, which together constituted well over 40% of its approximately $4.8 billion in total assets.
+. Section 3(a)(1)(C) of the Investment Company Act defines “investment company” to mean any issuer that “is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer’s total assets (exclusive of Government securities and cash items) on an unconsolidated basis.” Section 3(a)(2) of the Investment Company Act defines “investment securities” to include all securities except government securities, securities issued by employees’ securities companies, and securities issued by majority-owned subsidiaries of the owner which are not investment companies and not relying on exceptions set forth in Sections 3(c)(1) or 3(c)(7) of the Investment Company Act. Loans that BlockFi made to counter parties are considered investment securities under the Investment Company Act. As an issuer holding over 40% of the value of its total assets in investment securities from at least December 31, 2019 to at least September 30, 2021, BlockFi met the definition of an investment company during this time period.
+. Since at least December 31, 2019, BlockFi has engaged in interstate commerce by, among other things, making loans to institutional and retail investors, purchasing and selling other investment securities for its own account, and engaging in other business transactions in interstate commerce while an investment company within the meaning of Section 3(a)(1)(C) of the Investment Company Act.
+. Although BlockFi met the definition of “investment company” from at least December 31, 2019 to at least September 30, 2021, it did not register with the Commission as an investment company, meet any statutory exemptions or exclusions from the definition of an investment company, or seek an order from the Commission declaring that it was primarily engaged in a business other than that of investing, reinvesting, owning, holding, or trading in securities, or exempting it from complying with any provisions of the Investment Company Act or the rules thereunder. Although BlockFi has suggested that it was relying on the exclusion from the definition of “investment company” provided for “market intermediaries” by Section 3(c)(2) of the Investment Company Act during this period, it did not satisfy the terms of that exclusion. Thus, 8 during the relevant period, BlockFi was required to have registered with the Commission as an investment company.
+
+[.text-center.underline]
+*Legal Analysis*
+
+*A. Violation of Section 5(a) and 5(c) of the Securities Act*
+
+[.text-justify, start=30]
+. The Securities Act and the Exchange Act were designed to “eliminate serious abuses in a largely unregulated securities market.” United Housing Found., Inc. v. Forman, 421 U.S. 837, 849 (1975). They are focused, among other things, “on the capital market of the enterprise system: the sale of securities to raise capital for profit-making purposes . . . and the need for regulation to prevent fraud and to protect the interest of investors. Id. Under Section 2(a)(1) of the Securities Act and Section 3(a)(10) of the Exchange Act, a security includes any “note.” See 15 U.S.C. §§ 77b & 78c. A note is presumed to be a security unless it falls into certain judiciallycreated categories of financial instruments that are not securities, or if the note in question bears a “family resemblance” to notes in those categories based on a four-part test. See Reves v. Ernst & Young, 494 U.S. 56, 64–66 (1990), and its progeny. Applying the Reves four-part analysis, the BIAs were notes and thus securities. First, BlockFi offered and sold BIAs to obtain crypto assets for the general use of its business, namely to run its lending and investment activities to pay interest to BIA investors, and purchasers bought BIAs to receive interest ranging from 0.1% to 9.5% on the loaned crypto assets. Second, BIAs were offered and sold to a broad segment of the general public. Third, BlockFi promoted BIAs as an investment, specifically as a way to earn a consistent return on crypto assets and for investors to “build their wealth.” Fourth, no alternative regulatory scheme or other risk reducing factors exist with respect to BIAs.
+. Under Section 2(a)(1) of the Securities Act and Section 3(a)(10) of the Exchange Act, a security includes “an investment contract.” See 15 U.S.C. §§ 77b, 78c. Based on the facts and circumstances set forth above, the BIAs were also offered and sold as “investment contracts,” as they meet the elements for an investment contract under SEC v. W.J. Howey Co., 328 U.S. 293, 301 (1946), and its progeny, including the cases discussed by the Commission in its Report of Investigation Pursuant To Section 21(a) Of The Securities Exchange Act of 1934: The DAO (Exchange Act Rel. No. 81207) (July 25, 2017), citing Forman, 421 U.S. at 852-53 (The “touchstone” of an investment contract “is the presence of an investment in a common venture premised on a reasonable expectation of profits to be derived from the entrepreneurial or managerial efforts of others.”); see also SEC v. R.G. Reynolds Enterprises, Inc., 952 F.2d 1125 1130-31 (9th Cir. 1991) (finding managed account product was an investment contract where investors provided funds in exchange for interest rate earned through the issuer’s investment of the funds). BlockFi sold BIAs in exchange for the investment of money in the form of crypto assets. BlockFi pooled the BIA investors’ crypto assets, and used those assets for lending and investment activity that would generate returns for both BlockFi and BIA investors. The returns earned by each BIA investor were a function of the pooling of the loaned crypto assets, and the ways in which BlockFi deployed those loaned assets. In this way, each investor’s fortune was tied to the fortunes of the other investors. In addition, because BlockFi earned revenue for itself through its deployment of the loaned assets, the BIA investors’ fortunes were also linked to those of the promoter, i.e., BlockFi. Through its public statements, BlockFi created a reasonable expectation that BIA investors would earn profits derived from BlockFi’s efforts to manage the loaned crypto
+assets profitably enough to pay the stated interest rates to the investors. BlockFi had complete ownership and control over the borrowed crypto assets, and determined how much to hold, lend, and invest. BlockFi’s lending activities were at its own discretion, and BlockFi advertised that it managed the risks involved. Similarly, its investment activities were at its own discretion, and BlockFi could decide whether and how to invest the BIA assets in equities or futures. 
+. BlockFi did not have a registration statement filed or in effect with the Commission for the offers and sales of BIAs, nor did it qualify for an exemption from registration under the Securities Act for those offers and sales.
+. As a result of the conduct described above, BlockFi violated Section 5(a) of the Securities Act, which prohibits, unless a registration statement is in effect as to a security, any person, directly or indirectly, from making use of any means or instruments of transportation or communication in interstate commerce or of the mails to sell such security through the use or medium of any prospectus or otherwise; or to carry or cause to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
+. As a result of the conduct described above, BlockFi also violated Section 5(c) of the Securities Act, which prohibits any person, directly or indirectly, from making use of any means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell or offer to buy through the use or medium of any prospectus or otherwise any security, unless a registration statement has been filed as to such security.
+
+*B. Violation of Sections 17(a)(2) and 17(a)(3) of the Securities Act*
+
+[.text-justify, start=35]
+. As a result of the conduct described above, BlockFi violated Sections 17(a)(2) and 17(a)(3) of the Securities Act, which prohibit any person in the offer or sale of securities from obtaining money or property by means of any untrue statement of material fact or any omission to state a material fact necessary in order to make statements made not misleading, and from engaging in any practice or course of business which operates or would operate as a fraud or deceit upon the purchaser, respectively. From March 2019 through August 2021, BlockFi misrepresented on its website that its institutional loans were “typically” over-collateralized, when in fact, most institutional loans were not. Accordingly, although BlockFi made other disclosures on its website concerning its risk management practices, BIA investors did not have complete and accurate information with which to evaluate the risk that, in the event of defaults by BlockFi’s institutional borrowers, BlockFi would be unable to comply with its obligation to pay BIA investors the stated interest rates or return the loaned crypto assets to investors upon demand. This false and misleading statement was in the offer and sale of BIAs, and as such was in the offer and sale of securities. A violation of these provisions does not require scienter and may rest on a finding of negligence. See Aaron v. SEC, 446 U.S. 685, 701-02 (1980).
+
+*C. Violation of Section 7(a) of the Investment Company Act*
+[.text-justify, start=36]
+. As a result of the conduct described above, BlockFi violated Section 7(a) of the Investment Company Act, which makes it unlawful for an unregistered investment company to, among other things, directly or indirectly “[o]ffer for sale, sell, or deliver after sale, by the use of the mails or any means or instrumentality of interstate commerce, any security or any interest in a security” or “engage in any business in interstate commerce.”
+. From at least December 31, 2019 to at least September 30, 2021, BlockFi held assets meeting the definition of investment securities under Section 3(a)(2) of the Investment Company Act. These investment securities, which include the loans that BlockFi made to counter parties, had a value exceeding 40% of its total assets as set forth in Section 3(a)(1)(C) of the Investment Company Act. During these time periods, BlockFi was an issuer, was not registered as an investment company, and was not exempted or excluded from the Investment Company Act’s definition of an investment company.
+. Section 3(c)(2) of the Investment Company Act excludes from the definition of investment company any person that is “primarily engaged in the business of . . . acting as a market intermediary . . . whose gross income normally is derived principally from such business and related activities.” As defined in Section 3(c)(2)(B)(i), a “‘market intermediary’ is any person that regularly holds itself out as being willing contemporaneously to engage in, and that is regularly engaged in, the business of entering into transactions on both sides of the market for a financial contract or one or more such financial contracts,” and whose “gross income normally is derived principally from such business and related activities.” Under Section 3(c)(2)(B)(ii), “‘financial contract’ means any arrangement that (I) takes the form of an individually negotiated contract, agreement, or option to buy, sell, lend, swap, or repurchase, or other similar individually negotiated transaction commonly entered into by participants in the financial markets; (II) is in respect of securities, commodities, currencies, interest or other rates, other measures of value, or any other financial or economic interest similar in purpose or function to any of the foregoing; and (III) is entered into in response to a request from a counter party for a quotation, or is otherwise entered into and structured to accommodate the objectives of the counter party to such arrangement.”
+. BlockFi did not satisfy the terms of the “market intermediary” exclusion under Section 3(c)(2) because it was not primarily engaged in the business of acting as a market intermediary; its principal source of gross income was not derived from intermediary business and related activities; and it did not regularly engage in the business of entering into transactions on both sides of the market for a financial contract. The BIAs, for example, were not “individually negotiated” financial contracts that were entered into in “response to a request from a counter party for a quotation” or structured to accommodate “the objectives of the counter party.” Moreover, BlockFi only intermittently entered into individually negotiated transactions to borrow crypto assets, and initiated and did not structure those transactions for the counter parties’ objectives. Consequently, neither the BIA nor BlockFi’s individually negotiated borrowings met the definition of financial contract in Section 3(c)(2), and so BlockFi was not regularly engaged in the business of entering into transactions on both sides of the market for a financial contract. BlockFi’s primary business was investing in investment securities, including institutional loans. Moreover, BlockFi did not meet any other statutory exemptions or exclusions from the definition of an investment company, or seek an order from the Commission declaring that it was primarily engaged in a business other than that of investing, reinvesting, owning, holding, or trading in securities, or exempting it from complying with any provisions of the Investment Company Act or the rules thereunder. For these reasons, and for the reasons set forth in paragraph 37 above, BlockFi was an investment company engaged in business in interstate
+commerce. 
+
+[.text-center.underline]
+*Subsequent Events, and Respondent’s Cooperation and Remedial Efforts*
+
+[.text-justify, start=40]
+. On February 14, 2022, BlockFi Inc., Respondent’s parent company, publicly announced that it intends to register under the Securities Act the offer and sale of a new investment product, BlockFi Yield, which will include the filing of an indenture and Form T-1 under the Trust Indenture Act of 1939. BlockFi has represented that the general structure of the BlockFi Yield investment product will be as follows:
+
+image::media/blockfi_lending_image2.png[align=center]
+[.text-justify, start=41]
+. In determining to accept the Offer, the Commission considered remedial acts promptly undertaken by Respondent and cooperation afforded the Commission staff.
+
+[.text-center.underline]
+*Undertakings*
+
+[.text-justify, start=42]
+. BlockFi has undertaken to, on the day of the institution of the Order, cease offering BIAs to new investors in the United States and cease accepting further investments or funds in the BIAs by current U.S. investors. 
+. BlockFi has undertaken to, within 60 days of the institution of the Order, come into compliance with Section 7(a) of the Investment Company Act by either: 
+.. Filing a notification of registration pursuant to Section 8(a) of the Investment Company Act, and then within 90 days of filing such notification of registration, filing a registration statement with the Commission, on the appropriate form; or 
+.. Completing steps such that BlockFi is no longer required to be registered under Section 7(a) of the Investment Company Act and providing the Commission staff with sufficient credible evidence that it is no longer required to be registered under the Investment Company Act.
+[none]
+The Commission staff may grant a single 30-day extension for good cause shown.
+
+[.text-justify, start=44]
+. A Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield (or any similar product) will not be declared effective if, among other things, BlockFi Inc., or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, is not in compliance with Section 7(a) of the Investment Company Act. If a Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield is declared effective, BlockFi undertakes to, 180 days after the effectiveness date, provide the Commission staff with sufficient credible evidence to affirm that BlockFi, or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, continues to be in compliance with Section 7(a) of the Investment Company Act.
+. BlockFi undertakes to certify, in writing, compliance with each undertaking set forth above. Each certification shall identify the undertaking(s), provide written evidence of compliance in the form of a narrative, and be supported by exhibits sufficient to demonstrate compliance. The Commission staff may make reasonable requests for further evidence of compliance, and BlockFi agrees to provide such evidence. Each certification and supporting material shall be submitted to Kristina Littman, Chief, Cyber Unit, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549, with a copy to the Office of Chief Counsel of the Division of Enforcement, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549, no later than 30 days from the date of the completion of each undertaking.
+
+[.text-center]
+*IV&period;*
+
+[.text-justify]
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in Respondent’s Offer.
+[.text-justify]
+Accordingly, it is hereby ORDERED that:
+[upperalpha.text-justify]
+. Pursuant to Section 8A of the Securities Act, Respondent cease and desist from committing or causing any violations and any future violations of Sections 5(a), 5(c), 17(a)(2) and 17(a)(3) of the Securities Act.
+. Pursuant to Section 9(f) of the Investment Company Act, Respondent shall cease and desist from committing or causing any violations and any future violations of Section 7(a) of the Investment Company Act, subject to Section III, paragraphs 43 through 44.
+. Respondent shall comply with the undertakings set forth in Section III, paragraphs 42 through 45 above.
+. Respondent shall pay a civil money penalty in the amount of $50,000,000.00 to the Securities and Exchange Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act 21F(g)(3). Payment shall be made in the following installments: +
+&nbsp; +
+&emsp;1&period;&emsp;Due within 14 days of the entry of this Order: $10,000,000 (the “Initial Payment”) +
+&emsp;2&period;&emsp;Due 180 days of the entry of this Order: $10,000,000 +
+&emsp;3&period;&emsp;Due 365 days of the entry of this Order: $10,000,000 +
+&emsp;4&period;&emsp;Due 545 days of the entry of this Order: $10,000,000 +
+&emsp;5&period;&emsp;Due 730 days of the entry of this Order: $10,000,000 +
+&nbsp; +
+Payments shall be applied first to post-order interest, which accrues pursuant to 31 U.S.C. 3717. Prior to making the final payment set forth herein, Respondent shall contact the staff of the Commission for the amount due. If Respondent fails to make any payment by the date agreed and/or in the amount agreed according to the schedule set forth above, all outstanding payments under this Order, including post-order interest, minus any payments made, shall become due and payable immediately at the discretion of the staff of the Commission without further application to the Commission. +
+&nbsp; +
+&emsp;&emsp;Payment must be made in one of the following ways: +
+&nbsp; +
+&emsp;&emsp;(1)&emsp;Respondent may transmit payment electronically to the Commission, +
+&emsp;&emsp;&emsp;&emsp; which will provide detailed ACH transfer/Fedwire instructions upon request; +
+&emsp;&emsp;(2)&emsp;Respondent may make direct payment from a bank account via Pay.gov +
+&emsp;&emsp;&emsp;&emsp; through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or +
+&emsp;&emsp;(3)&emsp;Respondent may pay by certified check, bank cashier’s check, or United  +
+&emsp;&emsp;&emsp;&emsp; States postal money order, made payable to the Securities and Exchange +
+&emsp;&emsp;&emsp;&emsp; Commission and hand-delivered or mailed to: +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp;&emsp;Enterprise Services Center +
+&emsp;&emsp;&emsp;&emsp;&emsp;Accounts Receivable Branch +
+&emsp;&emsp;&emsp;&emsp;&emsp;HQ Bldg., Room 181, AMZ-341 +
+&emsp;&emsp;&emsp;&emsp;&emsp;6500 South MacArthur Boulevard +
+&emsp;&emsp;&emsp;&emsp;&emsp;Oklahoma City, OK 73169 +
+&nbsp; +
+Payments by check or money order must be accompanied by a cover letter identifying BlockFi Lending LLC as Respondent in these proceedings, and the file number of these proceedings; a copy of the cover letter and check or money order must be sent to Kristina Littman, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549.
+. Amounts ordered to be paid as civil money penalties pursuant to this Order shall be treated as penalties paid to the government for all purposes, including all tax purposes. To preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, they shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of any award of compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in this action (“Penalty Offset”). If the court in any Related Investor Action grants such a Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed an additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a private damages action brought against Respondent by or on behalf of one or more investors based on substantially the same facts as alleged in the Order instituted by the Commission in this proceeding.
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|&nbsp; +
+&emsp;&emsp;&emsp;By the Commission.
+|&nbsp; +
+&nbsp; +
+&nbsp; +
+&nbsp; +
+&emsp;Vanessa A. Countryman +
+&emsp;Secretary
+|===
+
+&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;
+[[blockfi_lending_ftnote_1]]
+1 The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+[[blockfi_lending_ftnote_2]]
+2 “HODL” is a purposeful misspelling of “hold” and an acronym for “hold on for dear life,”
+denoting buy-and-hold strategies in the context of crypto assets.
+
+- - -
+
+=== Discussion Questions ===
+[.text-justify]
+. placeholder question?
