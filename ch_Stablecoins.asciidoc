@@ -1,5 +1,261 @@
 = Stablecoins =
 
+[[oag_tether]]
+== Tether ==
+////
+source: https://ag.ny.gov/sites/default/files/2021.02.17_-_settlement_agreement_-_execution_version.b-t_signed-c2_oag_signed.pdf
+////
+
+[.text-right]
+_Office of the Attorney General of the State of New York, +
+February 23, 2021_
+
+- - -
+
+ATTORNEY GENERAL OF THE STATE OF NEW YORK +
+INVESTOR PROTECTION BUREAU
+
+&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;
+
+In the Matter of +
+*Investigation by LETITIA JAMES, +
+Attorney General of the State of New York,* of +
+&nbsp; +
+iFINEX INC., BFXNA INC., BFXWW INC., +
+TETHER HOLDINGS LIMITED, TETHER +
+OPERATIONS LIMITED, TETHER LIMITED, +
+TETHER INTERNATIONAL LIMITED +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Respondents. +
+&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;
+
+[.text-center.underline]
+*SETTLEMENT AGREEMENT*
+[.text-justify, start=1]
+. The Office of the Attorney General of the State of New York (“OAG”) commenced an investigation pursuant to New York General Business Law § 352 et. seq. (the “Martin Act”) and Executive Law § 63(12) regarding fraud in connection with the Bitfinex trading platform and related matters. On April 24, 2019, the OAG filed a proceeding in Supreme Court, New York County pursuant to Section 354 of the Martin Act, seeking a court order to enjoin certain conduct by iFinex Inc., BFXNA Inc., BFXWW Inc. (collectively, “Bitfinex”), and Tether Holdings Limited, Tether Operations Limited, Tether Limited, and Tether International Limited (collectively, “Tether”), including the transfer of certain funds between the entities; enjoining the destruction of documents and communications relevant to the investigation; and ordering production of certain documents and information. That order was granted. In re: James v. iFinex, et al., Index No. 450545/2019 (Apr. 24, 2019), aff’d 2020 N.Y. Slip Op. 03880 (July 9, 2020).
+. This Settlement Agreement contains the findings of the OAG’s investigation and the relief agreed to by the OAG, Bitfinex, and Tether, whether acting through their respective directors, officers, employees, representatives, agents, affiliates, or subsidiaries (collectively, the “Parties”). 
+. The OAG finds that the conduct set forth herein violated the Martin Act and Executive Law § 63(12).
+. The OAG finds the relief and agreements contained in this Settlement Agreement appropriate and in the public interest. Therefore, the OAG is willing to accept this Settlement Agreement pursuant to Executive Law § 63(15), in lieu of commencing a statutory proceeding for violations of the Martin Act and Executive Law § 63(12), based on the conduct described below.
+. Bitfinex and Tether neither admit nor deny the OAG’s findings set forth below.
+
+[.text-center.underline]
+*OAG’s FINDINGS*
+
+*I&period; [.underline]#Bitfinex and Tether#*
+
+[.text-justify, start=6]
+. Bitfinex operates an online platform for exchanging and trading virtual currency. Users access the Bitfinex trading platform and place orders through its website, available at www.bitfinex.com, through an associated Application Programming Interface (“API”), or via over-the-counter services. Bitfinex also provides users with the ability to store their virtual currency and transfer their holdings to a different trading platform. Bitfinex is one of the relatively few virtual currency trading platforms that allows traders to deposit and withdraw socalled “fiat” currency, including U.S. dollars, euros, pounds, and yen. Traders using the Bitfinex platform can deposit dollars with Bitfinex, convert them to virtual currency at the rates offered by Bitfinex, trade the virtual currency they have purchased, convert their virtual currency holdings back into dollars, and withdraw the funds. For that reason, it is important that Bitfinex has sufficient U.S. dollars on hand to fill withdrawal orders submitted by traders.
+. Prior to August 2017, Bitfinex had few geographical restrictions with respect to who could access its trading platform, meaning that New York-based users were able to create accounts, fund them with U.S. dollars, convert into virtual currency, trade, and withdraw funds. In August 2017, Bitfinex announced it would no longer permit U.S.-based users to access the trading platform, but U.S.-based business entities were still permitted to trade. In August 2018, Bitfinex’s announced exclusion of U.S.-based individual users was expanded to include all U.S.-based entities, except those entities or organizations that maintained an incorporation address outside of the United States, and met other qualifications.
+. The primary function of Tether the company is as the issuer of a virtual currency also called “tether,” a so-called “stablecoin,” a term used to describe a virtual currency that is always supposed to have the same real-dollar value. In the case of tethers, one tether is always supposed to be valued at one U.S. dollar. Tethers are listed on at least several dozen virtual currency trading platforms around the world, trading under the symbol “USDT.” 
+. In order to signal to the market that each tether held by users is equal to one U.S. dollar, Tether has long represented that for every outstanding tether issued and trading in the market, the company holds one U.S. dollar (“USD”) in reserve “backing” the tether. From its inception in 2014 until late February 2019, Tether represented that every outstanding tether was “backed” by, and thus should be valued at, one U.S. dollar. For example, Tether represented to users that “Every tether is always backed 1-to-1, by traditional currency held in our reserves. So 1 USDT is always equivalent to 1 USD.”
+. In late February 2019, Tether changed its representation, stating on its website that “[e]very tether is always 100% backed by our reserves, which include traditional currency and cash equivalents and, from time to time, may include other assets and receivables from loans made by Tether to third parties, which may include affiliated entities (collectively, ‘reserves’). Every tether is also 1-to-1 pegged to the dollar, so 1 USDT is always valued by Tether at 1 USD.”
+. Tether represents to users that any holder of tethers can redeem them from Tether the company at the rate of one tether for one U.S. dollar. 
+. Tether is one of the most prominent and widely-traded virtual currencies. As of the date of this Settlement Agreement, Tether represents that over 31 billion tethers have been issued and are outstanding and traded in the market.
+. Bitfinex and Tether are owned and operated by a small group of executives and shareholders that are located around the world. During the time period relevant to the OAG’s investigation, and as late as early-to-mid 2018, one of Bitfinex and Tether’s senior executives lived in, and conducted his work from, New York.
+
+*II&period; In 2017, Bitfinex and Tether Misled the Market About Tether’s U.S. Dollar Backing*
+
+[.text-justify, start=14]
+. Prior to 2017, Bitfinex and Tether used several Taiwan-based banks to send and receive wire transfers to fulfill client orders for U.S. dollars, and for other purposes. Wells Fargo acted as the correspondent bank. In late March 2017, Wells Fargo elected to no longer process U.S. dollar wire transfers from Bitfinex and Tether accounts, forcing the companies to find alternative banking arrangements.
+. At the time Wells Fargo stopped servicing the companies, approximately 50 million tethers had been issued and were circulating in the market. By May 31, 2017, over 108 million tethers had been issued and circulating.
+. In June 2017, Bitfinex opened an account at a Puerto Rico-based entity named Noble Bank International (“Noble Bank”). Noble Bank was a subsidiary of New York-based Noble Markets LLC.
+. However, Tether did not open an account at Noble Bank, or any other bank, until September 15, 2017. Tether deposited the vast majority of its cash holdings (ostensibly backing USDT) into a trust account at the Bank of Montreal in the name of its General Counsel. The Bank of Montreal account never had more than $61.5 million dollars on deposit.
+. Because Tether did not have a significant bank relationship in its name from at least March 2017 until September 15, 2017, it could not directly process any fiat deposits for purchases of Tethers by customers on either the Tether website or via the Bitfinex trading platform. At the same time, neither the Tether website or the Bitfinex trading platform allowed for the direct purchase or exchange of tethers in exchange for any other virtual currency, including the two most popular virtual currencies, bitcoin and ether.
+. Between June 1, 2017 and September 15, 2017, Bitfinex’s Noble Bank account received USD deposits from only two institutional trading firms, one of which was located in New York. Neither of those institutional trading firms purchased tethers directly from Bitfinex or Tether during this time period.
+. Because of Tether’s inability to conduct significant banking activity during this time, it could not itself hold dollars sufficient to back the hundreds of millions of new tethers that had entered the market. Until September 15, 2017, the only U.S. dollars held by Tether ostensibly backing the approximately 442 million tethers in circulation was the approximately $61 million on deposit at the Bank of Montreal.
+. Between June 1, 2017 and September 15, 2017, Bitfinex held approximately $382 million of Tether’s funds in a comingled account, which should have been held by Tether as “backing” for tethers then in circulation but was not. In certain documents Bitfinex and Tether produced to OAG during its investigation, Tether accounted for this amount as a “receivable” from Bitfinex. Between June 1, 2017 and September 15, 2017, the total number of tethers issued and circulating rose from approximately 108 million to 442 million.
+. In June 2017, Bitfinex and Tether engaged the U.S.-based firm Friedman LLP to complete an audit of both companies. Those audits were never completed. 
+. By late summer 2017, online reports suggested that Tether did not have sufficient cash backing for the increasing numbers of tethers in circulation. To counter those suggestions, in early September 2017, Bitfinex and Tether requested that Friedman conduct a verification of the cash backing of tethers, which Bitfinex and Tether planned to release publicly in order to demonstrate to the market that tethers were fully backed.
+. Tether notified Friedman that the company did not have a bank account at Noble Bank (or any other institution) but were in the process of opening one.
+. Tether and Friedman agreed that Friedman would conduct the verification of Tether’s assets as of September 15, 2017.
+. On the morning of September 15, 2017, Tether opened an account at Noble Bank. Later that day, Bitfinex transferred $382,446,847.71 from Bitfinex’s account at Noble Bank into Tether’s account at Noble Bank. Friedman conducted its verification of Tether’s assets as of 8:00 p.m. EST.
+. On September 30, 2017, a post to the Tether website was made, entitled “Transparency Update,” in which Tether represented the following: +
+[.quoteblock]#Friedman LLP has been engaged to perform historical balance sheet audit procedures for Tether Limited. However, as the amount of Tethers in circulation has increased substantially in recent months, we have also asked Friedman to analyze our bank balances and our issued and outstanding token balance on an interim basis. Friedman agreed to perform consulting services for us in an effort to provide management with useful information concerning Tether’s cash position and Tether tokens issued and outstanding as of an interim date. Friedman was able to provide consulting services for us on an expedited basis, using a procedures date of September 15, 2017. These consulting services do not constitute anaudit [sic] or attestation engagement, which would include a significantly expanded scope of procedures and take substantially more time to complete. +
+&nbsp; +
+We hope that the community considers the attached memorandum for what it is: a good faith effort on our behalf to provide an interim analysis of our cash position and our issued and outstanding tokens, as part of ongoing efforts to further professionalize the transparency mechanisms of Tether Limited.#
+. The attached memorandum from Friedman contained the following graphic, redacting the account holder’s name, and redacting the names of Noble Bank and the Bank of Montreal:
+
+image::media/oag_tether_image_1.png[align=center]
+
+[.text-justify, start=29]
+. The September 30, 2017 “Transparency Update” and the attached memorandum were misleading. At no point did Tether inform its clients or the market that from at least June 1, 2017 until September 15, 2017, tethers were not in fact not backed “1-to-1” by USD held by Tether in a bank account. Rather, the funds ostensibly backing tethers had been held in an account under the control of its General Counsel, with the balance accounted for as a “receivable” from Bitfinex. No one reviewing Tether’s representations would have reasonably understood that the $382,064,782 listed as cash reserves for tethers had only been placed in Tether’s account as of the very morning that Friedman verified the bank balance.
+
+*III&period; In 2019, Bitfinex and Tether Misrepresented the Status of the Tether Reserves, 
+After Bitfinex Suffered a Massive Loss of Funds*
+
+[.text-justify, start=30]
+. In 2017 and 2018, Bitfinex began to increasingly rely on third-party “payment processors” to handle customer deposits and withdrawals from the Bitfinex trading platform. The primary entity Bitfinex used was a purportedly Panama-based entity known as Crypto Capital Corp. (“Crypto Capital”).
+. An individual known as “Oz Yosef,” or “Oz Joseph,” or simply “Oz” was Bitfinex’s point of contact at Crypto Capital. 
+. By mid-2018, Crypto Capital held over $1 billion of funds that emanated from customer deposits at Bitfinex.
+. In May 2018, Bitfinex asked “Oz” how Bitfinex could “move money efficiently out of Cryptocapital.” That request came on the heels of a report in April 2018 that the government of Poland had frozen a Crypto Capital bank account holding at least $340 million. In response, “Oz” repeatedly stated that the account freeze was temporary. In the ensuing months, “Oz” would go on to provide a number of different excuses for why he could not return the funds to Bitfinex (or its clients), including tax complications, hurdles placed by various compliance personnel at various banks, bankers being on vacation, typos in wire instructions, and corruption in the Polish government.
+. At some point between April 2018 and July 2018, “Oz” informed Bitfinex that a Crypto Capital account in Portugal containing approximately $150 million of Bitfinex client funds had also been frozen.
+. In July 2018, Bitfinex told “Oz,” that over eighty percent of Bitfinex’s client deposits were held at bank accounts controlled by Crypto Capital. 
+. Despite having nearly $500 million of customer deposits in Crypto Capital accounts purportedly “frozen,” Bitfinex nevertheless continued to direct clients to utilize Crypto Capital to fund their accounts throughout the summer of 2018.
+. During this time period, Bitfinex began to look for ways to stave off what Bitfinex internally characterized as a “temporary liquidity crisis.” 
+. In the summer of 2018, Bitfinex borrowed $400 million from Tether. On or about August 21, 2018, and continuing through September 2018, Tether made at least four cash transfers from its account at Deltec Bank to Bitfinex’s account at Deltec Bank. To offset those cash transfers, Bitfinex directed “Oz” to transfer funds from the Bitfinex account to the Tether account at Crypto Capital. In October 2018, Bitfinex redeemed 400 million tethers to repay the debt. Those transactions were not disclosed.
+. Despite efforts to stave off Bitfinex’s “liquidity crisis,” online reports continued to mount that Bitfinex was unable or unwilling to timely process client withdrawal requests. In response, Bitfinex issued the following statement to the market on October 7, 2018:
+[numeric]
+.. Bitfinex is not insolvent, and a constant stream of Medium articles claiming otherwise is not going to change this. As one of only a very few exchanges operating since 2013, with a small team and low operating costs, we do not entirely understand the arguments that purport to show us to be insolvent without providing any explanation about why. The wallets below represent a small fraction of Bitfinex cryptocurrency holdings and do not take into account fiat holdings of any kind. +
+&emsp;• Bitcoin cold wallet 1 +
+&emsp;• Ethereum cold wallet 1 +
+&emsp;• EOS cold wallet 1 +
+How any rational party can claim insolvency when the opposite is there for all to see is interesting and, once again, perhaps indicative of a targeted campaign based on nothing but fiction.
+.. Both fiat and cryptocurrency withdrawals are functioning as normal. Verified Bitfinex users can freely withdraw Euros, Japanese Yen, Pounds Sterling and U.S. Dollars. Complications continue to exist for us in the domain of fiat transactions, as they do for most cryptocurrency-related organisations. However, we continue to do our utmost to minimise any waiting times associated with fiat deposits and withdrawals.
+.. Stories and allegations currently circulating mentioning an entity called Noble Bank have no impact on our operations, survivability, or solvency.
+. That statement was misleading. At the time this statement was made, Bitfinex had been beseeching “Oz” for months to process client withdrawals or return the money, which “Oz” was unable or unwilling to do. The statement also misleadingly implied that the company had little or no connection to “an entity called Noble Bank,” which at that time had been Bitfinex’s bank for over a year.
+. In October 2018, Bitfinex and Tether severed their relationship with Noble Bank.
+. On November 1, 2018, Tether made a public statement announcing that it had established a relationship with Deltec Bank & Trust Limited, headquartered in the Bahamas. In that announcement, Tether represented that “USDT in the market are fully backed by US dollars that are safely deposited in our bank accounts.” The announcement also linked to a document on Deltec letterhead and addressed to Tether Limited, dated November 1, 2018, which stated: +
+[.quoteblock]#Dear Sirs: +
+We hereby confirm that, at the close of business on October 31, 2018, the portfolio cash value of your account with our bank was US$1,831,322,828.#
+. The next day, November 2, 2018, Tether made the first of five transfers ultimately totaling $475 million from its bank account at Deltec Bank to Bitfinex’s account at Deltec Bank. At the same time, a corresponding transfer was made from Bitfinex’s account at Crypto Capital to Tether’s account at Crypto Capital via ledger entry Bitfinex also “purchased” 150 million tethers by transferring $150 million in funds held at Bitfinex’s Crypto Capital account to Tether’s account at Crypto Capital. These transfers were not disclosed.
+. And so, as of November 2, 2018, tethers were again no longer backed 1-to-1 by U.S. dollars in a Tether bank account, because a substantial portion of the backing in the Deltec account had been transferred to Bitfinex to make up for the funds taken by Crypto Capital, while the corresponding funds transferred from Bitfinex’s Crypto Capital account to Tether’s Crypto Capital account were impaired by Crypto Capital’s actions.
+. Tether’s misrepresentation would continue until late February 2019, at which time Tether updated its website to note that “[e]very tether is always 100% backed by our reserves, which include traditional currency and cash equivalents and, from time to time, may include other assets and receivables from loans made by Tether to third parties, which may include affiliated entities (collectively, ‘reserves’).” Tether did not announce that it had changed its disclosure, and indeed there were no media reports about the change until several weeks later on March 14, 2019.
+. Throughout November, Bitfinex would continue to ask “Oz” to return the money, to no avail. For example, on November 1, 2018, Bitfinex told “Oz” that Bitfinex “urgently need liquidity to start paying out our small customer as your channel is stuck.” On November 21, 2018, Bitfinex told “Oz” that “We have 860m with you. I can’t believe we can’t even get 20 or 30 M out…where is all the money, it doesn’t sum up…350 in Poland, 150 in Portugal.” On November 28, 2018, Bitfinex again messaged “Oz,” stating that “we are at the end of the month and you haven’t been sending out one wire, even 1 usd for the whole month.”
+. Contrary to what was happening behind the scenes, Bitfinex issued a statement on November 11, 2018, stating that Bitfinex’s “banking remained stable,” while noting that in October 2018 alone Bitfinex “processed over 700 withdrawals representing more than $1 [billion].”
+. As set forth in further detail in the OAG’s application for relief pursuant to Section 354 of the Martin Act, in late 2018 Bitfinex and Tether began to negotiate a line of credit transaction that would allow Bitfinex to further draw upon the Tether reserves. Ultimately, the line of credit transaction closed at the end of March 2019, allowing Bitfinex to draw up to $900 million from the Tether reserves. The $625 million that had been previously transferred from the Tether account in November 2018 was incorporated into the line of credit. Bitfinex collateralized the line of credit with shares of its parent company Digfinex.
+. At no time did Bitfinex or Tether disclose to the market that Tether had transferred at least $625 million to Bitfinex, or that Bitfinex had experienced critical liquidity issues because of loss of approximately $850 million to Crypto Capital.
+. On April 24, 2019, the OAG filed an application in Supreme Court, New York County for an order pursuant to Section 354 of the Martin Act, seeking court-ordered production of documents and information relevant to its ongoing investigation of Bitfinex and Tether, as well as seeking injunctive relief to prevent Bitfinex from further accessing Tether’s reserves under the line of credit arrangement. As part of that application, the OAG disclosed to the market for the first time that Bitfinex had lost access to approximately $850 million, and that Bitfinex had made up for the shortfall by transferring hundreds of millions of dollars from Tether.
+. On April 26, 2019, Bitfinex issued a statement, which included a representation that “we have been informed that these Crypto Capital amounts are not lost but have been, in fact, seized and safeguarded.”
+. That statement was misleading. At the time that statement was made, Bitfinex did not in fact know the whereabouts of all of the customer funds held by Crypto Capital, and so had no assurance that the funds might ever be made accessible again to Crypto Capital or Bitfinex.
+. As of the date of this Settlement Agreement, Bitfinex cannot represent whether, or when, any of the unrecovered funds might be returned to Bitfinex or its clients.
+. Based on the foregoing facts, OAG finds that Bitfinex and Tether violated New York General Business Law § 352 et seq. and Executive Law § 62(12).
+
+[.text-center.underline]
+*RELIEF*
+
+IT IS HEREBY UNDERSTOOD AND AGREED, by and between the Parties:
+[.text-justify, start=55]
+. [underline]#Monetary Relief#
+.. Monetary Relief Amount: Respondents shall pay to the State of New York a penalty in the amount of $18,500,000 (the “Monetary Relief Amount”). Respondents shall pay the Monetary Relief Amount no later than thirty (30) business days after the effective date of this Settlement Agreement.
+.. Bitfinex and Tether agree that they will not claim, assert, or apply for a tax deduction or tax credit with regard to any foreign or U.S.-domestic tax, directly or indirectly, for any portion of the payment that it shall make pursuant to this Settlement Agreement.
+.. Payments shall be made by attorney check, corporate or certified check, or bank draft, which shall be made payable to the “State of New York”, and shall reference Settlement Agreement No. 21-012; payments shall be addressed to the attention of John D. Castiglione, Senior Enforcement Counsel, Investor Protection Bureau, 28 Liberty Street, New York, New York, 10005. Payments in excess of $50,000 shall be made by wire transfer, with instructions available upon request of Respondents.
+
+[underline]#Undertakings:#
+[.text-justify, start=56]
+. Within five (5) days of the receipt of the penalty set forth in paragraph 55, the OAG will move to voluntarily withdraw its application for relief pursuant to Section 354 of the Martin Act (In re: James v. iFinex, et al., Docket No. 450545/2019) and agrees not to bring any claims or causes of action against Bitfinex or Tether, its present and former direct or indirect parents, subsidiaries, or affiliates, or any of its officers, directors, employees, managers or agents that are presently known to the OAG for matters relating to the conduct set forth in the Findings and the Petition (Whitehurst Aff.), In re James v. iFinex, Inc., Index No. 450545/2019 (N.Y. Sup. Ct. April 25, 2019), NYSCEF Doc. No. 1; arising out of Bitfinex or Tether’s representations concerning the backing of tethers during the time period January 1, 2014 to the effective date of this Settlement Agreement; transfers of a portion of the cash reserves backing tethers to Bitfinex pursuant to the line of credit agreement; or representations concerning the location or status of funds transferred to Crypto Capital. This provision does not prevent the OAG from exercising its rights to enforce this Settlement Agreement pursuant to other provisions herein.
+
+. Bitfinex and Tether agree to undertake the following:
+.. _Line of Credit Repayment_ +
+The line-of-credit referenced in paragraphs 48–50, above, has been repaid in full as of January 2021.
+.. _Mandated Reporting Regarding Bitfinex and Tether’s Efforts to Exclude New York Clients_
+[numeric]
+... Bitfinex and Tether have implemented, and during the time frame set forth in Paragraph 57(b)(2) will continue to implement, maintain, and improve internal controls and procedures in a manner reasonably designed to ensure the soundness of the companies’ prohibitions against use of its products and services by New York persons and entities. For purposes of this Settlement Agreement, “New York persons” are defined as any person known or believed to reside in or regularly conduct trading activity from New York, and “New York entity” is defined as any entity that is incorporated in, has its headquarters in, regularly conducts trading activity in, or is directed or controlled from, New York.
+... Within ninety (90) days of the effective date of this Settlement Agreement, and on a quarterly basis thereafter for two (2) years following the effective date of this Settlement Agreement, Bitfinex and Tether will provide a written report to OAG regarding their compliance with Paragraph 57(b)(1), which will include, but not necessarily be limited to, discussion of platform policies, operations, investigations, and surveillance, concerning Bitfinex and Tether’s prohibition of New York persons and entities.
+... Bitfinex and Tether may apply to the OAG for an extension of the deadlines described above before their expiration and, upon a showing of good cause by Bitfinex and Tether, the OAG may, in its sole discretion, grant such extensions for whatever time period it deems appropriate.
+... OAG may seek production of documents substantiating the existence and effectiveness of the measures set forth in paragraph 57(b)(1). 
+.. _Trading Activity with New York Persons and Entities:_ Bitfinex and Tether shall discontinue any trading activity with any New York persons or entities (including any New York entity that holds a BitLicense or Trust Account from the New York Department of Financial Services) or is a broker/dealer registered with the State of New York. This prohibition does not include the provision of services from a company providing the following for Bitfinex or Tether: blockchain analysis or tracing services; Know Your Customer (“KYC”) or Anti-Money Laundering (“AML”) services; user risk-scoring or similar services, legal services located in New York related to virtual currency trading activity, or other commercial services unrelated to the purchase, sale, or exchange of virtual currencies.
+.. _Over the Counter Trading:_ Respondents agree not to conduct or facilitate over-the-counter trading activity with a New York person or entity.
+.. _Mandated Reporting on Certain Business Operations_ 
+[numeric]
+... Within ninety (90) days of the effective date of this Settlement Agreement, and on a quarterly basis thereafter for two (2) years following the effective date of this Settlement Agreement, Bitfinex and Tether will provide
+[lowerroman]
+.... documents substantiating Tether’s reserve account(s), in a form substantially similar to what Tether has provided during OAG’s investigation; 
+.... verification that Bitfinex and Tether have appropriately segregated client, reserve, and operational accounts, including but not necessarily limited to verification that (a) Tether reserves are segregated from operational accounts; (b) Bitfinex and Tether maintain separate accounts; (c) virtual assets for customers and the companies are held at separate, segregated deposit addresses (if stored in an omnibus wallet); and (d) accounts holding fiat deposits from Bitfinex clients are segregated from company operational accounts, including but not limited to accounts used to pay or distribute to executives or for other company obligations; and
+.... documents and information reflecting transfers of funds between and among Bitfinex and Tether.
+... Bitfinex and Tether may apply to the OAG for an extension of the deadlines described above before their expiration and, upon a showing of good cause by Bitfinex and Tether, the OAG may, in its sole discretion, grant such extensions for whatever time period it deems appropriate. 
+.. _Publication of Tether’s Reserves:_ On at least a quarterly basis for a period of two (2) years following the effective date of this Settlement Agreement, Tether will publish the categories of assets backing tether (e.g., cash, loans, securities, etc.), specifying the percentages of each such category, and specifying whether any such category constituting a loan or receivable or similar is to an affiliated entity, in a form substantially similar to that previously presented to the OAG.
+.. _Transparency and Opt-Out of Payment Processors_
+[numeric]
+... Within ninety (90) days of the effective date of this Settlement Agreement, and on a quarterly basis thereafter for two (2) years following the effective date of this Settlement Agreement, Bitfinex and Tether will provide to OAG a list of payment processors whom they utilize, along with location and contact information for those entities, and information regarding additional due diligence procedures the companies have implemented (or will implement) regarding the use of payment processors;
+... For the period set forth in Paragraph 57(g)(1), Bitfinex and Tether will provide a list of payment processors whom they utilize, along with location and contact information for those entities, to users upon request in connection with a deposit or withdrawal;
+... For the period set forth in Paragraph 57(g)(1), Bitfinex and Tether shall notify a user that Bitfinex or Tether intends to use a payment processor for that user’s transaction(s), or to hold that user’s funds, prior to the transaction. Users will be given the ability to opt-out of use of any (or all) payment processors, and will be permitted to use a different method of transfer or holding.
+.. _Future Activities in New York:_ In the event that Bitfinex or Tether should in the future seek to service New York persons or entities, they will do so in accordance with applicable law, including any applicable licensing requirements.
+. Respondent expressly agrees and acknowledges that a default in the performance of any obligation under the above paragraph is a violation of this Settlement Agreement, and that the OAG thereafter may commence a civil action or proceeding, in addition to any other appropriate investigation, action, or proceeding, and that evidence that the Settlement Agreement has been violated shall constitute prima facie proof of the statutory violations described in paragraph 54, pursuant to Executive Law § 63(15).
+
+[.text-center.underline]
+*MISCELLANEOUS*
+
+[.underline]
+Subsequent Proceedings:
+[.text-justify, start=59]
+. Respondents expressly agree and acknowledge that the OAG may initiate a subsequent investigation, civil action, or proceeding to enforce this Settlement Agreement, for violations of the Settlement Agreement, or if the Settlement Agreement is voided pursuant to paragraph 68, and agrees and acknowledges that in such event: 
+.. any statute of limitations or other time-related defenses are tolled from and after the effective date of this Settlement Agreement;
+.. the OAG may use statements, documents or other materials produced or provided by Bitfinex and Tether prior to or after the effective date of this Settlement Agreement;
+.. any civil action or proceeding must be adjudicated by the courts of the State of New York, and that Bitfinex and Tether irrevocably and unconditionally waive any objection based upon personal jurisdiction, inconvenient forum, or venue;
+.. evidence of a violation of this Settlement Agreement shall constitute prima facie proof of a violation of the applicable law pursuant to Executive Law § 63(15).
+. If a court of competent jurisdiction determines that the Bitfinex or Tether has violated the Settlement Agreement, Bitfinex or Tether shall pay to the OAG the reasonable cost, if any, of obtaining such determination and of enforcing this Settlement Agreement, including without limitation legal fees, expenses, and court costs.
+. In the event the OAG believes that Respondents have violated this Settlement Agreement, the OAG agree to provide Respondents with written notice of such asserted violation prior to instituting any proceeding resulting from such violation. Within thirty (30) days of receipt of such notice, Respondents shall have the opportunity to respond to the OAG in writing to explain the nature and circumstances of such violation, as well as the actions Respondents have taken to address and remediate the situation, which explanation the OAG shall consider in determining whether to pursue enforcement or other proceedings.
+
+[.underline]
+Effects of Settlement Agreement:
+[.text-justify, start=62]
+. Bitfinex and Tether shall not make or permit to be made any public statement denying, directly or indirectly the propriety of this Settlement Agreement or the OAG investigation. Nothing in this paragraph affects Bitfinex or Tether’s (i) testimonial obligations or (ii) right to take positions in defense of litigation or other legal proceedings to which the OAG is not a party. This Agreement is not intended for use by any third party in any other proceeding. 
+. All terms and conditions of this Settlement Agreement shall continue in full force and effect on any successor, assignee, or transferee of Bitfinex or Tether. Bitfinex and Tether shall include any such successor, assignment or transfer agreement a provision that binds the successor, assignee or transferee to the terms of the Settlement Agreement. No party may assign, delegate, or otherwise transfer any of its rights or obligations under this Settlement Agreement without the prior written consent of the OAG. 
+. Nothing contained herein shall be construed as to deprive any person of any private right under the law.
+. This Settlement Agreement is not a final order of any court or governmental authority, and is made without trial or adjudication on any issue of fact or law. 
+. Any failure by the OAG to insist upon the strict performance by Bitfinex or Tether of any of the provisions of this Settlement Agreement shall not be deemed a waiver of any of the provisions hereof, and the OAG, notwithstanding that failure, shall have the right thereafter to insist upon the strict performance of any and all of the provisions of this Settlement Agreement to be performed by Bitfinex or Tether.
+
+[.underline]
+Communications:
+
+[.text-justify, start=67]
+. All notices, reports, requests, and other communications pursuant to this Settlement Agreement must reference Settlement Agreement No. 21-012, and shall be in writing and shall, unless expressly provided otherwise herein, be given by hand delivery; express courier; or electronic mail at an address designated in writing by the recipient, followed by postage prepaid mail, and shall be addressed as follows: +
+&nbsp; +
+[.quoteblock]#If to Bitfinex, to: General Counsel, iFinex Inc., Trinity Chambers, P.O. Box 4301, Road Town, Tortola, British Virgin Islands, VG1110, legal@bitfinex.com, with a copy to jweinstein@steptoe.com and cmichael@steptoe.com. +
+&nbsp; +
+If to Tether, to: General Counsel, Tether Operations Limited, Trinity Chambers, P.O. Box 4301, Road Town, Tortola, British Virgin Islands, VG1110; legal@tether.to, with a copy to jweinstein@steptoe.com and cmichael@steptoe.com. +
+&nbsp; +
+If to the OAG, to: John D. Castiglione, Senior Enforcement Counsel, Investor Protection Bureau, 28 Liberty Street, New York, New York, 10005, john.castiglione@ag.ny.gov, or in his/her absence, to the person holding the title of Bureau Chief, Investor Protection Bureau.#
+
+
+[.underline]
+Representations and Warranties:
+
+[.text-justify, start=68]
+. The OAG has agreed to the terms of this Settlement Agreement based on, among other things, the representations made to the OAG by Bitfinex, Tether, and their counsel and the OAG’s own factual investigation as set forth in Findings, paragraphs 6–54, above. Bitfinex and Tether represent and warrant that neither they nor their counsel have made any material representations of fact to the OAG that are false. If any material representations of fact by Bitfinex, Tether, or their counsel are later found to be false, this Settlement Agreement is voidable by the OAG in its sole discretion.
+. No representation, inducement, promise, understanding, condition, or warranty not set forth in this Settlement Agreement has been made to or relied upon by Bitfinex or Tether in agreeing to this Settlement Agreement. 
+. Bitfinex and Tether represent and warrant, through the signatures below, that the terms and conditions of this Settlement Agreement are duly approved. Bitfinex and Tether further represent and warrant that the signatories to this Settlement Agreement are directors of Bitfinex and Tether.
+
+[.underline]
+General Principles:
+
+[.text-justify, start=71]
+. Nothing in this Settlement Agreement shall relieve Bitfinex or Tether of other obligations imposed by any applicable state or federal law or regulation or other applicable law.
+. Nothing contained herein shall be construed to limit the remedies available to the OAG in the event that Bitfinex or Tether violate the Settlement Agreement after its effective date.
+. This Settlement Agreement may not be amended except by an instrument in writing signed on behalf of the Parties. 
+. In the event that any one or more of the provisions contained in this Settlement Agreement shall for any reason be held by a court of competent jurisdiction to be invalid, illegal, or unenforceable in any respect, in the sole discretion of the OAG, such invalidity, illegality, or unenforceability shall not affect any other provision of this Settlement Agreement. 
+. Bitfinex and Tether acknowledge that they have entered this Settlement Agreement freely and voluntarily and upon due deliberation with the advice of counsel. 
+. This Settlement Agreement shall be governed by the laws of the State of New York without regard to any conflict of laws principles.
+. This Settlement Agreement and all its terms shall be construed as if mutually drafted with no presumption of any type against any party that may be found to have been the drafter.
+. This Settlement Agreement may be executed in multiple counterparts by the parties hereto. All counterparts so executed shall constitute one agreement binding upon all parties, notwithstanding that all parties are not signatories to the original or the same counterpart. Each counterpart shall be deemed an original to this Settlement Agreement, all of which shall constitute one agreement to be valid as of the effective date of this Settlement Agreement. For purposes of this Settlement Agreement, copies of signatures shall be treated the same as originals. Documents executed, scanned and transmitted electronically and electronic signatures shall be deemed original signatures for purposes of this Settlement Agreement and all matters related thereto, with such scanned and electronic signatures having the same legal effect as original signatures.
+. The effective date of this Settlement Agreement shall be February 18, 2021.
+
+
+[cols="3,5", width=100%, frame=none, grid=none]
+|===
+| |LETITIA JAMES +
+Attorney General of the State of New York +
+28 Liberty Street +
+New York, NY 10005
+| |
+| |By:  
+| |&emsp;&emsp;John D. Castiglione +
+&emsp;&emsp;Senior Enforcement Counsel +
+&emsp;&emsp;Investor Protection Bureau 
+| |
+| |&emsp;&emsp;Brian Whitehurst +
+&emsp;&emsp;Assistant Attorney General +
+&emsp;&emsp;Investor Protection Bureau 
+| |
+| |iFinex Inc., BFXNA Inc., BFXWW Inc.
+| |
+| |By:  
+| |&emsp;&emsp;Giancarlo Devasini, Director +
+&emsp;&emsp;Dated:February 17, 2021
+| |
+| |Tether Holdings Limited, Tether Operations Limited, +
+Tether Limited, and Tether International Limited
+| |
+| |By: 
+| |&emsp;&emsp;Jean-Louis van der Velde, Director +
+&emsp;&emsp;Dated: February 17, 2021
+|===
+[[oag_tether_questions]]
+=== Discussion Questions ===
+[.text-justify]
+. placeholder question?
+
+
 == Terraform & Kwon (Kwonzi Scheme) ==
 [quote, SEC v. Terraform &amp; Kwon&comma; Case1:23-cv-01346, https://www.docdroid.net/xC1daxt/kwonzi-scheme-pdf   ]
 ____
