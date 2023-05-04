@@ -8,10 +8,28 @@ The memo continued by stating, "Acting in the interest of our community is our t
 
 Below are some of the legal documents that have resulted from this pause in withdrawls (and the underlying conditions that made the pause necessary): 
 
+
+////
+#>>>>>>>>>>
+###################################################################################################
+### Celsius Network LLC, et al.
+# https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf
+#
+#
+#
+#
+#
+#
+#################################################################################################
+////
+
+[[celsius_bankruptcy]]
 == Celsius Network LLC, et al. ==
 
-[quote, Celsius Network et al. (Case No. 22-10964 (MG)), https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf ]
-____
+[.text-right]
+_Case No. 22-10964 (MG)_
+
+- - -
 
 *UNITED STATES BANKRUPTCY COURT*
 *SOUTHERN DISTRICT OF NEW YORK*
@@ -21,9 +39,9 @@ ____
 |&nbsp; +
 In re: +
 &nbsp; +
-CELSIUS NETWORK LLC, et al., +
+&emsp;&emsp;CELSIUS NETWORK LLC, et al., +
 &nbsp; +
-Debtors. +
+&emsp;&emsp;&emsp;&emsp;&emsp;Debtors. +
 &nbsp; 
 |&nbsp; +
 *FOR PUBLICATION* +
@@ -38,30 +56,32 @@ Case No. 22-10964 (MG) +
 *MEMORANDUM OPINION AND ORDER +
 [underline]#REGARDING OWNERSHIP OF EARN ACCOUNT ASSETS#*
 
+...
 
-*A P P E A R A N C E S omitted
+_A P P E A R A N C E S omitted_
 
+...
 
 
 *MARTIN GLENN +
 CHIEF UNITED STATES BANKRUPTCY JUDGE*
-
+[.text-justify]
 Who owns the cryptocurrency assets deposited in Earn Accounts (defined below) by Celsius’s account holders before the July 15, 2022 petition date (the “Petition Date”)? This is a gating issue at the center of many disputes in this case. As explained below, the Court concludes, based on Celsius’s unambiguous Terms of Use, and subject to any reserved defenses, that when the cryptocurrency assets (including stablecoins, discussed in detail below) were deposited in Earn Accounts, the cryptocurrency assets became Celsius’s property; and the cryptocurrency assets remaining in the Earn Accounts on the Petition Date became property of the Debtors’ bankruptcy estates (the “Estates”).
-
+[.text-justify]
 At the Petition Date, Celsius had approximately 600,000 accounts in its Earn program (“Earn Program,” and such assets, including any proceeds thereof, the “Earn Assets” and such accounts, the “Earn Accounts”). These Earn Accounts held cryptocurrency assets with a market value of approximately $4.2 billion as of July 10, 2022. (Declaration of Alex Mashinsky, Chief Executive Officer of Celsius Network LLC, In Support of Chapter 11 Petitions and First Day Motions, “Mashinsky Declaration,” ECF Doc. 23, ¶ 49.) Included in the Earn Accounts at the Petition Date were a type of cryptocurrency known as stablecoins, valued at $23 million as of September 2022. (Debtors’ Motion Seeking Entry of an Order (I) Permitting the Sale of Stablecoin in the Ordinary Course and (II) Granting Related Relief, “Original Motion,” ECF Doc. # 832, ¶ 9.)
-
+[.text-justify]
 The issue of ownership of the assets in the Earn Accounts is a contract law issue. The Debtors and Committee argue that the cryptocurrency assets deposited in Earn Accounts were owned by the Debtors and are now property of the Estates. Many Earn account holders (“Account Holders”) argue that the Account Holders, rather than Celsius, own the cryptocurrency assets in the Earn Accounts and that cryptocurrency assets should promptly be returned to them.
-
+[.text-justify]
 Celsius adopted eight versions of the Terms of Use (collectively, the “Terms of Use” and each a version (e.g., “Terms Version 8”), which are detailed as exhibits A-1 through A-8 to the Declaration of Alexander Mashinsky, Chief Executive Officer of Celsius Network LLC, Providing Terms Dating Back to February 18, 2018 (“Terms Affidavit,” ECF Doc. # 393). For the avoidance of doubt this opinion refers to the “Terms of Use” identified in the Amended Motion as “Terms Version 8,” and Terms Version 8 (effective April 15, 2022) is the controlling document for this memorandum opinion.
-
-The Debtors and the Official Committee of Unsecured Creditors (“Committee”) contend that under unambiguous provisions in Terms Version 8, a clickwrap contract governed by New York law, Celsius held “all right and title to such Eligible Digital Assets, including ownership rights” in the cryptocurrency assets (including stablecoins) in the Earn Accounts. (See ECF Doc. # 1325 ¶ 39 (citing Terms Version 8 § 13) (emphasis added)). The Debtors’ uncontroverted evidence shows that 99.86% of the Earn Account holders accepted Terms Version 6 or a later version. (“Original Blonstein Declaration,” ECF Doc. # 1327, ¶ 20.) Earlier Terms Versions 1–5 of the Terms of Use, in effect beginning on February 1, 2018, and updated at various dates by new versions, were also clickwrap contracts accepted by the overwhelming percentage of Earn Account holders.
-
+[.text-justify]
+The Debtors and the Official Committee of Unsecured Creditors (“Committee”) contend that under unambiguous provisions in Terms Version 8, a clickwrap contract governed by New York law, Celsius held “*all right and title to such Eligible Digital Assets, including ownership rights*” in the cryptocurrency assets (including stablecoins) in the Earn Accounts. (See ECF Doc. # 1325 ¶ 39 (citing Terms Version 8 § 13) (emphasis added)). The Debtors’ uncontroverted evidence shows that 99.86% of the Earn Account holders accepted Terms Version 6 or a later version. (“Original Blonstein Declaration,” ECF Doc. # 1327, ¶ 20.) Earlier Terms Versions 1–5 of the Terms of Use, in effect beginning on February 1, 2018, and updated at various dates by new versions, were also clickwrap contracts accepted by the overwhelming percentage of Earn Account holders.
+[.text-justify]
 If the cryptocurrency assets in the Earn Accounts are owned by the Debtors, the Account Holders are unsecured creditors and their recovery depends on the distributions to unsecured creditors under a confirmed chapter 11 plan, or under the Bankruptcy Code’s priority rules in the event of liquidation. A fundamental principle of the Bankruptcy Code is equality of distribution. There simply will not be enough value available to repay all Account Holders in full. If only some Account Holders prevail with their arguments that they own the cryptocurrency assets in their accounts, they hope to recover 100% of their claims, while most of the Account Holders are left as unsecured creditors and may recover only a small percentage of their claims.
-
+[.text-justify]
 The Debtors and the Committee argue that under settled legal precedent the unambiguous language of the Terms of Use controls the ownership issue, making extrinsic evidence inadmissible, and, therefore, the cryptocurrency assets in the Earn Accounts are property of the estate. The objecting Account Holders argue that the Terms of Use are either clear that the Account Holders own the assets in the Earn Accounts, or the Terms of Use are ambiguous,preventing the Court from resolving the issue of ownership without considering extrinsic evidence. The objectors say that numerous statements by Celsius’s former Chief Executive Officer (“CEO”), Alex Mashinsky, and possibly other extrinsic evidence, demonstrate that the Account Holders have always owned the assets in the Earn Accounts.
-
+[.text-justify]
 The Debtors filed an amended motionxref:#celsius_footnote_2[*^(2)^*] that “only seeks two broadly applicable rulings: (i) that the plain language of the Terms of Use unambiguously provides that the cryptocurrency assets in the Earn Program are the property of the Debtors’ estates and (ii) that the Terms of Use are an enforceable contract (subject to certain individualized contract formation defenses). In other words, the Amended Motion seeks a presumption that each Account Holder is party to a binding contract with the Debtors, which presumption is rebuttable to the extent an Account Holder succeeds on an individual contract formation defense in the future.” (Debtors’ Reply in Support of Debtors’ Amended Motion for Entry of an Order (I) Establishing Ownership of Assets in the Debtors’ Earn Program, (II) Permitting the Sale of Stablecoin in the Ordinary Course and (III) Granting Related Relief (“Debtors’ Reply,” ECF Doc. # 1578, ¶ 3.))
-
+[.text-justify]
 The Amended Motion also seeks authority for the Debtors to sell approximately $18 million (in value) of stablecoins in the Earn Accounts, arguing that such stablecoins are property of the Estates and that a sale by the Debtors is permissible under section 363(c)(1) of the Bankruptcy Code in the ordinary course of business, or alternatively, under section 363(b)(1) other than in the ordinary course of business. The United States Trustee (“U.S. Trustee”) and multiple state securities regulators argue that a sale of stablecoins should not be approved at the present time because the Debtors have sufficient liquidity at least over the next few months. The Committee argues that the proposed sale would not be in the ordinary course of business (under section 363(c)(1)) but should be approved under section 363(b)(1) because the Debtors have shown a good business reason for the sale (to pay ongoing administrative expenses). The Court concludes it is unnecessary to resolve whether the proposed sale of stablecoins would be in the ordinary course of business because the sale should be approved outside the ordinary course of business. In the exercise of its business judgment, the Debtors have established a good business reason to permit the sale.
 
 [upperroman]
@@ -73,56 +93,64 @@ The Amended Motion also seeks authority for the Debtors to sell approximately $1
 [.text-center]
 . *The Original Motion*
 
+[.text-justify]
 On September 15, 2022, the Debtors filed the Original Motion seeking authority to sell certain stablecoins in their possession in the ordinary course of business to fund operating expenses, including the costs of administering these chapter 11 cases. (See generally Original Motion.) The Debtors received numerous responses to the Original Motion, most of which raised concerns regarding the title and ownership status of the stablecoins the Debtors proposed to sell. The Original Motion did not explicitly seek a determination on the ownership of Earn Assets.
 
 [upperalpha, start=2]
 [.text-center]
 . *The Amended Motion*
 
+[.text-justify]
 Subsequently, on November 11, 2022, the Debtors submitted the Amended Motion with a broader scope, seeking entry of an order (i) establishing ownership of assets in the Debtors’ Earn Program (as defined below) (ii) permitting the sale of stablecoins in the ordinary course and (iii) granting related relief. In support of the Amended Motion the Debtors submitted declarations of Chris Ferraro, Interim Chief Executive Officer, Chief Restructuring Officer, and Chief Financial Officer (“Ferraro Declaration,” ECF Doc. # 1326); Oren Blonstein, Head of Innovation and Chief Compliance Officer (“Original Blonstein Declaration,” ECF Doc. # 1327 and the “Supplemental Blonstein Declaration, ECF Doc. # 1584); and Robert Campagna, Managing Director of Alvarez & Marsal North America, LLC, a restructuring advisory firm (“Campagna Declaration,” ECF Doc. # 1328).
 
+[.text-justify]
 Prior to the filing of the Amended Motion, on October 21, 2022, the Court entered the Final Order (I) Authorizing the Debtors to (A) Continue to Operate Their Cash Management System, (B) Honor Certain Prepetition Obligations Related Thereto, (C) Maintain Existing Business Forms, and (D) Continue to Perform Intercompany Transactions, (II) Granting Related Superpriority Administrative Expense Status to Postpetition Intercompany Balances, and (III) Granting Related Relief (“Final Cash Management Order,” ECF Doc. # 1152). Pursuant to paragraph 5 of the Final Cash Management Order, the Debtors cannot liquidate or convert any cryptocurrency into cash absent an order of the Court. The Court observed that the Debtors’ liquidity is anticipated to tighten significantly in the new year. (See generally Campagna Declaration; Memorandum Opinion and Order Granting Motion to Approve Bidding Procedures in Connection with the Sale of Substantially All the Debtors’ Assets, ECF Doc. # 1167, at 19) (“[T]he reality is that the Debtors will have significant liquidity issues to continue operating in 2023.”).
-
+[.text-justify]
 The Amended Motion garnered a significant response from individual creditors, state regulatory agencies, the U.S. Trustee, and the Committee. In total, the Court received over thirty fives responses to the Amended Motion.
 The Amended Motion seeks two categories of relief. First, the Amended Motion seeks to establish the Debtors’ title and ownership rights over the cryptocurrency assets placed into the Earn Program and any proceeds thereof. If the Debtors own the Earn Assets, the Earn Assets became property of the Debtors’ bankruptcy estates (“Estates”) when the Debtors filed for relief under Chapter 11 of the Bankruptcy Code on the Petition Date. Second, the Amended Motion also seeks authority to sell multiple variations of a cryptocurrency called “stablecoin” in the ordinary course of business to create liquidity to fund the Debtors’ business. Each issue is discussed in turn.
 
 [numeric]
 .. [underline]#Ownership of Earn Assets#
 
+[.text-justify]
 The Debtors’ Amended Motion seeks a determination that under the Terms of Use, accepted by Celsius Account Holders when they opened their accounts (and, accepted modifications thereof), the cryptocurrency assets in the Earn Accounts presumptively are property of the estate.
-
+[.text-justify]
 The Debtors assert that ownership of the Earn Assets is an issue of contract interpretation and that the Terms of Use constituted a valid and enforceable contract between Celsius and its Account Holders. (Amended Motion, ¶ 3.) The Amended Motion relies on the elements of contract formation (mutual assent, consideration, and an intent to be bound by the contract) and submits that each amendment to the Terms of Use was binding on Account Holders who transferred their assets to the platform before the effectiveness of the subsequently amended Terms of Use (e.g., an Account Holder who deposited coins in July 2020 is bound by the Terms of Use version currently in effect). (See generally id. ¶¶ 18–37.)
-
+[.text-justify]
 The Debtors contend that the Terms Version 8 are explicit and unambiguous with respect to the ownership of Earn Assets. (Amended Motion ¶ 3.) Terms Version 8 states the following:
-[none]
+[none, role=text-justify]
 ** In consideration for the Rewards payable to you on the Eligible Digital Assets using the Earn Service . . . and the use of our Services, *you grant Celsius . . . all right and title to such Eligible Digital Assets, including ownership rights, and the right, without further notice to you, to hold such Digital Assets in Celsius’ own Virtual Wallet or elsewhere, and to pledge, re-pledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer or use any amount of such Digital Assets, separately or together with other property, with all attendant rights of ownership, and for any period of time, and without retaining in Celsius’ possession and/or control a like amount of Digital Assets or any other monies or assets, and to use or invest such Digital Assets in Celsius’ full discretion.* You acknowledge that with respect to Digital Assets used by Celsius pursuant to this paragraph:
-[numeric]
+[numeric, role=text-justify]
 ... You will not be able to exercise rights of ownership;
 ... Celsius may receive compensation in connection with lending or otherwise using Digital Assets in its business to which you have no claim or entitlement; and
-.... In the event that Celsius becomes bankrupt, enters liquidation or is otherwise unable to repay its obligations, any Eligible Digital Assets used in the Earn Service or as collateral under the Borrow Service may not be recoverable, and you may not have any legal remedies or rights in connection with Celsius’ obligations to you other than your rights as a creditor of Celsius under any applicable laws.
+... *In the event that Celsius becomes bankrupt, enters liquidation or is otherwise unable to repay its obligations, any Eligible Digital Assets used in the Earn Service or as collateral under the Borrow Service may not be recoverable, and you may not have any legal remedies or rights in connection with Celsius’ obligations to you other than your rights as a creditor of Celsius under any applicable laws.*
 
 (Id. (quoting Terms Version 8) (emphasis added).)
 
+[.text-justify]
 The Debtors state that the above excerpt is in addition to at least four other references (express or implied) to Earn Assets (including income thereon) being the Debtors’ property. (Amended Motion ¶ 40 (citing Terms Version 8 §§ 2, 4, 10, 12).)
-
+[.text-justify]
 Moreover, the Debtors assert that, to the extent prior versions of the Terms of Use are relevant, they also support the Debtors’ position. (Id. ¶ 41.) The Debtors represent that every version of the Terms of Use has (i) allowed the Debtors to make unilateral updates to the Terms of Use and (ii) been clear that the Debtors had the right to “pledge and repledge from time to time” assets transferred to the Debtors. (Id. ¶ 43.) Celsius states that, starting with Terms Version 2, each iteration explicitly stated that the Debtors had “all attendant rights of ownership” to such assets. (Id.)
 
 [numeric, start=2]
 .. [underline]#Sale of Stablecoins#
 
+[.text-justify]
 The Debtors contend that because the Earn Assets, including stablecoins, are property of the Estates, the Debtors can sell stablecoins to create liquidity to fund administrative expenses associated with these bankruptcy cases. (Id.) The Ferraro Declaration asserts that, before the Petition Date, the Debtors monetized stablecoin assets as needed to fund operations in the ordinary course of business. (Ferraro Declaration ¶ 25.) As of the filing of the Amended Motion, the Debtors or their affiliates held eleven different forms of stablecoins totaling approximately $23 million in their “Fireblocks account.” (Campagna Declaration ¶ 10.) The Amended Motion seeks Court authority to sell approximately $18 million worth of stablecoins free and clear of another party’s interests and maintains that the stablecoins are not subject to any encumbrances defined under section 363(f) of the Bankruptcy Code (discussed in further detail below). (Amended Motion ¶¶ 49, 54.)
-
+[.text-justify]
 The Debtors assert that although cryptocurrency presents a novel issue, the relief it requests—to sell assets akin to unencumbered inventory—is not. (Id. ¶ 50.) The Amended Motion submits that the sale of stablecoins is a reasonable exercise of the Debtors’ business judgment to fund the significant cost of administering the Estates while the Debtors’ income has been substantially reduced. (Id. ¶ 53.) The Debtors assert that selling stablecoins would meaningfully extend its liquidity runway. (Campagna Declaration ¶ 9.) Furthermore, the Debtors note that they have reserved sufficient stablecoins to avoid prejudice to any creditors of the Custody Program, Withhold Program, or Borrow Program whose rights are reserved pending a ruling on ownership of these assets. (Id. ¶ 10.)
 
 
 [upperalpha, start=3]
 . *Summary of Responses*
 
+[.text-justify]
 The Amended Motion garnered responses from nearly thirty creditors, fourteen states, the Committee, the U.S. Trustee, and other parties. The creditors’ responses share common features and arguments, as do the responses from states. Those filings are each discussed as a group.
 
 [numeric]
 .. [underline]#Objection of the U.S. Trustee#
 
+[.text-justify]
 The U.S. Trustee filed a limited objection to the Amended Motion. Most significantly, the U.S. Trustee takes no position on whether the cryptocurrency assets in the Earn Accounts are property of the Estates. The U.S. Trustee’s limited objection argues only that the Court should not permit the Debtors to sell stablecoins at the present time. (“U.S. Trustee Objection,” ECF Doc. # 1489, at 2–3.) The U.S. Trustee contends that the Original and Amended Motions lack the required evidentiary basis showing that (1) the Debtors own and therefore have the authority to sell the stablecoins and, if they do, (2) what the proceeds of the sale of stablecoins will fund. (U.S. Trustee Objection at 2.)
 First, the U.S. Trustee asserts, the Debtors commingled assets of their customers in such a way that it is unclear how the Debtors can accurately identify the owners of the stablecoins. (Id.) Even if the Debtors can establish ownership, the U.S. Trustee also questions how a stablecoins sale may impact the Debtors’ ability to make distributions “in kind” to customers. (Id.)
 
@@ -131,10 +159,11 @@ Second, the U.S. Trustee states that the Original and Amended Motions fail to ex
 [numeric, start=2]
 .. [underline]#Limited Objection of the Committee#
 
+[.text-justify]
 The Committee filed a Limited Objection to the Amended Motion (“Committee Objection,” ECF Doc. # 1502). The Committee noted that 55% of the Debtors’ currently existing customers were already customers prior to July 22, 2022. (Id. ¶ 3.) The Committee contended that the unambiguous Terms of Use are binding on these customers considering the Debtors’ screen shots and testimony demonstrating how these customers accepted Terms Version 6. (Id.) However, the Committee asserted that the Debtors had not provided any evidence or testimony showing how the 44% of account holders who created accounts after July 22, 2021 accepted the Terms of Use, notwithstanding the Committee requests that the Debtors do so. (Id.) The Committee stated the Court cannot determine whether the Terms of Use is binding on this latter 44% of customers until the Debtors cure this evidentiary gap. (Id.)
-
+[.text-justify]
 Notably, the Committee asserted that the Terms Version 8 unambiguously provides that Account Holders who elected to participate in the Earn Program transferred title to their relevant digital assets to Celsius and authorized Celsius to sell or otherwise use such digital assets in its sole discretion without further permission from the Account Holders. (Committee Objection ¶ 4.) Furthermore, each version of the Terms of Use since September 2020 contained a similar, unambiguous statement. (Id.) Therefore, the Committee argued that to the extent that the Court determines that a customer entered an enforceable contract through any version of the Terms of Use after September 2020, that customer agreed to transfer ownership of digital assets to Celsius. (Id. ¶ 5.)
-
+[.text-justify]
 In evaluating the Debtors’ Terms of Use and various arguments relating to the use of the word “loan,” the Committee contended that the transfer of title and the creation of a loan are not mutually exclusive concepts. (Id.) More importantly, the Committee asserted, reading the reference to a “loan” in the Terms of Use to mean that title did not transfer would require the reader to ignore several provisions from the Terms of Use, including provisions regarding the transfer of title and Celsius’s ability to sell or otherwise transfer digital assets (including rights of ownership). (Id.) The Committee stated that it is a bedrock principle of contract interpretation that courts should not adopt an interpretation of a contract that has the effect of rendering at least one clause superfluous or meaningless, but rather, to the extent possible, should seek to read contractual provisions in harmony. (Id. ¶ 6.)
 The Committee’s primary objection was to the disposal of proceeds from a sale of stablecoins for purposes other than to fund the Estates. Although the Committee argued that a sale would not be in the ordinary course of business, it believes the Debtors have established cause to sell stablecoins outside of the ordinary course of business to fund these cases provided that they are being operated for the benefit of the Estates. (Id. ¶ 7.)
 
@@ -144,44 +173,50 @@ The Committee’s primary objection was to the disposal of proceeds from a sale 
 [loweralpha]
 ... State of Vermont
 
+[.text-justify]
 The State of Vermont filed a limited objection to the extent that the Amended Motion seeks to spend proceeds from a sale of stablecoin because (i) ownership of Earn Assets has not been determined; (ii) as demonstrated by the Examiner’sxref:celsius_footnote_3[*^(3)^*] Interim Report (ECF Doc. # 1411), the Debtors did not segregate Earn Assets from Custody and Withhold Assets; and (iii) the Debtors should not spend funds unnecessarily while the future of these Chapter 11 proceedings remains unclear. (“Vermont Objection,” ECF Doc. # 1484, ¶ 8.) Should the Court permit the Debtors to sell stablecoins, Vermont requests that any proceeds be placed in escrow. (Id. at 3.)
-
+[.text-justify]
 As a practical matter, Vermont is concerned that the Debtors’ commingling of Earn Assets with Custody and Withhold Assets will make it difficult to determine who owns which assets. (Id. ¶ 12.) Vermont states that it does not take a position on the ownership of Earn Assets, but notes that it is not clear, based on the Terms of Use provided by the Debtors, how ownership could be conveyed from Account Holders to Celsius in a temporary fashion. (Id. ¶ 11.) The State of Washington joins in the Vermont Objection. (“Washington Joinder,” ECF Doc. # 1497.)
 
 [loweralpha, start=2]
 ... State of New Jersey
 
+[.text-justify]
 The State of New Jersey filed an objection and reservation of rights (“New Jersey Objection,” ECF Doc. # 1498). New Jersey asserts that Celsius operated in violation of the state’s securities laws by selling unregulated securities. It contends that any determination on the ownership of Earn Assets is premature while the Examiner completes her investigation, and that any determination of ownership should be made with the procedural safeguards present in an adversary proceeding. (New Jersey Objection at 2.) New Jersey takes the position that the Earn Assets are owned by Celsius’s customers. (Id.) To the extent the Court permits the sale of stablecoins, New Jersey requests that the proceeds be held in escrow subject to a determination of ownership and until after the Examiner providers her final report. (Id.)
 
 [loweralpha, start=3]
 ... State of Texas
 
+[.text-justify]
 The Texas State Securities Board and Department of Banking (collectively, “Texas”) objects to the Amended Motion because it asserts that the Debtors’ process for the Amended Motion is expedited, premature, and should be done through an adversary proceeding with the appropriate safeguards provided by the Bankruptcy Rules. (“Texas Objection,” ECF Doc. # 1496, ¶ 1.) Texas contends that a contract may not have been formed between the Debtors and its customers because the Debtors have not offered sufficient documentation to show that Account Holders actually agreed to the Terms of Use. (Id. ¶¶ 16–17.) Should the Court find that the stablecoins are property of the Estates, Texas objects to the use of any proceeds from a sale to pay administrative costs, and instead contends that proceeds should be held for the benefit of creditors and addressed through a confirmable reorganization plan or liquidation. (Id. ¶ 25.)
 
 [loweralpha, start=4]
 ... Coodinating States Objection
 
+[.text-justify]
 The States of Alabama, Arkansas, California, Hawaii, Idaho, Maine, North Dakota, Oklahoma, and South Carolina, and the District of Columbia (collectively, the “Coordinating States”) object to the Amended Motion (“Coordinating States Objection,” ECF Doc. # 1492). The Coordinating States assert that the Terms of Use have evolved over time, and it is not clear that customers really understood the nature of these changes. (Coordinating States Objection at 3.) The Coordinating States note that the Debtors are under investigation in several states for marketing securities without necessary registrations and without complying with state regulatory frameworks and federal law, and therefore the Debtors cannot rely on the arguably unlawful Terms of Use to determine the purported ownership of these assets and what rights they have in them. (Id.)
-
+[.text-justify]
 With respect to the language in the Terms of Use, the Coordinating States note that “loan” was used ubiquitously, and that the Terms of Use states that “you grant Celsius, . . . for the duration of the period during which the Eligible Digital Assets are loaned to us through your Celsius Account, all right and title to such Digital Assets, including ownership rights.” (Id. at 4 (emphasis added in the Coordinating States Objection).) The Coordinating States contend that Account Holders would not meaningfully understand the Terms of Use to be a transfer of ownership because customers could withdraw their assets without notice or conditions whenever and in the same form as the initial deposit. (Id. at 4–5.)
 Finally, the Coordinating States submit that an actual transfer of ownership would have constituted a taxable event, yet the Debtors paid no taxes on these transactions. (Id. at 4.) Washington joins in the Coordinating States Objection. (See Washington Joinder.)
 
 [numeric, start=4]
 .. [underline]#Creditor Responses#
 
+[.text-justify]
 The Court received over twenty responses from creditors, some pro se and some represented by counsel, objecting to the Amended Motion (collectively, “Creditor Responses”). A common objection is that the Terms of Use are ambiguous within the four corners of the document because the Terms of Use, despite the key transfer of title and ownership clause that the Debtors rely on, ubiquitously use the terms “loan” and “lending” to describe the transaction whereby Account Holders deposit assets into Earn Accounts.xref:celsius_footnote_4[*^(4)^*] Therefore, a layperson would understand the Terms of Use to leave title and ownership of Earn Assets to Account Holders while temporarily providing use of the assets to Celsius. (Id.)
-
+[.text-justify]
 Creditors also assert that Celsius’s statements on its website, social media, and particularly the statements of former Chief Executive Officer Alexander Mashinsky in his “Ask Mashinsky Anything” videos constituted an oral modification of the contract such that, notwithstanding the written Terms of Use, the transactions between the Account Holders and Debtors did not transfer title and ownership to the Earn Assets.xref:celsius_footnote_5[*^(5)^*]
-
+[.text-justify]
 Several creditors, in addition to the Coordinating States and Washington, contend that if Account Holders transferred title to their assets to Celsius then the transaction would have created a taxable event, yet Celsius did not pay taxes on these transactions or issue tax documents to Account Holders.xref:celsius_footnote_6[*^(6)^*] As a procedural matter, several creditors believe this issue should be handled via an adversary proceeding, rather than by motion practice.xref:celsius_footnote_7[*^(7)^*] Others submit that a decision determining Earn Asset ownership is premature at this stage of the Debtors’ bankruptcy proceedings because the Debtors’ business was a Ponzi scheme, which the Examiner’s forthcoming final report may demonstrate.xref:celsius_footnote_8[*^(8)^*] If so, they assert that the underlying contract formed by the Terms of Use is void as a matter of public policy. xref:celsius_footnote_9[*^(9)^*] Creditors state that a decision is also premature because the Debtors’ liquidity will not run out until March 2023.xref:celsius_footnote_10[*^(10)^*] Finally, some creditors believe that a decision at this stage is premature because the expedited schedule to determine ownership of the Earn Assets violated the creditors’ individual due process rights. xref:celsius_footnote_11[*^(11)^*]
 The Creditor Responses contend that they have several defenses to contract formation and modification that apply to creditors as a class, which render the contract void and unenforceable, including that (i) the contract lacked considerationxref:celsius_footnote_12[*^(12)^*]; (ii) the contract was unconscionable, because Celsius, a company with access to sophisticated legal advice, obtained title and ownership to significant assets of laypersons via a complex Terms of Use document and modifications theretoxref:celsius_footnote_13[*^(13)^*]; (iii) Celsius failed to uphold its fiduciary duties under the contract established by the Terms of Usexref:celsius_footnote_14[*^(14)^*]; (iv) Account Holders lacked the requisite intent to transfer ownershipxref:celsius_footnote_15[*^(15)^*]; (v) when Account Holders agreed to updated Terms of Use they may not have understood that they were agreeing to a contract and instead may have wanted to see the balance of their account(s)xref:celsius_footnote_16[*^(16)^*]; (vi) Celsius fraudulently misrepresented its product and finances, therefore the Account Holders should not be bound by the Terms of Usexref:celsius_footnote_17[*^(17)^*]; and (vii) Celsius operated illegally by violating the securities laws of several states.xref:celsius_footnote_18[*^(18)^*]
-
+[.text-justify]
 Finally, several responses raise breach of contract claimsxref:celsius_footnote_19[*^(19)^*], some of which raise individual contract claims regarding the creditor’s specific account circumstances.xref:celsius_footnote_20[*^(20)^*] Additional responses assert that Celsius commingled assets, therefore, there is no factual difference between Earn, Custody, and Withhold Accounts and this Amended Motion relies on a factually inaccurate premise (i.e., that the Earn Assets are legally different from the Custody and Withhold Assets).xref:celsius_footnote_21[*^(21)^*] At least one creditor argues that to the extent that Celsius issued withdrawals while it was insolvent, those transactions were funded by incoming deposits and were therefore fraudulent conveyances, which should be returned to the depositing Account Holder.xref:celsius_footnote_22[*^(22)^*]
 In addition to Creditor Responses, creditor Immanuel Herrmann submitted three letters signed by creditors. Four hundred fifty-two (452) creditors join the objections of creditors Eric Wohlwend and Rebecca Gallagher. (See “452 Creditor Joinder,” ECF Doc. # 1599, joining the Wohlwend Objection and Gallagher Objection.) Three hundred forty (340) creditors join the objection of Keith and Jennifer Ryals. (See “340 Creditor Joinder, ECF Doc. # 1602, joining Ryals Objection.) Three hundred ninety-seven (397) creditors signed a statement of dissatisfaction with the Committee Objection, asserting that the Committee, through its objection, abdicated its responsibility to represent creditors interests. (See “397 Creditor Statement,” ECF Doc. # 1559.) The 397 Creditor Statement also calls for the Court to add creditors to the Committee to better represent the interests of unsecured creditors. (Id.)
 
 [numeric, start=5]
 .. [underline]#The Debtors’ Reply#
 
+[.text-justify]
 On December 2, 2022 the Debtors filed the Debtors’ Reply and the Supplemental Blonstein Declaration, which substantially responded to the Committee Objection. The Debtors’ Reply maintains that a valid, enforceable contract was formed by the Terms of Use between Celsius and each Account Holder who accepted the Terms of Use (Debtors’ Reply ¶¶ 15–17), and that the Terms of Use unambiguously state that Earn Assets are the Debtors’ property and therefore became property of the Estates when the Debtors filed for bankruptcy (id. ¶¶ 18–19). Finally, the Debtors reassert that they may sell stablecoins in the ordinary course of business and, if the Court disagrees, that the Court should nonetheless approve the sale as an exercise of the Debtors’ sound business judgment. (Id. ¶¶ 21–23.)
 The Debtors rebut explicit and implicit statements by creditors regarding the Debtors’ motives (see, e.g., Debtors’ Reply ¶ 5) and reject certain creditors’ arguments that the Amended Motion is procedurally improper and should be addressed in an adversary proceeding. (Id. ¶ 24.) The Debtors reiterate that they seek a declaratory judgment establishing a presumption that each Account Holder is party to a binding contract with the Debtors, which presumption is rebuttable to the extent an Account Holder succeeds on an individual contract formation defense in the future. (Id. ¶ 25.)
 
@@ -193,187 +228,207 @@ The Debtors rebut explicit and implicit statements by creditors regarding the De
 [upperalpha]
 . *Property of the Bankruptcy Estate Under the Bankruptcy Code*
 
+[.text-justify]
 The Debtors contend that the Earn Assets are property of the Estates. Section 541 of the Bankruptcy Code provides, in relevant part, that: 
-[none]
+[none, role=text-justify]
 ** (a) The commencement of a case under section 301, 302, or 303 of this title creates an estate. Such estate is comprised of all the following property, wherever located and by whomever held:
-[none]
+[none, role=text-justify]
 *** (1) Except as provided in subsections (b) and (c)(2) of this section, all legal or equitable interests of the debtor in property as of the commencement of the case.
 
 11 U.S.C. § 541(a)(1).
 
+[.text-justify]
 The Estates therefore consist of “all legal or equitable interests of the debtor in property as of the commencement of the case.” In re Lehman Bros. Holdings. Inc., 422 B.R. 407, 418 (Bankr. S.D.N.Y. 2010) (emphasis removed) (citing 11 U.S.C. § 541(a)(1)).
-
+[.text-justify]
 Section 363(c)(1) of the Bankruptcy Code allows a debtor to enter certain transactions in the ordinary course of business, and provides:
 [none]
+[.text-justify]
 ** If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
 
 11 U.S.C. § 363(c)(1).
-
+[.text-justify]
 The Court may approve transactions which are not in the ordinary course of business if the debtor demonstrates a “sound business purpose” for the transaction. See 11 U.S.C. § 363(b)(1); Comm. of Equity Sec. Holders v. Lionel Corp. (In re Lionel Corp.), 722 F.2d 1063, 1071 (2d Cir. 1983) (holding that judicial approval under section 363 of the Bankruptcy Code requires a showing that there is a good business reason); see also In re Glob. Crossing Ltd., 295 B.R. 726, 743 (Bankr. S.D.N.Y. 2003) (same).
-
+[.text-justify]
 With respect to the procedural requirements governing disputes over estate property ownership, the Bankruptcy Rules do not require every declaratory action to be brought as an adversary proceeding, only those that relate to a subject that is already required to be brought as an adversary proceeding. FED. R. BANKR. P. 7001(9) (requiring an adversary proceeding for any matters “relating to any of the foregoing” issues described in sections 1–8 of Rule 7001xref:celsius_footnote_23[^*(23)*^] that must be brought as an adversary proceeding under this rule).
 
 [upperalpha, start=2]
 . *Elements of a Valid, Enforceable Contract*
 
+[.text-justify]
 The Terms of Use expressly provide that they are governed by New York law. (Terms Version 8 § 33.) No one argues to the contrary. The governing legal principles do not appear to vary substantially even if the law of other states applied. In the absence of any asserted conflict in legal rules, the Court can, in any event, apply New York law as the forum state law. See Paypolitan OU v. Marchesoni, 21-CV-5397 (RA) (RWL), at *8 n.6 (S.D.N.Y. Aug. 26, 2022); see also Aviles v. S&P Glob., Inc., 380 F. Supp. 3d 221, 307 (S.D.N.Y. 2019).
-
+[.text-justify]
 The Debtors assert that the Earn Assets are property of the Estates because the Terms of Use that Account Holders accepted constituted a valid, enforceable contract which accorded title to and ownership of the Earn Assets to the Debtors. A contract requires an offer and acceptance thereof (mutual assent), consideration, and an intent to be bound. See Register.com, Inc. v. Verio, Inc., 356 F.3d 393, 427 (2d Cir. 2004) (reciting the requirements for formation of a contract).
-
+[.text-justify]
 These requirements are not different for electronic contracts, and courts have adapted traditional principles of contract formation to fit the digital era. See id. at 403 (“While new commerce on the Internet has exposed courts to many new situations, it has not fundamentally changed the principles of contract.”); see, e.g., Berkson v. Gogo LLC, 97 F. Supp. 3d 359, 384–85 (E.D.N.Y. 2015) (“Most Americans now do some business over the Internet—whether making purchases or participating in a community at the pleasure of a forum host. When we do, we are almost always presented (clearly or opaquely) with contractual terms governing our use of the site. The studies conducted to date and their implications reinforce the need to reconsider principles underlying contract law, developed in an age of paper and orality.”) (internal citations omitted).
 
 [numeric, start=1]
 . [underline]#Mutual Assent (Offer and Acceptance)#
 
+[.text-justify]
 Traditionally, mutual assent was conceptualized as the culmination of a bargaining process, with an emphasis on both parties’ intent to be bound following an active negotiation of terms. Donald P. Harris, Trips and Treaties of Adhesion Part II: Back to the Past or a Small Step Forward?, 2007 Mich. St. L. Rev. 185, 191 (“Adhesion Contracts”) (“The exemplary contract is one between parties of relatively equal bargaining power, and achieved through a negotiation process that reflects this power balance.”) (citing E. Allan Farnsworth, Contracts § 4.26 (4th ed. 2004)).
-
+[.text-justify]
 Digital contracts between companies and consumers—here, Account Holders—often involve a fundamentally different process, where consumers’ participation is limited to deciding if they will participate. See Register.com, 356 F.3d at 403 (“It is standard contract doctrine that when a benefit is offered subject to stated conditions, and the offeree makes a decision to take the benefit with knowledge of the terms of the offer, the taking constitutes an acceptance of the terms, which accordingly become binding on the offeree.”); see also Adhesion Contracts at 192 (“The only alternative to complete adherence is outright rejection.”).
-
+[.text-justify]
 Given consumers’ passive role in negotiating many electronic contracts, the issue of mutual assent often turns on whether a consumer should have been aware that they were being bound by the relevant terms. See Meyer v. Uber Techs., Inc., 868 F.3d 66, 74–75 (2d Cir. 2017) (“Where there is no evidence that the offeree had actual notice of the terms of the agreement, the offeree will still be bound by the agreement if a reasonably prudent Account Holder would be on inquiry notice of the terms.”). To determine what a “reasonably prudent Account Holder” would have been aware of, courts generally evaluate the method of manifesting acceptance and the conspicuousness of the terms that were purportedly accepted. See Valelly v. Merrill Lynch, Pierce, Fenner & Smith Inc., 464 F. Supp. 3d 634, 640 (S.D.N.Y. 2020) (discussing the means for manifesting acceptance); Uber Techs., 868 F.3d at 75–78 (evaluating the conspicuousness of a Terms of Service hyperlink).
-
+[.text-justify]
 With respect to the first inquiry, courts have categorized electronic contracts based on the process for accepting their terms. The primary categories are (i) “scrollwrap” agreements, (ii) “clickwrap” agreements, and (iii) “browsewrap” agreements.xref:celsius_footnote_24[^*(24)*^] Under this framework, the Debtors’ Terms of Use are a “clickwrap” agreement, which require an Account Holder to manifest assent by clicking a button confirming that they accept the terms or a button that implies that they have accepted the terms, but do not necessarily require the Account Holder to actually view the terms. (Original Blonstein Declaration ¶ 18.) Clickwrap contracts are routinely enforced under New York law. Whit v. Prosper Funding LLC, No. 15-00136 (GHW), 2015 WL 4254062, at *4 (S.D.N.Y. July 14, 2015) (“In New York, clickwrap agreements are valid and enforceable contracts.”) (quoting Centrifugal Force, Inc. v. Softnet Commc’n, Inc., No. 08-05463 (CM), 2011 WL 744732, at *7 (S.D.N.Y. Mar. 1, 2011)).
-
+[.text-justify]
 The second, and closely related, aspect courts evaluate is how apparent it was that the contract’s terms would apply to the assenting party. The ultimate inquiry is “whether [a reasonable person] . . . would have known about the terms and the conduct that would be required to assent to them.” Uber Techs., 868 F.3d at 74–75. In making this determination, courts look to see if the terms were “reasonably conspicuous,” with an emphasis on considerations like the clutter on the page that contained the terms (or a link thereto), whether hyperlinks were in a different color or style of font, and the presence (or absence) of spatial and temporal coupling with acceptance. See, e.g., Uber Techs., 868 F.3d at 74–75 (“[T]he presentation of these terms at a place and time that the consumer will associate with the initial purchase or enrollment, or the use of, the goods or services from which the recipient benefits at least indicates to the consumer that he or she is taking such goods or employing such services subject to additional terms and conditions that may one day affect him or her.”)
 
 [numeric, start=2]
 . [underline]#Consideration#
 
+[.text-justify]
 A contract must also be supported by “consideration.” This requirement is not exacting—each party must simply receive “something of value.” Apfel v. Prudential-Bache Secs. Inc., 616 N.E.2d 1095, 1097 (N.Y. 1993) (observing that anything with “real value in the eye of the law” can serve as consideration) (quoting Mencher v. Weiss, 114 N.E.2d 177, 181 (N.Y. 1953)). Courts generally will not opine on the adequacy of consideration. Id. (“Absent fraud or unconscionability, the adequacy of consideration is not a proper subject for judicial scrutiny.”) (citations omitted).
 
 [numeric, start=3]
 . [underline]#Modification#
 
+[.text-justify]
 A contract that provides for modification may be modified and requires the same elements as an original contract formation. Janover v. Bernan Foods, Inc., 901 F. Supp. 695, 700 (S.D.N.Y. 1995) (“[T]here is no question that a contract may be modified if the contract provides for its modification.”); Ward v. TheLadders.com, Inc., 3 F. Supp. 3d 151, 159 (S.D.N.Y. 2014) (stating that modification of a contract requires the same elements as contract formation).xref:celsius_footnote_25[^*(25)*^] Under New York law, “[i]n general . . . a written agreement that expressly states it can be modified in writing cannot be modified orally.” Towers Charter & Marine Corp. v. Cadillac Ins. Co., 894 F.2d 516, 522 (2d Cir. 1990) (applying New York state law). The party seeking to enforce an alleged contract bears the burden of establishing the contract to be enforced. See Paz v. Singer Co., 542 N.Y.S.2d 10, 11 (App. Div. 1st Dep’t 1989) (“It is black letter law that the burden of proving the existence, terms and validity of a contract rests on the party seeking to enforce it.”).
 
+[.text-justify]
 With respect to consideration in the context of a contract modification, a service provider’s notice of a change to the terms of service and a customer’s choice to continue using the service is valid consideration. See Byrne v. Charter Commc’ns, 581 F. Supp. 3d 409, 419 (D. Conn. 2022) (“[T]he service provider is required to provide notice of the intended change [to the terms], and the customer has the choice of accepting the new arrangement or ceasing to use the services, and these respective promises by the parties together are sufficient to constitute valid consideration.”) (citing Iberia Credit Bureau, Inc. v. Cingular Wireless LLC, 379 F.3d 159 (5th Cir. 2004)).
 
 [upperalpha, start=3]
 . *Contract Interpretation*
 
+[.text-justify]
 Under New York law, when a contract’s terms are unambiguous, courts must apply them as written. In re Enron Corp., 292 B.R. 752, 762 (Bankr. S.D.N.Y. 2003) (“If the contract language is ‘unambiguous,’ this Court must enforce the plain, ordinary, and common meaning of those terms as a matter of law without reference to extrinsic evidence.”). Extrinsic evidence of the parties’ intent may be considered only if the agreement is ambiguous. See, e.g., W.W.W. Assoc. v Giancontieri, 77 N.Y.2d 157, 162 (1990).
-
+[.text-justify]
 A contract is unambiguous if “on its face [it] is reasonably susceptible of only one meaning.” Greenfield v. Philles Records, 98 N.Y.2d 562, 570 (2002). Extrinsic evidence cannot be used to create an ambiguity where the words of the parties’ agreement are otherwise clear and unambiguous. Innophos, Inc. v Rhodia, S.A., 38 A.D.3d 368, 369 (1st Dept. 2007), aff’d, 10 N.Y.3d 25 (2008). Conversely, “[a] contract is ambiguous if the provisions in controversy are reasonably or fairly susceptible of different interpretations or may have two or more different meanings.” New York City Off-Track Betting Corp. v. Safe Factory Outlet, Inc., 28 A.D.3d 175, 177 (1st Dept. 2006) (internal quotation marks and citation omitted).
 
 [upperroman, start=3]
 [.text-center]
 . [underline]#*DISCUSSION*#
 
+[.text-justify]
 The issues before the Court are (a) whether the Terms of Use are a contract by which complete title and ownership of Earn Assets transferred from Account Holders to Celsius when the Account Holders deposited cryptocurrency in their Earn Accounts; and (b) if so, whether the Debtors may sell stablecoins in the ordinary course of business or outside the ordinary course of business.
-
+[.text-justify]
 For the reasons detailed below, the Court finds, on the evidence before it, that the Terms of Use formed a valid, enforceable contract between the Debtors and Account Holders, and that the Terms unambiguously transfer title and ownership of Earn Assets deposited into Earn Accounts from Accounts Holders to the Debtors. The Court also finds that stablecoins, like other Earn Assets, are property of the Estates and the Debtors may sell the stablecoins outside of the ordinary course of business to provide liquidity for these Chapter 11 proceedings.
-
+[.text-justify]
 To be clear, this finding does not mean holders of Earn Assets will get nothing from the Debtors.xref:celsius_footnote_26[*^(26)^*] Account Holders have unsecured claims against the Debtors in dollars or in kind (depending on the terms of any confirmed plan). The amount of allowed unsecured claims is subject to later determination in this case (through the claims allowance process) and may potentially include damages asserted by Account Holders, including breach of contract, fraud or other theories of liability.
-
+[.text-justify]
 The Court has read every submission filed in connection with the Amended Motion and appreciates the significant time and effort that creditors, regulators and other parties in interest have undertaken on these very important issues. But based on the unambiguous contract terms, subject to any reserved defenses, the Court finds and concludes that the cryptocurrency assets deposited in Earn Accounts are presumptively property of the estate and not property of the Account Holders.
-
+[.text-justify]
 Based on the limited scope of findings sought by the Amended Motion,xref:celsius_footnote_27[*^(27)^*] the Court’s decision does not determine the ownership of assets in the Debtors’ Custody Program, Withhold Accounts, or Borrow Program or whether any individual Account Holder has valid defenses to the contract between Account Holders and the Debtors. The Court’s findings also do not decide the rights of any state or state agencies regarding whether Celsius violated state securities laws by marketing unregistered securities.xref:celsius_footnote_28[*^(28)^*]
 
 [upperalpha]
 . *Ownership of Earn Assets*
 
+[.text-justify]
 Determining ownership of the Earn Assets requires a two-step inquiry regarding (i) whether the Terms of Use formed a valid, enforceable contract between the Debtors and each Account Holder who accepted the Terms of Use, including whether subsequent versions of the Terms of Use constitute a valid, enforceable modification of a contract; and (ii) if the answer to the former questions is in the affirmative, whether the Terms of Use unambiguously transferred title and ownership of Earn Assets from Account Holders to the Debtors when Account Holders deposited their assets into the Earn Program.
 
 [numeric]
 . [underline]#The Terms of Use Formed a Valid, Enforceable Contract#
 
+[.text-justify]
 A valid, enforceable contract requires mutual assent (i.e., one party makes an offer and the other party accepts the offer), consideration (i.e., each party exchanges a service or good), and intent to be bound (i.e., both parties intended to enter into the contract). See Register.com, Inc., 356 F.3d at 427. Accounts Holders entered a contract with the Debtors governed by the Terms of Use through a “clickwrap” agreement (see, e.g., Original Blonstein Declaration ¶ 18), which requires a user to manifest assent by clicking a button confirming that they accept the terms, or a button that implies that they have accepted the terms, but do not necessarily require the user to view the terms.
-
+[.text-justify]
 Exhibits to the Supplemental Blonstein Declaration provide screen captures of the sign-up process for users who signed up via the website, for all Terms of Use versions, and the mobile app for the effective period of Terms Versions 5 through 8. (Supplemental Blonstein Declaration, Exhibits A–E.) The Supplemental Blonstein Declaration explains that applicants could not advance to the next page and complete sign up unless they agreed to the Terms of Use. (Id. ¶ 6.)
-
+[.text-justify]
 New York Courts overwhelmingly accept “clickwrap” agreements as sufficient to constitute mutual assent. Uber Techs., 868 F.3d at 75 (“Courts routinely uphold clickwrap agreements for the principal reason that the Account Holder has affirmatively assented to the terms of agreement by clicking ‘I agree.’”). The Restatement (Second) of Contracts further supports the validity and enforceability of a clickwrap contract in Comment B, “Assent to known terms,” where it recognizes the common knowledge that many users never read the full terms of a clickwrap agreement before checking an “agree” box. Restatement (Second) of Contracts, § 211 cmt. b. It explains, in relevant part:
 [none]
+[.text-justify]
 ** Customers do not in fact ordinarily understand or even read the standard terms. They trust to the good faith of the party using the form and to the tacit representation that like terms are being accepted regularly by others similarly situated. But they understand that they are assenting to the terms not read or not understood, subject to such limitations as the law may impose.
 
 (Id. (emphasis added).)
-
+[.text-justify]
 Here, the Original Blonstein Declaration provides testimony demonstrating that 99% of Account Holders completed this sign-up process and affirmatively assented to the contract terms contained in the Terms of Use effective at the time of sign-up. (Original Blonstein Declaration ¶ 14.)xref:celsius_footnote_29[*^(29)^*] The Court finds that Account Holders understood that they were assenting to a contract governed by the Terms of Use even if the Account Holders chose to read some or none of the provisions. The Court empathizes with the frustrations Account Holders may feel if they did not read or understand the specific terms of the Terms of Use. Frankly, though, the rules provide needed certainty and predictability required for modern commerce in the digital era. The law in the Second Circuit is clear that clickwrap contracts such as the Terms of Use are valid and binding. The Debtors have sufficiently shown the mutual assent element of contract formation.
-
+[.text-justify]
 With respect to consideration, the Terms of Use clearly spell out the “benefit of the bargain”: “Our Earn Service allows you to earn a financing fee from Celsius, referred to as ‘Rewards,’ in the form of Digital Assets . . . in exchange for entering into open-ended loans of your Eligible Digital Assets to Celsius under the terms hereof.” (Terms Version 8 § 4.D.) The Ryals Objection argues that the Debtors’ consideration is illusory because the Terms of Use allow the Debtors to opt-out of fulfilling their end of the bargain.xref:celsius_footnote_30[*^(30)^*] However, the Debtors put forth evidence that the Debtors’ consideration was the payment of proceeds from Earn Assets to Account Holders as “rewards.”xref:celsius_footnote_31[*^(31)^*] The Ryals Objection concedes that the Debtors fulfilled this promise (Ryals Objection ¶ 15), and no party submits evidence that the Debtors did not do so.
-
+[.text-justify]
 Nor does any party provide evidence that Celsius and its Account Holders, as a class or as an individual, lacked intent to be bound by the contract terms. Certain Creditor Responses argue that the Account Holders did not intend certain effects of the contract,xref:celsius_footnote_32[*^(32)^*] but no objection argues that all Account Holders lacked intent to enter a contract governed by the Terms of Use. Moreover, many responses to the Amended Motion attempt to hold Celsius to a different reading of the contract terms, i.e., that Account Holders retained title of Earn Assets under the Terms of Use. That certain Account Holders disagree with the Debtors’ reading of the Terms of Use is a contract interpretation issue discussed infra at III.A.3.
-
+[.text-justify]
 For the foregoing reasons, the Debtors have convincingly argued that the three elements required to form a valid, enforceable contract were satisfied by the Account Holders’ acceptance of the Terms of Use via the clickwrap agreement.
 
 [numeric, start=2]
 . [underline]#Updated Terms of Use Constituted Valid, Enforceable Contract Modifications#
 
+[.text-justify]
 Modification to a contract requires the same elements—mutual assent, consideration, and intent to be bound—that are required to form an original contract. Each version of the Terms of Use allowed the Debtors’ modification of the contract terms and provided that the Account Holders’ continued use of the platform following an update constituted consent to the updated Terms of Use.xref:celsius_footnote_33[*^(33)^*]
-
+[.text-justify]
 The Terms of Use, beginning with Terms Version 1, provide that (i) the Debtors can unilaterally modify the Terms of Use without notice and (ii) the Account Holders’ continued use of the platform following an update constitutes consent to the amended Terms of Use. (See “Terms Affidavit Modification Provisions,” Terms Affidavit Ex. A-1 at “Changes to Terms,” Ex. A-2 § 31, Ex. A-3 § 32, Ex. A-4 § 32, Ex. A-5 § 32, Ex. A-6 § 31, Ex. A-7 § 31, and Ex. A-8 § 31.) The Terms Affidavit and Original Blonstein Declaration provide evidence that the Debtors could modify the contract and that Account Holders’ continued use of the platform constituted acceptance of the updated Terms of Use, even if the Account Holders did not affirmatively accept the updated terms. (See id.; Original Blonstein Declaration ¶ 15.)
-
+[.text-justify]
 Notwithstanding the language in the Terms of Use permitting modification by the Debtors, the Debtors specifically required all Account Holders to affirmatively accept Terms Version 6, thus replacing the existing contract for any Account Holders who opened an account before Terms Version 6 became effective. (See Original Blonstein Declaration ¶ 16). The Supplemental Blonstein Declaration provides evidence showing the affirmative consent that Celsius required Account Holders to give to continue using the platform when Terms Version 6 became effective, as well as the communications distributed for the updates to Terms Versions 7 and 8. (Supplemental Blonstein Declaration ¶¶ 4–15, Ex. F, G.)
-
+[.text-justify]
 Acceptance of Terms Version 6 occurred on the Debtors’ platform. (See Original Blonstein Declaration ¶ 18.) Regardless of whether an Account Holder accessed the platform from a mobile device or a computer, an in-application pop-up window appeared, stating in large letters: “We have updated our Terms.” (See Id. ¶ 18, Exhibit C.) The pop-up then noted that “[i]t’s tempting to skip reading Terms, but it’s important to establish what you can expect from continuing using our product. These are not all of the changes, please read the updated Terms in full.” (See id.) This text was followed by a few bullets highlighting key changes and a hyperlink reading “Read the full Terms,” which linked to the full Terms of Use. (Id.) Below the hyperlink, the pop-up contained three check boxes adjacent to statements, one of which was “I have read and agree to the new Terms.” (Id.) In addition, the acceptance button itself included the word “Agree.” (Id.)
-
+[.text-justify]
 This process requires an Account Holder to view a pop-up stressing the importance of reading the updated Terms of Use and required two clicks (one check box, one “Accept”). The pop-ups contained hyperlinks to read the updated Terms of Use, and Account Holders were informed of the impact of declining the updated Terms of Use. The pop-ups appear clean and compact, and contained pertinent information in close proximity with a clearly-bounded or full-screen window. Together, these characteristics meet the standard for “clear and conspicuous.” See, e.g., Uber Techs., 868 F.3d at 74–75 (“[T]he presentation of these terms at a place and time that the consumer will associate with the initial purchase or enrollment, or the use of, the goods or services from which the recipient benefits at least indicates to the consumer that he or she is taking such goods or employing such services subject to additional terms and conditions that may one day affect him or her.” (internal citations omitted)).
-
+[.text-justify]
 If an Account Holder did not affirmatively accept the updated Terms Version 6 within two weeks, the Account Holder’s account was suspended until such time as the Account Holder affirmatively accepted the latest version of the Terms of Use. (Id. ¶ 18.)
-
-It is not until Terms Version 8 that the Terms of Use provide for modification in writing. (Id., Ex. A-8, “Introduction.”) Therefore, as certain of the Creditor Responses correctly point out, the evidence does not support Debtors’ argument that the Terms of Use provided for modification in writing, therefore prohibiting oral modification as a matter of law. (See Amended Motion ¶ 47 (“Under New York law, ‘[i]n general . . . a written agreement that expressly states it can be modified in writing cannot be modified orally.’” Towers Charter & Marine Corp. v. Cadillac Ins. Co., 894 F.2d 516, 522 (2d Cir. 1990).) Nonetheless, because modifications to a contract require the same three elements as an original contract, the modifications alleged by the Creditor Responses lack evidence.
-
+[.text-justify]
+It is not until Terms Version 8 that the Terms of Use provide for modification in writing. (Id., Ex. A-8, “Introduction.”) Therefore, as certain of the Creditor Responses correctly point out, the evidence does not support Debtors’ argument that the Terms of Use provided for modification in writing, therefore prohibiting oral modification as a matter of law. (See Amended Motion ¶ 47 “Under New York law, ‘[i]n general . . . a written agreement that expressly states it can be modified in writing cannot be modified orally.’” Towers Charter & Marine Corp. v. Cadillac Ins. Co., 894 F.2d 516, 522 (2d Cir. 1990).) Nonetheless, because modifications to a contract require the same three elements as an original contract, the modifications alleged by the Creditor Responses lack evidence.
+[.text-justify]
 Multiple Creditor Responses argue that the Debtors modified the Terms of Use through advertisements, media uploaded to Celsius’s social media channels, and the oral statements of Alex Mashinsky. (See, e.g. Gallagher Objection at 6.) As a threshold matter, this media was not submitted to the Court as evidence and the Court may consider only evidence admitted into the record. The Court provided a chance for objectors to submit evidence. None did.xref:celsius_footnote_34[*^(34)^*] Even if this media was submitted as evidence, advertisements and other statements like those identified by certain creditors generally do not constitute offers, and an offer is a necessary predicate for any “amendment” to the Terms of Use.xref:celsius_footnote_35[*^(35)^*] See Leonard v. Pepsico, Inc., 88 F. Supp. 2d 116, 122–24 (S.D.N.Y. 1999), aff’d, 210 F.3d 88 (2d Cir. 2000) (“The general rule is that an advertisement does not constitute an offer.”) (internal quotation marks omitted). No Creditor Response asserts that this media satisfied the three elements of contract formation or modification—these responses hew closer to contract interpretation, rather than modification, arguments.
-
+[.text-justify]
 The Court concludes that updates to the Terms of Use constituted valid modifications of the contract that an Account Holder entered when they created an account with Celsius.
 
 [numeric, start=3]
 . [underline]#The Terms of Use Unambiguously Transfer Ownership of Earn Assets to the Debtors#
 
+[.text-justify]
 Having established that a valid contract was formed between the Debtors and its Account Holders, the Court’s next inquiry is if the Terms of Use are unambiguous with respect to whether Account Holders retained ownership or transferred ownership of cryptocurrency assets by depositing the assets into Earn Accounts. A contract is unambiguous if “on its face [it] is reasonably susceptible of only one meaning.” Greenfield v. Philles Records, 98 N.Y.2d 562, 570 (2002). Under New York Law, contracts are interpreted and enforced in accordance with their plain meaning and their clear and unambiguous terms. In re Condado Plaza Acquisition LLC, 620 B.R. 820, 831 (Bankr. S.D.N.Y. 2020); In re Lehman Bros. Holdings Inc., 439 B.R. 811, 825 (Bankr. S.D.N.Y. 2010) (“[T]he ultimate objective in interpreting an agreement is to determine “the intention of the parties as derived from the language employed.”) (quoting Tom Doherty Assocs. Inc. v. Saban Entm’t Inc., 869 F. Supp. 1130, 1137 (S.D.N.Y. 1994)).
-
+[.text-justify]
 Terms Version 1 does not contain any clauses regarding Celsius taking rights of ownership upon deposit of Earn Assets. (See generally Terms Affidavit, Ex. A-1.) Terms Versions 2–4 contains the following text that discusses ownership, but not transfer of title:
 [none]
+[.text-justify]
 ** In consideration for the rewards earned on your Account and the use of our Services, you grant Celsius the right, subject to applicable law, without further notice to you, to hold the Digital Assets available in your account in Celsius’ name or in another name, and to pledge, re-pledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer or use any amount of such Digital Assets, separately or together with other property, with all attendant rights of ownership . . . . You acknowledge that with respect to assets used by Celsius pursuant to this paragraph.
 (i) You may not be able to exercise certain rights of ownership.
 
 (Terms Affidavit, Ex. A-4 § 14.)
-
+[.text-justify]
 Terms Version 5 introduced the transfer of title clause that has been the subject of scrutiny in this matter. Every version of the Terms of Use beginning with Terms Version 5 includes a clause that Account Holders “grant Celsius . . . all right and title to such Digital Assets, including ownership rights” (the “Transfer of Title Clause”). (Terms Affidavit, Ex. A-5 § 14, A-6 § 13, A-7 § 13, A-8 § 13.) Account Holders who agreed to Terms of Use Version 5 or later, whether by signing up for the first time or by continuing to use the platform with an existing account, entered a contract which contained unambiguous and clear language regarding transfer of title and ownership of assets in Earn Accounts. At the hearing on this matter, Blonstein testified that 90% of Account Holders representing 99% of Earn Assets had assented to Terms Version 6 or later. (December 5, 2022 H’rg Tr. 103:3–7.) Thus, the Court finds that title to and ownership of all Earn Assets unequivocally transferred to the Debtors and became property of the Estates on the Petition Date.
-
+[.text-justify]
 The crux of many objections to the Amended Motion is that Celsius’s ubiquitous use of the word “loan,” “lending,” and other variations sits in direct conflict with the singular clause transferring all title and rights of ownership to the Debtors. These responses argue that this creates an ambiguity within the four corners of the contract. But the use of the term “loan,” or variations of that term, do not contradict transfer of ownership of cryptocurrency assets to Celsius. The Account Holders argue that a layperson’s understanding of the term “loan” means the Account Holder retains ownership of their Earn Assets but temporarily allows the use of the assets by the Debtors
 xref:celsius_footnote_36[*^(36)^*] — but the Court cannot ignore the plain and clear language in the Transfer of Title Clause.
-
+[.text-justify]
 Further, even if the Court found that Account Holders loaned digital assets to Celsius, Account Holders would still be unsecured creditors. It is blackletter law that a loan of money or property to another creates a debtor-creditor relationship. In re Masterwear Corp., 229 B.R. 301, 310 (Bankr. S.D.N.Y. 1999) (“Under New York law, a bank and its depositor stand in a debtor-creditor relationship that is contractual in nature. The bank owns the deposit, the depositor has a claim to payment against the bank, and the bank has a corresponding obligation to pay its depositor. Accordingly, a bank’s temporary freeze of an account, without more, is ‘neither a taking of possession of [the depositor’s] property nor an exercising of control over it, but merely a refusal to perform its promise.’”) (internal citations omitted). And absent a perfected security interest in tangible or intangible property, in the event of the debtor’s bankruptcy, the creditor holds only an unsecured claim. See In re Motors Liquidation Company, 430 B.R. 65, 96 (S.D.N.Y. 2010) (“Indeed, by definition, an unsecured creditor has no particularized property interest in the Debtors’ estates.”); see also 4 COLLIER ON BANKRUPTCY ¶ 506.03[1] (16th ed. 2022) (“As a threshold matter, a claim cannot be a “secured claim” for purposes of section 506(a) unless it is secured by a “lien” on some specific item of property in which the estate has an interest, or, alternatively, is a claim that is subject to a right of setoff.”).
 [none]
 ** But, more importantly:
 [none]
+[.text-justify]
 *** By current definition, cryptocurrency is not money because it is not a medium of exchange created, authorized, or adopted by a domestic or foreign government, or by an intergovernmental organization or by agreement between two or more countries. Moreover, since cryptocurrency, NFTs and other digital assets are intangible and therefore not capable of possession, a security interest currently can be perfected only by the filing of a financing statement in the digital asset as a general intangible.
 
 Lorraine S. McGowen, TRANSFERRING DIGITAL ASSETS (INCLUDING CRYPTOCURRENCIES)
-
+[.text-justify]
 UNDER PROPOSED AMENDMENTS TO THE UNIFORM COMMERCIAL CODE, The Quarterly Journal of INSOL International, 4TH Quarter 2022, at 16 (discussing proposed amendments to the Uniform Commercial Code, creating a new Chapter 12 to govern the transfer (whether as a sale or as a financing) of digital assets, including cryptocurrency, digital tokens and non-fungible tokens).
-
+[.text-justify]
 Thus, even if the parties’ contract purports to provide the creditor with a security interest in property, unless the security interest is perfected under applicable non-bankruptcy law, a trustee can assert strong-arm power under section 544(a) of the Bankruptcy Code to avoid the lien. 11 U.S.C. § 544(a). See also In re Castle Ventures, Ltd., 167 B.R. 758, 765 (Bankr. E.D.N.Y. 1994) (“However, section 544(a) of the Code, also referred to as the ‘strong arm’ clause, allows a trustee in bankruptcy to avoid liens and security interests against the debtor’s estate which were not properly perfected under state law prior to the debtor’s bankruptcy filing.”).
-
+[.text-justify]
 Here, the language in the Terms of Use transferring all ownership interest to Celsius in the cryptocurrency assets deposited in the Earn Accounts makes it very clear that no ownership interest or lien in favor of the Account Holders was intended. xref:celsius_footnote_37[*^(37)^*] And certainly no lien in favor of the Account Holders was perfected. U.S. v. Joyeros, 410 F. Supp. 2d 121, 125 (E.D.N.Y. 2006) (“General, unsecured creditors lack a particularized interest in specific assets. [A]lthough general creditors can claim an interest in their debtors’ estates, they cannot claim an interest in any particular asset that makes up that estate.” (internal citation omitted) (emphasis added)); see also In re Castle Ventures, Ltd., 167 B.R. at 765 (“If an unperfected security interest is avoided by the trustee, the secured creditor loses the lien and is reduced to the status of a general unsecured creditor.”).
-
+[.text-justify]
 To read the Terms of Use such that “loan” overrides the unequivocal language transferring title and ownership of assets deposited into Earn Accounts to Celsius would be to read the Transfer of Title Clause out of the contract entirely. As the Committee notes, “it is a bedrock principle of contract interpretation that courts should not adopt an interpretation of a contract that has the effect of rendering at least one clause superfluous or meaningless, but rather, to the extent possible, should seek to read contractual provisions in harmony.” (Committee Objection ¶ 6.)
-
+[.text-justify]
 The Court can read “lend” in harmony with the Transfer of Title Clause, and the transfer of title and the creation of a loan are not mutually exclusive concepts. As an example, the Committee notes that, in the securities context, it is common for a loan of securities to a broker to also constitute a transfer of title thereto (or the incidents of ownership thereof) so that the broker can sell, lend, hypothecate, or rehypothecate the securities. (Committee Objection ¶ 6.) In that instance, title to the securities is transferred to the securities broker, and the securities broker has a contractual obligation to return equivalent securities (but not the exact same securities) to the initial transferor. (Id.)
-
+[.text-justify]
 Therefore, notwithstanding the frequent use of the word “loan” in the Terms of Use and the colloquial interpretation of a “loan” as a transaction in which the entity making the loan (here, the Account Holder) retains ownership over the asset being loaned (here, the cryptocurrency), the Terms Versions 5 and later are consistent and clear: Account Holders granted Celsius “all right and title to such Eligible Digital Assets, including ownership rights.” (Terms § 13.)
 
 [upperalpha, start=2]
 . *Creditors’ Rights with Respect to Defenses to Contract Formation and Breach of Contract Claims are Reserved for the Claims Resolution Process*
 
+[.text-justify]
 Many of the Creditors’ Responses consist of (i) contract interpretation arguments that rely on extrinsic evidence,xref:celsius_footnote_38[^*(38)*^] which, as discussed supra at II.C., the Court may not consider; or (ii) individual circumstances that present colorable contract defense claims that may have merit in the claims resolution process, but do not bear on the question of title and ownership presented in the Amended Motion. Even valid contract defenses would not necessarily give rise to Account Holders claims to ownership of the cryptocurrency assets they deposited.
-
+[.text-justify]
 A common concern raised by Creditor Responses is that statements by former Celsius CEO, Alex Mashinsky, influenced Account Holder decisions to join Celsius, keep coins on Celsius’s platform, and deposit additional assets. State responses further note that Celsius may have violated state securities laws, rendering the entire contract void for all Account Holders. These parties could have colorable defenses to contract formation as individuals and as a group.
-
+[.text-justify]
 The Court takes seriously potential violations of state law and non-bankruptcy federal law, as well as the litany of allegations including, but not limited to, fraudulent inducement into the contract, fraudulent conveyance, breach of contract, and that the contract was unconscionable. These allegations may (or may not) have merit, and the creditors’ rights with respect to such claims are explicitly reserved for the claims resolution process. But importantly, as a prerequisite to those claims, the Court first must establish that a contract was formed and must interpret the contract terms. In other words, a hypothetical determination that the Debtors breached the contract with an account holder or that Alex Mashinsky’s statements fraudulently induced a creditor to open an account requires a preliminary finding that there was a contract between Celsius and the Account Holders and a determination of each party’s rights and obligations under this contract. The Court makes that finding here. Specifically, the Court finds that there was a valid contract between Celsius Account Holders and Celsius and that the contract terms unambiguously transferred all right and title of digital assets to Celsius.
 
 [upperalpha, start=3]
 . *Stablecoins May Be Sold as an Approved Transaction Outside of the Ordinary Course of Business*
 
+[.text-justify]
 Because the Court finds that Earn Assets are property of the Estates, it follows that stablecoins, as a type of cryptocurrency among Earn Assets, also belong to the Estates. The Debtors seek to sell stablecoins in the ordinary course of business. The “ordinary course of business” standard was intended to allow a debtor in possession the flexibility required to run its business. See In re Roth Am., Inc., 975 F.2d 949, 952 (3d Cir. 1992) (“The framework of section 363 is designed to allow a trustee (or debtor-in- possession) the flexibility to engage in ordinary transactions without unnecessary creditor and bankruptcy court oversight.”). “Ordinary course of business” is not defined within the Bankruptcy Code.
-
+[.text-justify]
 In contrast, the Court may approve transactions which are not in the ordinary course of business if the debtor demonstrates a “sound business purpose” for the transaction. See 11 U.S.C. § 363(b)(1). It is unnecessary here to determine whether the sale of stablecoins will be in the ordinary course of business—particularly, now, that Celsius may not have any ordinary course of business. The Court finds that the Debtors have shown sufficient cause to permit the sale of stablecoins outside of the ordinary course of business and need not reach the question of whether the Debtors have shown that such a transaction is within the ordinary course of business.
-
+[.text-justify]
 A rare point of agreement among all parties is that the Debtors’ liquidity is precipitously running out.xref:celsius_footnote_39[^*(39)*^] The Debtors need to generate liquidity to fund these Chapter 11 cases and continue down the path either of a standalone plan reorganization, a section 363(b) sale, or even a liquidation plan. The Debtors project that additional liquidity will be needed in early 2023. The Debtors demonstrate a sound business justification for selling stablecoins, and the Court agrees that it is appropriate to grants authority to do so.
 
 [upperroman, start=4]
 [.text-center]
 . [underline]#*CONCLUSION*#
 
+[.text-justify]
 For the foregoing reasons, the Court finds that Earn Assets in Earn Accounts constitute property of the Estates, and that the Debtors may sell stablecoins outside of the ordinary course of business. The Court does not take lightly the consequences of this decision on ordinary individuals, many of whom deposited significant savings into the Celsius platform. As has been said repeatedly in this opinion, creditor’s rights with respect to various defense to and breach of contract claims are reserved. Creditors will have every opportunity to have a full hearing on the merits of these arguments during the claims resolution process.
 
 [cols="1a,1a", width=100%, frame=none, grid=none]
@@ -398,21 +453,30 @@ Chief United States Bankruptcy Judge
 
 [underline]#*Footnotes*#
 
+
 [[celsius_footnote_1]]
+[.text-justify]
 [1] Numerous pro se creditors made or joined in objections. The names of these creditors are identified in footnotes 4, 6, 8, 11, 14, 18, 20, and 22.
 [[celsius_footnote_2]]
+[.text-justify]
 [2] Amended Motion for Entry of an Order (I) Establishing Ownership of Assets in the Debtors’ Earn Program, (ii) Permitting the Sale of Stablecoin in the Ordinary Course and (iii) Granting Related Relief (“Amended Motion,” ECF Doc. # 1325).
 [[celsius_footnote_3]]
+[.text-justify]
 [3] On August 18, 2022, the United States Trustee filed a Motion for Entry of an Order Directing the Appointment of an Examiner. (ECF Doc. # 546.) On September 14, 2022, this Court entered an order directing the United States Trustee to appoint an examiner. (ECF Doc. # 820.) On September 29, 2022, the United States Trustee filed a Notice of Appointment. (ECF Doc. # 920.) That same day, this Court entered an order appointing an Examiner. (ECF Doc. # 923.)
 [[celsius_footnote_4]]
+[.text-justify]
 [4] “Gallagher Objection,” ECF Doc. # 1416; Wohlwend Objection; “Little Objection,” ECF Doc. # 1463; “Flora Objection,” ECF Doc. # 1464; “Saraiva Objection,” ECF Doc. # 1485; “Breher Joinder,” ECF Doc. # 1486; “Ryals Objection,” ECF Doc. # 1490; “McLean Objection,” ECF Doc. # 1491; Tornetta Joinder; “Hoffing Objection,” ECF Doc. # 1506; “Pinto Joinder,” ECF Doc. # 1499; “Herrmann Omnibus Objection,” ECF Doc. # 1519; Frishberg Joinder; “Steadman Joinder,” ECF Doc. # 1537; “Flora Joinder,” ECF Doc. # 1538; “Jelbert Objection,” ECF Doc. # 1545 (the Jelbert Objection was untimely).
 [[celsius_footnote_5]]
+[.text-justify]
 [5] Gallagher Objection; Saraiva Objection; Ryals Objection; McLean Objection; Tornetta Joinder; Pinto Joinder; Frishberg Joinder; Steadman Joinder; Flora Joinder.
 [[celsius_footnote_6]]
+[.text-justify]
 [6] Wohlwend Objection; Saraiva Objection; Breher Joinder; Tornetta Joinder; Pinto Joinder, “Georgiou Objection,” ECF Doc. # 1517; Herrmann Omnibus Objection; Frishberg Joinder.
 [[celsius_footnote_7]]
+[.text-justify]
 [7] Saraiva Objection; Tornetta Joinder; Pinto Joinder; Frishberg Joinder.
 [[celsius_footnote_8]]
+[.text-justify]
 [8] “Tuganov Objection,” ECF Doc. # 1495; Herrmann Omnibus Objection.
 [[celsius_footnote_9]]
 [9] Id.
@@ -421,8 +485,10 @@ Chief United States Bankruptcy Judge
 [[celsius_footnote_11]]
 [11] “Frishberg Objection,” ECF Doc. # 1400.
 [[celsius_footnote_12]]
+[.text-justify]
 [12] Ryals Objection; McLean Objection; Tornetta Joinder; Pinto Joinder; Frishberg Joinder; Steadman Joinder; Flora Joinder.
 [[celsius_footnote_13]]
+[.text-justify]
 [13] Ryals Objection; McLean Objection; Tornetta Joinder; Pinto Joinder; Herrmann Omnibus Objection; Frishberg Joinder; Steadman Joinder; Flora Joinder.
 [[celsius_footnote_14]]
 [14] “Medley Objection,” ECF Doc. # 1507.
@@ -433,59 +499,102 @@ Chief United States Bankruptcy Judge
 [[celsius_footnote_17]]
 [17] Gallagher Objection.
 [[celsius_footnote_18]]
+[.text-justify]
 [18] Gallagher Objection; Little Objection; Saraiva Objection; Ryals Objection, McLean Objection; Tornetta Joinder; Pinto Joinder; “Altunbay Objection,” ECF Doc. # 1511; Frishberg Joinder; “Ubierna Objection,” ECF Doc. # 1535; Steadman Joinder; Flora Joinder.
 [[celsius_footnote_19]]
 [19] Frishberg Objection; Saraiva Objection; Pinto Joinder.
 [[celsius_footnote_20]]
+[.text-justify]
 [20] See, e.g., Medley Objection; Altunbay Objection (asserting that the “clickwrap” style agreement is not enforceable because it was not in the Account Holder’s native language, therefore the Account Holder could not fully understand the terms); “Romauld Objection,” ECF Doc. # 1554 (same) (this objection was untimely); Georgiou Objection; Ubierna Objection.
 [[celsius_footnote_21]]
 [21] Altunbay Objection.
 [[celsius_footnote_22]]
 [22] “Crews Objection,” ECF Doc. # 1515.
 [[celsius_footnote_23]]
+[.text-justify]
 [23] Issues required to be brought as an adversary proceeding under Fed. R. Bankr. P. 7001 include a “(1) a proceeding to recover money or property, other than a proceeding to compel the debtor to deliver property to the trustee, or a proceeding under §554(b) or §725 of the Code, Rule 2017, or Rule 6002; (2) a proceeding to determine the validity, priority, or extent of a lien or other interest in property, but not a proceeding under Rule 3012 or Rule 4003(d); (3) a proceeding to obtain approval under §363(h) for the sale of both the interest of the estate and of a co-owner in property; (4) a proceeding to object to or revoke a discharge, other than an objection to discharge under §§727(a)(8),1 (a)(9), or 1328(f); (5) a proceeding to revoke an order of confirmation of a chapter 11, chapter 12, or chapter 13 plan; (6) a proceeding to determine the dischargeability of a debt; (7) a proceeding to obtain an injunction or other equitable relief, except when a chapter 9, chapter 11, chapter 12, or chapter 13 plan provides for the relief; and (8) a proceeding to subordinate any allowed claim or interest, except when a chapter 9, chapter 11, chapter 12, or chapter 13 plan provides for subordination; (9) a proceeding to obtain a declaratory judgment relating to any of the foregoing; or (10) a proceeding to determine a claim or cause of action removed under 28 U.S.C. § 1452.” Rule 7001(10), requiring an adversary proceeding to determine a claim or cause of action removed under 28 U.S.C. §1452, is not relevant here.
 [[celsius_footnote_24]]
+[.text-justify]
 [24] See Plazza v. Airbnb, Inc., 289 F. Supp. 3d 537, 548 (S.D.N.Y. 2020) (“Clickwrap agreements are generally defined by the requirement that Account Holders ‘click’ some form of ‘I agree’ after being presented with a list of terms and conditions. Browsewrap agreements, on the other hand, are usually found ‘where a website’s terms and conditions are . . . posted on the website via a hyperlink at the bottom of the screen’ and a Account Holder’s assent is given merely by his or her use of the website and nothing more.”) (internal citations omitted); Uber Techs., 868 F.3d at 75 (“Some online agreements require the Account Holder to scroll through the terms before the Account Holder can indicate his or her assent by clicking ‘I agree.’”) (citing Berkson, 97 F. Supp. 3d at 386, 398 (labeling such agreements “scrollwraps”)).
 [[celsius_footnote_25]]
+[.text-justify]
 [25] See also In re Coudert Bros., 487 B.R. 375, 393–94 (S.D.N.Y. 2013) (“Under New York law, it is [f]undamental to the establishment of a contract modification [that] proof of each element requisite to the formulation of a contract be shown.”) (internal quotation marks omitted).
 [[celsius_footnote_26]]
+[.text-justify]
 [26] The Court notes that even if the Terms of Use indicated that coins were property of the customers, which they do not, as Debtors’ counsel pointed out at the December 5, 2022 hearing “we do not have enough coin to give everybody their coin back in kind.” (December 5, 2022 H’rg Tr. 109:21–24). Thus, even if the contract’s terms conferred title on customers, customers would still not get back 100% of their coins. The Court is committed to overseeing a fair process that ensures that all creditors are made as whole as possible.
 [[celsius_footnote_27]]
+[.text-justify]
 [27] See Amended Motion § 16 (“For the avoidance of doubt, this Amended Motion does not seek findings with respect to (x) the ownership of assets in the Debtors’ Custody Program, Withhold Accounts, or Borrow Program or (y) whether any Account Holder has valid defenses to the purported contract between Account Holders and the Debtors under the Terms of Use, and all parties’ rights are reserved with respect to each of the foregoing.”).
 [[celsius_footnote_28]]
+[.text-justify]
 [28] The Court makes no determination as to these security issues but notes that if Earn Assets are determined to be securities, it is likely that Earn Account holders would still be unsecured creditors. Section 510(b) of the Bankruptcy Code subordinates claims “arising from” the purchase or sale of a security to the claims of general unsecured creditors. 11 U.S.C. § 510(b). Thus, here to the extent that creditors argue that they have recission claims for the unlawful sale of security, these claims would likely squarely fall within the broad reach of section 510(b)’s claim “arising from” the purchase or sale of a security. 11 U.S.C. § 510(b); see In re Worldcom, Inc., 329 B.R. 10, 14 (Bankr. S.D.N.Y. 2005) (“So long as the nature of the damage or harm complained of by a shareholder can be said to result as a consequence of his having purchased or sold share of stock or other securities of the debtor, the claimant falls within the scope of Section 510(b).”)
 [[celsius_footnote_29]]
+[.text-justify]
 [29] Of the approximately 600,000 Account Holders listed on the Debtors schedules, 89% created accounts by first accepting Terms Version 5 or later, while 10% first accepted Terms 4 or earlier. (Original Blonstein Declaration ¶ 14.) The Debtors lack records for 1% of Account Holders. (Id.)
 [[celsius_footnote_30]]
+[.text-justify]
 [30] Ryals Objection ¶¶ 13–15 (“If the Terms of Use are determined to govern the relationship of the parties, it is evident from the language that any ultimate obligations of the Debtors’ were illusory in nature . . . The Debtors . . . drafted the Terms of Use in such a way to create options and circumstances under which the Debtors could walk away from any obligation.); id. (“A contract lacks consideration when the obligation of one party is illusory, meaning only one side is bound to perform.” (citing Curtis Props. Corp. v. Greif Cos., 212 A.D.2d 259, 628 N.Y.S.2d 628, 632 (1st Dep’t 1995)).
 [[celsius_footnote_31]]
+[.text-justify]
 [31] See supra, Terms Version 8 § 4.D. (“Our Earn Service allows you to earn a financing fee from Celsius, . . . in exchange for entering into open-ended loans of your Eligible Digital Assets . . . .”).
 [[celsius_footnote_32]]
+[.text-justify]
 [32] See, e.g., Altunbay Objection.
 [[celsius_footnote_33]]
+[.text-justify]
 [33] See Amended Motion ¶ 36 (“Each historical iteration of the Terms of Use provided that the Debtors could amend the Terms of Use by posting them to their website, that the amended terms would replace the prior terms, and that continued use of the Debtors’ services following such posting would be deemed consent to the updated terms.”).
 [[celsius_footnote_34]]
+[.text-justify]
 [34] “Do any of the objectors wish to offer evidence in support of their objections? . . . Hearing no response, the Court determines that the objectors have rested as well.” (December 5, 2022 H’rg Tr. 103:20–23.)
 [[celsius_footnote_35]]
+[.text-justify]
 [35] New York law also strictly limits the use of extrinsic evidence to prove the proper interpretation of a contract. See, e.g., Topps Co. v. Cadbury Stani S.A.I.C., 526 F.3d 63, 69 (2d Cir. 2008) (“New York’s parol evidence rule generally bars admission of extrinsic evidence to vary or contradict the terms of a fully integrated writing.”).
 [[celsius_footnote_36]]
+[.text-justify]
 [36] The Vermont Objection observes that the Terms of Use uses the term “loan” to describe the transaction between the Account Holder and the Debtors even in the clause purportedly transferring ownership to Celsius: “You grant Celsius . . . for the duration of the period during which the Digital Assets are loaned to us . . . all right and title to such Digital Assets, including Ownership rights.” (Vermont Objection (citing Terms Versions 6–8 (emphasis added).))
 [[celsius_footnote_37]]
+[.text-justify]
 [37] See Terms of Use Version § 4.D (not granting a security interest to users and, to the contrary, providing that “once such Eligible Digital Assets are received by Celsius . . . they shall be Celsius’ property, in every sense and for all purposes.”)
 [[celsius_footnote_38]]
+[.text-justify]
 [38] Moreover, the objecting parties did not submit evidence at the December 5, 2022 hearing. The evidence admitted includes the Ferraro Declaration, Campagna Declaration, Original Blonstein Declaration, Supplemental Blonstein Declaration, and the Terms Affidavit. No other evidence was offered.
 [[celsius_footnote_39]]
+[.text-justify]
 [39] See, e.g., U.S. Trustee Objection; Campagna Declaration at 19. To the extent the U.S. Trustee argues that the Debtors’ do not face a liquidity crisis and have not established cause to sell stablecoin, that objection is overruled.
 
-____
+- - -
 
 === Discussion Questions ===
 . Who do you think should own the crypto assets in Earn accounts?  If the assets are still traceable, should the assets be returned to the customer?  
 
+
+////
+# Celsius Network LLC, et al. Section End
+#<<<<<<<<<<
+////
+
+////
+#>>>>>>>>>>
+###################################################################################################
+### Examiner Report on CELSIUS NETWORK LLC, et al.
+# FINAL REPORT OF SHOBA PILLAY, EXAMINER for Celsius Network et al.
+# https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901312380000000039.pdf
+#
+#
+#
+#
+#
+#################################################################################################
+////
+
+[[celsius_examiner_report]]
 == Examiner Report on CELSIUS NETWORK LLC, et al. ==
 
-[quote, FINAL REPORT OF SHOBA PILLAY&comma; EXAMINER for Celsius Network et al.&comma; Case No. 22-10964 (MG), https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901312380000000039.pdf ]
-____
+[.text-right]
+_Case No. 22-10964 (MG)_
+
+- - -
+
 &period;&period;&period;&period; +
 &period;&period;&period;&period;
 
@@ -494,234 +603,247 @@ ____
 Part One of this Report addresses the scope of, and investigative steps taken in, the Examiner’s investigation.
 [upperroman]
 . *Scope Of The Report.*
-
+[.text-justify]
 On September 29, 2022, the Bankruptcy Court appointed Shoba Pillay (the “Examiner”) to investigate and report on certain topics related to Debtors Celsius Network LLC and related entities.xref:sec_pillay_footnote_1[^*(1)*^] The Court also directed the Examiner to review Celsius customer pro se filings on the Court’s docket to determine whether her investigation should be expanded.xref:sec_pillay_footnote_2[^*(2)*^] After considering those hundreds of filings and communicating with customers, the Examiner asked the Court to clarify that the Examiner’s investigative mandate included an examination of Celsius’s native currency, the CEL token, and Celsius’s representations to its customers.xref:sec_pillay_footnote_3[^*(3)*^] The Court so clarified.xref:sec_pillay_footnote_4[^*(4)*^] After directing the Examiner to confer with the parties,xref:sec_pillay_footnote_5[^*(5)*^] the Court further expanded the Examiner’s investigative mandate to include an examination of claims that Celsius’s business operations amounted to a Ponzi scheme.xref:sec_pillay_footnote_6[^*(6)*^] 
-
+[.text-justify]
 Consistent with the Court’s Orders, the Examiner’s Report therefore addresses the following subjects:
-
+[.text-justify]
 * “the Debtors’ cryptocurrency holdings, including a determination as to where the Debtors’ cryptocurrency holdings were stored pre-petition and are stored post-petition, and whether different types of accounts are commingled”xref:sec_pillay_footnote_7[^*(7)*^] and including “why and how other digital assets were converted into CEL tokens, and how these tokens were marketed, stored, and traded—including whether any of the Debtors’ trading practices involving CEL tokens generally or determinations of CEL tokens awarded as part of the Earn Rewards program—impacted their value;”xref:sec_pillay_footnote_8[^*(8)*^]
 * “the representations Debtors generally made in public representations to customers to attract them to their platform and about their cryptocurrency holdings and account offerings;”xref:sec_pillay_footnote_9[^*(9)*^]
 * whether “the Debtors used new deposits being made by customers to make payments or otherwise meet obligations to existing customers at a time when the Debtors had no other sources (whether liquid or which could have been monetized) from which to make such payments or meet such obligations;”xref:sec_pillay_footnote_10[^*(10)*^]
 * “the current status of the utility obligations of the Debtors’ mining business;”xref:sec_pillay_footnote_11[^*(11)*^] and
 * “the Debtors’ procedures for paying sales taxes, use taxes, and value added taxes and the extent of the Debtors’ compliance with any non-bankruptcy laws with respect thereto.”xref:sec_pillay_footnote_12[^*(12)*^]
-
+[.text-justify]
 Parties are directed to the Examiner’s Interim Report, dated November 19, 2022, for the Examiner’s investigative findings regarding (i) “why there was a change in account offerings beginning in April 2022 from the Earn Program to the Custody Service for some customers while others were placed in a ‘Withhold Account;” and (ii) how and where the cryptocurrencies held in Custody and Withhold accounts were stored pre- and post-petition and whether assets in those accounts were commingled with other Celsius assets.xref:sec_pillay_footnote_13[^*(13)*^] Those findings are not repeated here.
 
 [upperroman, start=2]
 . *Executive Summary.*
 
+[.text-justify]
 The business model Celsius advertised and sold to its customers was not the business that Celsius actually operated. Through its website, marketing emails, Twitter, livestream town hall meetings, and other messaging, Celsius sold its customers on the concept that it was better than traditional “big banks.” By investing with Celsius, its customers were told that they would be able to “unbank” themselves and enjoy “financial freedom” as part of the Celsius community. Celsius emphasized that it put “its community first” and that its business would be “built on trust” and “transparency” with its community members. Celsius promoted itself as an altruistic organization, bragging in one blog post: “Can we really bring unprecedented financial freedom, economic opportunity and income equality to everyone in the world? We are Celsius. We dream big.”
-
+[.text-justify]
 Celsius boasted that its primary financial product—its “Earn” program—was the “safest place for your crypto.” Customers who participated in the Earn program transferred their crypto assets to Celsius in exchange for interest, or what Celsius called rewards. In turn, Celsius deployed its customers’ crypto assets—through further loans, investments, or on exchanges—to generate income, or what Celsius called yield. Celsius’s co-founder and majority owner, Alex Mashinsky, repeatedly told customers in his weekly livestream conversations (referred to as “Ask Mashinsky Anything” or “AMAs”) that customer-deposited coins “are your coins, not our coins . . . [i]t’s always your Bitcoin.” When asked what would happen in the event of a bankruptcy, Mr. Mashinsky told customers “coins are returned to their owners even in the case of bankruptcy.”
 Celsius advertised that it knew how to generate high returns with low risk by doing “what Celsius does best”—carefully vetting its financial counterparties and ensuring that when those counterparties borrowed crypto assets from Celsius, they pledged “over 100% collateral” to secure their loans. Celsius sold its customers on the promise that Celsius would pay them “at least 5% annual interest” and that their rewards would equal each customer’s share of up to 80% of Celsius’s revenues.
-
+[.text-justify]
 Another cornerstone of Celsius’s marketing strategy was its promotion of its native CEL token. Celsius told its customers that CEL was its “backbone” with Mr. Mashinsky repeatedly equating the value of CEL with Celsius’s value. Celsius explained that it intended to raise the initial capital to fund its business by selling 325 million CEL through private pre-sales and an initial coin offering (“ICO”) and that these sales would raise $50 million. Celsius told customers that they would receive rewards in CEL that Celsius would obtain from its internal treasury (which would hold an additional 325 million CEL) or by buying CEL in the secondary market. According to Celsius, this process would create a self-sustaining “flywheel.” Celsius’s marketing efforts would start the wheel spinning by generating more users and thus more assets for Celsius to invest; Celsius in turn would earn more profits and buy more CEL in the market that it would use to pay rewards, and as result of the demand spurred by Celsius’s CEL purchases, CEL’s price would increase, generating more earnings for Celsius’s customers.
-
+[.text-justify]
 From its inception, however, Celsius and the driving force behind its operations, Mr. Mashinsky, did not deliver on these promises. Behind the scenes, Celsius conducted its business in a starkly different manner than how it
 marketed itself to its customers in every key respect.
 
 *CEL Trading.*
-
+[.text-justify]
 Celsius abandoned its promise of transparency from its start. Celsius’s first significant transaction after it was formed was to launch its ICO, a transaction that Celsius expected would raise $50 million. That did not happen. Instead, Celsius sold 203 million of the 325 million CEL offered for sale, raising $32 million. But Celsius never told its “community” that it failed to sell all of the CEL. Despite its promises of transparency, Celsius debated internally whether to tell its community how the ICO actually turned out but decided not to do so because it feared its community would be upset. Celsius also did not reveal that while Mr. Mashinsky originally pledged to purchase any unsold tokens from the ICO, he failed to close on that purchase. Those unsold tokens amounted to 117 million CEL. 
-
+[.text-justify]
 Celsius also hijacked its flywheel, concealing from its customers the extent to which it was making the market for CEL. Initially, in 2018 and 2019, when the crypto markets were in decline, Celsius bought CEL, as it advertised it would, to pay rewards. During this time period, the price of CEL remained well below the ICO price of $0.20.
-
+[.text-justify]
 But starting in 2020, Celsius decided to substantially expand its purchases of CEL for the purpose of increasing CEL’s price. Instead of buying CEL when it needed to pay rewards, Celsius began timing its purchases so that they would prop up CEL’s price by creating activity in the market. Celsius also began placing “resting” orders to buy CEL, which were triggered if the price of CEL dipped below a set amount. Celsius also began selling CEL in private over-the-counter (OTC) transactions, while making offsetting purchases of CEL in public markets where it believed its purchases would impact the trading price. Internally, Celsius referred to this new strategy as its “OTC Flywheel.”
-
+[.text-justify]
 Celsius’s buying spree worked to push the price of CEL higher and higher. Although the crypto markets were up in 2020 and 2021, the percentage increase in CEL’s price was significantly greater than the overall market increase, due primarily to Celsius’s purchases of CEL. Between mid-March 2020 (just as Celsius was beginning its buying spree) and June 2021, CEL’s price increased by 14,751%.
-
+[.text-justify]
 Although Celsius told customers that it would purchase CEL to pay customer rewards, it did not tell its customers the extent to which it was making the market for CEL. Instead, in one of his AMAs, Mr. Mashinsky told customers that the “over 2,000 percent increase this last year” in CEL’s price was “a great validation of the utility of [CEL] as well as the flywheel running on its own instead of us having to crank it up once in a while.” But internally, Celsius’s Head of Trading Desk recognized that Celsius was in fact cranking up the flywheel. He wrote to other employees, including Celsius’s then-Chief Financial Officer: “Just to clarify between us three: The last 3-4 months we bought always more CEL than what we pay as interest per week but we did not buy it for the interest payments, that is just what we told the community.” After a round of CEL purchases in September 2020, the same Celsius employees congratulated themselves on “our good work” resulting in “people thinking [the price of CEL] is going to the moon haha.”
-
+[.text-justify]
 The increasing price of CEL had three significant consequences for Celsius and its insiders. First, it significantly inflated Celsius’s balance sheet. Celsius accounted for CEL in two buckets: (i) Treasury CEL consisting of the CEL Celsius minted at the time of the ICO but did not offer for sale; and (ii) Non-Treasury CEL consisting of the CEL that Celsius bought on the market for itself and its customers. In February 2019, Celsius added its Treasury CEL to its balance sheet at then-market prices resulting in an increase in reported assets of $6.6 million. By December 30, 2021, Celsius reported that the market value of its Treasury CEL was $1.5 billion. 
-
+[.text-justify]
 The following chart illustrates how the increasing market price for CEL improved Celsius’s balance sheet and what happened as Celsius could no longer afford to prop up CEL’s price in the run-up to its bankruptcy filing.
 
 [.text-center]
 *TREASURY CEL BOOK VALUES*
 
-image::media/ch09-pillay-img01.png[]
 
+image::media/ch09-pillay-img01.png[66%,66%, align=center]
+
+[.text-justify]
 Note: This chart depicts the Treasury CEL values reflected on Celsius’s books and records from 2018 until the second quarter of 2022.
 
 
 [.text-center]
 *NON-TREASURY CEL BOOK VALUES*
 
-image::media/ch09-pillay-img02.png[]
+image::media/ch09-pillay-img02.png[66%,66%, align=center]
 
+[.text-justify]
 Note: This chart summarizes the non-Treasury CEL values (excluding CEL held to meet customer obligations) reflected on Celsius’s books and records from the second quarter of 2021 until the second quarter of 2022.
-
+[.text-justify]
 Despite the values reflected on its balance sheet, CEL had limited utility, including because there was no market to deploy CEL outside of Celsius’s platform. In 2022, Celsius employees routinely discussed that CEL was “worthless,” stating that its price “should be 0,” and that Celsius should “assume CEL is $0 since we cannot liquidate our current CEL position,” and questioning whether any party (other than Celsius itself) was purchasing CEL.
-
+[.text-justify]
 Second, the increasing price of CEL benefited Celsius’s insiders who held most of the CEL following the ICO and then made millions of dollars selling a substantial portion of their CEL tokens. Between 2018 and the Petition Date, Mr. Mashinsky sold at least 25 million CEL tokens, realizing at least $68.7 million on these sales. S. Daniel Leon, also a founder of Celsius, sold at least 2.6 million CEL tokens for at least $9.74 million.
-
+[.text-justify]
 During the height of Celsius’s market making, Celsius often sought to protect CEL from price drops that it attributed to Mr. Mashinsky’s sales of large amounts of his personal CEL holdings. As a result of Mr. Mashinsky’s sales, Celsius often increased the size of its resting orders to buy all of the CEL that Mr. Mashinsky and his other companies were selling. These trades caused Celsius’s former Chief Financial Officer to write “[w]e are talking about becoming a regulated entity and we are doing something possibly illegal and definitely not compliant.” As one employee noted in an internal Slack communication: “if anyone ever found out our position and how much our founders took in USD could be a very very bad look . . . We are using users USDC to pay for employees worthless CEL . . . All because the company is the one inflating the price to get the valuations to be able to sell back to the company.”
-
+[.text-justify]
 Finally, Celsius did not earn sufficient yield on its crypto asset deployments to fully fund its CEL buybacks. As a result, it began using customer-deposited Bitcoin (BTC) and Ether (ETH) to fund its CEL purchases. But because Celsius lacked adequate reporting systems to track and reconcile customer assets on a coin-by-coin basis, Celsius was unable to track when it was short the necessary coins to meet customer obligations. Celsius was therefore caught off guard in early 2021 when it discovered a shortfall in BTC and ETH (which it had been using to fund CEL buybacks). Because the prices of BTC and ETH were increasing at that time, the amount of dollars it cost Celsius to acquire the necessary number of BTC and ETH also increased. Celsius scrambled to correct the shortfall by using stablecoins to buy or borrow the number of BTC and ETH it needed.
-
+[.text-justify]
 Correcting the shortfall in BTC and ETH cost Celsius approximately $300 million, which it paid in stablecoins. Celsius used customer deposits to acquire those stablecoins. As a result, Celsius was left with a hole in its balance sheet of stablecoins rather than BTC and ETH. That hole continued to grow as a result of Celsius’s continued buybacks of CEL and the significant losses Celsius suffered on some of its deployments in 2021. Celsius’s stablecoin deficit between May 28, 2021 and Celsius’s bankruptcy filing is depicted in the below chart and amounted to a billion-dollar hole in Celsius’s assets. As the chart also demonstrates, as customers began withdrawing BTC and ETH from Celsius in May and June 2022, Celsius had to unwind its borrowings to recover the BTC and ETH it had pledged. As a result, its stablecoin eficit was replaced with a deficit in BTC and ETH.
 
 [.text-center]
 *NET COIN SURPLUS/(DEFICIT) MAY 2021 TO PETITION DATE*
 
-image::media/ch09-pillay-img03.png[]
+image::media/ch09-pillay-img03.png[75%, 75%, align=center]
 
+[.text-justify]
 Note: This chart reflects the net surplus or deficit in all coins (total AUM) categorized by coin type, from May 2021 through the Petition Date.
-
+[.text-justify]
 Celsius recognized that it should not use customer assets to purchase the coins necessary to cover liabilities to other customers. But it justified its use of customer deposits to fill this hole in its balance sheet on the basis that it was not selling customer deposits but instead posting them as collateral to borrow the necessary coins. Celsius also used the proceeds of these borrowings to continue to purchase CEL. In April 2022, Celsius’s Coin Deployment Specialist described Celsius’s practice of “using customer stable coins” and “growing short in customer coins” to buy CEL as “very ponzi like.” A few weeks later when Celsius made another push to prop up the price of CEL, Celsius’s former Vice President of Treasury asked where the cash was coming from to make the CEL purchases and Celsius’s Coin Deployment Specialist replied, “users like always.” This same employee explained that at the time he made this statement, Celsius had “negative equity” and therefore necessarily was using customer funds when it made these purchases.
-
+[.text-justify]
 In addition to using customer deposits, Celsius also turned to the funds it was raising from outside investors to buy CEL. Internally, Celsius’s managers expressed concern that Celsius was using “equity money [to buy CEL] that should be strategically used to grow the company.” When the Examiner asked Celsius’s former Vice President of Treasury why Celsius bought CEL to pay rewards rather than using the CEL it held in Treasury, he acknowledged that the answer lies in who holds the most CEL. Another manager put it more bluntly: “we spent all our cash paying execs and trying to prop up alexs [sic] net worth in CEL token.”
-
+[.text-justify]
 In total, Celsius spent at least $558 million buying its own token on the market. From 2018 through the Petition Date, Celsius transferred at least 223 million CEL from the secondary market to its own wallets, a greater number than the total amount of CEL (203 million) released to the public in the ICO. In effect, Celsius bought every CEL token in the market at least one time and in some instances, twice.
-
+[.text-justify]
 But once Celsius acquired this CEL, it had no ability to deploy its CEL outside of its own platform. In fact, Celsius never liquidated any of its CEL to address its liquidity needs, even as it scrambled to find liquid assets in the run up to June 12, 2022, the date on which it paused all customer withdrawals. Today, Celsius holds essentially the same amount of CEL as it did on January 1, 2022 (an amount which constitutes approximately 95% of all CEL in existence).
 
 *Reward Rates.*
-
+[.text-justify]
 What Celsius told its customers about its reward rates also did not match what Celsius actually did. Celsius did not distribute up to 80% of its revenues to its customers because it had little to no profits to distribute. Celsius also made no effort to set its reward rates based on its yield. When regulators asked Celsius how it set its reward rates, Celsius explained that there was no correlation between the interest rates it paid to customers and the yield it generated from investing customer assets. Despite leading customers to believe that it had a defined reward rate setting policy that allowed it to distribute up to 80% of its revenues to customers, Celsius had no reward policy until July 2021. And the policy it adopted at that time did not correlate reward rates to yield.
-
+[.text-justify]
 Importantly, if Celsius had set its reward rates based on its revenues or profits, those rates would have been substantially lower than what Celsius paid. Instead, Celsius consistently set its reward rates based on what it perceived was necessary to beat the competition and not based upon the yield it was earning from investing customer assets. While this strategy of offering high rates suggested to customers that Celsius was generating the high yield on investments that it advertised, the reality was that for most of Celsius’s existence, the rewards it paid exceeded by substantial amounts the revenues Celsius could earn.
-
+[.text-justify]
 Some in Celsius’s management sounded alarm bells over this practice and attempted to lower reward rates. Mr. Mashinsky, who prioritized growth in Celsius’s customer base over profitability, however, overrode their recommendations and refused to do so. The result was that between 2018 and June 30, 2022, Celsius accrued reward obligations to customers of $1.36 billion more than the net revenue it generated from customer deposits.
-
+[.text-justify]
 The disparity between Celsius’s yield on customer assets and the rewards it paid to customers was a significant reason why Celsius’s net interest margin (referred to as “NIM”), a key indicator of a financial institution’s health, was generally negative. As it did with other financial metrics (such as its profit margin for its mining business) Celsius calculated its NIM aggressively, by comparing the yield on its assets to their cost, instead of using the conventional (and more conservative) method of comparing the yield on assets to liabilities. Internally Celsius’s managers understood this had the effect of overstating Celsius’s NIM, but even as overstated, Celsius’s NIM demonstrated that Celsius was never a profitable company. As one of Celsius’s former Chief Financial Officers put it: while NIM can vary (and even at points be negative), “over time it should be around 3% as otherwise there is no business.” For much of its existence, Celsius’s NIM was either negligible or negative and was never close to 3% .
 
 *Risky Investments.*
-
+[.text-justify]
 Mr. Mashinsky’s insistence that Celsius maintain its high reward rates, often over the objection of other managers, led Celsius to turn to riskier investments to increase its yield. Initially, Celsius deployed its customer assets as it advertised it would—by loaning crypto assets to institutions in the form of fully collateralized loans or allowing customers to use their crypto assets as collateral for loans Celsius made to those customers. But as Celsius’s customer base grew exponentially in the crypto market boom of 2020 and 2021, the need to increase yield to close the gap between customer reward rates and revenue led Celsius to make riskier investments. Celsius made loans that were not fully secured or were unsecured so that it could charge higher interest rates; it placed crypto assets into DeFi and staking protocols; it purchased a DeFi company, KeyFi, Inc. (a purchase that failed within months and now is in litigation); it allocated crypto assets to exchanges; and it invested approximately $604 million in the form of an intercompany loan to start a BTC mining operation.
-
+[.text-justify]
 Despite these material changes to its investment strategies, Celsius continued to promote the idea that it was investing customer funds in low-risk and fully collateralized institutional and retail loans. In 2021, Mr. Mashinsky told the Financial Times that “[f]rom a risk standpoint, we are probably one of the least risky businesses that regulators worldwide have ever seen.” Mr. Mashinsky continued to tell customers that “we only do asset back lending so always have 200% collateral.” In another AMA, he told customers “Celsius is very, very strict who we lend to . . . We do not do unsecured lending.” After he made this statement, Celsius’s then Chief Financial Officer wrote to Celsius’s then Head of the Trading Desk: “I just told [Mr. Mashinsky] that the number [of unsecured loans] is increasing and the overall ratio of collateral with institutions is going down.” The Chief Investment Officer responded that Mr. Mashinsky’s statements were “dangerous” because the borrowers with unsecured loans could tell everyone Mr. Mashinsky is a “liar.” Celsius’s records demonstrate just how far off the mark Mr. Mashinsky’s representations were. In December 2020, approximately 14% of Celsius’s institutional loans were wholly unsecured. By June 2021, it was routine for one-third of Celsius’s institutional loan portfolio to be wholly unsecured and more than half of the portfolio to be under-collateralized, as demonstrated in the following chart:
 
-image::media/ch09-pillay-img04.png[]
+image::media/ch09-pillay-img04.png[align=center]
 
+[.text-justify]
 Although the above chart appears to indicate that in the Fall of 2021, fully collateralized loans increased, that is misleading because the collateral Celsius accepted did not provide real security. During that time period, Celsius accepted FTX’s native token, FTT, as collateral from FTX, despite knowing that the price of FTT was largely dependent on FTX, and thus failed to provide meaningful security against a default by FTX (the same sort of correlated risk that led lenders not to accept CEL as collateral from Celsius).
 
 The below chart breaks down by asset type the collateral Celsius held over time:
 
 *ASSETS PLEDGED AS COLLATERAL (12/19 – 10/21)*
 
-image::media/ch09-pillay-img05.png[]
+image::media/ch09-pillay-img05.png[align=center]
 
+[.text-justify]
 Note: This chart presented to Celsius’s Risk Committee describes Celsius’s deployment of coins as collateral for loans over time.
-
+[.text-justify]
 In addition to making riskier loans, in 2021, Celsius recognized losses of over $800 million primarily as a result of investments with Equities First Holdings, LLC, Grayscale, KeyFi, Inc., and Stakehound. Celsius did not report these losses to its customers at the time they were incurred. None of these investments were the fully collateralized institutional loans that Celsius told its customers it was making with their crypto assets.
 
 *Risk Management.*
-
+[.text-justify]
 Although Celsius sold its customers on its ability to manage risk—claiming that risk management was “what Celsius does best”—Celsius did not have a risk management function or written risk policies in place before 2021. In 2021, in response to the significant losses it had suffered, Celsius hired its first risk management team—four individuals who had previously held risk compliance positions with traditional financial institutions. This new team began to institute what were described as “stop-gap” measures to allow time to implement more robust procedures in 2022.
-
+[.text-justify]
 A key priority for this new team was developing an internal audit procedure to ensure risk policies were being followed—a critical component of a robust risk management policy. Although Celsius hired an individual for this audit role in August 2021, Celsius’s executive team delayed his proposals to implement a formal internal audit process. As a result, Celsius never fully implemented a robust risk management policy before it filed for bankruptcy.
-
+[.text-justify]
 Celsius also lacked the ability to accurately track and report on its assets and liabilities, a problem that became more acute as Celsius engaged in riskier deployments. To correct for these problems, Celsius developed two internal reports—the Freeze and Waterfall Reports. But Celsius did not devote the necessary resources to fully develop its Freeze Report, viewing it as a “band-aid” until a better reporting system could be devised. In addition, Celsius employees believed that the Waterfall Report overstated its profitability. An internal Celsius document listing Celsius’s challenges noted that Celsius had “[a]bsolutely pathetic systems of records” and as a result, Celsius did “not do a good job of knowing anything about how our assets are actually performing. Our systems are horrible, and . . . can cause us to take on excessive risk.” Further, Celsius managers knew that these reports incorrectly calculated NIM and therefore presented an inaccurate and overly optimistic view of Celsius’s financial
 performance.
-
+[.text-justify]
 Both reports also did not precisely track Celsius’s assets and liabilities and were only “directional” estimates of Celsius’s assets and liabilities. As a result, when Celsius attempted to execute more sophisticated trading strategies in 2021 and 2022 to increase its yield, it lacked the real-time information about its positions necessary to successfully execute these trades and lost over $150 million. When Celsius’s new Chief Risk Officer reviewed these losses, he expressed concern over the fact that Celsius was engaged in this type of trading because Celsius “had conveyed to the public that we take coins and lend them out.”
 
 *Key Contract Terms.*
-
+[.text-justify]
 Celsius’s Terms of Use, which customers accepted by clicking their agreement when opening a Celsius account, also conflicted with what Celsius told its customers. In its marketing materials and AMAs, Celsius and its managers told customers that the crypto assets they deposited with Celsius were “your assets” and that the coins belonged to the customers. But Celsius’s Terms of Use stated from March 2020 forward that a customer transferred all “rights of ownership” in her crypto assets by depositing them in a Celsius account. Similarly, Mr. Mashinsky told customers that in the event of a bankruptcy they would get their coins back, while the Terms of Use told customers (starting in March 2020) that in the event of bankruptcy they may not be able “to recover or regain ownership” of their crypto assets. 
 
 *Celsius’s Efforts To Erase Its Misrepresentations.*
-
+[.text-justify]
 Internally, Celsius managers recognized that many of the statements that Mr. Mashinsky made during AMAs and in his tweets, particularly about how Celsius was deploying customer assets, were not true. Starting in May 2021 Celsius’s Chief Risk Officer raised the prospect of editing the AMAs after the fact and before posting them to YouTube to eliminate any misleading statements. Mr. Mashinsky resisted that suggestion fearing that any delay would create “FUD” (Fear, Uncertainty, and Doubt) in the community. The AMA that prompted this initial concern continues to be available on the internet.
-
+[.text-justify]
 Throughout 2021 and up through the bankruptcy filing, Celsius continued to identify incorrect statements Mr. Mashinsky made during the AMAs. Lists containing these misstatements were circulated internally. In some instances, Celsius was able to edit the AMAs after posting; in other instances, it was not. But what Celsius and Mr. Mashinsky never did was correct the record after the fact for the thousands of live audience members who heard these misstatements or for those who watched the recorded videos on YouTube before they were edited. Instead, in some instances, internal documents suggest that Celsius employees hoped viewers would not notice the discrepancies that had been
 edited from the videos.
-
+[.text-justify]
 In every key respect—from how Celsius described its contract with its customers to the risks it took with their crypto assets—how Celsius ran it business differed significantly from what Celsius told its customers. The Examiner interviewed and communicated with a number of Celsius’s customers, many of whom stated that Celsius’s misstatements about how it would handle their crypto assets led them to invest significant crypto assets with Celsius that they would not have invested if they had understood the level of risk Celsius was taking or that many of the things Celsius presented in its AMAs, tweets, and other marketing materials were not true.
 
 *Celsius’s Collapse.*
-
+[.text-justify]
 In the run-up to the June 12, 2022 pause on customer withdrawals and Celsius’s July 12, 2022 bankruptcy filing, Celsius’s problems came to a head. During a bull market, in 2021, Celsius still recorded a pre-tax loss of $811 million. As the markets began to fall in 2022, Celsius continued to lose money, reporting a first quarter loss of $165 million. The bear market also made it more difficult to close the gap between Celsius’s reward rates and the yield it could earn on its customers’ assets and fill the hole in its balance sheet as a result of its CEL buybacks and other losses. In January 2022, for example, nearly every opportunity Celsius had to deploy its BTC was below its cost of funding, contributing to an overall continuing firmwide negative NIM. As a result, Celsius’s Treasury department began pushing Mr. Mashinsky to change the way Celsius set its reward rates so that those rates did not exceed Celsius’s yield. Mr. Mashinsky continued to resist because of his belief that “all of our customers will leave us” if rates were cut. In particular, Mr. Mashinsky refused to reduce the reward rates for CEL or to suspend the ability of customers to collateralize their loans with CEL. When Celsius’s new Chief Financial Officer pressed these issues, Mr. Mashinsky told him to “tell your team to stay in their lane” and that he did not need help with marketing, as he would “bring in a few billion just like I brought in the first 20B.”
-
+[.text-justify]
 Instead of lowering the reward rate for CEL, Mr. Mashinsky did the opposite. He instituted a policy that allowed any user that held 1 CEL to earn a 10% bonus on their in-CEL earnings. Celsius’s customers quickly took advantage of this new offer. Because Celsius did not charge for swaps, customers began to arbitrage, taking their higher CEL rewards and then swapping that CEL for other coins.
-
+[.text-justify]
 As Celsius struggled with its reward rates, it also began experiencing a severe and rapid reduction in its liquidity. By early May 2022, Celsius’s capital was “near zero.” And Celsius’s employees were openly speculating about its ability to survive. Between May 7 and May 9, 2022, as the price of the Terra stablecoin (UST) dropped, Celsius scrambled to reduce its exposure, escaping with a $30 million loss. By May 11, 2022, Celsius had failed its own Modeled Liquidity Outflow (or “MLO”) test. Celsius developed the MLO test to determine how much of each type of coin it would need to hold to meet anticipated withdrawals if prices dropped significantly over one day or over one week. When he tests began to fail, however, Celsius relaxed the test instead of prohibiting further deployments as its Liquidity Risk Policy required.
-
+[.text-justify]
 Between May 9 and May 24, 2022, Celsius began to experience significant customer withdrawals—a net loss of over $1.4 billion in assets:
 
-image::media/ch09-pillay-img06.png[]
+image::media/ch09-pillay-img06.png[align=center]
 
+[.text-justify]
 On May 12, 2022, the price of CEL had fallen to $0.57, causing one employee to comment CEL was “legit being wiped out.” Celsius propped up the market that day, leading to a temporary increase in the price to $0.90, which its former Vice President of Treasury took as “proof we are the only buyers.” Later on May 12, Mr. Mashinsky directed the purchase of $5 million of CEL, but Celsius only had $1.6 million of stablecoin and could not make the purchase, marking the end of Celsius’s sustained efforts to support CEL’s price. By June 12, 2022, the price of CEL had fallen to $0.28.
-
+[.text-justify]
 By May 27, 2022, Celsius only had sufficient liquidity to meet 30% of its BTC obligations and 21% of its ETH obligations to customers. Celsius also had triggered the modified stress test introduced only three weeks earlier. The percentage of Celsius’s assets that constituted “Deployable Liquidity” (i.e., assets Celsius could access within seven days) went from approximately 49% in February to under 33% by the end of May and under 24% by the Pause. In other words, a substantial majority of Celsius’s assets were essentially unavailable to meet withdrawal requests.
-
+[.text-justify]
 Throughout May 2022, as Celsius’s employees openly expressed the view that Celsius was a “sinking ship” without a plan, Mr. Mashinsky continued to assure customers that all was well at Celsius. On May 11, 2022, both Celsius and Mr. Mashinsky posted on Twitter that “All user funds are safe.” That same day, Mr. Mashinsky posted that “Celsius has not experienced any significant losses and all funds are safe.” At the beginning of the May 13, 2022 AMA, he stated “Celsius is stronger than ever.”
-
+[.text-justify]
 Celsius also continued to focus on growth, attempting to attract additional deposits by offering promo codes and reassurances about its liquidity. In a May 27, 2022 AMA, Celsius offered rewards for referring friends to Celsius. On May 29, 2022, Mr. Mashinsky offered to pay $1,000 to one new Celsius customer that week.
-
+[.text-justify]
 In early June 2022, Mr. Mashinsky continued to publicly represent that customers’ crypto assets were safe at Celsius. He pushed promo and referral codes to attract new customers. But on June 5, 2022, a report appeared that Stakehound lost the keys to 35,000 of Celsius’s ETH one year earlier in May 2021—a loss that Celsius had not previously made public. In response to those reports, between June 7 and 10, 2022, Celsius published a series of blog posts and continued to livestream AMAs in which it continued to emphasize its core themes of transparency and liquidity. Mr. Mashinsky told a June 10 AMA audience that Celsius had “billions” in liquidity. Behind the scenes, on June 9, 2022, the Risk Committee reported that additional withdrawals would deplete Celsius’s liquidity.
-
+[.text-justify]
 By June 12, 2022, Celsius was forced to pause all withdrawals. One month later, on July 12, 2022, Celsius filed its chapter 11 petition. Celsius’s former Vice President of Treasury summed up Celsius’s problems as follows: “Pay unsustainable yields so you can grow AUM [assets under management], forcing you to take on more risk, experience losses bc of those risks + bad controls / judgment and you are where you are.”
 
 *Celsius’s Use Of New Customer Assets To Fund Withdrawals.*
-
+[.text-justify]
 The Court directed the Examiner to investigate “whether the Debtors used new deposits being made by customers to make payments or otherwise meet obligations to existing customers at a time when the Debtors had no other sources (whether liquid or which could have been monetized) from which to make such payments or meet such obligations.”
-
+[.text-justify]
 To address this question, the Examiner assessed Celsius’s liquidity in the time period leading up to the pause of customer withdrawals. Celsius ranked its assets based on their ability to be liquidated within certain time frames. Assets ranked in Tier 1 were capable of being liquidated immediately and assets ranked in Tiers 5 and 6 were considered illiquid because only a small percentage of deployments in these tiers could be unwound. Assets in Tiers 2, 3, and 4 were capable of being liquidated in one day, two to three days, and four to seven days respectively.
-
+[.text-justify]
 The Examiner reviewed all coin types and then for each coin category, the percentage of assets within each tier, as categorized by Celsius, and included all assets under management. The charts below depict the liquidity shortfall in respective tiers over all coins between February 28 and June 20, 2022.
 
 [.text-center]
 *ALL COIN LIQUIDITY ($)*
 
-image::media/ch09-pillay-img07.png[]
+image::media/ch09-pillay-img07.png[align=center]
 
+[.text-justify]
 Note: This chart reflects all coins comprising Celsius AUM (excluding CEL and custody assets) measured in dollars, in Liquidity Tiers 1, 1-3, and 1-4 as reflected in Celsius’s records.
 
 [.text-center]
 *ALL COIN LIQUIDITY (%)*
 
-image::media/ch09-pillay-img08.png[]
+image::media/ch09-pillay-img08.png[align=center]
 
+[.text-justify]
 Note: This chart reflects all coins comprising Celsius AUM (excluding CEL and custody assets) measured as a percentage of all coins in AUM, in Liquidity Tiers 1, 1-3, and 1-4 as reflected in Celsius’s records.
-
+[.text-justify]
 As these charts demonstrate, due in part to the billion-dollar hole in its balance sheet, Celsius lacked liquidity to cover anticipated future withdrawals, and its remaining liquid assets were being quickly depleted. If Celsius had not instituted the Pause and the run on the bank continued, new customer deposits inevitably would have become the only liquid source of coins for Celsius to fund withdrawals.
-
+[.text-justify]
 But as of the Pause, Celsius appeared to satisfy the withdrawal requests from the commingled pool of crypto assets under management. In some instances, however, between June 9 and June 12, Celsius did directly use new customer deposits to fund customer withdrawal requests. The detail regarding these transactions is set forth in the Report. The Examiner’s identification of the instances where Celsius directly used new customer deposits to fund customer withdrawals is not a comprehensive or exhaustive list of all transactions for all time periods.
 
 *Celsius Mining’s Utility Obligations.*
-
+[.text-justify]
 The Examiner also was tasked with investigating the “current status of the utility obligations of Celsius’s Bitcoin mining business.” Celsius Mining LLC (“Celsius Mining”) conducts its Bitcoin mining at sites operated by third-party hosts and at sites it owns and operates. The fees it pays its third-party mining hosts include utility charges. Celsius Mining pays utilities directly for the sites it owns and operates.
-
+[.text-justify]
 Celsius Mining’s unpaid utility-related bills total $13,982,152. Of this amount, $8,381,830 consists of post-petition amounts owed to one of its mining hosts that are disputed. The remaining balance of $5,600,322 consists of pre-petition invoices that are either disputed or that were not paid due to the bankruptcy filing. Celsius Mining’s mining hosts, however, also hold prepayment balances totaling $46,809,756, which may be available to offset Celsius Mining’s obligations.
 
 *Celsius’s Use, Value Added, And Sale Tax Obligations.*
-
+[.text-justify]
 The Examiner’s investigation into Celsius’s “procedures for paying sales taxes, use taxes and value added taxes” uncovered significant tax compliance deficiencies. Celsius did not employ any dedicated tax professionals for the first three years of its existence. Once Celsius established a tax department in June 2021, its professionals failed to institute the necessary systems and procedures to ensure that its operating subsidiaries complied with their use tax and value added tax (“VAT”) obligations on a timely basis. The result is that Celsius Mining owed $16.5 million in use taxes as of the Petition Date and may owe $6.6 million in use taxes after the Petition Date. In addition, Celsius Network Limited (“Celsius Network (UK)”), a United Kingdom private limited company, which until August 2021 operated Celsius’s customer-facing network business, has reserved $3.7 million for its potential VAT liability.
-
+[.text-justify]
 Celsius Mining incurs significant use tax liabilities, primarily when deploying mining rigs in the United States that it purchased from foreign vendors that do not collect sales tax as part of the transactions and when there is no available tax exemption or exclusion. When Celsius Mining deploys those mining rigs (i.e., starts operating the mining rigs), it must pay use tax to the jurisdiction in which the mining rigs will be operated. Celsius Mining also has the potential to incur additional use tax when it moves mining rigs from one jurisdiction to another.
-
+[.text-justify]
 With respect to use taxes, the Examiner’s investigation revealed that Celsius and Celsius Mining lacked adequate systems and procedures to track and to timely pay use taxes when due. These failures, however, did not create use tax compliance failures until 2022. Prior to 2022, Celsius Mining’s use tax obligations were satisfied by either paying sales tax to its United States vendors when no exemptions or exclusions were available or relying on its data center host, Core Scientific, Inc., to identify and obtain the appropriate exemptions.
-
+[.text-justify]
 That changed in 2022 when Celsius Mining began purchasing mining rigs from foreign vendors that did not collect sales taxes, triggering the obligation to pay use taxes. Although contemporaneous emails and other documents demonstrate that questions were raised at the end of 2021 and throughout the spring of 2022 about the need to address use tax issues with respect to the foreign-sourced mining rigs that were expected to be deployed in 2022, no one in Celsius’s tax department took responsibility for ensuring that Celsius Mining was addressing its use tax obligations. As a result, neither Celsius Mining nor Celsius’s tax department applied for relevant use tax exemptions in Pennsylvania and Georgia—the two states in which Celsius Mining deployed foreign-purchased mining rigs before the bankruptcy filing. Lior Koren, Celsius’s most senior tax professional, told the Examiner that it was “unknown to [him]” how or why Celsius Mining did not apply for use tax exemptions on a timely basis. Celsius’s tax professionals are attempting to mitigate the consequences of this failure, but if those efforts are unsuccessful, Celsius Mining will owe  ubstantial pre-petition use taxes.
-
+[.text-justify]
 Celsius Mining’s lack of coordination with Celsius’s tax department continued even after June 2022, when Mr. Morgan told the Examiner he first believed he had responsibility for ensuring Celsius Mining’s compliance with its use tax obligations. After the filing of the bankruptcy cases, Celsius Mining deployed foreign-sourced mining rigs in Texas, triggering an estimated $6.6 million in use tax liabilities. Celsius’s tax professionals are now working after the fact to address this liability, which has not been paid.
-
+[.text-justify]
 With respect to Celsius Network (UK)’s VAT liability, in 2021, Celsius engaged Mazars to advise on its VAT obligations. Celsius Network (UK) did not receive its first letter from Mazars about its obligation to register with the United Kingdom’s tax authority, HM Revenue & Customs (“HMRC”) and pay VAT until January 14, 2022—two years after it first met the threshold to register with HMRC and pay VAT. Celsius explains this delay by pointing to the fact that its first tax professional was not on board until June 2021.
-
+[.text-justify]
 Based on Mazar’s advice, Celsius Network (UK) believes that it was not required to register with the United Kingdom’s applicable taxing authority until January 2020 and that Celsius Network (UK) owes approximately $1.085 million in VAT for its business activities between January 1, 2020 and July 31, 2021. Celsius Network (UK) is now working with Mazars to complete its registration, and it intends to file a VAT return and seek mitigation of any late penalties associated with the VAT it owes. Celsius Network (UK) has obtained professional advice that its activities no longer trigger VAT obligations because it transferred its customer-facing business to a U.S. entity in August 2021. 
 
 *III. Investigative Steps.*
-
+[.text-justify]
 The Examiner’s Final Report is the culmination of her review of voluminous data and records, as well as information gathered during interviews of current and former Celsius employees, customers, and vendors. The Examiner also met with numerous interested parties, including representatives of Celsius, the Unsecured Creditors’ Committee, state and federal regulatory agencies, and the ad hoc committees from whom she gathered relevant information.
 
 &period;&period;&period;&period; +
 &period;&period;&period;&period;
 
-
+[.text-justify]
 [[sec_pillay_footnote_1]]
 [1] Order Approving the Appointment of Chapter 11 Examiner dated September 29, 2022, In re Celsius Network LLC, Case No. 22-10964 (MG) [Dkt. 923]; Order Directing Appointment of an Examiner Pursuant to Section 1104(c) of the Bankruptcy Code dated September 14, 2022, In re Celsius Network LLC, Case No. 22-10964 (MG) [Dkt. 820] (“Examiner Order”). Unless otherwise indicated, all references to the “Dkt.” are to filings found on the docket for the lead case, In re Celsius Network LLC, Case No. 22-10964 (MG). +
 Debtors in this case are Celsius Network LLC; Celsius KeyFi LLC; Celsius Lending LLC; Celsius Mining LLC; Celsius Network Inc.; Celsius Network Limited; Celsius Networks Lending LLC; Celsius US Holding LLC; GK8 Ltd.; GK8 UK Limited; and GK8 USA LLC. For ease of reference, this Report uses “Celsius” to include Celsius Network LLC and its affiliated debtors and debtors-in-possession.
 [[sec_pillay_footnote_2]]
 [2] Examiner Order at ¶ 16.
 [[sec_pillay_footnote_3]]
+[.text-justify]
 [3] Examiner’s Motion to Confirm Examination Scope or Alternatively for Expansion of the Scope of the Examination dated October 18, 2022 [Dkt. 1112].
 [[sec_pillay_footnote_4]]
+[.text-justify]
 [4] Order Approving Examiner’s Motion to Confirm Examination Scope or Alternatively For Expansion of the Scope of the Examination dated November 1, 2022 [Dkt. 1260] (“Order Approving Examiner’s Motion”).
 [[sec_pillay_footnote_5]]
 [5] Hearing Transcript (November 1, 2022), at 80:14-18.
 [[sec_pillay_footnote_6]]
+[.text-justify]
 [6] Stipulation and Agreed Order Modifying the Scope of Examiner Order dated November 14, 2022 [Dkt. 1343] (“Stipulation and Agreed Order”).
 [[sec_pillay_footnote_7]]
 [7] Examiner Order at ¶ 3.
@@ -736,8 +858,14 @@ Debtors in this case are Celsius Network LLC; Celsius KeyFi LLC; Celsius Lending
 [[sec_pillay_footnote_12]]
 [12] Id. at ¶ 3.
 [[sec_pillay_footnote_13]]
+[.text-justify]
 [13] Interim Report Of Shoba Pillay, Examiner dated November 19, 2022 [Dkt. 1411] (“Examiner’s Interim Report”).
-____
+- - -
 
 === Discussion Questions ===
 . At what point should a company like Celsius inform customers that the company can not meet its obligations?
+
+////
+# Examiner Report on CELSIUS NETWORK LLC, et al. Section End
+#<<<<<<<<<<
+////

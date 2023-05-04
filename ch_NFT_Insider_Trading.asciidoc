@@ -1,12 +1,25 @@
 = Cryptocurrency and NFT Insider Trading Chapter =
 
 
+
+////
+#>>>>>>>>>>
+###################################################################################################
+# First Ever Digital Asset Insider Trading Scheme
+# Department of Justice U.S. Attorney’s Office Southern District of New York (2022)
+# https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme
+#
+#
+#
+#
+#
+#
+#################################################################################################
+////
+
+
 [[doj_insider_trading]]
 == Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme ==
-////
-Department of Justice U.S. Attorney’s Office Southern District of New York, 
-‘Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme’ (2022) <https://www.justice.gov/usao-sdny/pr/former-employee-nft-marketplace-charged-first-ever-digital-asset-insider-trading-scheme> accessed July 12, 2022] 
-////
 
 [.text-right]
 _Department of Justice, June 1, 2022 +
@@ -57,12 +70,28 @@ The charges contained in the Indictment are merely accusations, and the defendan
 
 . Do NFTs have to be considered securities for a charge of insider trading to make sense?  Can you have insider trading with baseball cards or artworks?
 
-== Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case == 
+////
+# First Ever Digital Asset Insider Trading Scheme Section End
+#<<<<<<<<<<
+////
+
 
 ////
-Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case, 
-<https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case> ==
+#>>>>>>>>>>
+###################################################################################################
+### Former Coinbase Insider Pleads Guilty
+# Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case
+# https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case
+#
+#
+#
+#
+#
+#################################################################################################
 ////
+
+[[nft_insider_pleads_guilty]]
+== Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case == 
 
 [.text-right]
 _Department of Justice, February 7, 2023 +

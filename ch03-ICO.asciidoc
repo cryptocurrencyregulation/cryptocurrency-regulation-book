@@ -1,11 +1,19 @@
 [role="pagenumrestart"]
 = Initial Coin Offerings and Token Sales Chapter =
 
+
 ////
 ###################################################################################################
 # The Dao Report
 # https://www.sec.gov/litigation/investreport/34-81207.pdf
-###################################################################################################
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
 ////
 [[ico_dao]]
 == The Dao Report ==
@@ -434,16 +442,32 @@ Regulation ATS pursuant to Rule 301(a) of Regulation ATS. See 17 C.F.R. §§ 240
 
 - - -
 
+
+
 [[ico_dao_questions]]
 === Discussion Questions ===
 [.text-justify]
 . placeholder for questions
 
 ////
+# ICO DAO SECTION END
+#<<<<<<<<<<
+////
+
+
+////
 ###################################################################################################
 ### Zachary Coburn
-###################################################################################################
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
 ////
+[[ico_coburn]]
 == In the Matter of Zachary Coburn ==
 
 [.text-right]
@@ -698,10 +722,24 @@ _ _ _
 . If Coburn had just created a smart contract on the blockchain enabling trading of ERC20 tokens and had not created a centralized off chain trading pairs website, would he have still violated the SEC's interpretation of the securities laws? 
 
 ////
+# Coburn Section End
+#<<<<<<<<<<
+////
+
+
+////
 ###################################################################################################
 ### When Howey Met Gary
-###################################################################################################
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
 ////
+
 [[ico_howey]]
 == Digital Asset Transactions: When Howey Met Gary (Plastic) ==
 
@@ -780,11 +818,23 @@ _ _ _
 . Bill Hinman stated that he wanted to discuss when a token that is originally created as a security is no longer a security.  Does this phrasing make sense to you?  Does this transition make sense?
 
 
+////
+# Howey Section End
+#<<<<<<<<<<
+////
+
 
 ////
 ###################################################################################################
 ### Turnkey Jet Letter
-###################################################################################################
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
 ////
 
 [[ico_turnkey]]
@@ -834,10 +884,24 @@ Division of Corporation Finance
 . Placeholder Question
 
 ////
+# Turnkey Letter Section End
+#<<<<<<<<<<
+////
+
+
+////
 ###################################################################################################
 ### SEC v. LBRy, Inc.
-###################################################################################################
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
 ////
+
 
 [[ico_sec_v_lbry]] 
 == SEC v. LBRy, Inc. ==
@@ -1037,4 +1101,9 @@ United States District Judge +
 . In LBRY, some of the token purchases were made with consumptive intent and some token purchases were made with investment intent, does the proportion of the purchases for investment vs. consumption matter for the Howey test?  
 . Would it make a difference for the Howey test if there were other organizations beyond LBRY promoting the LBC token?  
 . Could LBRY have applied Bill Hinman's reasoning to argue that even though LBC was originally a security, it was no longer a security by the time of the SEC action, similar to Ethereum? 
+
+////
+# LBRY Section End
+#<<<<<<<<<<
+////
 

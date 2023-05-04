@@ -1,5 +1,23 @@
 = Cryptocurrency Mixer Chapter =
 
+
+
+
+////
+#>>>>>>>>>>
+###################################################################################################
+# U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats
+#
+#
+#
+#
+#
+#
+#
+#################################################################################################
+////
+
+[[mixer_dprk]]
 == U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats ==
 
 
@@ -54,6 +72,30 @@ As a result of today's action, all property and interests in property of the ent
 [.text-justify]
 . Mixers enhance privacy and hide information.  Governments which wish to control the monetary system prefer a lack of privacy.  Should mixers be against the law?  Should a mixer be against the law if a majority of the users are criminals?  What if only some of the users are criminals? 
 
+
+
+////
+# U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats Section End
+#<<<<<<<<<<
+////
+
+
+
+
+////
+#>>>>>>>>>>
+###################################################################################################
+### U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash
+#
+#
+#
+#
+#
+#
+#
+#################################################################################################
+////
+[[mixer_tornado]]
 == U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash ==
 
 [.text-right]
@@ -105,3 +147,8 @@ For information on complying with virtual currency sanctions, see OFAC’s Sanct
 === Discussion Questions ===
 [.text-justify]
 . Placeholder Question
+
+////
+# U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash Section End
+#<<<<<<<<<<
+////

@@ -4,6 +4,18 @@
 
 On October 31, 2008, a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" was published on the internet under the alias of Satoshi Nakamoto. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.
 
+////
+###################################################################################################
+# Bitcoin White Paper
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
+////
 [[bitcoin_whitepaper]]
 == Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.] ==
 [.text-right]
@@ -118,6 +130,25 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 [.text-justify]
 Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
+
+////
+# Bitcoin White Paper
+#<<<<<<<<<<
+////
+
+
+////
+###################################################################################################
+# Wright v. McCormack
+#
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
+////
 
 [[wright_v_mccormack]]
 == Satoshi Nakamoto Pseudonym footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
@@ -318,3 +349,7 @@ entertainment bookings service. He published something defamatory of the claiman
 [.text-justify]
 1. Satoshi Nakamoto's posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", more information at https://www.bookofsatoshi.com/.  Do the activities of Dr. Wright seem compatible with the writings collected in that book? 
 2. Does this case answer the question as to whether Dr. Wright is the person behind the identity of Satoshi Nakamoto?
+////
+# Wright v. McCormack
+#<<<<<<<<<<
+////

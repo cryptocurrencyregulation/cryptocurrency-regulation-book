@@ -1,1 +1,613 @@
 = Pyramid Schemes and Fraud Chapter =
+
+
+////
+#>>>>>>>>>>
+###################################################################################################
+# Coindeal
+#
+# SEC v. Chandran et al. (Case No. 2:23-cv-10017), 
+# https://www.sec.gov/litigation/complaints/2023/comp-pr2023-2.pdf
+#
+#
+#
+#
+#################################################################################################
+////
+[[fraud_coindeal]]
+== CoinDeal Charged with Fraud ==
+
+[.text-right]
+_SEC v. Chandran et al. +
+Case No. 2:23-cv-10017_
+
+
+- - -
+
+[.text-center]
+*UNITED STATES DISTRICT COURT +
+EASTERN DISTRICT OF MICHIGAN*
+
+[cols="1,2,1,2,1", width=100%, frame=none, grid=none]
+|===
+|&nbsp;
+|&nbsp; +
+UNITED STATES SECURITIES +
+AND EXCHANGE COMMISSION, +
+&nbsp; +
+&emsp;&emsp;&emsp;Plaintiff, +
+&nbsp; +
+&emsp;&emsp;&emsp;v. +
+&nbsp; +
+NEIL S. CHANDRAN, +
+GARRY J. DAVIDSON, +
+MICHAEL T. GLASPIE, +
+LINDA C. KNOTT, +
+AMY S. MOSSEL, +
+AEO PUBLISHING INC., +
+BANNER CO-OP, INC., and +
+BANNERSGO, LLC, +
+&nbsp; +
+&emsp;&emsp;&emsp;Defendants.
+|&nbsp;
+|&nbsp; +
+&nbsp; +
+Case No. 2:23-cv-10017 +
+&nbsp; +
+Hon. +
+&nbsp; +
+JURY TRIAL DEMANDED
+|&nbsp;
+|===
+
+[.text-center]
+[underline]#*COMPLAINT*#
+
+Plaintiff, the United States Securities and Exchange Commission (“SEC”), alleges as follows:
+
+[.text-center]
+[underline]#*SUMMARY OF ACTION*#
+
+[.text-justify]
+. This case concerns a brazen and far-reaching unregistered offering fraud conducted between at least 2018 and 2022 by Defendants Neil Chandran, Garry Davidson, Michael Glaspie, Linda Knott, Amy Mossel, Banner Co-Op, Inc. (“Banner Co-Op”), BannersGo, LLC (“BannersGo”), and AEO Publishing Inc. (“AEO Publishing”). 
+. Chandran, a recidivist securities law violator and convicted felon, claimed to own a unique blockchain technology that was on the verge of being sold for trillions of dollars to a group of reputable billionaire buyers (“CoinDeal”). Chandran further claimed his business required interim financial support until the sale transaction closed. Together with and through other named Defendants, Chandran targeted mostly unsophisticated investors with false and misleading promises and representations that investments in CoinDeal would soon yield extremely high returns from the imminent sale of his business. Ultimately, there was no sale, and no distribution of proceeds, because CoinDeal was a sham.
+. Given his criminal record, Chandran incentivized others such as Davidson (an investor in a prior Chandran scheme) and Glaspie (recruited by Davidson) to help raise funds for CoinDeal by soliciting public investment.
+. Glaspie, an online promoter, raised large sums for CoinDeal from tens of thousands of investors in multiple states and countries. As part of his promotional campaign, Glaspie knowingly or recklessly disseminated false information about CoinDeal that he received from Chandran via Davidson, including information concerning the supposed value and timeline of the sale transaction, as well as the purported involvement of prominent business people, financial institutions and governmental departments or agencies. Glaspie regularly communicated such false information to investors through near-daily written updates and weekly teleconferences, in which Davidson occasionally participated. 
+. Glaspie made additional misrepresentations and engaged in other fraudulent conduct, including by: creating and publicizing astronomical payout scales that ranged from multi-million dollar returns for investments of $1,000 or less, to returns in excess of $50 billion for investments of $100,000; offering referral bonuses to entice investors to recruit others to participate in CoinDeal; and personally guaranteeing to refund investors with 7% interest should CoinDeal not come to fruition.
+. Knott, who invested in CoinDeal through Glaspie and engaged in her own promotional activity, similarly fabricated payout scales with conspicuous rates of return and knowingly or recklessly disseminated false information about CoinDeal when soliciting prospective investors.
+. Chandran, Davidson, Glaspie (with substantial assistance from his wife, Mossel, and her business entity, AEO Publishing) and Knott raised over $45 million through the fraudulent CoinDeal offering. Investor funds typically flowed into financial accounts held by Glaspie’s entities, Banner Co-Op and BannersGo, were then transferred to accounts controlled by Davidson, and ultimately routed to accounts controlled by Chandran. Knott pooled investor funds she raised, which totaled at least $749,000, before periodically transferring amounts to Glaspie. Neither Knott, Glaspie nor Davidson transferred all CoinDeal investor funds upstream – rather, each diverted investor funds for personal use along the way.
+. Collectively, Chandran, Davidson, Glaspie, and Knott misappropriated tens of millions of dollars of investor funds for personal use and diverted funds to individuals and entities unrelated to CoinDeal, including Mossel and AEO Publishing.
+. As a result of their conduct, Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo intentionally, knowingly, or recklessly committed securities fraud and offered and sold unregistered securities. Mossel and AEO Publishing aided and abetted Glaspie’s violations.
+. Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated Sections 5(a), 5(c), and 17(a) of the Securities Act of 1933 (the “Securities Act”) [15 U.S.C. §§ 77e(a), 77e(c), and 77q(a)] and Section 10(b) of the Securities Exchange Act of 1934 (the “Exchange Act”) [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. § 240.10b-5].
+. Pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77o(b)] and Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)], Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo aided and abetted Chandran’s violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+. Pursuant to Section 15(b) of the Securities Act and Section 20(e) of the Exchange Act, AEO Publishing and Mossel aided and abetted Glaspie’s violations of Sections 5(a), 5(c), and 17(a) of the Securities Act and Section 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+. The SEC brings this lawsuit to prevent further harm to investors and to seek disgorgement, civil penalties, officer and director bars, permanent injunctions, and conduct-based injunctions stemming from the Defendants’ wrongdoing.
+. Unless the Defendants are permanently restrained and enjoined, they will continue to engage in the acts, practices, and courses of business set forth in this Complaint and in acts, practices, and courses of business of similar type and object.
+
+[.text-center]
+[underline]#*JURISDICTION AND VENUE*#
+[start=15]
+[.text-justify]
+. The Court has jurisdiction over this action pursuant to Sections 20(b) and 22(a) of the Securities Act [15 U.S.C. §§ 77t(b) and 77v(a)], and Sections 21(d) and 27(a) of the Exchange Act [15 U.S.C. §§78u(d) and 78aa(a)].
+. Venue is proper in this judicial district pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)] and Section 27(a) of the Exchange Act [15 U.S.C. § 78aa(a)], because many of the acts, transactions and courses of business constituting the violations alleged in this Complaint occurred within the jurisdiction of this district. 
+. In connection with the conduct alleged in this Complaint, the Defendants, directly and indirectly, have made use of the mails and/or means or instrumentalities of transportation or communication in interstate commerce.
+
+[.text-center]
+[underline]#*DEFENDANTS*#
+[start=18]
+[.text-justify]
+. *Neil S. Chandran*, age 51, is currently imprisoned in Nebraska while awaiting trial. Chandran resided in California and Nevada during the relevant time period. Chandran managed at least four entities under the umbrella name Virse: ViMarket, Inc., ViDelivery, Inc., Studio Vi, Inc., and Free Vi Lab (collectively, the “Chandran Entities”). In 2006, California’s Department of Corporations ordered Chandran to desist and refrain from offering or selling securities in California. In 2015, the Alberta Securities Commission sanctioned Chandran and his company for engaging in unregistered trading and illegal securities offerings and fined him $460,000 CAD. In 2016, the Ontario Securities Commission entered a reciprocal order against Chandran, banning him from trading in securities and soliciting investors to trade in securities. In 2018, Chandran pled guilty to grand larceny and securities fraud in the state of New York and was ordered to pay $2,868,000. In June 2022, the Department of Justice (“DOJ”) indicted Chandran for wire fraud and money laundering in connection with the CoinDeal scheme and obtained a court-ordered freeze of his assets. Chandran does not hold any securities licenses and has never registered with the SEC. 
+. *Garry J. Davidson*, age 68, resides in Henderson, Nevada. Davidson previously invested in another of Chandran’s purported business ventures and facilitated investments and payments in connection with CoinDeal and the Chandran Entities. In June 2022, the Alabama Securities Commission (“ASC”) ordered Davidson to cease and desist from offering or selling securities in Alabama due to his involvement with CoinDeal. Davidson does not hold any securities licenses and has never registered with the SEC.
+. *Michael T. Glaspie*, age 71, resides in Palm City, Florida. Glaspie controls BannersGo, LLC and Banner Co-Op, Inc. (collectively, the “Glaspie Entities”). In January 2020, Michigan’s Department of Licensing and Regulatory Affairs (“LARA”) ordered Glaspie to cease and desist from offering or selling unregistered securities in Michigan due to his involvement with CoinDeal. In June 2020, Glaspie agreed to cease and desist and pay a $15,000 fine; however, in October 2021, the Michigan Department of Attorney General obtained an injunction against Glaspie due to his ongoing violations of the June 2020 cease-and-desist order. More recently, in June 2022, the ASC ordered Glaspie to cease and desist from offering or selling securities in Alabama due to his involvement with CoinDeal. Glaspie does not hold any securities licenses and has never registered with the SEC. 
+. *Linda C. Knott*, age 57, resides in Oklahoma City, Oklahoma. Knott acted as a downstream promoter for CoinDeal and raised investor funds through her d/b/a entity, Together We Profit. In April 2022, LARA ordered Knott to cease and desist from offering or selling unregistered securities in Michigan due to her involvement with CoinDeal. In August 2022, Knott agreed to cease and desist and pay a $10,000 fine. Knott does not hold any securities licenses and has never registered with the SEC.
+. *Amy Mossel*, age 55, resides in Palm City, Florida. Mossel is married to Glaspie. Mossel controls AEO Publishing Inc. Mossel assisted Glaspie in disseminating information to the public regarding CoinDeal and collecting investor funds. Mossel does not hold any securities licenses and has never registered with the SEC.
+. *AEO Publishing* is a Delaware corporation formed in March 2000 with its principal place of business in Palm City, Florida. Mossel is the sole officer and director of AEO Publishing, an online publishing company. Mossel used AEO Publishing to collect investor funds. AEO Publishing has never registered with the SEC.
+. *Banner Co-Op* is a Delaware corporation formed in August 1998 with its principal place of business in Highland, Michigan. Glaspie is the president of Banner Co-Op, an internet services company. In January 2020, LARA ordered Banner Co-Op to cease and desist from offering or selling unregistered securities in Michigan due to its involvement with CoinDeal. In June 2020, Banner Co-Op agreed to cease and desist and pay a $15,000 fine; however, in October 2021, the Michigan Department of Attorney General obtained an injunction against Banner Co-Op due to its ongoing violations of the June 2020 cease and desist order. More recently, in June 2022, the ASC ordered Banner Co-Op to cease and desist from offering or selling securities in Alabama due to its involvement with CoinDeal. Banner Co-Op has never registered with the SEC.
+. *BannersGo* is a Michigan limited liability company formed in December 2019 with its principal place of business in Highland, Michigan. Glaspie organized BannersGo as an internet services company. BannersGo has never registered with the SEC.
+
+[.text-center]
+[underline]#*FACTS*#
+[.text-center]
+[underline]#*Chandran Created the “CoinDeal” Scheme*#
+[start=26]
+[.text-justify]
+. From at least 2018, Chandran repeatedly touted an investment opportunity that supposedly revolved around valuable blockchain technology he was far along in the process of selling to a group of wealthy buyers at a trillion-dollar valuation. Chandran sought short-term funding for business operating expenses during the completion of the purported sale process and promised investors substantial returns once the sale closed. This investment opportunity later became widely known to investors as “CoinDeal.” 
+. In reality, CoinDeal was merely the most recent iteration of Chandran’s prior fraudulent schemes. No such buyer group existed, there was no impending sale, and Chandran was incapable of producing the astronomical returns he promised.
+. Given the public record of his legal troubles, Chandran sought to utilize others to solicit investors on his behalf. Chandran turned to Davidson, an investor in one of his prior schemes who remained in contact with Chandran in hopes of recouping his prior investment. Davidson agreed to find others to invest, financially motivated by Chandran’s offer to pay him increased returns based on the amount he could raise.
+
+[.text-center]
+[underline]#*Davidson Recruited Glaspie and Served as a Go-Between for Chandran*#
+[start=29]
+[.text-justify]
+. Davidson sought avenues for fundraising and identified Glaspie through an internet search. In or around mid-2018, Davidson contacted Glaspie, based on Glaspie’s substantial online presence and reputed success with internet multi-level marketing programs.
+. Davidson presented the CoinDeal opportunity to Glaspie. Davidson described it as debt financing for a company involved with cryptocurrency and artificial intelligence that was pending sale. Davidson made Glaspie aware of Chandran’s involvement and offered Glaspie substantial returns.
+. Davidson and Glaspie had never met or spoken prior to this initial contact by Davidson. Nonetheless, Glaspie decided to invest and solicit others to invest in CoinDeal without conducting any independent research or other due diligence on Chandran, Davidson, or CoinDeal.
+. Specifically, Davidson and Glaspie agreed to solicit investments in CoinDeal from Glaspie’s expansive network of internet marketing contacts and to transfer monies raised from investors to Chandran and/or the Chandran Entities.
+. From 2018 to 2022, Davidson relayed information that he received from Chandran about CoinDeal to Glaspie to facilitate Glaspie’s solicitation efforts.
+. Chandran regularly used encrypted email, text messages, and phone calls to share with Davidson false and misleading information concerning CoinDeal. Chandran typically provided status updates on the supposed deal, including but not limited to: the involvement of foreign central banks and the United States Department of Homeland Security; the latest board meetings of the consortium of wealthy buyers; the role of certain political figures; and the causes of “temporary” delays to the sale closing. These updates were designed to lull investors and induce them to continue investing in CoinDeal. 
+. To distribute information received from Chandran via encrypted message, Davidson typically would copy and paste the latest supposed update regarding CoinDeal to an unencrypted email message to Glaspie.
+. Glaspie would then include the information received from Davidson in written and/or oral communications with investors and potential investors, such as “CoinDeal Updates” that were made available online and via email, and discussed during teleconferences.
+. For example, Chandran (cryptovirutal@hushmail.com) sent an encrypted email to Davidson (kgd526@gmail.com) on February 28, 2019, with the subject line: “Elite Sponsors : Statement Registration Requires Sign Off in SF ; Traveling to Obtain for Close of Business PST.”
+
+[align=center]
+image::media/ch03-coindeal-01.png[75%,75%]
+
+[start=38]
+[.text-justify]
+. On the same day, February 28, 2019, Davidson sent Glaspie an unencrypted email regarding an “update” with the information he had copied from Chandran’s email. As shown below, the email included information regarding the same subject of Chandran’s previous email, including travel to San Francisco for “statement registration”:
+
+[align=center]
+image::media/ch03-coindeal-02.png[75%,75%]
+
+[start=39]
+[.text-justify]
+. The very next day, in a March 1, 2019 “CoinDeal Update” communication, Glaspie shared with investors the same information he had received from Davidson the day before concerning “statement registration” in San Francisco:
+
+[align=center]
+image::media/ch03-coindeal-03.png[50%,50%]
+
+[start=40]
+[.text-justify]
+. The above-described pattern of communication between Chandran and Davidson, followed by communication between Davidson and Glaspie, followed by a CoinDeal investor update from Glapsie to investors, occurred regularly in the course of the CoinDeal offering.
+
+[.text-center]
+[underline]#*Chandran, Davidson, and Glaspie Offered CoinDeal to Investors Through Glaspie’s Network*#
+[start=41]
+[.text-justify]
+. In or around January 2019, Glaspie began promoting the CoinDeal opportunity during weekly teleconferences that included over 100,000 invitees from his network of contacts. Glaspie explained that an unnamed Canadian resident had a very valuable (but anonymous) artificial intelligence and cryptocurrency company that was preparing for an imminent sale to a group of billionaire buyers. Glaspie further explained that the Canadian resident was unable to obtain conventional financing due to prior legal issues. Glaspie did not reveal that this unnamed individual was Chandran, and he also failed to disclose that this individual had a criminal history in the United States.
+. Davidson participated in certain of these weekly teleconferences alongside Glaspie. Glaspie explained to investors that Davidson brought the opportunity to Glaspie and described him as a representative of CoinDeal. For example, during teleconferences held on March 7, 2020, and August 5, 2020, Glaspie referred to Davidson as a CoinDeal trustee.
+. In or around January 2019, Glaspie also began making online posts and disseminating emails to solicit CoinDeal investments. The online posts and emails included materially false and misleading updates on CoinDeal based on information Glaspie received from Chandran via Davidson and a payout scale that promised investors outsized returns based on a given investment amount.
+. To attract prospective investors, Glaspie created his own payout scale using Chandran’s astronomical valuations of CoinDeal. Glaspie utilized a tiered payout scale by offering a higher return for larger investment amounts. As set forth below, Glaspie offered increasingly extravagant returns that grew from 10 times the investment amount in his updates from early 2019 to 500,000 times the investment amount in updates from late 2021.
+
+[.text-center]
+[underline]#*To Lure Investors, CoinDeal’s Premise Was Little Ventured, Much Gained*#
+[start=45]
+[.text-justify]
+. In promoting CoinDeal, Glaspie anticipated that large numbers of investors would jump at the opportunity to obtain a life-changing financial reward, particularly if it did not require much outlay of capital. Thus, despite having no legitimate basis for doing so, Glaspie published online dozens of different high rates of return that continued to grow over time to encourage investment in CoinDeal, even when the supposedly imminent transaction had yet to occur. Based on these promised payouts, investors were misled to expect millions and potentially billions in return for a comparatively small, short-term investment.
+
+. For example, on June 12, 2019, Glaspie published online a promise to pay returns of 20-to-1 (2000%) on investments in CoinDeal:
+
+[align=center]
+image::media/ch03-coindeal-04.png[50%,50%]
+
+[start=47]
+[.text-justify]
+. On August 28, 2020, Glaspie published online CoinDeal payout terms ranging from $750,000 for a mere $250 investment to as high as $1 billion for a $100,000 investment:
+
+[align=center]
+image::media/ch03-coindeal-05.png[50%,50%]
+
+[start=48]
+[.text-justify]
+. On September 9, 2020 (less than two weeks later), Glaspie published online increased CoinDeal payout terms and offered even higher payouts for higher investment amounts, including over $2 billion for a $100,000 investment:
+
+[align=center]
+image::media/ch03-coindeal-06.png[50%,50%]
+
+[start=49]
+[.text-justify]
+. The following month, on October 19, 2020, Glaspie again published online increased CoinDeal payout terms, ranging from at least $1.5 million for a mere $250 investment to over $4 billion for a $100,000 investment:
+
+[align=center]
+image::media/ch03-coindeal-07.png[50%,50%]
+
+[start=50]
+[.text-justify]
+. On June 25, 2021, Glaspie published online CoinDeal payout terms that were far more extravagant, ranging from at least $12.5 million for a $500 investment to as high as $56.25 billion, plus a high-end luxury automobile, for a $100,000 investment: 
+
+[align=center]
+image::media/ch03-coindeal-08.png[50%,50%]
+
+[start=51]
+[.text-justify]
+. By promising ever-escalating high rates of return, based on false valuation information from Chandran (via Davidson), Glaspie was able to create and maintain investor interest in CoinDeal, even when the supposed deal failed to close on the short-term time horizons advertised to investors.
+
+[.text-center]
+[underline]#*Chandran, Davidson, and Glaspie Repeatedly Fabricated Excuses for Why CoinDeal’s Closing Was Delayed*#
+[start=52]
+[.text-justify]
+. During the CoinDeal offering, Chandran, Davidson, and Glaspie repeatedly represented that CoinDeal was on the cusp of closing, purposefully misleading current and prospective investors to believe they could receive a large payout in a matter of days or weeks, not months or years.
+. For example, on March 21, 2019, Glaspie stated in his online update that he expected CoinDeal to close later that day.
+. On May 8, 2019, Glaspie stated in his online update that he expected CoinDeal to close the following day.
+. On October 2, 2019, Glaspie stated in his online update that CoinDeal was expected to close that night.
+. On April 11, 2020, Glaspie stated in his online update that CoinDeal would be closing within three days.
+. On January 11, 2021, Glaspie stated in his online update that CoinDeal would be closing by January 13, 2021.
+. Without disclosing his full name, Chandran participated in at least one teleconference hosted by Glaspie on October 24, 2020, and told investors that CoinDeal’s closing was only a week or two away.
+. CoinDeal, however, never existed and thus, by design, the deal never closed. Glaspie, based on information from Chandran (via Davidson), provided a continuous string of excuses for why closing did not occur. For example, on February 22, 2019, Glaspie falsely claimed in an online post that CoinDeal’s closing had been delayed due to a vendor company declaring bankruptcy:
+
+[align=center]
+image::media/ch03-coindeal-09.png[50%,50%]
+
+[start=60]
+[.text-justify]
+. On April 16, 2019, Glaspie falsely claimed in an online post that closing of CoinDeal had been delayed because a South Korean bank involved in the deal required in-person signatures in Hawaii:
+
+[align=center]
+image::media/ch03-coindeal-10.png[50%,50%]
+
+[start=61]
+[.text-justify]
+. On May 7, 2019, Glaspie falsely claimed in an online post that CoinDeal’s closing was delayed because an engineer familiar with the company systems was sick:
+
+[align=center]
+image::media/ch03-coindeal-11.png[50%,50%]
+
+[start=62]
+[.text-justify]
+. On July 24, 2019, Glaspie falsely claimed in an online post that closing was somehow delayed due to an issue involving the number of smart phones being supplied by a vendor:
+
+[align=center]
+image::media/ch03-coindeal-12.png[50%,50%]
+
+[start=63]
+[.text-justify]
+. During the CoinDeal offering, Glaspie provided other, similarly false and misleading explanations, based on information from Chandran (via Davidson), for why the closing of CoinDeal was delayed but remained imminent, in order to lull investors and induce them to continue investing in CoinDeal.
+
+[.text-center]
+[underline]#*Chandran, Davidson, and Glaspie Provided Investors With Additional False Information Regarding CoinDeal*#
+[start=64]
+[.text-justify]
+. Throughout the relevant time period, prospective investors were constantly flooded with opportunities to invest in CoinDeal. Glaspie continued hosting weekly teleconferences and disseminating written updates on a near-daily basis (and occasionally multiple times in one day) to promote CoinDeal and solicit funds until 2022.
+. In addition to false statements about the expected profitability of the CoinDeal transaction, related false promises of outsized investment returns, and myriad false excuses for why CoinDeal had not yet closed, Glaspie and Davidson directly made various other material misrepresentations to investors and prospective investors.
+. For example, based on information from Chandran, Davidson falsely stated, during a teleconference on March 6, 2021, that Billionaire 1 and Billionaire 2 were each under consideration as the potential CEO for the CoinDeal business enterprise. Billionaire 1 is the founder and executive chairman of a large online retailing company. Billionaire 2 is the CEO of an electric car company. During the same teleconference, Davidson falsely stated that CoinDeal had a market capitalization of $50 trillion.
+. Based on information from Chandran (via Davidson), Glaspie similarly falsely stated in his June 7, 2021 online update that Billionaire 1 was a member of the billionaire buyers’ group that planned to purchase one or more Chandran Entities:
+
+[align=center]
+image::media/ch03-coindeal-13.png[50%,50%]
+
+[start=68]
+[.text-justify]
+. Based on information from Chandran (via Davidson), Glaspie falsely stated during a February 20, 2021 teleconference that Billionaire 2 was also a member of the buyers’ group that planned to purchase one or more Chandran Entities.
+. Glaspie also falsely claimed that he was under a strict non-disclosure agreement, which prevented him from disclosing the name of the seller, the names of the buyers, and the name of the company. In reality, this was merely another ruse to avoid scrutiny, as no such non-disclosure agreement existed.
+. Glaspie went so far as to falsely deny Chandran’s involvement. When investors asked Glaspie whether Chandran was the seller behind CoinDeal, Glaspie denied Chandran’s role in the scheme.
+. For example, on or about August 19, 2021, a prospective CoinDeal investor shared a link containing information about Chandran’s 2018 criminal charges and asked Glaspie to “confirm that Neil Chandran is NOT the seller of this transaction.” In response, Glaspie denied that Chandran was involved, admonished the individual for “spreading rumors,” and further stated: “Please make this the last email on this topic [as] I just don[’]t have time for this disrupting email.”
+. By way of further example, on or about September 3, 2021, Glaspie again denied Chandran’s involvement in CoinDeal to a prospective investor. On this occasion, the concerned individual told Glaspie: “I have been doing some digging around the internet. Some people say that ‘Neil’ the owner, is actually convicted fraudster Neil Chandran. Please tell me that’s not true.” The individual further described finding “red flags” when searching Chandran’s name on the internet. In response, Glaspie stated: “[W]here these rumors start is a mystery to me. The owner is NOT the man u think he is.”
+. Glaspie also lured investors through false guarantees to investors that he would repay all amounts invested in CoinDeal with 7% interest within three years if the CoinDeal sale transaction did not occur. In reality, Glaspie did not have the financial resources to make any such guarantee. 
+. For instance, on November 16, 2020, Glaspie published online in a written update his guarantee to pay 7% interest on all amounts invested in CoinDeal.
+
+[align=center]
+image::media/ch03-coindeal-14.png[50%,50%]
+
+[start=75]
+[.text-justify]
+. To entice further investment, Glaspie offered referral bonuses for investors who raised additional funds.
+. For example, Glaspie published online a 25% referral bonus offer in his October 19, 2020 update:
+
+[align=center]
+image::media/ch03-coindeal-15.png[50%,50%]
+
+[start=77]
+[.text-justify]
+. Similarly, on November 16, 2020, Glaspie published online in a written update his offer of a 25% referral bonus for bringing new investors to CoinDeal:
+
+[align=center]
+image::media/ch03-coindeal-16.png[50%,50%]
+
+[.text-center]
+[underline]#*CoinDeal Investor Funds Flowed Through the Glaspie Entities to Davidson, Chandran, and the Chandran Entities*#
+[start=78]
+[.text-justify]
+. At Glaspie’s direction, investors participated in the CoinDeal offering through the Glaspie Entities.
+. Glaspie instructed investors to send payments for CoinDeal investments to bank accounts in the name of his entities, Banner Co-Op and BannersGo, which he promised to investors he would pass along to Davidson for CoinDeal.
+. The Glaspie Entities received CoinDeal investor funds at certain bank institutions, some of which were located in Michigan. Investors’ funds were commingled and transferred to other accounts controlled by Glaspie and his wife, Mossel, including accounts in the name of Mossel’s company, AEO Publishing.
+. At Davidson’s instruction, Glaspie and/or Mossel caused the transfer of investor funds, held in accounts in the name of the Glaspie Entities and AEO Publishing, to specified bank accounts controlled by Davidson.
+. At Chandran’s direction, Davidson transferred the funds upstream to Chandran, the Chandran Entities, and Chandran’s associates.
+. Certain funds were also transferred directly from the Glaspie Entities to Chandran and the Chandran Entities following the closure of certain of Davidson’s bank accounts.
+. From 2019 to 2022, Glaspie, through the Glaspie Entities, raised over $45 million, as well additional amounts via crypto assets, from thousands of CoinDeal investors from multiple states and countries.
+
+[.text-center]
+[underline]#*Defendants Misappropriated Investor Funds*#
+[start=85]
+[.text-justify]
+. Defendants failed to disclose to investors that funds invested in CoinDeal would be used for purposes unrelated to CoinDeal.
+. Chandran received at least $37 million in investor funds for CoinDeal. Chandran and the Chandran Entities misappropriated investors’ funds to purchase, among other items, a fleet of luxury vehicles, various real estate properties in California and Nevada, and a boat.
+. The Glaspie Entities were controlled by Glaspie, and, unbeknownst to investors, he determined how investor funds would be used upon receipt, including for his own personal use. Glaspie, through the Glaspie Entities, misappropriated approximately $5.9 million or more by transferring investor funds to other accounts that he and Mossel controlled that were unrelated to CoinDeal and by directly paying his and Mossel’s personal expenses. Glaspie used investors’ funds to contribute over $100,000 to an insurance policy for his son and to contribute $800,000 to an annuity policy in Mossel’s name. Glaspie also used investor funds to cover operating expenses for the Glaspie Entities and transferred millions to his associates to pay salaries and for other business ventures.
+. Davidson misappropriated at least $3 million of investors’ funds. Among other misuse of investor funds, Davidson purchased a $150,000 mobile home and used investor funds for personal living expenses.
+
+[.text-center]
+[underline]#*Mossel and AEO Publishing Substantially Assisted the CoinDeal Scheme*#
+[start=89]
+[.text-justify]
+. Mossel was aware of Glaspie’s efforts to raise funds for CoinDeal and substantially assisted him in furthering the scheme.
+. Glaspie typically dictated his investor updates regarding CoinDeal to Mossel who would then post the updates online and circulate them via email. Mossel knew, recklessly disregarded, should have known, or consciously avoided knowing that the information and promises contained in Glaspie’s online updates were false and misleading.
+. Mossel served as a bookkeeper for the Glaspie Entities. Mossel issued invoices to CoinDeal investors on behalf of the Glaspie Entities and collected and commingled investor funds in bank accounts held in the name of Banner Co-Op, BannersGo, and her own company, AEO Publishing.
+. In her role as bookkeeper, Mossel regularly communicated with investors regarding the amount of their investments and potential payouts.
+. Mossel also transferred investor funds to Davidson and the Chandran Entities.
+. Glaspie and Mossel diverted at least $1 million of investors’ funds to Mossel and AEO Publishing.
+
+[.text-center]
+[underline]#*Knott Also Engaged in the CoinDeal Offering Fraud Through Her Own Promotional Activities*#
+[start=89]
+[.text-justify]
+. Glaspie’s widespread marketing of CoinDeal and his offer of referral bonuses attracted promoters who established their own investor groups. These promoters would pool investor funds to reach higher levels on Glaspie’s tiered payout scale and obtain larger referral bonuses. One such promoter was Linda Knott.
+. In February 2021, Knott learned of CoinDeal through one of Glaspie’s teleconferences and decided to invest $1,000. Knott did not know of Glaspie before listening to the teleconference, and Knott did not conduct any independent research on Glaspie or CoinDeal before investing.
+. After learning of the aforementioned payout scale and referral bonuses promised by Glaspie, Knott started collecting funds for CoinDeal through an investor group called Together We Profit.
+. Together We Profit was a loose arrangement of individuals interested in participating in CoinDeal. Knott instructed members to send funds to accounts controlled by Knott, which she represented would be transferred to Glaspie for investing in CoinDeal. During the relevant time period, Together We Profit grew to approximately 10,000 members from multiple states and countries.
+. Similar to Glaspie, Knott disseminated email updates and hosted teleconferences concerning CoinDeal.
+. In written updates and during teleconferences with current and potential investors, Knott repeated misrepresentations made in Glaspie’s written CoinDeal updates and teleconferences, including misrepresentations regarding the involvement of prominent billionaire buyers.
+. Knott also repeated Glaspie’s baseless guarantee that CoinDeal investors would receive a full refund with 7% interest if the sale did not occur.
+. Knott facilitated investment by lowering the barrier to entry for CoinDeal by allowing prospective investors to participate for as little as $27, which was lower than the amounts permitted by Glaspie.
+. Knott created and disseminated her own payout scale to attract investors, including in emails and online posts in October and November 2021. Knott’s advertised payout scale grew over time from payouts of $500,000 for each $27 investment, to payouts of $14 million for each $27 investment.
+. During 2021, Knott raised at least $749,000 in fiat currency and additional amounts in crypto currency from thousands of investors from multiple states, including Michigan, and multiple countries.
+. While Knott assured investors she would transmit all of their funds to CoinDeal, that was false. She enriched herself by misappropriating approximately $79,000 or more for personal use and purposes unrelated to CoinDeal.
+
+[.text-center]
+[underline]#*Defendants Continued the Fraudulent CoinDeal Offering Even After State Authorities Ordered Them to Cease and Desist*#
+[start=106]
+[.text-justify]
+. In January 2020, LARA ordered Glaspie and Banner Co-Op to cease and desist from offering or selling unregistered securities in Michigan in connection with CoinDeal. In June 2020, Glaspie settled by agreeing to cease and desist and paying a $15,000 fine.
+. Nevertheless, Glaspie continued offering and selling securities to investors in Michigan for CoinDeal.
+. In October 2021, the Michigan Department of Attorney General obtained an injunction against Glaspie and Banner Co-Op for their failure to abide by the June 2020 consent order. The judgment prohibited Glaspie and Banner Co-Op from continuing to solicit funds from and offering investment opportunities to Michigan residents.
+. On June 1, 2022, the Alabama Securities Commission ordered Glaspie, Davidson, and Banner Co-Op to cease and desist from offering or selling securities in Alabama.
+. Despite these actions by state regulatory authorities, Glaspie and Davidson continued to accept investor funds.
+. In 2021, Knott became aware of LARA’s cease-and-desist order and received warnings from a Glaspie associate about the legal ramifications of accepting funds from Michigan investors. Nonetheless, Knott created a workaround.
+. In September 2021, Knott addressed prospective Michigan investors and informed them that she, in lieu of Glaspie, would accept their funds for a higher fee ($30) through a separate company she had created:
+
+[align=center]
+image::media/ch03-coindeal-17.png[66%,66%]
+
+[start=113]
+[.text-justify]
+. In April 2022, LARA ordered Knott d/b/a Together We Profit to cease and desist from offering or selling unregistered securities in Michigan. In August 2022, Knott stipulated to a cease-and-desist order and a $10,000 fine.
+
+[.text-center]
+[underline]#*The CoinDeal Scheme Collapses*#
+[start=114]
+[.text-justify]
+. In June 2022, the CoinDeal scheme largely collapsed when the DOJ indicted Chandran for wire fraud and money laundering violations and froze his assets. USA v. Chandran, Case No. 22-cr-03077 (D. Neb. 2022). The indictment described a scheme to defraud carried out by Chandran, in which he caused others to solicit funds from investors based on the false and misleading portrayal that their investments would soon yield extremely high returns upon the purchase of one or more of his entities by a wealthy buyer group. 
+. Even after Chandran’s arrest, Glaspie continued to lull investors with confounding rationalizations about the purported legitimacy and ongoing viability of CoinDeal. For example, on June 30, 2022, Glaspie published online the following update:
+
+[align=center]
+image::media/ch03-coindeal-18.png[50%,50%]
+[align=center]
+image::media/ch03-coindeal-19.png[50%,50%]
+
+[start=116]
+[.text-justify]
+. On July 15, 2022, Glaspie published online another false and misleading update:
+
+[align=center]
+image::media/ch03-coindeal-20.png[60%,60%]
+
+[start=117]
+[.text-justify]
+. The vast majority of CoinDeal investors have not received the return of their principal investment amounts, and no investors have received any promised profits on their investments.
+. Chandran, Glaspie, and Mossel declined to testify during the SEC’s investigation, invoking their Fifth Amendment right against self-incrimination.
+
+[.text-center]
+[underline]#*Unregistered Securities Offerings*#
+[start=119]
+[.text-justify]
+. As set forth above, the Defendants offered and sold CoinDeal investments and raised over $45 million from investors in multiple states and countries.
+. The Defendants recruited potential investors through teleconferences, online posts, and email.
+. The Defendants made no efforts to assess potential investors’ sophistication or accreditation status, and unaccredited investors participated in the CoinDeal offering. Many investors had no preexisting relationship with the Defendants.
+. The Defendants represented to CoinDeal investors that they would pool the money raised from investors and use it to cover operating or per diem expenses for CoinDeal.
+. CoinDeal investors did not exercise any control or authority over the operations of CoinDeal. Chandran exercised ultimate control and authority over CoinDeal, and investors relied on his purported managerial skills, along with the efforts of Davidson, Glaspie, and Knott, to provide a return on their investment. 
+. The Defendants used interstate commerce when they offered and sold CoinDeal investments in multiple states and countries by, among other things, corresponding with potential investors via email and teleconferences and receiving investor funds via interstate wire transfers.
+. The CoinDeal investments offered and sold by the Defendants were securities.
+. No registration statement was ever filed with the SEC or has ever been in effect with respect to any offers and sales of CoinDeal investments.
+
+[.text-center]
+*COUNT I +
+Violations of Section 17(a) of the Securities Act +
+[15 U.S.C. § 77q(a)] +
+[underline]#(Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=127]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference as though fully set forth herein.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, in the offer and sale of securities, by the use of the means and instruments of transportation or communication in interstate commerce or by use of the mails, directly or indirectly, (i) employed devices, schemes and artifices to defraud; (ii) obtained money and property by means of untrue statements of material facts and omissions to state material facts necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and (iii) engaged in transactions, practices, and courses of business which operated or would operate as a fraud or deceit upon the purchasers of such securities. 129. Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo acted intentionally, knowingly, recklessly, or negligently, in engaging in the conduct described above.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)].
+
+[.text-center]
+*COUNT II +
+Violations of Section 10(b) of the Exchange Act +
+and Exchange Act Rule 10b-5 +
+[15 U.S.C. § 78j(b) and 17 C.F.R. 240.10b-5] +
+[underline]#(Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=131]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, in connection with the purchase and sale of securities, by the use of the means and instrumentalities of interstate commerce and by the use of the mails, directly and indirectly, (i) employed devices, schemes and artifices to defraud; (ii) made untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices and courses of business which operated or would have operated as a fraud and deceit upon purchasers of securities and upon other persons. 
+. Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo acted intentionally, knowingly, or recklessly, in engaging in the fraudulent conduct described above.
+. Through the foregoing, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. 240.10b-5].
+
+[.text-center]
+*COUNT III +
+Violations of Section 5(a) and (c) of the Securities Act +
+[15 U.S.C. § 77e(a) and (c)] +
+[underline]#(Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=135]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. From in or about 2019 through in or about 2022, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, directly or indirectly, as to CoinDeal securities: (a) made use of the means or instruments of transportation or communication in interstate commerce or of the mails to sell securities through the use or medium of a prospectus or otherwise; or carried securities or caused such securities to be carried through the mails or in interstate commerce, by means or instruments of transportation, for the purpose of sale or delivery after sale; and (b) made use of the means or instruments of transportation or communication in interstate commerce or of the mails to offer to sell or to offer to buy, through the use or medium of any prospectus or otherwise, securities without a registration statement having been filed with the SEC or being in effect as to such securities. 
+. No registration statements were filed with the SEC or were in effect in connection with offers or sales of CoinDeal securities by Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo, and no exemption from the registration requirements applied to sales by Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo.
+. By engaging in the conduct described above, Defendants Chandran, Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo violated, and unless restrained and enjoined are reasonably likely to continue to violate Sections 5(a) and (c) of the Securities Act [15 U.S.C. §§ 77e(a) and (c)].
+
+[.text-center]
+*COUNT IV +
+Aiding and Abetting Violations of +
+Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5(b) +
+[15 U.S.C. § 78j(b) and 17 C.F.R. 240.10b-5] +
+[underline]#(Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo)#*
+[start=139]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Chandran, directly or indirectly, in connection with the purchase and sale of CoinDeal securities, by the use of the means and instrumentalities of interstate commerce and by the use of the mails, intentionally, knowingly, or recklessly made untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading. 
+. By engaging in the conduct described, Defendant Chandran violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5(b) thereunder [17 C.F.R. 240.10b-5].
+. Defendants Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo intentionally, knowingly, or recklessly provided substantial assistance to Defendant Chandran.
+. By reason of the foregoing, Defendants Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo aided and abetted the violations of Section 10(b) of the Exchange Act and Rule 10b-5(b) thereunder by Defendant Chandran and, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)], Defendants Davidson, Glaspie, Knott, Banner Co-Op, and BannersGo are liable to the same extent as Defendant Chandran for his violations of Sections 10(b) of the Exchange Act and Rule 10b-5(b) thereunder.
+
+[.text-center]
+*COUNT V +
+Aiding and Abetting Violations of +
+Section 17(a) of the Securities Act +
+[15 U.S.C. § 77q(a)] +
+[underline]#(Mossel and AEO Publishing)#*
+[start=144]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Glaspie, directly or indirectly, in the offer and sale of CoinDeal securities by the use of the means and instruments of transportation or communication in interstate commerce or by use of the mails, intentionally, knowingly, recklessly, or negligently, (i) employed devices, schemes and artifices to defraud; (ii) obtained money and property by means of untrue statements of material facts and omissions to state material facts necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading; and (iii) engaged in transactions, practices, and courses of business which operated or would operate as a fraud or deceit upon the purchasers of such securities.
+. By engaging in the conduct described, Defendant Glaspie violated Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)].
+. Defendants Mossel and AEO Publishing intentionally, knowingly, or recklessly provided substantial assistance to Defendant Glaspie.
+. By reason of the foregoing, Defendants Mossel and AEO Publishing aided and abetted the violations of Section 17(a) of the Securities Act, by Defendant Glaspie and, pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77o(b)], Defendants Mossel and AEO Publishing are liable to the same extent as Defendant Glaspie for his violations of Section 17(a) of the Securities Act.
+
+[.text-center]
+*COUNT VI +
+Aiding and Abetting Violations of +
+Section 10(b) of the Exchange Act and Exchange Act Rule 10b-5 +
+[15 U.S.C. § 78j(b) and 17 C.F.R. 240.10b-5] +
+[underline]#(Mossel and AEO Publishing)#*
+[start=149]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Glaspie, directly or indirectly, in connection with the purchase and sale of CoinDeal securities, by the use of the means and instrumentalities of interstate commerce and by the use of the mails, intentionally, knowingly, or recklessly, (i) employed devices, schemes and artifices to defraud; (ii) made untrue statements of material fact and omitted to state material facts necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading; and (iii) engaged in acts, practices and courses of business which operated or would have operated as a fraud and deceit upon purchasers of securities and upon other persons.
+. By engaging in the conduct described, Defendant Glaspie violated Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 C.F.R. 240.10b-5].
+. Defendants Mossel and AEO Publishing intentionally, knowingly, or recklessly provided substantial assistance to Defendant Glaspie.
+. By reason of the foregoing, Defendants Mossel and AEO Publishing aided and abetted the violations of Section 10(b) of the Exchange Act and Rule 10b-5 thereunder by Defendant Glaspie and, pursuant to Section 20(e) of the Exchange Act [15 U.S.C. § 78t(e)], Defendants Mossel and AEO Publishing are liable to the same extent as Defendant Glaspie for his violations of Sections 10(b) of the Exchange Act and Rule 10b-5 thereunder.
+
+[.text-center]
+*COUNT VII +
+Aiding and Abetting Violations of +
+Sections 5(a) and (c) of the Securities Act +
+[15 U.S.C. §§ 77e(a) and (c)] +
+[underline]#(Mossel and AEO Publishing)#*
+[start=154]
+[.text-justify]
+. Paragraphs 1 through 126 are realleged and incorporated by reference.
+. As described above, Defendant Glaspie offered and sold CoinDeal securities when no registration statements were filed with the SEC or were in effect in connection with offers or sales of such securities, and no exemption from the registration requirements applied to Defendant Glaspie’s sales.
+. By engaging in this conduct, Defendant Glaspie violated Sections 5(a) and (c) of the Securities Act [15 U.S.C. §§ 77e(a) and (c)].
+. Defendants Mossel and AEO Publishing intentionally, knowingly, or recklessly provided substantial assistance to the unregistered offers and sales by Defendant Glaspie.
+. By reason of the foregoing, Defendants Mossel and AEO Publishing aided and abetted the violations of Section 5(a) and 5(c) of the Securities Act, by Defendant Glaspie and, pursuant to Section 15(b) of the Securities Act [15 U.S.C. § 77o(b)], Defendants Mossel and AEO Publishing are liable to the same extent as Defendant Glaspie for his violations of Sections 5(a) and (c) of the Securities Act.
+
+[.text-center]
+[underline]#*RELIEF REQUESTED*#
+
+THEREFORE, the SEC requests that this Court:
+[upperroman]
+[.text-justify]
+. &nbsp; +
+Permanently enjoin Defendants, their officers, agents, servants, employees, attorneys and those persons in active concert or participation with Defendants who receive actual notice of the order of this Court, by personal service or otherwise, and each of them from, directly or indirectly, engaging in the transactions, acts, practices or courses of business described above, or in conduct of similar purport and object, in violation of Section 17(a) of the Securities Act [15 U.S.C. § 77q(a)]; Section 10(b) of the Exchange Act [15 U.S.C. § 78j(b)] and Rule 10b-5 thereunder [17 CFR § 240.10b-5]; and Section 5 of the Securities Act [15 U.S.C. § 77e];
+. &nbsp; +
+Order Defendants to disgorge all ill-gotten gains and/or unjust enrichment received directly or indirectly, with pre-judgment interest thereon, as a result of the alleged violations, pursuant to Exchange Act Sections 21(d)(5) and 21(d)(7) [15 U.S.C. §§ 78u(d)(5) and 78u(d)(7)];
+. &nbsp; +
+Order Defendants to pay civil penalties pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)] and Section 21(d)(3) of the Exchange Act [15 U.S.C. § 78u(d)(3)];
+. &nbsp; +
+Enter an Order, pursuant to Section 21(d)(2) of the Exchange Act [15 U.S.C. § 78u(d)(2)] permanently prohibiting Defendants Chandran, Davidson, Glaspie, Knott, and Mossel from serving as an officer or director of any issuer that has a class of securities registered pursuant to Section 12 [15 U.S.C. § 78l] of the Exchange Act or that is required to file reports pursuant to Section 15(d) of the Exchange Act [15 U.S.C. § 78o(d)];
+. &nbsp; +
+Permanently enjoin Defendant Chandran from directly or indirectly, including, but not limited to, through any entity owned or controlled by Chandran, participating in the issuance, purchase, offer, or sale of any security; provided, however, that such injunction shall not prevent Chandran from purchasing or selling securities for his own personal account; and
+. &nbsp; +
+Grant any other relief this Court deems appropriate.
+
+[.text-center]
+*JURY DEMAND*
+[.text-justify]
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiff demands that this case be tried to a jury.
+
+[cols="1a,1a", width=100%, frame=none, grid=none]
+|===
+|Dated: January 4, 2023
+|Respectfully Submitted, +
+&nbsp; +
+*UNITED STATES SECURITIES AND EXCHANGE COMMISSION* +
+&nbsp; +
+[underline]#s/Michael D. Foster# +
+Michael D. Foster, Illinois Bar No. 6257063 +
+Dante A. Roldán, Illinois Bar No. 6316972 +
+Caryn Trombino, Illinois Bar No. 6284159 +
+U.S. Securities and Exchange Commission +
+Chicago Regional Office +
+175 West Jackson Blvd., Suite 1450 +
+Chicago, Illinois 60604 +
+(312) 353-7390 +
+(312) 353-7398 (facsimile) +
+FosterMi@sec.gov +
+RoldanD@sec.gov +
+TrombinoC@sec.gov +
+&nbsp; +
+Local Counsel: +
+DAWN N. ISON +
+United States Attorney +
+Eastern District of Michigan +
+KEVIN ERSKINE (P69120) +
+Assistant United States Attorney +
+Eastern District of Michigan +
+211 W. Fort Street, Ste. 2001 +
+Detroit, MI 48226 +
+Tel: (313) 226-9610 +
+Email: Kevin.Erskine@usdoj.gov +
+&nbsp; +
+Attorneys for Plaintiff
+|===
+
+- - -
+
+=== Discussion Questions ===
+. what should the question be?
+
+////
+# Coindeal SECTION END
+#<<<<<<<<<<
+////
+
+
+
+
+////
+#>>>>>>>>>>
+###################################################################################################
+### SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme
+#
+#
+#
+#
+#
+#
+#
+#################################################################################################
+////
+
+[[fraud_sec_pyramid]]
+== SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme ==
+
+[.text-right]
+_SEC Press Release +
+Release No. 2022-134_
+
+- - -
+
+[.lead]
+*Alleged Fraudulent Blockchain Scheme Spanned Multiple Countries Including U.S., Russia*
+
+[.text-justify]
+Washington D.C., Aug. 1, 2022 — The Securities and Exchange Commission today charged 11 individuals for their roles in creating and promoting Forsage, a fraudulent crypto pyramid and Ponzi scheme that raised more than $300 million from millions of retail investors worldwide, including in the United States. Those charged include the four founders of Forsage, who were last known to be living in Russia, the Republic of Georgia, and Indonesia, as well as three U.S.-based promoters engaged by the founders to endorse Forsage on its website and social media platforms, and several members of the so-called Crypto Crusaders—the largest promotional group for the scheme that operated in the United States from at least five different states.
+[.text-justify]
+According to the SEC’s complaint, in January 2020, Vladimir Okhotnikov, Jane Doe a/k/a Lola Ferrari, Mikhail Sergeev, and Sergey Maslakov launched Forsage.io, a website that allowed millions of retail investors to enter into transactions via smart contracts that operated on the Ethereum, Tron, and Binance blockchains. However, Forsage allegedly has operated as a pyramid scheme for more than two years, in which investors earned profits by recruiting others into the scheme.  Forsage also allegedly used assets from new investors to pay earlier investors in a typical Ponzi structure.
+[.text-justify]
+Despite cease-and-desist actions against Forsage for operating as a fraud in September 2020 by the Securities and Exchange Commission of the Philippines and in March 2021 by the Montana Commissioner of Securities and Insurance, the defendants allegedly continued to promote the scheme while denying the claims in several YouTube videos and by other means.
+[.text-justify]
+"As the complaint alleges, Forsage is a fraudulent pyramid scheme launched on a massive scale and aggressively marketed to investors," said Carolyn Welshhans, Acting Chief of the SEC’s Crypto Assets and Cyber Unit. "Fraudsters cannot circumvent the federal securities laws by focusing their schemes on smart contracts and blockchains."
+[.text-justify]
+In addition to charging the four founders, the complaint, filed in United States District Court in the Northern District of Illinois, also charges Cheri Beth Bowen, of Pelahatchie, Miss., Ronald R. Deering, of Coeur d’ Alene, Idaho, Samuel D. Ellis, of Louisville, Ky., Mark F. Hamlin, of Henrico, Va., Carlos L. Martinez, of Chicago, Ill., Alisha R. Shepperd, of Dunedin, Fla., and Sarah L. Theissen, of Hartford, Wis., with violating the registration and anti-fraud provisions of the federal securities laws. The SEC’s complaint seeks injunctive relief, disgorgement, and civil penalties.
+[.text-justify]
+Without admitting or denying the allegations, two of the defendants, Ellis and Theissen, agreed to settle the charges and to be permanently enjoined from future violations of the charged provisions and certain other activity. Additionally, Ellis agreed to pay disgorgement and civil penalties, and Theissen will be required to pay disgorgement and civil penalties as determined by the court. Both settlements are subject to court approval.
+[.text-justify]
+The SEC’s investigation was conducted by Liz Canizares and Pamela Sawhney of the Crypto Assets and Cyber Unit and supervised by Amy Friedman and Ms. Welshhans. The litigation is being conducted by Patrick Costello, Christopher Carney, Ms. Canizares, and Ms. Sawhney and supervised by Olivia Choe. The Commission appreciates the assistance of the Securities and Exchange Commission of the Philippines and the Montana Commissioner of Securities and Insurance.
+
+[frame=none, grid=none]
+|===
+^|*Foreign Defendants* ^|*Last known residence*
+^|Vladimir Okhotnikov ^|Tbilisi, Republic of Georgia
+^|Jane Doe a/k/a Lola Ferrari ^|Bali, Indonesia
+^|Mikail Sergeev ^|Moscow, Russia
+^|Sergey Maslakov ^|Moscow, Russia
+|===
+
+=== Discussion Questions ===
+. what should the question be?
+
+- - -
+
+////
+# SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme Section End
+#<<<<<<<<<<
+////
