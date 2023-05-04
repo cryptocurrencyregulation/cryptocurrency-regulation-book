@@ -1,5 +1,6 @@
 = Introduction =
 
 This book is intended as a textbook for a semester-length course on cryptocurrency regulation in the United States of America.  The textbook is intended for law students or graduate students studying cryptocurrency.  
+
 The focus of the textbook is on cryptocurrency regulation, and other topics should be supplemented by the instructor as necessary.  I provide some examples of how a course can be structured for a semester-length course based on my experience.  For example, if students need additional background materials on cryptocurrency technology, those topics are not covered in this book, but I do provide references to additional materials.  As another example, if students need additional background on some of the legal topics, I also provide references for those additional topics.
 
