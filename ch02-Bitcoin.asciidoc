@@ -2,7 +2,7 @@
 [[bitcoin_chapter]]
 = Bitcoin Chapter =
 
-On October 31, 2008, a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" was published on the internet under the alias of Satoshi Nakamoto. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.
+On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" in an internet forum. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.
 
 ////
 ###################################################################################################
