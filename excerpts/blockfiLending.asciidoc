@@ -162,8 +162,7 @@ image::media/blockfi_lending_image2.png[align=center]
 . BlockFi has undertaken to, within 60 days of the institution of the Order, come into compliance with Section 7(a) of the Investment Company Act by either: 
 .. Filing a notification of registration pursuant to Section 8(a) of the Investment Company Act, and then within 90 days of filing such notification of registration, filing a registration statement with the Commission, on the appropriate form; or 
 .. Completing steps such that BlockFi is no longer required to be registered under Section 7(a) of the Investment Company Act and providing the Commission staff with sufficient credible evidence that it is no longer required to be registered under the Investment Company Act.
-[none]
-The Commission staff may grant a single 30-day extension for good cause shown.
+&emsp;&nbsp; The Commission staff may grant a single 30-day extension for good cause shown.
 
 [.text-justify, start=44]
 . A Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield (or any similar product) will not be declared effective if, among other things, BlockFi Inc., or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, is not in compliance with Section 7(a) of the Investment Company Act. If a Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield is declared effective, BlockFi undertakes to, 180 days after the effectiveness date, provide the Commission staff with sufficient credible evidence to affirm that BlockFi, or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, continues to be in compliance with Section 7(a) of the Investment Company Act.
