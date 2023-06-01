@@ -1,6 +1,5 @@
 = Stablecoins =
 
-
 ////
 #>>>>>>>>>>
 ###################################################################################################
@@ -17,11 +16,15 @@
 [[oag_tether]]
 == Tether ==
 
-[.text-right]
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Office of the Attorney General of the State of New York, +
 February 23, 2021_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 
 ATTORNEY GENERAL OF THE STATE OF NEW YORK +
 INVESTOR PROTECTION BUREAU
@@ -291,16 +294,20 @@ Tether Limited, and Tether International Limited
 [[stablecoin_terraform_knwon]]
 == Terraform & Kwon (Kwonzi Scheme) ==
 
-[.text-right]
 
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _SEC v. Terraform &amp; Kwon, +
 Case No. 1:23-cv-01346_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 
 *UNITED STATES DISTRICT COURT*
 *SOUTHERN DISTRICT OF NEW YORK* 
-
+[width=100%, frame=none, grid=none]
 |===
 |&nbsp; +
 SECURITIES AND EXCHANGE COMMISSION, +
@@ -621,9 +628,8 @@ image::media/ch03_kwonzi_05.jpg[align=center]
 . Sometime in early 2020, Kwon and Terraform’s co-founder took steps to separate Terraform’s business from Chai.  Kwon took control of Terraform and moved its offices to a new location.  At the same time, the majority of Terraform’s employees began working solely for Terraform.  However, until approximately May 2022, Kwon continued to sit on Chai’s board and Defendants continued to represent publicly that Terraform was connected to Chai. 
 . From mid-2019 through at least March 2022, Defendants made numerous and repeated statements falsely representing that the “backend” of Chai transactions were being processed and settled using the Terraform blockchain.  Terraform and Kwon also falsely stated that Chai’s use of the Terraform blockchain provided incentives to both Korean merchants and consumers to use Chai for their transactions.  Specifically, Terraform and Kwon claimed that Chai’s use of the Terraform blockchain meant that merchants experienced faster processing times and lower transaction fees through Chai than through competitor mobile payment services providers.  Likewise, Terraform and Kwon maintained that Chai customers would benefit from additional consumer discounts flowing from the lower costs associated with Chai’s purported use of the Terraform blockchain.  With these misrepresentations, Terraform and Kwon misleadingly used Chai’s growth as a proxy for the growth and success of the Terraform ecosystem as a whole. 
 . Terraform and Kwon made these false and misleading statements in presentations to solicit investments in Terraform’s crypto asset securities, including LUNA, from investors and prospective investors in the U.S. and overseas.  In addition, Terraform made and disseminated these false and misleading statements in public interviews, Terraform-sponsored podcasts, and social media posts, which were available to U.S. investors and prospective investors.   
-. For instance, in a presentation aired on CNBC Africa that Terraform made available to U.S. investors when it posted it to YouTube on October 14, 2019, Kwon discussed Chai in depth, explaining:   
-[none]
-... [I]n the backend, it uses Terra’s blockchain technology to solve some major pain points and problems for the merchants. +
+. For instance, in a presentation aired on CNBC Africa that Terraform made available to U.S. investors when it posted it to YouTube on October 14, 2019, Kwon discussed Chai in depth, explaining: +
+[.quoteblock .text-justify]##[I]n the backend, it uses Terra’s blockchain technology to solve some major pain points and problems for the merchants. +
  &period; &period; &period; +
 But in the backend is where the real magic starts to happen. And I contend that Terra solves two of the biggest roadblocks to the adoption of digital payments in Asia and the rest of the world.  So the first is slow settlement periods. +
  &period; &period; &period; +
@@ -631,25 +637,22 @@ Terra settles in six seconds.  So every block for every transaction that has bee
  &period; &period; &period; +
 So in the thirteen weeks in which we have been operational, early response has been quite explosive.  Up - up to today we have had 430,000 shoppers over the Chai gateway, and most of them coming in the last month. And we’ve processed nearly 2,000,000 transactions up to date.  And we think that this number will continue to grow.  In terms of daily active users, Terra and Chai has already surpassed some of the most popular tokens.  Our daily active user numbers today currently stand at around 58,000 users. . . +
  &period; &period; &period; +
-So, basically what we are going for is to facilitate everyday retail transactions that are powered by Terra. 
+So, basically what we are going for is to facilitate everyday retail transactions that are powered by Terra.## 
 
 [start=129, role=text-justify]
 . In an email sent on February 6, 2020 directly to investors, including U.S.-based institutional investors, Kwon noted that “Chai sits at 1.18 million active accounts today, and we passed the 1M mark on Jan 14th.”  Similarly, on February 9, 2020, Kwon wrote in the Terra General Discord Channel chat accessible to the public that “[r]ight now Chai has 12 merchants, all of whom get settled in KRT on the Terraform blockchain.” 
 . Terraform provided a September 2020 investor slide deck to at least one U.S.based institutional investor, in which it touted the purported speed and efficiency of Chai in using the Terraform blockchain to process transactions.  One slide titled “Explosive adoption of payment solutions has generated Terra 16M in annualized fees” contained a chart of various crypto assets and associated that $16 million with “LUNA, Terra’s Native Token.”  Later slides in the deck also touted Chai’s success in promoting the investment opportunities of other Terraform crypto asset securities. 
-. In a series of Tweets posted on May 24, 2021 through @terra_money, Terraform again emphasized Chai’s use of the Terraform blockchain and highlighted its growth, stating:  
-[none]
-.. 17/ As long as we create useful applications that people use on top of Terra, the strong locus of demand will always exist. 
-.. 18/ And the use cases are already there. CHAI has more than 2 million active users in Korea. 
-. And on March 31, 2022, in an interview posted to the public YouTube channel Blockworks Macro, Kwon again touted Chai and its use of the Terraform blockchain: 
-[none]
-.. So, we've launched apps like Chai in Korea. And so, the idea was that we were close to retail loop with things that people can buy, and transact with using, you know, Terra payments. So, you could take it to most e-commerce merchants of your choice. I could go to movie theaters, convenience stores, and things like that. 
+. In a series of Tweets posted on May 24, 2021 through @terra_money, Terraform again emphasized Chai’s use of the Terraform blockchain and highlighted its growth, stating:  +
+[.quoteblock .text-justify]##17/ As long as we create useful applications that people use on top of Terra, the strong locus of demand will always exist. +
+18/ And the use cases are already there. CHAI has more than 2 million active users in Korea.##
+. And on March 31, 2022, in an interview posted to the public YouTube channel Blockworks Macro, Kwon again touted Chai and its use of the Terraform blockchain: +
+[.quoteblock .text-justify]##So, we've launched apps like Chai in Korea. And so, the idea was that we were close to retail loop with things that people can buy, and transact with using, you know, Terra payments. So, you could take it to most e-commerce merchants of your choice. I could go to movie theaters, convenience stores, and things like that.## 
 . In addition to making and disseminating these materially false and misleading statements, Terraform and Kwon engaged in other deceptive acts, including by entering transactions on the Terraform blockchain using “KRT” (yet another algorithmic stablecoin offered by Terraform that was pegged to Korean currency, Won), which purported to reflect Chai commercial transactions.  Specifically, from June 2019 through at least May 12, 2022, the Terraform blockchain appeared to reflect that Chai transactions were being settled on the blockchain in KRT, when, in fact, Chai payments were processed in Korean Won. 
 . To carry out this deception, Terraform programmed a server, which was referred to internally as the “LP Server,” to receive and process data about Chai transactions, and then issue instructions to the Terraform blockchain to replicate those transactions as if they had originally “settled” on the Terraform blockchain.   
 . Analysis of Terraform blockchain data reflects that, in replicating the Chai transactions, Terraform used one wallet address (“Terraform Master Wallet”) to fund up to 2.7 million other wallets.  Terraform controlled each of these wallets and used them to execute batched or “multisend” transfers that would replicate multiple Chai transactions together in a single transaction, using data received by the LP Server.  Analysis of Terraform blockchain data further reflects that Terraform used the Terraform Master Wallet to begin each batch of transactions that replicated the real transactions that Chai was processing in Korean Won. 
 . In statements to investors, Kwon has confirmed that the batched blockchain transactions that utilized this Terraform Master Wallet were purportedly connected to Chai (though he did not disclose that they merely replicated Chai transactions, which were not actually settled on the blockchain).  For instance, in a private Discord chat on June 22, 2019, Kwon told a small number of investors that Terraform blockchain transactions that are “multisend [are] pretty much all Chai.” 
-. To further his deception, Kwon “challenged” his Twitter followers to identify purported merchant wallet addresses from these replicated blockchain transactions.  Specifically, in a February 8, 2020 tweet posted through @stablekwon, Kwon challenged his followers to identify Chai merchant wallet addresses from the blockchain, posting: 
-[none]
-.. Fun thought: currently @terra_money payments app Chai is linked with 12 merchants in Korea.  Can anyone guess which wallet address belongs to which merchant?  First person to respond with the correct guess and explain reasoning get 5000 $LUNA. 
+. To further his deception, Kwon “challenged” his Twitter followers to identify purported merchant wallet addresses from these replicated blockchain transactions.  Specifically, in a February 8, 2020 tweet posted through @stablekwon, Kwon challenged his followers to identify Chai merchant wallet addresses from the blockchain, posting: +
+[.quoteblock .text-justify]##Fun thought: currently @terra_money payments app Chai is linked with 12 merchants in Korea.  Can anyone guess which wallet address belongs to which merchant?  First person to respond with the correct guess and explain reasoning get 5000 $LUNA.## 
 . At least one of Kwon’s Twitter followers purportedly accepted the challenge and searched the Terraform blockchain to match the follower’s real-world Chai app payments with transactions recorded on the blockchain.  As a result, the follower claimed to have discovered eleven of the twelve purported merchant wallet addresses.     
 . On February 9, 2020, Kwon posted a follow-up tweet falsely stating that the follower had correctly identified the Chai merchant wallets.  In fact, a blockchain analysis reveals that each identified transaction began with the Terraform Master Wallet and the purportedly identified merchant wallet addresses were controlled by Terraform. 
 . These Terraform blockchain transactions purporting to represent real Chai transactions were purely sham transactions.  An analysis of the blockchain indicates that virtually all the KRT used to fund the Terraform Master Wallet originated from other Terraform-controlled wallets, including a reserve of Terraform stablecoins, called Terraform SDR (SDT).  Similarly, virtually all the KRT used to replicate these Chai transactions remained in or was returned to Terraform-controlled wallets through at least May 12, 2022.  The analysis further reflects that, from June 2019 until at least May 2022, with very few exceptions, the wallet addresses used in Terraform Master Wallet transactions were used in no other transactions other than those initiated from the Terraform Master Wallet.  In other words, these blockchain transactions do not reflect real-world, arms-length transfers of KRT between consumers and merchants.  Instead, they reflect a closed system in which Terraform transferred KRT between millions of wallets that it controlled in order to replicate millions of transactions processed through Chai to make it appear that they had been processed and settled on the Terraform blockchain. 
@@ -660,9 +663,8 @@ So, basically what we are going for is to facilitate everyday retail transaction
 . As a founder and former director of Chai, Kwon (and through Kwon, Terraform) knew or were reckless in not knowing that Chai did not actually process or settle transactions on the Terraform blockchain.  Kwon personally wrote much of the Terraform blockchain code from its genesis through two version upgrades and was primarily responsible for Terraform’s coding and engineering strategy decisions.  At the time of Chai’s development and launch, Kwon held the most senior technical position at Terraform. 
 . Kwon knew or was reckless in not knowing that the LP Server was merely replicating Chai transaction data that had not actually occurred on the Terraform blockchain because Kwon directly supervised and instructed the Terraform employees who programmed the LP Server in the first instance.  Kwon also participated in technical discussions that required an understanding of how Chai transactions were reflected on the Terraform blockchain, including that they were batched in “multisend” transactions, and demonstrated knowledge of the location of Chai-related files in Terraform’s code repositories.  Kwon further demonstrated his understanding of the Chai transaction replication process by publicly confirming Terraform blockchain wallet addresses that purportedly belonged to Chai merchants.  
 . Defendants’ misleading statements and omissions, and their deceptive acts, with respect to the non-existent Chai transactions, were material to investors in Terraform’s crypto assets securities.  
-. Terraform and Kwon used these material misrepresentations about Chai to encourage and solicit investments by retail and institutional investors in Terraform crypto assets, including LUNA and wLUNA.  For example, in a June 19, 2020 blog post on Terraform’s Medium website, Terraform’s Head of Ecosystem Development directly tied Chai’s purported use of the Terraform blockchain to the returns to Terraform investors, writing:  
-[none]
-... In this piece we’d like to go beyond the numbers to reflect on the key role that transaction fees play in determining network value and security. The fundamental driver of transaction fees in the Terra network is the broad adoption of CHAI by consumers and merchants. 
+. Terraform and Kwon used these material misrepresentations about Chai to encourage and solicit investments by retail and institutional investors in Terraform crypto assets, including LUNA and wLUNA.  For example, in a June 19, 2020 blog post on Terraform’s Medium website, Terraform’s Head of Ecosystem Development directly tied Chai’s purported use of the Terraform blockchain to the returns to Terraform investors, writing:  +
+[.quoteblock .text-justify]##In this piece we’d like to go beyond the numbers to reflect on the key role that transaction fees play in determining network value and security. The fundamental driver of transaction fees in the Terra network is the broad adoption of CHAI by consumers and merchants.## 
 . Defendants’ efforts worked.  U.S.-based retail and institutional investors believed that Chai operated on the Terraform blockchain and found it significant in deciding to invest in Terraform crypto assets, including LUNA.  For example, on December 3, 2020, the CEO of a U.S. based institutional investor posted to Twitter: “Terra’s payment app Chai is up to 80k daily active users.  Koreans are fast adopters.  Watch this grow. $LUNA.”  On May 18, 2022, that same CEO posted a memo to Twitter purporting to explain the basis for investing in LUNA.  In the memo, the CEO highlighted as one significant factor, Chai’s use of the Terra blockchain, describing it as “crypto finding a real-world use case.” 
 . Similarly, in or around November 2021, Kwon and another Terraform employee approached another U.S.-based institutional investor to solicit that investor to purchase LUNA tokens.  In pitching the LUNA investment, Terraform and Kwon told the investor that the Terraform blockchain was being used to process Chai transactions.  The investor found this fact to be significant in deciding to invest with Terraform.  This investor specifically highlighted Chai’s purported transactions on the Terraform blockchain in the investor’s internal investment memorandum in early January 2022.  On or about January 24, 2022, that investor (through a foreign subsidiary) signed an agreement to purchase $57 million in LUNA tokens. 
 . From December 27, 2019, to March 10, 2022, U.S.-based institutional investors (either directly or through offshore affiliates) purchased approximately $656 million of LUNA tokens from Terraform (or a wholly-controlled subsidiary).  These institutional investors included hedge funds and venture capitalists based in California, New York, Massachusetts, Florida, and Washington D.C.  Similarly, from September 2021 through May 2022, retail investors, including investors in the U.S., purchased billions of dollars of LUNA and wLUNA on crypto asset trading platforms.   
@@ -685,22 +687,16 @@ image::media/ch03_kwonzi_06.jpg[align=center]
 . Those modifications were subsequently reduced to writing in a July 21, 2021 agreement signed by Kwon.  Under the terms of the modified agreement, U.S. Trading Firm received LUNA tokens at $0.40 per token, even during periods when LUNA was trading at more than $90 in the secondary market.   
 . The U.S. Trading Firm ultimately profited approximately $1.28 billion by selling LUNA acquired from Terraform under the terms of the 2019 and 2020 loan agreements, as modified.                
 . Almost immediately upon UST’s recovery in May 2021, Terraform and Kwon began to make materially misleading statements about how UST’s peg to the dollar was restored.  Specifically, Terraform and Kwon emphasized the purported effectiveness of the algorithm underlying UST in maintaining UST pegged to the dollar – misleadingly omitting the true cause of UST’s re-peg: the deliberate intervention by the U.S. Trading Firm to restore the peg.   
-. For instance, in May 23, 2021, Kwon posted a series of statements on his Twitter account @d0h0k1, including:   
-[none]
-.. 16/ Is $UST growth manipulated by Terraform Labs?   
-Nobody who’s used mirror or anchor could believe this – but just for clarification we currently hold only ~59M $UST. 
-.. Reminder that there’s currently over 2B in UST stablecoins. 
-.. . . . 
-.. Building pure, unbiased and decentralized money is the long game. . . 
-. Similarly, on May 24, 2021, Terraform tweeted the following from @terra_money:    
-[none]
-.. Plagued by the cumbersome nature of stress-induced decision-making of human agents in time of market volatility, it’s why central banks are exploring CBDCs.  Algorithmic, calibrated adjustments of economic parameters are more effective than faxes and suits in meetings. 
-. Kwon continued to make similar material misstatements over the course of the next year.  For instance, during a March 1, 2022 Twitter talk show, Kwon talked about UST’s de-peg in May 2021, stating:   
-[none]
-.. … it took a few days for the slippage cost to naturally heal back to spot. So that’s another feature of the market module where when the exchange rate has deviated from the peg, the protocol automatically self-heals the exchange rate back to whatever the spot price is being quoted by the oracle.  So that’s why it took several days for the peg to recover. 
-
-[none]
-. A transcript of that talk show was also posted to a publicly available website located at terraspaces.org, which was funded by Kwon. 
+. For instance, in May 23, 2021, Kwon posted a series of statements on his Twitter account @d0h0k1, including: +  
+[.quoteblock]##16/ Is $UST growth manipulated by Terraform Labs? Nobody who’s used mirror or anchor could believe this – but just for clarification we currently hold only ~59M $UST. +
+Reminder that there’s currently over 2B in UST stablecoins. + 
+&period; &period; &period;  + 
+Building pure, unbiased and decentralized money is the long game. . .##
+. Similarly, on May 24, 2021, Terraform tweeted the following from @terra_money: +   
+[.quoteblock]##Plagued by the cumbersome nature of stress-induced decision-making of human agents in time of market volatility, it’s why central banks are exploring CBDCs.  Algorithmic, calibrated adjustments of economic parameters are more effective than faxes and suits in meetings.## 
+. Kwon continued to make similar material misstatements over the course of the next year.  For instance, during a March 1, 2022 Twitter talk show, Kwon talked about UST’s de-peg in May 2021, stating:   +
+[.quoteblock]##… it took a few days for the slippage cost to naturally heal back to spot. So that’s another feature of the market module where when the exchange rate has deviated from the peg, the protocol automatically self-heals the exchange rate back to whatever the spot price is being quoted by the oracle.  So that’s why it took several days for the peg to recover.## +
+A transcript of that talk show was also posted to a publicly available website located at terraspaces.org, which was funded by Kwon. 
 
 [start=165, role=text-justify]
 . These statements were materially false and misleading.  Despite Defendants’ statements to the contrary, UST did not “automatically self-heal[].”  UST’s  “[a]lgorithmic, calibrated adjustments of economic parameters” failed.  UST’s peg to the dollar was not restored until after Defendants took deliberate steps to discuss with the U.S. Trading Firm a plan to deploy capital to restore UST’s price to one dollar.  While Defendants led investors to believe UST’s peg was restored by the algorithm, in fact, as Defendants knew, it was the deliberate actions of “human agents,” including Terraform, Kwon, and the U.S. Trading Firm, that ultimately led to the restoration of the peg. 

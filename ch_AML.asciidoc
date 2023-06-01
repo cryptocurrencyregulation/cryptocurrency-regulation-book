@@ -18,11 +18,15 @@
 [[aml_bitzlato]]
 == Founder and Majority Owner of Cryptocurrency Exchange Bitzlato Charged ==
 
-[.text-right]
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Department of Justice, January 18, 2023 +
 Press Release Number: 23-51_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 [.text-center]
 *Founder and Majority Owner of Cryptocurrency Exchange Charged with Processing Over $700 Million of Illicit Funds*
 
@@ -98,11 +102,15 @@ A criminal complaint is merely an allegation. All defendants are presumed innoce
 [[aml_coinbase_consent_order]]
 == Consent Order in the matter of Coinbase, Inc. ==
 
-[.text-right]
-_https://www.dfs.ny.gov/system/files/documents/2023/01/ea20230104_coinbase.pdf_
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_&nbsp; +
+https://www.dfs.ny.gov/system/files/documents/2023/01/ea20230104_coinbase.pdf_
+>| 
+image::excerpt.png[]
+|===
 
-
-- - -
 
 [.text-center]
 NEW YORK STATE +
@@ -330,30 +338,29 @@ NOW THEREFORE, to resolve this matter without further proceedings, the Departmen
 
 [underline]#Notices#
 [start=94, role=text-justify]
-. All notices or communications regarding this Consent Order shall be sent to: 
-[none]
-.. [underline]#For the Department:#
-[none]
-... David A. Casler +
-Senior Assistant Deputy Superintendent +
-Consumer Protection and Financial Enforcement +
-Department of Financial Services +
-One State Street +
-New York, NY 10004 +
+. All notices or communications regarding this Consent Order shall be sent to: +
 &nbsp; +
-Ryan J. Dorsett +
-Excelsior Fellow +
-Consumer Protection and Financial Enforcement +
-Department of Financial Services +
-One State Street +
-New York, NY 10004 
-.. [underline]#For Coinbase:#
-[none]
-... Paul Grewal +
-Chief Legal Officer +
-Coinbase, Inc. +
-P.O. Box 26409 +
-San Francisco, CA 94126 
+&emsp; [underline]#For the Department:# +
+&emsp;&emsp; David A. Casler +
+&emsp;&emsp; Senior Assistant Deputy Superintendent +
+&emsp;&emsp; Consumer Protection and Financial Enforcement +
+&emsp;&emsp; Department of Financial Services +
+&emsp;&emsp; One State Street +
+&emsp;&emsp; New York, NY 10004 +
+&nbsp; +
+&emsp;&emsp; Ryan J. Dorsett +
+&emsp;&emsp; Excelsior Fellow +
+&emsp;&emsp; Consumer Protection and Financial Enforcement +
+&emsp;&emsp; Department of Financial Services +
+&emsp;&emsp; One State Street +
+&emsp;&emsp; New York, NY 10004 +
+&nbsp; +
+&emsp; [underline]#For Coinbase:# +
+&emsp;&emsp; Paul Grewal +
+&emsp;&emsp; Chief Legal Officer +
+&emsp;&emsp; Coinbase, Inc. +
+&emsp;&emsp; P.O. Box 26409 +
+&emsp;&emsp; San Francisco, CA 94126 
 
 
 [underline]#Miscellaneous#

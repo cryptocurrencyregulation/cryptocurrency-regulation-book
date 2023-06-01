@@ -17,12 +17,15 @@
 [[fraud_coindeal]]
 == CoinDeal Charged with Fraud ==
 
-[.text-right]
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _SEC v. Chandran et al. +
 Case No. 2:23-cv-10017_
-
-
-- - -
+>| 
+image::excerpt.png[]
+|===
 
 [.text-center]
 *UNITED STATES DISTRICT COURT +
@@ -569,11 +572,15 @@ Attorneys for Plaintiff
 [[fraud_sec_pyramid]]
 == SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme ==
 
-[.text-right]
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _SEC Press Release +
 Release No. 2022-134_
-
-- - -
+>| 
+image::excerpt.png[]
+|===
 
 [.lead]
 *Alleged Fraudulent Blockchain Scheme Spanned Multiple Countries Including U.S., Russia*

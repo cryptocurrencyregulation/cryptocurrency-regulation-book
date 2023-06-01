@@ -21,11 +21,14 @@
 [[doj_insider_trading]]
 == Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme ==
 
-[.text-right]
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Department of Justice, June 1, 2022 +
 Press Release Number: 22-180_
-
-- - -
+>| 
+image::excerpt.png[]
+|===
 
 [.text-center]
 *Defendant Allegedly Traded on Inside Information About NFTs That Were Scheduled to be Featured on The Homepage of The Largest NFT Marketplace*
@@ -67,7 +70,6 @@ The charges contained in the Indictment are merely accusations, and the defendan
 
 === Discussion Questions ===
 [.text-justify]
-
 . Do NFTs have to be considered securities for a charge of insider trading to make sense?  Can you have insider trading with baseball cards or artworks?
 
 ////
@@ -93,11 +95,15 @@ The charges contained in the Indictment are merely accusations, and the defendan
 [[nft_insider_pleads_guilty]]
 == Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case == 
 
-[.text-right]
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Department of Justice, February 7, 2023 +
 Press Release Number: 23-040_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 
 *Ishan Wahi Tipped His Associates Regarding Crypto Assets That Were Going To Be Listed On Coinbase Exchanges*
 

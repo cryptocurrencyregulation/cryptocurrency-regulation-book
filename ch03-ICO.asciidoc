@@ -18,11 +18,16 @@
 [[ico_dao]]
 == The Dao Report ==
 
-[.text-right]
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _SECURITIES EXCHANGE ACT OF 1934 +
 Release No. 81207 / July 25, 2017_
+>| 
+image::excerpt.png[]
+|===
 
-- - - 
+
 
 [.lead]
 *Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO*
@@ -470,9 +475,15 @@ Regulation ATS pursuant to Rule 301(a) of Regulation ATS. See 17 C.F.R. §§ 240
 [[ico_coburn]]
 == In the Matter of Zachary Coburn ==
 
-[.text-right]
-Securities Exchange Act Rel. No. 84553&#44; Nov. 8&#44; 2018, +
-https://www.sec.gov/litigation/admin/2018/34-84553.pdf 
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_Securities Exchange Act +
+Rel. No. 84553&#44; Nov. 8&#44; 2018_
+>| 
+image::excerpt.png[]
+|===
 
 
 [.text-center .stretch]*UNITED STATES OF AMERICA +
@@ -743,10 +754,14 @@ _ _ _
 [[ico_howey]]
 == Digital Asset Transactions: When Howey Met Gary (Plastic) ==
 
-[.text-right]
-https://www.sec.gov/news/speech/speech-hinman-061418 
-
-- - -
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_&nbsp; +
+https://www.sec.gov/news/speech/speech-hinman-061418_
+>| 
+image::excerpt.png[]
+|===
 
 *Remarks at the Yahoo Finance All Markets Summit: Crypto*
 
@@ -840,11 +855,18 @@ _ _ _
 [[ico_turnkey]]
 == Turnkey Letter ==
 
-[.text-right]
+
+
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Securities and Exchange Commission, +
 https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 
 *Securities Act of 1933 +
 Section 2(a)(1)*
@@ -906,10 +928,16 @@ Division of Corporation Finance
 [[ico_sec_v_lbry]] 
 == SEC v. LBRy, Inc. ==
 
-[.text-right]
-_Case 1:21-cv-00260-PB_
 
-- - -
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_&nbsp; +
+Case 1:21-cv-00260-PB_
+>| 
+image::excerpt.png[]
+|===
+
 [.text-center]
 **UNITED STATES DISTRICT COURT +
 FOR THE DISTRICT OF NEW HAMPSHIRE**

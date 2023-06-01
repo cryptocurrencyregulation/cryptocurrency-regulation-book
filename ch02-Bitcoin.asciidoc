@@ -1,6 +1,7 @@
-[role="pagenumrestart"]
 [[bitcoin_chapter]]
-= Bitcoin Chapter =
+[role=test]
+= Bitcoin =
+
 
 On October 31, 2008, a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" was published on the internet under the alias of Satoshi Nakamoto. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.
 
@@ -18,11 +19,18 @@ On October 31, 2008, a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitco
 ////
 [[bitcoin_whitepaper]]
 == Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.] ==
-[.text-right]
+
+
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Nakamoto, Satoshi., "Bitcoin: A peer-to-peer electronic cash system." +
 Decentralized Business Review (2008): 21260._
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 [.text-center]
 [.lead]
 Bitcoin: A peer-to-peer electronic cash system
@@ -153,11 +161,16 @@ Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, wom
 [[wright_v_mccormack]]
 == Satoshi Nakamoto Pseudonym footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
 
-[.text-right]
+
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _WRIGHT v McCORMACK +
 [2022] EWHC 2068 (QB)_
-
-- - -
+>| 
+image::excerpt.png[]
+|===
 
 *MR JUSTICE CHAMBERLAIN:* 
 
@@ -189,14 +202,12 @@ not among the issues I have to determine.
 [start=8]
 [.text-justify]
 . I set out below the publications forming the subject matter of this claim, in context. The words complained of are underlined.
-. On 29 March 2019, there were two tweets from Calvin Ayre:
-[none]
-.. “yup… Dr Craig Wright is Satoshi Nakamoto…and #BSV is the only real #Bitcoin. All others are attacking Craig to sell their dysfunctional snake oil crypto products. Craig has proven this to me directly in a number of ways.” +
+. On 29 March 2019, there were two tweets from Calvin Ayre: +
+[.quoteblock .text-justify]##“yup… Dr Craig Wright is Satoshi Nakamoto…and #BSV is the only real #Bitcoin. All others are attacking Craig to sell their dysfunctional snake oil crypto products. Craig has proven this to me directly in a number of ways.” +
 {empty} +
-“Craig has started filing lawsuit against those falsely denying he is Satoshi…they can all have a day in court to try to prove their fake case but the judge will rule that Craig invented Bitcoin because he did and he can prove it.”
-. Mr McCormack replied at 8.17pm in these terms (Publication 1): 
-[none]
-.. [.underline]#“Can I go first? +
+“Craig has started filing lawsuit against those falsely denying he is Satoshi…they can all have a day in court to try to prove their fake case but the judge will rule that Craig invented Bitcoin because he did and he can prove it.”##
+. Mr McCormack replied at 8.17pm in these terms (Publication 1): +
+[.quoteblock .text-justify]##[.underline]#“Can I go first? +
 {empty} +
 Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
@@ -206,35 +217,29 @@ Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
 Craig Wright is not Satoshi +
-Craig Wright is not Satoshi”#
+Craig Wright is not Satoshi”###
 . On 9 April 2019 Calvin Ayre tweeted a photograph of himself, Dr Wright and five others standing behind a conference table in what appears to be a lawyer’s office. Mr Ayre has one arm around Dr Wright’s shoulder and is giving a “thumb’s up” sign with the other hand. The others pictured include Adam Wolanski QC, Dr Wright’s leading counsel in these proceedings. The text accompanying the photograph is: +
-[none]
-.. “Craig and I are polishing our muskets at today’s Troll Hunting meeting in London. #CraigisSatoshi.”
-
-. Mr McCormack responded at 1.47pm on 10 April 2019 (Publication 2): 
-[none]
-.. [.underline]#“Craig Wright is not Satohis! [sic] +
-When do I get sued?”#
-. At 10.23pm on 10 April 2019, Mr McCormack tweeted (Publication 3):
-[none]
-.. [.underline]#“Dear @CalvinAyre,# +
+[.quoteblock .text-justify]##“Craig and I are polishing our muskets at today’s Troll Hunting meeting in London. #CraigisSatoshi.”##
+. Mr McCormack responded at 1.47pm on 10 April 2019 (Publication 2): +
+[.quoteblock .text-justify]##[.underline]#“Craig Wright is not Satohis! [sic] +
+When do I get sued?”###
+. At 10.23pm on 10 April 2019, Mr McCormack tweeted (Publication 3): +
+[.quoteblock .text-justify]##[.underline]#“Dear @CalvinAyre,# +
 {empty} +
 I would like to formally state that:# +
 [.underline]#1. Craig Wright is not Satoshi# +
 [.underline]#2. Craig Wright is a fraud# +
 [.underline]#3. I hope as many people ReTweet this as possible# +
 {empty} +
-[.underline]#Please send legal correspondence to [Mr McCormack’s home address]#”
-. At 2.16pm on 12 April 2019, Mr McCormack replied to his own tweet as follows (Publication 4):
-[none]
-.. [.underline]#“@CalvinAyre mate, that is over 1k RTs and 2.3k likes, I demand my lawsuit… +
+[.underline]#Please send legal correspondence to [Mr McCormack’s home address]#”##
+. At 2.16pm on 12 April 2019, Mr McCormack replied to his own tweet as follows (Publication 4): +
+[.quoteblock .text-justify]##[.underline]#“@CalvinAyre mate, that is over 1k RTs and 2.3k likes, I demand my lawsuit… +
 {empty} +
 …but you aren’t going to do it are you? You are just trying to bully people into silence with empty threats. +
 {empty} +
-Craig Wright is a fraud, bring it or go jogging.”#
-. By 12 April 2019, Mr McCormack had received a letter from Dr Wright’s solicitors complaining about his tweets and asking him to delete the tweets, undertake not to repeat the claims and apologise publicly. His response was to post a copy of the letter with a series of tweets, the first of which was at 5.04pm. These were as follows (Publication 5):
-[none]
-.. [.underline]#“1/ So I got my letter from Craig Wright and @CalvinAyre. This is what they are sending out to people, now you can all see. +
+Craig Wright is a fraud, bring it or go jogging.”###
+. By 12 April 2019, Mr McCormack had received a letter from Dr Wright’s solicitors complaining about his tweets and asking him to delete the tweets, undertake not to repeat the claims and apologise publicly. His response was to post a copy of the letter with a series of tweets, the first of which was at 5.04pm. These were as follows (Publication 5): +
+[.quoteblock .text-justify]##[.underline]#“1/ So I got my letter from Craig Wright and @CalvinAyre. This is what they are sending out to people, now you can all see. +
 {empty} +
 I absolutely reject their requirements. +
 {empty} +
@@ -246,7 +251,7 @@ Let’s go to court.” +
 {empty} +
 “Before any claims of virtue signalling or clout…I’m doing this because it is the right thing to do. I’ve lost everything before and if I lose again, so what. BSV is a fake Bitcoin run by frauds. +
 {empty} +
-F**k them!”#
+F**k them!”###
 
 ...
 
@@ -259,23 +264,22 @@ _**Paragraphs 16-49 omitted**_
 . On 29 November 2019, Dr Wright served further revised draft Amended Particulars of Claim, in the same form as ultimately served on 19 December 2019. This altered the
 Claimant’s case on serious harm, abandoning the contentions relating to Dr Wright’s relationships with individuals at Leicester University, SOAS and CNAM. The fact that he
 no longer picked his children up from school was now pleaded as a particular of distress, but not of serious harm. The averment that he had been deterred from undertaking work with public bodies and applying for roles in public life was replaced with a more limited averment that the publications had made it more difficult for him to achieve his ambition of becoming a magistrate in Surrey. The claim in relation to serious harm to reputation in EU states was abandoned; the harm pleaded was now confined to that said to have been suffered in England and Wales.
-. Dr Wright’s new case was that, in the period between 1 January and 31 March 2019, he had been invited to speak and present academic papers at eight academic conferences and that:
-[none]
-.. “25.9.2 Prior to publication of the words complained of, the Claimant had been invited to speak at numerous further such conferences. In several instances those invitations followed the successful submission by the Claimant of proposed academic papers for blind peer review. However following publication of the words complained of, invitations to the Claimant were withdrawn by the following conferences: 
-[none]
-... 25.9.2.1. The Twenty-sixth International Conference on Telecoms, held in Hanoi, Vietnam on 8 to 10 April 2019; 
-... 25.9.2.2. The IEEE International Conference on Computer Communications, held in Paris, France on 29 April to 2 May 2019; 
-... 25.9.2.3. The Forty-first ACM/IEEE International Conference on Software Engineering, held in Montreal, Canada on 25 to 31 May 2019; 
-... 25.9.2.4. The Sixth International Symposium on Networks, Computers and Communications, held in Istanbul, Turkey on 18 to 20 June 2019; 
-... 25.9.2.5. The Twenty-second International Conference on Business Information Systems, held in Seville, Spain, on 26 to 28 June 2019; 
-... 25.9.2.6. The Forty-second International Conference on Telecommunications and Signal Processing, held in Budapest, Hungary on 1 to 3 July 2019; 
-... 25.9.2.7. The Second Vietnam Symposium in Leadership and Public Policy, held in Ho Chi Minh City, Vietnam on 28 to 29 October 2019; 
-... 25.9.2.8. The Twenty-fifth Asia-Pacific Conference on Communications, held in Ho Chi Minh City, Vietnam on 6 to 8 November 2019; 
-... 25.9.2.9. CHAINSIGHTS Fintech and Blockchain Summit,held in New York City, USA on 10 October 2019; and 
-... 25.9.2.10. MoneyConf,  held in Lisbon, Portugal on 5 to 7 November 2019. 
-.. 25.9.3. Given the timings of these exclusions it is to be inferred that the primary cause of these exclusions was publication of the words complained of. 
-.. 25.9.4. As a result of the exclusion of the Claimant from the conferences set out at paragraphs 25.9.2.1 to 25.9.2.8 the academic papers which the Claimant had been due to present were not presented at those conferences and, as a result, the Claimant has been unable to publish them to the world at large. The inability of the Claimant to present and publish those papers has led to considerable difficulties for the Claimant in pursuing academic opportunities. The Claimant wishes to develop an academic career in England (having previously taught as an Adjunct Lecturer in the Faculty of Business, School of Computing and Mathematics at Charles Sturt University, Australia) but needs to demonstrate the recent publication of academic papers to obtain such positions. +
-.. 25.9.5. Further, the inability of the Claimant to publish academic papers has a detrimental impact upon the value of the patents which the Claimant files and creates. The publication of academic papers assists in the promotion of patents: a patent which has a published academic paper behind it can be worth many times as much as a patent which does not.” 
+. Dr Wright’s new case was that, in the period between 1 January and 31 March 2019, he had been invited to speak and present academic papers at eight academic conferences and that: +
+[.quoteblock .text-justify]##“25.9.2 Prior to publication of the words complained of, the Claimant had been invited to speak at numerous further such conferences. In several instances those invitations followed the successful submission by the Claimant of proposed academic papers for blind peer review. However following publication of the words complained of, invitations to the Claimant were withdrawn by the following conferences:## +
+[.quoteblock .quoteblock .text-justify]##25.9.2.1. The Twenty-sixth International Conference on Telecoms, held in Hanoi, Vietnam on 8 to 10 April 2019;  +
+25.9.2.2. The IEEE International Conference on Computer Communications, held in Paris, France on 29 April to 2 May 2019; +
+25.9.2.3. The Forty-first ACM/IEEE International Conference on Software Engineering, held in Montreal, Canada on 25 to 31 May 2019; +
+25.9.2.4. The Sixth International Symposium on Networks, Computers and Communications, held in Istanbul, Turkey on 18 to 20 June 2019; +
+25.9.2.5. The Twenty-second International Conference on Business Information Systems, held in Seville, Spain, on 26 to 28 June 2019; +
+25.9.2.6. The Forty-second International Conference on Telecommunications and Signal Processing, held in Budapest, Hungary on 1 to 3 July 2019; +
+25.9.2.7. The Second Vietnam Symposium in Leadership and Public Policy, held in Ho Chi Minh City, Vietnam on 28 to 29 October 2019; +
+25.9.2.8. The Twenty-fifth Asia-Pacific Conference on Communications, held in Ho Chi Minh City, Vietnam on 6 to 8 November 2019; +
+25.9.2.9. CHAINSIGHTS Fintech and Blockchain Summit,held in New York City, USA on 10 October 2019; and +
+25.9.2.10. MoneyConf,  held in Lisbon, Portugal on 5 to 7 November 2019. ## +
+[.quoteblock1 .text-justify]##25.9.3. Given the timings of these exclusions it is to be inferred that the primary cause of these exclusions was publication of the words complained of. +
+25.9.4. As a result of the exclusion of the Claimant from the conferences set out at paragraphs +
+25.9.2.1 to 25.9.2.8 the academic papers which the Claimant had been due to present were not presented at those conferences and, as a result, the Claimant has been unable to publish them to the world at large. The inability of the Claimant to present and publish those papers has led to considerable difficulties for the Claimant in pursuing academic opportunities. The Claimant wishes to develop an academic career in England (having previously taught as an Adjunct Lecturer in the Faculty of Business, School of Computing and Mathematics at Charles Sturt University, Australia) but needs to demonstrate the recent publication of academic papers to obtain such positions. +
+25.9.5. Further, the inability of the Claimant to publish academic papers has a detrimental impact upon the value of the patents which the Claimant files and creates. The publication of academic papers assists in the promotion of patents: a patent which has a published academic paper behind it can be worth many times as much as a patent which does not.” ##
 
 ...
 

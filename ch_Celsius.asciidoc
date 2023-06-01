@@ -13,7 +13,7 @@ Below are some of the legal documents that have resulted from this pause in with
 #>>>>>>>>>>
 ###################################################################################################
 ### Celsius Network LLC, et al.
-# https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf
+# https://www.nysb.uscourts.gov/sites/default/files/opinions/312902_2205_opinion.pdf
 #
 #
 #
@@ -26,10 +26,14 @@ Below are some of the legal documents that have resulted from this pause in with
 [[celsius_bankruptcy]]
 == Celsius Network LLC, et al. ==
 
-[.text-right]
-_Case No. 22-10964 (MG)_
-
-- - -
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_&nbsp; +
+647 B.R. 631 (Bankr. S.D.N.Y. 2023)_
+>| 
+image::excerpt.png[]
+|===
 
 *UNITED STATES BANKRUPTCY COURT*
 *SOUTHERN DISTRICT OF NEW YORK*
@@ -240,11 +244,8 @@ The Debtors contend that the Earn Assets are property of the Estates. Section 54
 [.text-justify]
 The Estates therefore consist of “all legal or equitable interests of the debtor in property as of the commencement of the case.” In re Lehman Bros. Holdings. Inc., 422 B.R. 407, 418 (Bankr. S.D.N.Y. 2010) (emphasis removed) (citing 11 U.S.C. § 541(a)(1)).
 [.text-justify]
-Section 363(c)(1) of the Bankruptcy Code allows a debtor to enter certain transactions in the ordinary course of business, and provides:
-[none]
-[.text-justify]
-** If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
-
+Section 363(c)(1) of the Bankruptcy Code allows a debtor to enter certain transactions in the ordinary course of business, and provides: +
+[.quoteblock .text-justify]##If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.## +
 11 U.S.C. § 363(c)(1).
 [.text-justify]
 The Court may approve transactions which are not in the ordinary course of business if the debtor demonstrates a “sound business purpose” for the transaction. See 11 U.S.C. § 363(b)(1); Comm. of Equity Sec. Holders v. Lionel Corp. (In re Lionel Corp.), 722 F.2d 1063, 1071 (2d Cir. 1983) (holding that judicial approval under section 363 of the Bankruptcy Code requires a showing that there is a good business reason); see also In re Glob. Crossing Ltd., 295 B.R. 726, 743 (Bankr. S.D.N.Y. 2003) (same).
@@ -327,11 +328,8 @@ A valid, enforceable contract requires mutual assent (i.e., one party makes an o
 [.text-justify]
 Exhibits to the Supplemental Blonstein Declaration provide screen captures of the sign-up process for users who signed up via the website, for all Terms of Use versions, and the mobile app for the effective period of Terms Versions 5 through 8. (Supplemental Blonstein Declaration, Exhibits A–E.) The Supplemental Blonstein Declaration explains that applicants could not advance to the next page and complete sign up unless they agreed to the Terms of Use. (Id. ¶ 6.)
 [.text-justify]
-New York Courts overwhelmingly accept “clickwrap” agreements as sufficient to constitute mutual assent. Uber Techs., 868 F.3d at 75 (“Courts routinely uphold clickwrap agreements for the principal reason that the Account Holder has affirmatively assented to the terms of agreement by clicking ‘I agree.’”). The Restatement (Second) of Contracts further supports the validity and enforceability of a clickwrap contract in Comment B, “Assent to known terms,” where it recognizes the common knowledge that many users never read the full terms of a clickwrap agreement before checking an “agree” box. Restatement (Second) of Contracts, § 211 cmt. b. It explains, in relevant part:
-[none]
-[.text-justify]
-** Customers do not in fact ordinarily understand or even read the standard terms. They trust to the good faith of the party using the form and to the tacit representation that like terms are being accepted regularly by others similarly situated. But they understand that they are assenting to the terms not read or not understood, subject to such limitations as the law may impose.
-
+New York Courts overwhelmingly accept “clickwrap” agreements as sufficient to constitute mutual assent. Uber Techs., 868 F.3d at 75 (“Courts routinely uphold clickwrap agreements for the principal reason that the Account Holder has affirmatively assented to the terms of agreement by clicking ‘I agree.’”). The Restatement (Second) of Contracts further supports the validity and enforceability of a clickwrap contract in Comment B, “Assent to known terms,” where it recognizes the common knowledge that many users never read the full terms of a clickwrap agreement before checking an “agree” box. Restatement (Second) of Contracts, § 211 cmt. b. It explains, in relevant part: +
+[.quoteblock .text-justify]##Customers do not in fact ordinarily understand or even read the standard terms. They trust to the good faith of the party using the form and to the tacit representation that like terms are being accepted regularly by others similarly situated. But they understand that they are assenting to the terms not read or not understood, subject to such limitations as the law may impose.## +
 (Id. (emphasis added).)
 [.text-justify]
 Here, the Original Blonstein Declaration provides testimony demonstrating that 99% of Account Holders completed this sign-up process and affirmatively assented to the contract terms contained in the Terms of Use effective at the time of sign-up. (Original Blonstein Declaration ¶ 14.)xref:celsius_footnote_29[*^(29)^*] The Court finds that Account Holders understood that they were assenting to a contract governed by the Terms of Use even if the Account Holders chose to read some or none of the provisions. The Court empathizes with the frustrations Account Holders may feel if they did not read or understand the specific terms of the Terms of Use. Frankly, though, the rules provide needed certainty and predictability required for modern commerce in the digital era. The law in the Second Circuit is clear that clickwrap contracts such as the Terms of Use are valid and binding. The Debtors have sufficiently shown the mutual assent element of contract formation.
@@ -370,12 +368,9 @@ The Court concludes that updates to the Terms of Use constituted valid modificat
 [.text-justify]
 Having established that a valid contract was formed between the Debtors and its Account Holders, the Court’s next inquiry is if the Terms of Use are unambiguous with respect to whether Account Holders retained ownership or transferred ownership of cryptocurrency assets by depositing the assets into Earn Accounts. A contract is unambiguous if “on its face [it] is reasonably susceptible of only one meaning.” Greenfield v. Philles Records, 98 N.Y.2d 562, 570 (2002). Under New York Law, contracts are interpreted and enforced in accordance with their plain meaning and their clear and unambiguous terms. In re Condado Plaza Acquisition LLC, 620 B.R. 820, 831 (Bankr. S.D.N.Y. 2020); In re Lehman Bros. Holdings Inc., 439 B.R. 811, 825 (Bankr. S.D.N.Y. 2010) (“[T]he ultimate objective in interpreting an agreement is to determine “the intention of the parties as derived from the language employed.”) (quoting Tom Doherty Assocs. Inc. v. Saban Entm’t Inc., 869 F. Supp. 1130, 1137 (S.D.N.Y. 1994)).
 [.text-justify]
-Terms Version 1 does not contain any clauses regarding Celsius taking rights of ownership upon deposit of Earn Assets. (See generally Terms Affidavit, Ex. A-1.) Terms Versions 2–4 contains the following text that discusses ownership, but not transfer of title:
-[none]
-[.text-justify]
-** In consideration for the rewards earned on your Account and the use of our Services, you grant Celsius the right, subject to applicable law, without further notice to you, to hold the Digital Assets available in your account in Celsius’ name or in another name, and to pledge, re-pledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer or use any amount of such Digital Assets, separately or together with other property, with all attendant rights of ownership . . . . You acknowledge that with respect to assets used by Celsius pursuant to this paragraph.
-(i) You may not be able to exercise certain rights of ownership.
-
+Terms Version 1 does not contain any clauses regarding Celsius taking rights of ownership upon deposit of Earn Assets. (See generally Terms Affidavit, Ex. A-1.) Terms Versions 2–4 contains the following text that discusses ownership, but not transfer of title: +
+[.quoteblock .text-justify]##In consideration for the rewards earned on your Account and the use of our Services, you grant Celsius the right, subject to applicable law, without further notice to you, to hold the Digital Assets available in your account in Celsius’ name or in another name, and to pledge, re-pledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer or use any amount of such Digital Assets, separately or together with other property, with all attendant rights of ownership . . . . You acknowledge that with respect to assets used by Celsius pursuant to this paragraph. +
+(i) You may not be able to exercise certain rights of ownership.## +
 (Terms Affidavit, Ex. A-4 § 14.)
 [.text-justify]
 Terms Version 5 introduced the transfer of title clause that has been the subject of scrutiny in this matter. Every version of the Terms of Use beginning with Terms Version 5 includes a clause that Account Holders “grant Celsius . . . all right and title to such Digital Assets, including ownership rights” (the “Transfer of Title Clause”). (Terms Affidavit, Ex. A-5 § 14, A-6 § 13, A-7 § 13, A-8 § 13.) Account Holders who agreed to Terms of Use Version 5 or later, whether by signing up for the first time or by continuing to use the platform with an existing account, entered a contract which contained unambiguous and clear language regarding transfer of title and ownership of assets in Earn Accounts. At the hearing on this matter, Blonstein testified that 90% of Account Holders representing 99% of Earn Assets had assented to Terms Version 6 or later. (December 5, 2022 H’rg Tr. 103:3–7.) Thus, the Court finds that title to and ownership of all Earn Assets unequivocally transferred to the Debtors and became property of the Estates on the Petition Date.
@@ -383,13 +378,9 @@ Terms Version 5 introduced the transfer of title clause that has been the subjec
 The crux of many objections to the Amended Motion is that Celsius’s ubiquitous use of the word “loan,” “lending,” and other variations sits in direct conflict with the singular clause transferring all title and rights of ownership to the Debtors. These responses argue that this creates an ambiguity within the four corners of the contract. But the use of the term “loan,” or variations of that term, do not contradict transfer of ownership of cryptocurrency assets to Celsius. The Account Holders argue that a layperson’s understanding of the term “loan” means the Account Holder retains ownership of their Earn Assets but temporarily allows the use of the assets by the Debtors
 xref:celsius_footnote_36[*^(36)^*] — but the Court cannot ignore the plain and clear language in the Transfer of Title Clause.
 [.text-justify]
-Further, even if the Court found that Account Holders loaned digital assets to Celsius, Account Holders would still be unsecured creditors. It is blackletter law that a loan of money or property to another creates a debtor-creditor relationship. In re Masterwear Corp., 229 B.R. 301, 310 (Bankr. S.D.N.Y. 1999) (“Under New York law, a bank and its depositor stand in a debtor-creditor relationship that is contractual in nature. The bank owns the deposit, the depositor has a claim to payment against the bank, and the bank has a corresponding obligation to pay its depositor. Accordingly, a bank’s temporary freeze of an account, without more, is ‘neither a taking of possession of [the depositor’s] property nor an exercising of control over it, but merely a refusal to perform its promise.’”) (internal citations omitted). And absent a perfected security interest in tangible or intangible property, in the event of the debtor’s bankruptcy, the creditor holds only an unsecured claim. See In re Motors Liquidation Company, 430 B.R. 65, 96 (S.D.N.Y. 2010) (“Indeed, by definition, an unsecured creditor has no particularized property interest in the Debtors’ estates.”); see also 4 COLLIER ON BANKRUPTCY ¶ 506.03[1] (16th ed. 2022) (“As a threshold matter, a claim cannot be a “secured claim” for purposes of section 506(a) unless it is secured by a “lien” on some specific item of property in which the estate has an interest, or, alternatively, is a claim that is subject to a right of setoff.”).
-[none]
-** But, more importantly:
-[none]
-[.text-justify]
-*** By current definition, cryptocurrency is not money because it is not a medium of exchange created, authorized, or adopted by a domestic or foreign government, or by an intergovernmental organization or by agreement between two or more countries. Moreover, since cryptocurrency, NFTs and other digital assets are intangible and therefore not capable of possession, a security interest currently can be perfected only by the filing of a financing statement in the digital asset as a general intangible.
-
+Further, even if the Court found that Account Holders loaned digital assets to Celsius, Account Holders would still be unsecured creditors. It is blackletter law that a loan of money or property to another creates a debtor-creditor relationship. In re Masterwear Corp., 229 B.R. 301, 310 (Bankr. S.D.N.Y. 1999) (“Under New York law, a bank and its depositor stand in a debtor-creditor relationship that is contractual in nature. The bank owns the deposit, the depositor has a claim to payment against the bank, and the bank has a corresponding obligation to pay its depositor. Accordingly, a bank’s temporary freeze of an account, without more, is ‘neither a taking of possession of [the depositor’s] property nor an exercising of control over it, but merely a refusal to perform its promise.’”) (internal citations omitted). And absent a perfected security interest in tangible or intangible property, in the event of the debtor’s bankruptcy, the creditor holds only an unsecured claim. See In re Motors Liquidation Company, 430 B.R. 65, 96 (S.D.N.Y. 2010) (“Indeed, by definition, an unsecured creditor has no particularized property interest in the Debtors’ estates.”); see also 4 COLLIER ON BANKRUPTCY ¶ 506.03[1] (16th ed. 2022) (“As a threshold matter, a claim cannot be a “secured claim” for purposes of section 506(a) unless it is secured by a “lien” on some specific item of property in which the estate has an interest, or, alternatively, is a claim that is subject to a right of setoff.”). +
+&emsp; But, more importantly: +
+[.quoteblock .text-justify]## By current definition, cryptocurrency is not money because it is not a medium of exchange created, authorized, or adopted by a domestic or foreign government, or by an intergovernmental organization or by agreement between two or more countries. Moreover, since cryptocurrency, NFTs and other digital assets are intangible and therefore not capable of possession, a security interest currently can be perfected only by the filing of a financing statement in the digital asset as a general intangible.## +
 Lorraine S. McGowen, TRANSFERRING DIGITAL ASSETS (INCLUDING CRYPTOCURRENCIES)
 [.text-justify]
 UNDER PROPOSED AMENDMENTS TO THE UNIFORM COMMERCIAL CODE, The Quarterly Journal of INSOL International, 4TH Quarter 2022, at 16 (discussing proposed amendments to the Uniform Commercial Code, creating a new Chapter 12 to govern the transfer (whether as a sale or as a financing) of digital assets, including cryptocurrency, digital tokens and non-fungible tokens).
@@ -590,10 +581,14 @@ Chief United States Bankruptcy Judge
 [[celsius_examiner_report]]
 == Examiner Report on CELSIUS NETWORK LLC, et al. ==
 
-[.text-right]
-_Case No. 22-10964 (MG)_
-
-- - -
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_&nbsp; +
+Case No. 22-10964 (MG)_
+>| 
+image::excerpt.png[]
+|===
 
 &period;&period;&period;&period; +
 &period;&period;&period;&period;

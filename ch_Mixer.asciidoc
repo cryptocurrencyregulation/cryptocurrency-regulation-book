@@ -1,8 +1,6 @@
 = Cryptocurrency Mixer Chapter =
 
 
-
-
 ////
 #>>>>>>>>>>
 ###################################################################################################
@@ -21,11 +19,16 @@
 == U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats ==
 
 
-[.text-right]
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _U.S. DEPARTMENT OF THE TREASURY, +
 Press Release,  May 6, 2022_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
+
 [.text-center]
 _Additional Lazarus Group Virtual Wallet Addresses Identified_
 
@@ -98,11 +101,16 @@ As a result of today's action, all property and interests in property of the ent
 [[mixer_tornado]]
 == U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash ==
 
-[.text-right]
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _U.S. DEPARTMENT OF THE TREASURY, +
 Press Release,  August 8, 2022_
+>| 
+image::excerpt.png[]
+|===
 
-- - -
 
 [.text-justify]
 WASHINGTON – Today, the U.S. Department of the Treasury’s Office of Foreign Assets Control (OFAC) sanctioned virtual currency mixer Tornado Cash, which has been used to launder more than $7 billion worth of virtual currency since its creation in 2019. This includes over $455 million stolen by the Lazarus Group, a Democratic People’s Republic of Korea (DPRK) state-sponsored hacking group that was link:https://home.treasury.gov/news/press-releases/sm774[sanctioned by the U.S. in 2019], in the link:https://www.fbi.gov/news/press-releases/press-releases/fbi-statement-on-attribution-of-malicious-cyber-activity-posed-by-the-democratic-peoples-republic-of-korea[largest known virtual currency heist to date]. Tornado Cash was subsequently used to launder more than $96 million of malicious cyber actors’ funds derived from the June 24, 2022 Harmony Bridge Heist, and at least $7.8 million from the August 2, 2022 Nomad Heist. Today’s action is being taken pursuant to Executive Order (E.O.) 13694, as amended, and follows link:https://home.treasury.gov/news/press-releases/jy0768[OFAC’s May 6, 2022 designation of virtual currency mixer Blender.io (Blender)].

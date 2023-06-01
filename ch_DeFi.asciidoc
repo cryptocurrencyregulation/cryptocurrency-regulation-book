@@ -1,10 +1,10 @@
 = DeFi, Lending, and Staking =
 
 ////
-###################################################################################################
-### SEC v. Genesis & Gemini
+##################################################################################################
+# SEC v. Genesis & Gemini
 #
-#
+# https://www.sec.gov/litigation/complaints/2023/comp-pr2023-7.pdf
 #
 #
 #
@@ -16,8 +16,15 @@
 [[defi_sec_v_genesis]]
 == SEC v. Genesis & Gemini ==
 
-[quote, SEC v. Genesis Global Capital&comma; LLC and Gemini Trust Company&comma; LLC , https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901042380000000067.pdf ]
-____
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_&nbsp; +
+Case 1:23-cv-00287_
+>| 
+image::excerpt.png[]
+|===
+
 *UNITED STATES DISTRICT COURT +
 SOUTHERN DISTRICT OF NEW YORK*
 
@@ -44,12 +51,13 @@ ECF Case +
 Jury Trial Demanded*
 |===
 
-
+[.text-justify]
 Plaintiff Securities and Exchange Commission (the “Commission” or “SEC”) files this Complaint against Genesis Global Capital, LLC (“Genesis”) and Gemini Trust Company, LLC (“Gemini”) (collectively, “Defendants”) and alleges as follows:
 
 [.text-center]
 [underline]#*SUMMARY*#
 
+[.text-justify]
 . Between February 2021 and November 2022, Genesis and Gemini engaged in an unregistered offer and sale of securities to U.S. retail investors, in violation of the federal securities laws. Through an investment opportunity that Defendants called the “Gemini Earn” program, investors tendered crypto assets to Genesis and, in exchange, Genesis promised to pay interest on those assets to investors. Through this unregistered offering, Defendants raised billions of dollars’ worth of crypto assets, principally from U.S. retail investors.
 . Both Defendants were integral to the operation and success of the Gemini Earn program. Genesis was the issuer and entity that received, pooled, deployed, and paid interest on investors’ assets. Genesis and Gemini marketed the Gemini Earn program through social media and Gemini’s website, touting the high interest rates that investors could earn through Gemini Earn. And Gemini provided retail investors with access to Genesis, which otherwise only engaged in crypto asset transactions with large institutional and other accredited investors.xref:sec_genesis_footnote_1[^*(1)*^] Crucially, both Defendants profited from the partnership and offering. 
 . To participate in the Gemini Earn program, Genesis and Gemini required that investors enter into a tri-party Master Digital Asset Loan Agreement with Genesis and Gemini (“Gemini Earn Agreement”), whereby Gemini Earn investors provided crypto assets to Genesis, with Gemini acting as the agent in the issuance. Genesis would send interest payments to Gemini, which would then deduct an “Agent Fee” before distributing the remainder of the interest payments to Gemini Earn investors.
@@ -61,38 +69,38 @@ Plaintiff Securities and Exchange Commission (the “Commission” or “SEC”)
 
 [.text-center]
 [underline]#*VIOLATIONS*#
-[start=9]
+[start=9, role=text-justify]
 . By engaging in the conduct described in this Complaint, Defendants violated Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. §§ 77e(a) and 77e(c)].
 . Unless Defendants are permanently restrained and enjoined, they will continue to engage in the acts, practices, and courses of business set forth in this Complaint and in acts, practices, and courses of business of similar type and object.
 
 [.text-center]
 [underline]#*NATURE OF THE PROCEEDING AND RELIEF SOUGHT*#
-[start=11]
+[start=11, role=text-justify]
 . The Commission brings this action pursuant to the authority conferred upon it by Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)]. 12. The Commission seeks a final judgment: (a) permanently enjoining Defendants from violating Sections 5(a) and 5(c) of the Securities Act, pursuant to Section 20(b) of the Securities Act [15 U.S.C. § 77t(b)]; (b) ordering Defendants to disgorge their ill-gotten gains and to pay prejudgment interest thereon, pursuant to Sections 21(d)(3), (d)(5), and (d)(7) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S. Code § 78u(d)(3), (5), (7)]; and (c) imposing civil money penalties on Defendants pursuant to Section 20(d) of the Securities Act [15 U.S.C § 77t(d)].
 
 [.text-center]
 [underline]#*JURISDICTION AND VENUE*#
-[start=13]
+[start=13, role=text-justify]
 . This Court has jurisdiction over this action pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)].
 . Defendants, directly or indirectly, have made use of the means or instruments of transportation or communication in interstate commerce or of the mails in connection with the transactions, acts, practices, and courses of business alleged herein.
 . Venue is proper in the Southern District of New York pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)]. Gemini’s principal place of business is in this District, and Defendants sold the securities at issue in this case to investors residing in this District.
 
 [.text-center]
 [underline]#*DEFENDANTS*#
-[start=16]
+[start=16, role=text-justify]
 . *Genesis Global Capital, LLC (“Genesis”)* is a Delaware limited liability company formed in 2017 and a wholly owned subsidiary of Genesis Global Holdco, LLC, which is wholly owned by Digital Currency Group, Inc. (“DCG”). Genesis’ principal place of business is in Jersey City, New Jersey. Genesis claims that it is the “premier institutional digital asset financial services firm,”xref:sec_genesis_footnote_2[^*(2)*^] and “the world’s largest digital asset lender” and that “[h]olders of digital currencies can earn yield on their assets by lending directly to Genesis, a regulated and trusted counterparty.” Genesis is registered with FinCEN as a money services business (i.e., money transmitter). Genesis is one of several companies that DCG operates under the “Genesis” brand. Genesis is the issuer of securities under the Gemini Earn program. 
 . *Gemini Trust Company, LLC (“Gemini”)* is a New York limited liability trust company founded in 2014. Gemini is beneficially owned and controlled by Cameron and Tyler Winklevoss through Winklevoss Capital Fund, LLC. Gemini’s principal place of business is in New York, New York. Gemini is registered as a New York limited purpose trust company with the New York State Department of Financial Services (“NYSDFS”).
 
 [.text-center]
 [underline]#*STATUTORY AND REGULATORY FRAMEWORK*#
-[start=18]
+[start=18, role=text-justify]
 . The Securities Act sets forth a longstanding regime of full and fair disclosure in connection with the offer and sale of securities, in contrast to traditional commercial principles of caveat emptor. Congress mandated that persons who offer and sell securities to the investing public provide sufficient, accurate information to allow investors to make informed decisions before they invest.
 . The definition of a “security” under the Securities Act includes a wide range of investment vehicles, including “investment contracts” and “notes.” An investment contract is an investment of money in a common enterprise with a reasonable expectation of profits derived from the entrepreneurial or managerial efforts of others. Congress defined “security” broadly to embody a “flexible rather than a static principle, one that is capable of adaptation to meet the countless and variable schemes devised by those who seek the use of the money of others on the promise of profits.” SEC v. W.J. Howey Co., 328 U.S. 293, 299 (1946). According to the Supreme Court, the broad definition of “security” is “sufficient to encompass virtually any instrument that might be sold as an investment,” because “Congress’ purpose in enacting the securities laws was to regulate investments, in whatever form they are made and by whatever name they are called.” SEC v. Edwards, 540 U.S. 389, 393 (2004) (citations and internal quotation marks omitted) (emphasis in original). Courts have found that novel or unique investment vehicles constitute investment contracts, including interests in orange groves, animal breeding programs, railroads, mobile phones, and enterprises that exist only on the Internet, including crypto assets. 
 . Sections 5(a) and 5(c) of the Securities Act require that an issuer like Genesis register the offer or sale of securities with the SEC. Similarly, those provisions prohibit Gemini from engaging in the offer and sale of such unregistered securities. Registration statements relating to an offering of securities provide public investors with material information about the issuer and the offering, including but not limited to financial and managerial information, how the issuer will use offering proceeds, and the risks and trends that affect the enterprise and an investment in its securities.
 
 [.text-center]
 [underline]#*BACKGROUND ON CRYPTO ASSETS*#
-[start=21]
+[start=21, role=text-justify]
 . The term “crypto asset” generally refers to an asset that is issued and transferred using distributed ledger or blockchain technology, including, but not limited to, so-called “cryptocurrencies,” “coins,” and “tokens.”
 . A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitally recorded data packages. The system relies on cryptographic techniques for secure recording of transactions.
 
@@ -103,13 +111,13 @@ Plaintiff Securities and Exchange Commission (the “Commission” or “SEC”)
 [upperroman]
 . [underline]#*Genesis and Gemini Offered and Sold Investments*#
 
-[start=23]
+[start=23, role=text-justify]
 . In March 2018, Genesis began obtaining crypto assets from large institutional and other accredited investors in exchange for a promise to pay interest on those investors’ crypto assets. Genesis obtained crypto assets from its various investors for the use of its primary business – i.e., to lend crypto assets to Institutional Borrowers for interest – which generated revenue for Genesis and allowed it to pay interest to large institutional and other accredited investors. Genesis earned profit by lending the crypto assets to Institutional Borrowers at a higher rate than it paid to its investors. Genesis pooled the investors’ crypto assets and exercised discretion over how to deploy the assets to earn income.
 . Eventually, Genesis expanded its business model to transact with not just institutional and accredited investors, but also retail investors. In particular, in December 2020, Genesis entered into an agreement with Gemini to offer Gemini customers, including U.S. retail investors, an opportunity to tender their crypto assets to Genesis in exchange for Genesis’ promise to pay interest.
 
 [.text-center]
 *Gemini Earn Program*
-[start=25]
+[start=25, role=text-justify]
 . Specifically, beginning in February 2021, Genesis and Gemini began offering the Gemini Earn program to retail investors in the United States and Hong Kong, and later Singapore. There was no minimum investment amount to be eligible to participate in the Gemini Earn program. As of November 16, 2022, approximately 340,000 retail investors, most residing in the United States, had crypto assets invested with Genesis through the Gemini Earn program. By November 2022, the value of retail investors’ crypto assets held by Gemini exceeded the collective value of those tendered by institutional and accredited investors. 
 . Each Gemini Earn investor entered into a tri-party Gemini Earn Agreement with Gemini and Genesis. The agreement was a standard agreement and not individually negotiated with Gemini Earn investors. Under the terms of the Gemini Earn Agreement, Gemini Earn investors first needed to hold eligible crypto assets with Gemini – either by transferring the crypto assets to Gemini or acquiring them via Gemini’s crypto asset trading platform. Through Gemini Earn, investors would then tender their crypto assets to Genesis, with Gemini acting as the agent for retail investors to facilitate the transaction. Gemini aggregated the crypto assets to be invested in the Gemini Earn program and placed them in a digital wallet from which Genesis would take possession of the assets.
 . Genesis determined the types and aggregate amount of each crypto asset that were eligible to be invested by Gemini Earn investors. Genesis offered and agreed to pay the Gemini Earn investors in-kind interest on the crypto assets they had invested, which accrued on a daily basis. Genesis could unilaterally revise the interest rates and the aggregate amount of each crypto asset that Gemini Earn investors could invest, on a monthly basis.
@@ -120,22 +128,22 @@ Plaintiff Securities and Exchange Commission (the “Commission” or “SEC”)
 
 [.text-center]
 *Genesis and Gemini Promoted Gemini Earn as an Investment*
-[start=33]
+[start=33, role=text-justify]
 . Genesis and Gemini both touted the profits investors could earn by investing their crypto assets with Genesis through Gemini Earn. Genesis advertised on its public website that “[h]olders of digital currencies can earn yield on their assets by lending directly to Genesis.” Genesis also published tweets highlighting its partnership with Gemini and the yield that Gemini Earn investors – i.e., retail investors – could earn. For example, on February 2, 2021, Genesis published a tweet stating, “Genesis is dedicated to building and partnering to lower barriers to digital asset markets.” 
 . Gemini similarly promoted the profit that investors could earn through the Gemini Earn program. In a February 2021 press release launching Gemini Earn, Gemini CEO Tyler Winklevoss stated, “We designed a program that allows our customers the ability to generate a real return on their crypto holdings.” On February 27, 2021, Gemini also posted a video on YouTube titled, “Invest Better with Gemini Earn.” On its website, Gemini described how users would earn interest, noting, “We are excited to launch Gemini Earn and offer more opportunities for you to grow your portfolio and earn yield.” Similarly, Gemini advertised on its website that investors could “[p]ut your crypto to work. With Gemini Earn, you can receive up to 8.05% APY on your cryptocurrency,” and listed the interest rate that investors could earn for each eligible crypto asset. Gemini also published tweets, including on May 26, 2021, promoting the high interest rates offered via Gemini Earn, with statements such as the following:
 
-image::media/ch03-genesis-01.png[]
+image::media/ch03-genesis-01.png[align=center]
 
-[start=35]
-. Gemini itself repeatedly described Gemini Earn as an investment on its website. For example, Gemini included this description in an FAQ entitled, “What are the risks of Gemini Earn?”:
-[none]
-** Cryptocurrency, like many assets, can be volatile and subject to price swings. There is always a risk in [underline]#investing#, and each customer needs to assess their own risk tolerance before making any [underline]#investment decisions#. Our partners in Gemini Earn have an obligation to return funds according to the terms of their loan agreement. However, Gemini Earn customers (the lenders) always assume some level of risk when they decide to lend their funds. We believe Gemini Earn gives our retail investors another way to stay long-term in the asset class and have the [underline]#option to invest and earn interest#, all on the Gemini platform.
+[start=35, role=text-justify]
+. Gemini itself repeatedly described Gemini Earn as an investment on its website. For example, Gemini included this description in an FAQ entitled, “What are the risks of Gemini Earn?”: +
+[.quoteblock .text-justify]##Cryptocurrency, like many assets, can be volatile and subject to price swings. There is always a risk in [underline]#investing#, and each customer needs to assess their own risk tolerance before making any [underline]#investment decisions#. Our partners in Gemini Earn have an obligation to return funds according to the terms of their loan agreement. However, Gemini Earn customers (the lenders) always assume some level of risk when they decide to lend their funds. We believe Gemini Earn gives our retail investors another way to stay long-term in the asset class and have the [underline]#option to invest and earn interest#, all on the Gemini platform.##
+
 . Gemini’s website also claimed that Gemini Earn investors could “receive more than 100x the average national interest rate, among the highest rates on the market” and that Gemini Earn “offer[s] more flexibility than other yield-generating cryptocurrency investments.”
 . Additionally, Gemini’s website featured a calculator that would allow a user to select a deposit amount, crypto asset type, and a time frame to see how much interest could be earned by tendering crypto assets through Gemini Earn. The calculator would reveal the projected amount of interest that could be earned by investing the investor’s crypto assets for a period between one and four years.
 
 [.text-center]
 *Genesis’ Deployment of the Invested Gemini Earn Crypto Assets*
-[start=38]
+[start=38, role=text-justify]
 . Genesis pooled on its balance sheet the crypto assets that it received from the Gemini Earn investors and other investors, and in practice did not segregate the crypto assets it received from different groups of investors. Genesis retained possession and control over the investors’ crypto assets on its balance sheet, and determined how much to hold, lend out to others, and otherwise use. Genesis exercised its discretion in how to use investors’ crypto assets to generate revenue for its business and to pay the interest rates it promised Gemini Earn investors and other investors. The Gemini Earn Agreement did not contain any explicit terms restricting how investors’ crypto assets would be used by Genesis.
 . Generally, Genesis deployed the Gemini Earn investors’ crypto assets by either lending them to Institutional Borrowers or using the assets as collateral for Genesis’ own borrowing. Crypto assets not loaned to Institutional Borrowers or used for collateral were held by Genesis on its balance sheet in an effort to provide Genesis with liquidity to meet potential demand for loans as well as to repay the investors in its crypto asset program, including Gemini Earn. Genesis also had the ability to loan the crypto assets to related parties, including its parent company.
 . Genesis employed its discretion and judgment in determining the terms of transactions with Institutional Borrowers. For example, Genesis conducted due diligence on the Institutional Borrowers before entering into a transaction. Genesis negotiated an initial agreement with each Institutional Borrower, and then individually negotiated the terms – including the type of crypto assets to be lent, interest rate, duration of the loan, and collateral (if any) – of every subsequent lending transaction. Genesis separately evaluated each Institutional Borrower, as well as market conditions, when determining collateral rates.
@@ -149,13 +157,13 @@ image::media/ch03-genesis-01.png[]
 [upperalpha]
 . *The Gemini Earn Program Constituted an Offer and Sale of Securities Under Reves*
 
-[start=44]
+[start=44, role=text-justify]
 . Under Section 2(a)(1) of the Securities Act, the definition of a security includes any “note.” See 15 U.S.C. §§ 77b, 78c. A note is presumed to be a security unless it bears a strong resemblance to instruments that are not securities, which courts determine by examining four factors: (1) the motivation of the parties; (2) the plan of distribution; (3) the expectations of the investing public; and (4) the availability of an alternative regulatory regime that “significantly reduces the risk of the instrument” for investors other than the securities laws, “thereby rendering application of the Securities Acts unnecessary.” See Reves v. Ernst & Young, 494 U.S. 56, 64–69 (1990). Under Reves, the Gemini Earn Agreements were notes and offered and sold through Gemini Earn as securities.
 
 [start=1]
 . *The Purpose of the Gemini Earn Program*
 
-[start=45]
+[start=45, role=text-justify]
 . Genesis offered the Gemini Earn program to obtain crypto assets for the use of its business – namely, to run its institutional lending activities, generate profits for itself, and to pay the interest promised to Genesis investors, and investors in Gemini Earn were primarily interested in the profit they expected the program to generate.
 . Genesis controlled the crypto assets it obtained from investors and had complete discretion in determining how much to hold, lend and otherwise use. Genesis used the crypto assets it raised from Gemini Earn investors and other investors to make loans to Institutional Borrowers or as collateral for Genesis’ own borrowing. Genesis also had the discretion to hold the assets on its balance sheet to provide Genesis with liquidity to meet potential demand for loans as well as to repay the investors in its crypto asset program.
 . In turn, investors participated in the Gemini Earn program primarily for profit, i.e., to receive a return on their crypto assets. Genesis and Gemini both touted the profits investors could earn by investing their crypto assets with Genesis, including by advertising Gemini Earn as an investment and touting that investors could receive up to 8.05% annual percentage yield (“APY”) on their crypto assets. Investors who purchased the Gemini Earn notes were led to expect that by tendering and giving control over their crypto assets to Genesis, they would receive profit in the form of interest on those assets.
@@ -164,19 +172,19 @@ image::media/ch03-genesis-01.png[]
 [start=2]
 . *The Gemini Earn Program was Offered and Sold to a Broad Segment of the Public*
 
-[start=49]
+[start=49, role=text-justify]
 . Genesis and Gemini publicly advertised the Gemini Earn Agreements, through Gemini Earn, on websites and on social media. Moreover, the Gemini Earn Agreements were offered and sold to any U.S. investor, including retail investors. As of November 16, 2022, there were approximately 340,000 retail investors, the majority of whom resided in the United States, who had crypto assets invested with Genesis through the Gemini Earn program. The Gemini Earn Agreements were offered and sold to a broad segment of the general public.
 
 [start=3]
 . *The Investing Public Considered these Notes as Investments*
 
-[start=50]
+[start=50, role=text-justify]
 . Genesis and Gemini, through websites and social media, promoted Gemini Earn as an investment, specifically as a way to earn high “returns” or “yield” on investors’ crypto assets. Gemini repeatedly described Gemini Earn as an investment on its own website and social media and repeatedly touted that the Gemini Earn interest rates were “among the highest rates on the market” and “higher than most existing options.” Gemini’s website further claimed that Gemini Earn investors could “receive more than 100x the national interest rate.” Gemini’s website also included a calculator that showed a user potentially how much interest they could earn by investing their crypto assets in the Gemini Earn program for a period between one and four years. The economic realities of the transaction, in which investors had an opportunity to tender crypto assets with Genesis in exchange for earning interest with some of the “highest rates” available for crypto assets, further underscore why the investing public considered the Gemini Earn program to be an investment opportunity.
 
 [start=4]
 . *No Alternative Regulatory Regime or Risk-Reducing Factors Exist to Protect Gemini Earn Investors*
 
-[start=51]
+[start=51, role=text-justify]
 . No alternative regulatory scheme or risk-reducing factors existed to protect investors with respect to the Gemini Earn program. In its own FAQs, Genesis noted that “[D]igital assets are not covered by SIPC insurance” and that “[e]stablishing a lending and borrowing relationship with Genesis is not the same as opening a depository account or a savings account” and that “[a]ccounts with Genesis do not enjoy FDIC protection.” Genesis Global Trading, Inc., the SEC registered broker-dealer affiliated with Genesis, did not have a role in the Gemini Earn program. Although Genesis has registered as a money services business (“MSB”) with FinCEN, the anti-money laundering and recording keeping and reporting requirements of an MSB – designed to prevent money services business from being used to facilitate money laundering and the financing of terrorist activities – do not provide the significant disclosures and other investor protections afforded by the federal securities laws. 
 . Similarly, although Gemini is registered with NYSDFS as a New York limited purpose trust company, NYSDFS did not have oversight over Genesis. Gemini publicly stated that Gemini Earn does not operate like a traditional bank account, is not protected by a governmental program, and is not backed by Gemini itself. In a February 2021 press release launching Gemini Earn, Gemini stated that “Gemini Earn is not a depository account. . . . Loans are not insured by Gemini or any governmental program or institution.” Likewise, on its website, Gemini noted that “Gemini Earn is structured similarly to non-deposit services offered by financial institutions and not insured by FDIC, SIPC, any other governmental program, or Gemini.”
 . Any capital reserve requirements applicable to Gemini did not apply to Genesis or to the crypto assets tendered to Genesis through Gemini Earn.
@@ -186,19 +194,19 @@ image::media/ch03-genesis-01.png[]
 [upperalpha, start=2]
 . *The Gemini Earn Program Constituted the Offer and Sale of Investment Contracts under Howey*
 
-[start=56]
+[start=56, role=text-justify]
 . The offer and sale of Gemini Earn Agreements through the Gemini Earn program also constitutes the offer and sale of investment contracts under Howey.
 
 [start=1]
 . *Gemini Earn Involved the Investment of Money*
 
-[start=57]
+[start=57, role=text-justify]
 . The Gemini Earn program involved an investment of money. Between February 2021 and November 2022, Genesis raised billions of dollars from hundreds of thousands of retail investors, who tendered crypto assets to Genesis through the program.
 
 [start=2]
 . *Gemini Earn Investors and Defendants Invested in a Common Enterprise*
 
-[start=58]
+[start=58, role=text-justify]
 . Investors in Gemini Earn invested in a common enterprise with other investors and with Defendants.
 . Genesis pooled Gemini Earn investors’ and other investors’ crypto assets on Genesis’ balance sheet, and used those assets in order to generate returns for both Genesis and investors, including Gemini Earn investors. Genesis did not manage individual or separate accounts for each investor in Gemini Earn. Instead, the returns earned by each investor were reliant on the pooling of the invested crypto assets. As the invested crypto assets were not segregated in any way by Genesis, each investor’s fortune was tied to the fortunes of the other investors.
 . Gemini Earn investors’ fortunes were also tied to Genesis’ fortunes; both Genesis and Gemini Earn investors earned profits when Genesis deployed the pooled assets. Moreover, Genesis’ current situation, where it has experienced withdrawal requests that exceed its current liquidity and has consequently restricted Gemini Earn investors from withdrawing their crypto assets and begun a restructuring process, further demonstrates that the fortunes of Genesis and the fortunes of each Gemini Earn investor are tied to one another in a common enterprise. 
@@ -206,7 +214,7 @@ image::media/ch03-genesis-01.png[]
 [start=3]
 . *Gemini Earn Investors Reasonably Expected to Profit From the Efforts of Defendants*
 
-[start=61]
+[start=61, role=text-justify]
 . Investors in the Gemini Earn program reasonably expected to profit from the efforts of Defendants.
 . From its inception, Defendants have explicitly marketed the Gemini Earn program as an investment opportunity which led investors to reasonably expect to profit from their efforts. As detailed above, through their websites and social media channels, both Genesis and Gemini publicly touted the ability for investors to earn yield or returns via Gemini Earn. Gemini repeatedly itself described Gemini Earn as an investment on its own website; repeatedly touted that the Gemini Earn interest rates were “among the highest rates on the market” and that Gemini Earn investors could “receive more than 100x the national interest rate”; and Gemini’s website illustrated how much interest Gemini Earn investors could potentially earn by investing their crypto assets for a period between one and four years.
 . Genesis also described itself as the “premier institutional digital asset financial services firm,” and “the world’s largest digital asset lender” and that “[h]olders of digital currencies can earn yield on their assets by lending directly to Genesis, a regulated and trusted counterparty.” Accordingly, Gemini Earn investors were led to expect that Defendants’ efforts to generate the investment returns – i.e., the promised interest – would result in profit for investors.
@@ -218,7 +226,7 @@ image::media/ch03-genesis-01.png[]
 [upperroman, start=3]
 . [underline]#*Defendants Have Failed to Register their Offer and Sale of Securities Through Gemini Earn with the Commission*#
 
-[start=68]
+[start=68, role=text-justify]
 . Defendants offered and sold securities through the Gemini Earn program.
 . Defendants have used interstate commerce to offer and sell securities through Gemini Earn by, among other things, engaging in general solicitation through their websites and other promotional materials, including social media.
 . Defendants have never had a registration statement filed or in effect with the SEC for their offers and sales of securities through the Gemini Earn program.
@@ -229,7 +237,7 @@ image::media/ch03-genesis-01.png[]
 Violations of Section 5(a) and 5(c) of the Securities Act +
 [15 U.S.C. §§ 77e(a) and 77e(c)]*
 
-[start=72]
+[start=72, role=text-justify]
 . The SEC realleges and incorporates by reference paragraphs 1 through 71 above.
 . By virtue of the foregoing, without a registration statement in effect as to that security, Defendants, directly and indirectly, (a) made use of the means and instruments of transportation or communications in interstate commerce or of the mails to sell securities through the use or medium of any prospectus or otherwise; (b) carried or caused to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale; and (c) made use of the means and instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of a prospectus or otherwise, securities as to which no registration statement had been filed. 
 . By engaging in the conduct described above, each Defendant violated, and unless restrained and enjoined will continue to violate, Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. §§ 77e(a) and 77e(c)].
@@ -239,7 +247,7 @@ Violations of Section 5(a) and 5(c) of the Securities Act +
 
 WHEREFORE, the Commission respectfully requests that the Court enter a Final Judgment:
 
-[upperroman]
+[upperroman, role=text-justify]
 . &nbsp; +
 Permanently enjoining Defendants, and each of their respective agents, servants, employees, attorneys and other persons in active concert or participation with any of them, from violating, directly or indirectly, Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. § 77e(a) and 77e(c)];
 . &nbsp; +
@@ -281,11 +289,11 @@ James P. Connor
 [1] “Accredited investors” are those persons whose financial sophistication and ability to sustain the risk of loss of investment or fend for themselves render the protections of the Securities Act of 1933’s registration process unnecessary. See Rule 501(a) of the Securities Act of 1933 [17 C.F.R. § 230.501].
 [[sec_genesis_footnote_2]]
 [2] A “digital asset” is another term for crypto asset. 
-____
+
+- - -
 
 === Discussion Questions ===
 . Should programs like Gemini Earn be regulated by the SEC?  
-
 
 ////
 # SEC v. Genesis & Gemini SECTION END
@@ -296,8 +304,8 @@ ____
 ###################################################################################################
 ### Nexo Capital
 #
-#
-#
+# In the matter of Nexo Capital Inc. Release No. 11149 / January 19&comma; 2023,  
+# https://www.sec.gov/litigation/admin/2023/33-11149.pdf
 #
 #
 #
@@ -309,8 +317,16 @@ ____
 [[defi_nexo]]
 == In the Matter of Nexo Capital Inc. ==
 
-[quote, In the matter of Nexo Capital Inc. Release No. 11149 / January 19&comma; 2023,  https://www.sec.gov/litigation/admin/2023/33-11149.pdf ]
-____
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_SECURITIES ACT OF 1933 +
+Release No. 11149 / January 19, 2023_
+>| 
+image::excerpt.png[]
+|===
+
+
 [.text-center]
 *UNITED STATES OF AMERICA +
 Before the +
@@ -336,27 +352,25 @@ Respondent. +
 *ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS PURSUANT TO SECTION 8A OF THE SECURITIES ACT OF 1933, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER*
 |===
 
-[.text-center]
-[upperroman, start=1]
-. &nbsp;
 
+[.text-center]
+I.
+[.text-justify]
 The Securities and Exchange Commission (“Commission”) deems it appropriate that public cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) against Nexo Capital Inc. (“Nexo” or “Respondent”).
 
 [.text-center]
-[upperroman, start=2]
-. &nbsp;
-
+II.
+[.text-justify]
 In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 8A of the Securities Act, Making Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
-
 [.text-center]
-[upperroman, start=3]
-. &nbsp;
-
+III.
+[.text-justify]
 On the basis of this Order and Respondent’s Offer, the Commission finds that:
 
 [.text-center]
 *[underline]#Summary#*
 
+[.text-justify]
 . In or around June 2020, Nexo Capital Inc. (“Nexo”) began to offer and sell the so-called Nexo Earn Interest Product (“EIP”) in the United States. The EIP allowed United States investors to tender to Nexo certain crypto assets, which Nexo deposited in interest- yielding accounts and then used in various ways to generate income for its own business and to fund interest payments to EIP investors. These included staking, lending, and engaging in arbitrage on purportedly “decentralized” finance platforms; investing in certain crypto assets; loaning funds to retail and institutional borrowers; and entering into options and swap contracts with respect to the crypto assets tendered. As of March 2022, Nexo’s EIP had approximately 112,000 U.S. investors and $2.7 billion in assets from U.S. investors.
 . Based on the facts and circumstances set forth below, Nexo offered and sold securities in the form of investment contracts and notes. Nexo offered and sold the EIP to a broad segment of the general public to obtain crypto assets for general use in its business. Nexo obtained the crypto assets in exchange for a promise to pay them back, with interest. Investors in the EIP had a reasonable expectation of obtaining a future profit from Nexo’s efforts in managing the EIP, including based on Nexo’s statements about how the EIP was a tool investors could use to generate wealth. Investors also had a reasonable expectation that Nexo would use the invested crypto assets in Nexo’s lending and principal investing activity, and that investors would share profits in the form of interest payments in direct proportion to their investments, as a result of Nexo’s managerial and entrepreneurial efforts. Notably, Nexo promoted the EIP as an investment, by which investors could earn a consistent return. Nexo took complete control over investors’ assets from the EIP, pooled them together, including with Nexo’s other assets, and then deployed those assets in various revenue- generating activities. Additionally, Nexo’s lending and investment activities were at its own discretion, and Nexo was responsible for managing the risks involved.
 . Nexo offered and sold securities without a registration statement filed or in effect with the Commission and without qualifying for an exemption from registration. As a result, Nexo violated Sections 5(a) and 5(c) of the Securities Act.
@@ -364,34 +378,32 @@ On the basis of this Order and Respondent’s Offer, the Commission finds that:
 [.text-center]
 *[underline]#Respondent#*
 
-[start=4]
+[start=4, role=text-justify]
 . Nexo Capital Inc. (“Nexo”) is a Cayman Islands corporation formed in 2018 with its principal place of business in Grand Cayman, Cayman Islands. Nexo provides crypto asset-related financial products and services, including purchasing, lending, borrowing, trading, and storing. Nexo is part of the Nexo Group, which is comprised of other Nexo entities that are primarily incorporated in various European countries.
 
 [.text-center]
 *[underline]#Facts#*
 
-[start=5]
+[start=5, role=text-justify]
 . Since 2018, Nexo has conducted a crypto asset business globally and in the United States through Nexo’s public website http://www.nexo.io and through a mobile application, both of which were accessible at all relevant times from within the United States. The business has included crypto asset-related financial products and services, including the EIP (discussed further below); the “Borrow Product,” by which customers could borrow crypto assets; the “Nexo Exchange,” through which customers could trade certain crypto assets; and storage for crypto assets. As of March 2022, Nexo had 3.7 million global users and $13.7 billion in global assets across its entire platform for the various services it offered.
 . In or around June 2020, Nexo began to offer and sell the EIP in the United States. To invest in the EIP, investors provided crypto assets to Nexo in exchange for Nexo’s promise to provide a variable interest payment. Per its description to investors, Nexo determined the interest rate based upon, among other things, the specific crypto asset provided to Nexo by the investor and the duration of time the investor committed to maintaining the asset with Nexo. The longer the time period, the higher the interest rate. Investors began accruing interest 24 hours after tendering eligible crypto assets, with interest calculated daily and compounded for interest earned in-kind.
 . Nexo offered the EIP under flexible and fixed terms. Under flexible terms, there was no holding period and investors could withdraw their crypto assets and earned interest at any time. Under fixed terms, investors were unable to withdraw their crypto assets and interest for the duration of the defined term. Interest accrued in connection with the EIP was credited to investors’ accounts at the expiration of the fixed term, if applicable, or otherwise daily. Investors were able to withdraw all or part of the crypto assets they invested with Nexo, including the interest earned, by instructing Nexo to transfer the crypto assets to the investor’s personal “digital wallet” (generally, a unique address within a cryptographically-secured ledger used to “hold” crypto assets) or by instructing Nexo to sell the relevant crypto assets in exchange for fiat currency such as U.S. Dollars, and then transferring the U.S. Dollar proceeds to a selected bank account.
 . The investor assets tendered through the EIP were for Nexo’s general use in its business, namely in lending and investment activities, which generated income for Nexo and its investors. Nexo pooled the loaned assets from the EIP together with other Nexo assets and exercised full discretion over how to use the pooled assets. Nexo retained possession and control over the tendered crypto assets.
-. The Terms and Conditions for the EIP provided the following:
-[none]
-.. [Investors] understand and agree that we might convert, pledge, re-pledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer, dispose of or use any amount of any Digital Assets in regard to which you use the Nexo Earn Interest Product, separately or together with other property, and for any period of time, and without retaining in our possession and/or control for delivery a like amount thereof or any other assets, at our sole and absolute discretion. Any such action will be performed in our name only and you will have no benefits and liabilities from it.
+. The Terms and Conditions for the EIP provided the following: +
+[.quoteblock .text-justify]##[Investors] understand and agree that we might convert, pledge, re-pledge, hypothecate, rehypothecate, sell, lend, or otherwise transfer, dispose of or use any amount of any Digital Assets in regard to which you use the Nexo Earn Interest Product, separately or together with other property, and for any period of time, and without retaining in our possession and/or control for delivery a like amount thereof or any other assets, at our sole and absolute discretion. Any such action will be performed in our name only and you will have no benefits and liabilities from it.##
 . Nexo pooled the assets tendered through the EIP with other assets, and used the asset pool to engage in various revenue-generating activities, including staking, lending, arbitrage, and earning interest on certain purportedly “decentralized” finance platforms by providing liquidity; investing in certain crypto assets; offering crypto credit lines (i.e., loans to retail and institutional borrowers); and entering into options and swap contracts. Nexo relied on the revenue generated from the foregoing activities to fund interest payments to EIP investors and to generate income and profits for Nexo itself.
 . Nexo marketed the EIP to U.S. investors through general solicitations on its website, the Nexo mobile application, and on social media and elsewhere online, including on Facebook, LinkedIn, and Twitter. Nexo promoted the EIP as an investment and profit-making opportunity. For example, Nexo advertised the attractive interest rates offered through the EIP as a way to “grow your wealth.” It highlighted on its website that investors could earn “up to 12% annual interest.” Nexo also promoted the EIP as an investment opportunity on Twitter. For example, in a March 30, 2021 tweet, titled “Why Nexo #1: HODLing [sic]+ Growing Your Investments,” Nexo linked to additional information on its website to “Learn how to earn compounding interest on your Crypto and Fiat assets using Nexo’s Savings Account.” xref:sec_nexo_footnote_1[^*(1)*^]
 . At no point has Nexo or any other entity in the Nexo Group filed a registration statement with the Commission for the offer and sale of the EIP. Nor did the offer and sale of the EIP qualify for an exemption from registration under the Securities Act. The only registrations that Nexo Group entities have with U.S.-based regulators are money transmitter licenses and certain state-level consumer or lender licenses.
-. Under the EIP Terms and Conditions “Risk Disclosure” section, which is available on Nexo’s website, Nexo explained that “Digital Assets are not money or legal tender, are not backed by the government or by a central bank and mostly do not have any underlying assets, revenue stream, or another source of value.” Another provision under the Risk Disclosure section provides:
-[none]
-.. You understand and agree that you use the Nexo Account and the Nexo Earn Interest Product at your own risk. This section is not exhaustive and does not disclose all the risks associated with the Digital Assets and the use of the Nexo Earn Interest Product and any of the related Nexo Wallet Services. You shall, therefore, carefully
-consider whether such use is suitable for you in light of your circumstances and financial resources.
+. Under the EIP Terms and Conditions “Risk Disclosure” section, which is available on Nexo’s website, Nexo explained that “Digital Assets are not money or legal tender, are not backed by the government or by a central bank and mostly do not have any underlying assets, revenue stream, or another source of value.” Another provision under the Risk Disclosure section provides: +
+[.quoteblock .text-justify]##You understand and agree that you use the Nexo Account and the Nexo Earn Interest Product at your own risk. This section is not exhaustive and does not disclose all the risks associated with the Digital Assets and the use of the Nexo Earn Interest Product and any of the related Nexo Wallet Services. You shall, therefore, carefully
+consider whether such use is suitable for you in light of your circumstances and financial resources.##
 . On February 18, 2022, after the Commission announced charges with respect to a crypto investment product similar to the EIP, see BlockFi Lending LLC, Exch. Act Rel. No. 11029 (Feb. 14, 2022), Nexo voluntarily ceased offering and selling the EIP to new U.S. investors. After February 18, 2022, existing U.S. investors continued to earn interest (at varying rates) on assets held in EIP accounts as of that date, but assets added after that date would not earn interest. In early March 2022, just as Nexo put in place these restrictions for U.S. investors, there were approximately 440,000 global investors in the EIP and 112,000 investors in the U.S. As of March 2022, the value of EIP assets was approximately $9 billion globally and $2.7 billion in the U.S.
 . On December 5, 2022, Nexo proactively announced that it was terminating the EIP in certain states and “phasing out” all of its products and services in the United States, including permanently ceasing to offer and sell the EIP to U.S. investors, and winding down the EIP for existing U.S. investors who continued to earn interest on funds held in the EIP prior to February 18, 2022.
 
 [.text-center]
 *[underline]#Legal Analysis#*
 
-[start=16]
+[start=16, role=text-justify]
 . The Securities Act and the Securities Exchange Act of 1934 (“Exchange Act”) were designed to “eliminate serious abuses in a largely unregulated securities market.” United Housing Found., Inc. v. Forman, 421 U.S. 837, 849 (1975). They are focused, among other things, “on the capital market of the enterprise system: the sale of securities to raise capital for profit-making purposes . . . and the need for regulation to prevent fraud and to protect the interest of investors.” Id. Under Section 2(a)(1) of the Securities Act, a security includes any “note.” See 15 U.S.C. §§ 77b. A note is presumed to be a security unless it bears a strong resemblance, to instruments that are not securities, which courts determine by examining four factors: (1) the motivation of the parties; (2) the plan of distribution; (3) the expectations of the investing public; and (4) a risk-reducing factor such as the availability of an alternative regulatory regime that “significantly reduces the risk of the instrument, thereby rendering application of the Securities Acts unnecessary.” See Reves, 494 U.S. at 64–66.
 . Applying the Reves four-part analysis, the EIPs were securities. First, Nexo offered and sold the EIP to obtain crypto assets for the general use of its business, namely to run its lending and investment activities to pay interest to EIP investors, and purchasers invested in the EIP to receive interest on the loaned crypto assets. Second, the EIP was offered and sold to a broad segment of the general public. Third, Nexo promoted the EIP as an investment, specifically as a way to earn a consistent return on crypto assets. Fourth, no alternative regulatory scheme or other risk-reducing factors exist with respect to the EIP.
 . Under Section 2(a)(1) of the Securities Act, a security includes “an investment contract.” See 15 U.S.C. §§ 77b. Based on the facts set forth above, the EIP also constitutes the offer and sale of investment contracts. See Howey, 328 U.S. at 301. Investors in the EIP tendered money to Nexo, in the form of crypto assets, to participate in the EIP. Nexo then pooled the EIP investors’ crypto assets and used those assets for lending and investment activities that would generate returns for both Nexo and EIP investors. The returns earned by each EIP investor were a function of the pooling of the loaned crypto assets, and the ways in which Nexo deployed those loaned assets. In this way, each investor’s fortune was tied to the fortunes of the other investors. In addition, because Nexo earned revenue for itself through its deployment of the loaned assets, the EIP investors’ fortunes were also linked to those of Nexo. Moreover, EIP investors’ return were based on interest rates and proportional to their investments in EIP. Through its public statements, Nexo created a reasonable expectation that EIP investors would earn profits derived from Nexo’s efforts to manage the loaned crypto assets profitably enough to pay the stated interest rates to the investors. Nexo retained ownership and control over the borrowed crypto assets, and determined how much to hold, lend, and invest. Nexo’s lending and investment activities were at its own discretion, and Nexo managed the risks involved.
@@ -402,48 +414,42 @@ consider whether such use is suitable for you in light of your circumstances and
 [.text-center]
 *[underline]#Respondent’s Cooperation and Remedial Efforts#*
 
-[start=22]
+[start=22, role=text-justify]
 . As explained above, on February 18, 2022, after the Commission announced charges involving a similar crypto investment product, Nexo voluntarily ceased offering the EIP to new U.S. investors and ceased paying interest on new funds added to existing EIP accounts of U.S. investors. On December 5, 2022, Nexo proactively announced that it was ceasing the EIP in certain states and phasing out all of its products and services in the United States, including permanently ceasing to offer the EIP to all U.S. investors.
 . Nexo will cease the EIP as to all U.S. investors by April 1, 2023 and will exit the U.S. entirely shortly thereafter.
 . Nexo will maintain the interest rate that is in place as of the date of the entry of this Order on existing U.S. EIP accounts for the duration of the period of time that Nexo takes to phase out all of its products and services in the United States.
 . In determining to accept the Offer, the Commission considered remedial acts promptly undertaken by Respondent and cooperation afforded the Commission staff.
 
 [.text-center]
-[upperroman, start=4]
-. &nbsp;
-
+IV.
+[.text-justify]
 In view of the foregoing, the Commission deems it appropriate and in the public interest to
 impose the sanctions agreed to in Respondent’s Offer.
 
 Accordingly, it is hereby ORDERED that:
 
-[upperalpha]
+[upperalpha, role=text-justify]
 . Pursuant to Section 8A of the Securities Act, Respondent cease and desist from committing or causing any violations and any future violations of Sections 5(a) and 5(c) of the Securities Act.
-. Respondent shall pay a civil money penalty in the amount of $22,500,000.00 to the Securities and Exchange Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). Payment shall be made in the following installments:
-[numeric]
-.. Due within 14 days of the entry of this Order: $7,500,000
-.. Due within 120 days of the entry of this Order: $5,000,000
-.. Due within 240 days of the entry of this Order: $5,000,000
-.. Due within 365 days of the entry of this Order: $5,000,000 
-
-[none]
-. Payments shall be applied first to post-order interest, which accrues pursuant to 31 U.S.C. § 3717. Prior to making the final payment set forth herein, Respondent shall contact the staff of the Commission for the amount due. If Respondent fails to make any payment by the date agreed and/or in the amount agreed according to the schedule set forth above, all outstanding payments under this Order, including post-order interest, minus any payments made, shall become due and payable immediately at the discretion of the staff of the Commission without further application to the Commission.
-. Payment must be made in one of the following ways:
-[numeric]
-.. Respondent may transmit payment electronically to the Commission, which will provide detailed ACH transfer/Fedwire instructions upon request;
-.. Respondent may make direct payment from a bank account via Pay.gov through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
-.. Respondent may pay by certified check, bank cashier’s check, or United States postal money order, made payable to the Securities and Exchange Commission and hand-delivered or mailed to:
-[none]
-... Enterprise Services Center +
+. Respondent shall pay a civil money penalty in the amount of $22,500,000.00 to the Securities and Exchange Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). Payment shall be made in the following installments: +
+&nbsp; +
+1&period; Due within 14 days of the entry of this Order: $7,500,000 +
+2&period; Due within 120 days of the entry of this Order: $5,000,000 +
+3&period; Due within 240 days of the entry of this Order: $5,000,000 +
+4&period; Due within 365 days of the entry of this Order: $5,000,000 +
+&nbsp; +
+Payments shall be applied first to post-order interest, which accrues pursuant to 31 U.S.C. § 3717. Prior to making the final payment set forth herein, Respondent shall contact the staff of the Commission for the amount due. If Respondent fails to make any payment by the date agreed and/or in the amount agreed according to the schedule set forth above, all outstanding payments under this Order, including post-order interest, minus any payments made, shall become due and payable immediately at the discretion of the staff of the Commission without further application to the Commission. +
+Payment must be made in one of the following ways: +
+&nbsp; +
+1&period; Respondent may transmit payment electronically to the Commission, which will provide detailed ACH transfer/Fedwire instructions upon request; +
+2&period; Respondent may make direct payment from a bank account via Pay.gov through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or +
+3&period; Respondent may pay by certified check, bank cashier’s check, or United States postal money order, made payable to the Securities and Exchange Commission and hand-delivered or mailed to: +
+&nbsp; +
+[.quoteblock]##Enterprise Services Center +
 Accounts Receivable Branch +
 HQ Bldg., Room 181, AMZ-341 +
 6500 South MacArthur Boulevard +
-Oklahoma City, OK 73169
-
-[none]
-. Payments by check or money order must be accompanied by a cover letter identifying Nexo Capital Inc. as Respondent in these proceedings, and the file number of these proceedings; a copy of the cover letter and check or money order must be sent to Stacy Bogert, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549.
-
-[upperalpha, start=3]
+Oklahoma City, OK 73169## +
+Payments by check or money order must be accompanied by a cover letter identifying Nexo Capital Inc. as Respondent in these proceedings, and the file number of these proceedings; a copy of the cover letter and check or money order must be sent to Stacy Bogert, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549.
 . Amounts ordered to be paid as civil money penalties pursuant to this Order shall be treated as penalties paid to the government for all purposes, including all tax purposes. To preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, they shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of any award of compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in this action (“Penalty Offset”). If the court in any Related Investor Action grants such a Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed an additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a private damages action brought against Respondent by or on behalf of one or more investors based on substantially the same facts as alleged in the Order instituted by the Commission in this proceeding.
 
 [cols="1a,1a", width=100%, frame=none, grid=none]
@@ -457,8 +463,8 @@ Secretary
 |===
 [[sec_nexo_footnote_1]]
 [1] “HODL” is a term used by participants in the crypto markets that means “Hold On for Dear Life,” presumably as an allusion to the high volatility that is inherent in the prices of many crypto assets. HODL is also used to describe a commitment to retain, rather than sell, crypto assets once acquired, and may derive from a misspelling of “hold.”
-____
 
+- - -
 
 === Discussion Questions ===
 . NEXOs settlement requires it to leave U.S. Markets, is this a good settlement for U.S. consumers?
@@ -473,7 +479,7 @@ ____
 ////
 ###################################################################################################
 ### Payward Ventures and Payward Trading
-#
+# SEC v. Payward Ventures and Payward Trading&comma; Case No. 23-cv-588, https://www.sec.gov/litigation/complaints/2023/comp-pr2023-25.pdf
 #
 #
 #
@@ -486,8 +492,16 @@ ____
 [[defi_payward]]
 == Payward Ventures and Payward Trading ==
 
-[quote, SEC v. Payward Ventures and Payward Trading&comma; Case No. 23-cv-588, https://www.sec.gov/litigation/complaints/2023/comp-pr2023-25.pdf]
-____
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_Securities and Exchange Commission +
+ Case No. 23-cv-588_
+>| 
+image::excerpt.png[]
+|===
+
 [.text-center]
 *UNITED STATES DISTRICT COURT +
 NORTHERN DISTRICT OF CALIFORNIA +
@@ -499,15 +513,15 @@ SAN FRANCISCO DIVISION*
 
 |SECURITIES AND EXCHANGE COMMISSION, +
 &nbsp; +
-Plaintiff, +
+&emsp;&emsp;&emsp;Plaintiff, +
 &nbsp; +
-v. +
+&emsp;v. +
 &nbsp; +
 PAYWARD VENTURES, INC. (D/B/A KRAKEN); +
 and +
 PAYWARD TRADING, LTD. (D/B/A KRAKEN), +
 &nbsp; +
-Defendents.
+&emsp;&emsp;&emsp;Defendents.
 
 |&nbsp; +
 &nbsp; +
@@ -516,11 +530,13 @@ Case No. 23-cv-588  +
 &nbsp; +
 *COMPLAINT AND DEMAND FOR JURY TRIAL*
 |===
+
+[.text-justify]
 Plaintiff Securities and Exchange Commission (the “SEC” or “Commission”), for its Complaint against Defendants Payward Ventures, Inc. d/b/a Kraken and Payward Trading, Ltd. d/b/a Kraken (collectively “Defendants” or “Kraken”), alleges as follows: 
 
 [.text-center]
 [underline]#*SUMMARY*#
-
+[.text-justify]
 . This case concerns the illegal unregistered offer and sale of securities involving the staking of crypto assets.xref:sec_payward_footnote_1[^*(1)*^] In particular, Defendants have offered and sold an investment contract to the general public, including United States investors, whereby investors transfer certain crypto assets to Kraken for “staking” in exchange for advertised annual investment returns of as much as 21% (the “Kraken Staking Program” or “Program”).
 . “Staking” concerns the “proof of stake” validation protocols that certain blockchains utilize. These protocols offer rewards to those who “validate”—or confirm—transactions on the blockchain. To become a validator and obtain such rewards, holders of crypto assets must first “stake”—or commit—crypto assets (typically, the “native” crypto asset on a particular blockchain such as Ethereum (ETH), Cardano (ADA), Polkadot (DOT), and Cosmos (ATOM)). Validators are selected based on the size of their stake, among other factors, creating an incentive to stake, or commit, greater quantities of crypto assets. The protocols incentivize validators to add legitimate transactions to the blockchain because validators are rewarded if they do and could be penalized if they do not, including by having the staked crypto assets “slashed” (or destroyed).
 . The Kraken Staking Program is an investment program created by Defendants that aggregates investors’ crypto assets to enable Kraken to stake these pooled investor assets and achieve a competitive advantage in the staking marketplace. Through this pooling of crypto assets and Defendants’ efforts, the Kraken Staking Program purports to offer investors benefits that are not available to investors who stake on their own. Among other things, Defendants advertise regular investment returns and payouts, no staking minimums, their technical expertise in staking, and an easy-to-use platform created by Defendants. In addition, Defendants offer investors instant rewards accrual and the ability instantly to
@@ -534,21 +550,21 @@ unstake (essentially, to take back the assets immediately).
 [.text-center]
 [underline]#*VIOLATIONS*#
 
-[start=9]
+[start=9, role=text-justify]
 . By engaging in the conduct set forth in this Complaint, Defendants engaged in and are currently engaging in the unlawful offer and sale of securities in violation of Sections 5(a) and 5(c) of the Securities Act of 1933 (“Securities Act”) [15 U.S.C. §§ 77e(a) and 77e(c)].
 . Unless Defendants are permanently restrained and enjoined, they will continue to engage in the acts, practices, and courses of business set forth in this Complaint and in acts, practices, and courses of business of similar type and object.
 
 [.text-center]
 [underline]#*NATURE OF THE PROCEEDING AND RELIEF SOUGHT*#
 
-[start=11]
+[start=11, role=text-justify]
 . The Commission brings this action pursuant to the authority conferred upon it by Section 20 of the Securities Act [15 U.S.C. § 77t].
 . The Commission seeks a final judgment: (a) permanently enjoining Defendants from violating Sections 5(a) and 5(c) of the Securities Act; (b) permanently enjoining Defendants and any entity controlled by them from, directly or indirectly, offering or selling securities through crypto asset staking services or staking programs; (c) ordering Defendants to disgorge their ill-gotten gains and to pay prejudgment interest thereon pursuant to Section 21(d)(3), (5) and (7) of the Securities Exchange Act of 1934 (“Exchange Act”) [15 U.S.C. § 78u(d)(3), (5) and (7)]; and (d) imposing civil money penalties on Defendants pursuant to Section 20(d) of the Securities Act [15 U.S.C § 77t(d)]. 
 
 [.text-center]
 [underline]#*JURISDICTION AND VENUE*#
 
-[start=13]
+[start=13, role=text-justify]
 . This Court has jurisdiction over this action pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)]. Defendants, directly or indirectly, have made use of the means or instruments of transportation or communication in interstate commerce or of the mails in connection with the transactions, acts, practices, and courses of business alleged herein.
 . Venue is proper in this District pursuant to Section 22(a) of the Securities Act [15 U.S.C. § 77v(a)]. Defendants marketed and offered the Kraken Staking Program to residents of this District, including through the kraken.com website and social media, and, according to a filing made with the California Secretary of State, Defendant Payward
 Ventures, Inc. has its principal address in this District. 
@@ -556,13 +572,13 @@ Ventures, Inc. has its principal address in this District.
 [.text-center]
 [underline]#*INTRADISTRICT ASSIGNMENT*#
 
-[start=15]
+[start=15, role=text-justify]
 . Pursuant to Civil Local Rule 3-2(d), the case properly is assigned to the San Francisco Division because, according to records filed with the California Secretary of State, Defendant Payward Ventures, Inc. has its principal address in San Francisco, California, and a substantial part of the events and omissions giving rise to the violations occurred in San Francisco County.
 
 [.text-center]
 [underline]#*DEFENDANTS*#
 
-[start=16]
+[start=16, role=text-justify]
 . *Payward Ventures, Inc., d/b/a Kraken (“Ventures”),* is a Delaware corporation, and, according to records filed with the California Secretary of State, has a principal address of 237 Kearny St., #102, San Francisco, California, 94108. Ventures operates Kraken’s online crypto asset trading platform. From its inception until October 2021, Ventures also offered and managed the Kraken Staking Program to U.S. investors, per the Kraken Terms of Service. Since the Staking Program’s inception, Ventures has maintained the wallets and private keys associated with the Kraken Staking Program.
 . *Payward Trading, Ltd. d/b/a Kraken (“Trading”)* is a corporation registered in the British Virgin Islands. Trading has offered and managed the Kraken Staking Program to U.S. investors since October 2021, per the Kraken Terms of Service. Trading is a  wholly-owned subsidiary of Seven Cities Pte Ltd., a corporation registered in Singapore;
 Seven Cities Pte Ltd., in turn, is a wholly-owned subsidiary of Payward, Inc., which is also the parent company of Ventures.
@@ -570,13 +586,13 @@ Seven Cities Pte Ltd., in turn, is a wholly-owned subsidiary of Payward, Inc., w
 [.text-center]
 [underline]#*RELATED ENTITY*#
 
-[start=18]
+[start=18, role=text-justify]
 . Payward, Inc. (“Payward”) is a Delaware corporation, and, according to records filed with the California Secretary of State, has a principal address of 237 Kearny St., #102, San Francisco, California 94108. Payward is the corporate parent of Ventures and Trading.
 
 [.text-center]
 [underline]#*STATUTORY AND LEGAL FRAMEWORK*#
 
-[start=19]
+[start=19, role=text-justify]
 . The Securities Act sets forth a regime of full and fair disclosure, in contrast to traditional commercial principles of caveat emptor. Congress mandated that persons who offer and sell securities to the investing public provide sufficient, accurate information to allow investors to make informed decisions before they invest.
 . The definition of a “security” under the Securities Act includes a wide range of investment vehicles, including “investment contracts.” Investment contracts are instruments through which a person invests money in a common enterprise and reasonably expects profits or returns derived from the entrepreneurial or managerial efforts of others. SEC v. W.J. Howey Co., 328 U.S. 293, 299 (1946). Courts have found that novel or unique investment vehicles constitute investment contracts, including interests in orange groves, animal breeding programs, railroads, mobile phones, and enterprises that exist only on the Internet, including crypto assets.
 . Sections 5(a) and 5(c) of the Securities Act require that issuers of securities register the offer or sale of securities with the SEC, unless an exemption applies. Similarly, those provisions prohibit engaging in the unregistered offer and sale of such securities. Registration statements relating to the offer and sale of securities provide public investors with material information about the issuer and the offering, including financial and managerial information, how the issuer will use offering proceeds, and the risks and trends that affect the enterprise and an investment in its securities. 
@@ -584,7 +600,7 @@ Seven Cities Pte Ltd., in turn, is a wholly-owned subsidiary of Payward, Inc., w
 [.text-center]
 [underline]#*BACKGROUND ON CRYPTO ASSETS AND STAKING*#
 
-[start=22]
+[start=22, role=text-justify]
 . The term “crypto asset” generally refers to an asset issued and/or transferred using distributed ledger or blockchain technology, including assets sometimes referred to as “cryptocurrencies,” digital “coins,” and digital “tokens.”
 . A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitallyrecorded data packages. The system relies on cryptographic techniques for secure recording of transactions.
 . People can own crypto assets and hold them at a blockchain address under their control. Typically, someone controls an address—and the crypto assets held at that address—with a private cryptographic key for that address. Anyone with that private key can sign and submit a transaction to the blockchain that will transfer the crypto assets at that address to another address. Typically, in a single blockchain address, people can hold multiple types of crypto assets.
@@ -609,20 +625,20 @@ for the compensation, including from fees charged to those transacting on the bl
 [upperroman]
 . THE KRAKEN STAKING PROGRAM
 
-[start=37]
+[start=37, role=text-justify]
 . In December 2019, Kraken launched its Staking Program as a means to participate in, and profit from, the “proof of stake” consensus mechanism of certain blockchains, by obtaining investors’ crypto assets, pooling those assets, and then staking some portion of those assets in order to obtain rewards, a portion of which Kraken distributes to the investors and a portion of which Kraken retains.
 . Kraken advertises that the Program offers investors worldwide, including most U.S. investors, an investment opportunity to participate in proof of stake consensus and receive benefits that may not be available to those investors if they staked on their own. For example, Defendants’ Program offers to investors no staking minimums, no upfront fees or deposits, purported industry-leading cybersecurity protections, a simplified and easy-to-use one-stop-shop trading platform, and the ability, through Kraken’s efforts, to obtain returns based on Kraken’s participation in proof of stake activities for different types of tokens. In addition, for most of the Kraken Staking Program’s staking-eligible crypto assets, the Program also offers investors instant reward accrual, the ability to instantly “unstake” (i.e., to demand the immediate return of crypto assets and not have to comply with unbonding periods that would apply if the investor participated directly), automatic weekly or twice-weekly payout dates, and custom and steady returns with promised minimum returns.
 
 [upperalpha]
 . [underline]#*Defendants’ Efforts Result In Unique Benefits To Investors In The Kraken Staking Program*#
 
-[start=39]
+[start=39, role=text-justify]
 . The Kraken Staking Program has several features that differentiate it from staking and earning rewards on your own.
 
 [.text-center]
 [underline]#*Passive Investment Opportunity*#
 
-[start=40]
+[start=40, role=text-justify]
 . The Kraken Staking Program is a passive investment opportunity. To participate, investors need only establish an account at kraken.com and purchase stakingeligible tokens from the kraken.com trading platform (for a fee), or transfer their existing staking-eligible tokens to a kraken.com account. Investors then sign-up for the Kraken Staking Program and transfer their crypto assets to the possession and control of Defendants.xref:sec_payward_footnote_2[^*(2)*^]
 . Defendants then perform all of the efforts necessary and expected by the investors to obtain the advertised and promised investment return. These efforts include:
 ** Determining how many tokens to actually stake (see infra, ¶¶ 51-54);
@@ -636,14 +652,14 @@ for the compensation, including from fees charged to those transacting on the bl
 [.text-center]
 [underline]#*Pooling of Crypto Assets*#
 
-[start=42]
+[start=42, role=text-justify]
 . Defendants control and pool crypto assets invested in the Kraken Staking Program together with their own proprietary tokens in wallets controlled by Defendants. They then determine when and how many of these pooled tokens to stake in the underlying protocol.
 . The pooling of tokens, and the correspondingly larger number of tokens to be staked in the proof of stake protocols, increases the probability that the blockchain protocol will select Defendants to validate transactions and earn rewards and provides smoother, more reliable rewards. According to a Kraken Blog Post dated December 8, 2020: “As staking via Kraken pools client tokens together, it improves the chances that they will be selected to verify transactions, thereby increasing potential payouts.” 
 
 [.text-center]
 [underline]#*Kraken-Determined Investment Returns*#
 
-[start=44]
+[start=44, role=text-justify]
 . The returns that investors receive from the Kraken Staking Program differ from the returns that an investor could expect if the investor staked directly (assuming the investor even had the technological capability and sufficient tokens to stake and obtain rewards). Investors in the Kraken Staking Program receive a reward determined by Defendants, not the reward determined by the underlying blockchain protocol.
 . In general, staking services can offer set or discretionary reward amounts. Here, Defendants retain the discretion to determine the reward amounts while marketing specific returns (e.g., 4-7% for Ethereum, 9-12% for Polkadot, and 12-15% for Cosmos). In other words, Defendants reserve the right not to pay this advertised return—or indeed any reward. The Kraken Terms of Service states that the marketed return is “an estimate only and not guaranteed” and “may change at any time in Payward Trading’s sole discretion.”xref:sec_payward_footnote_3[^*(3)*^] 
 . The marketed return does not account for all staking rewards. Defendants retain for themselves those rewards that exceed the marketed range and do not generally disclose to investors the amount of rewards Defendants retain for themselves. In other words, Defendants do not disclose sufficient information for investors to determine if they are receiving their fair share of the staking rewards. 
@@ -652,24 +668,23 @@ for the compensation, including from fees charged to those transacting on the bl
 [.text-center]
 [underline]#*Frequent, Regular Payouts*#
 
-[start=48]
+[start=48, role=text-justify]
 . Defendants also promise regular investment payouts for most staked tokens—typically weekly or twice per week—that deviate from the way rewards are distributed by the underlying staking protocol. In this regard, Defendants advertise that they have “taken the initiative to smooth this revenue stream for our clients by enabling predictable pay-outs as part of our staking services.” For example, regarding staking for certain crypto assets, Kraken’s blog states, “Payouts happen twice a week – every Monday and Thursday at 14:00 UTC […] among the fastest in the industry.”
 
 [.text-center]
 [underline]#*Liquidity and Immediate Rewards*#
 
-[start=49]
-. Defendants emphasize that investors in the Kraken Staking Program, with limited exceptions, are not subject to bonding and unbonding periods as they would be if they staked these crypto assets directly with most underlying staking protocols. In other words, unlike staking-on-your-own, investors in the Kraken Staking Program are promised enhanced liquidity and immediate rewards. A 2020 Kraken blog post states: “Unlike other staking services, you start earning rewards within minutes of staking your funds,” highlighting an investor’s “flexibility to instantly unstake and trade your funds [on Kraken’s trading platform].” Kraken’s website provides:
-[none]
-.. Unlike other staking services, at Kraken there is no minimum On-chain staking time needed to earn rewards. You start earning pro-rated rewards for On-chain staking as soon as your instructions to stake are processed by Kraken (which may be within minutes of you staking your funds). +
+[start=49, role=text-justify]
+. Defendants emphasize that investors in the Kraken Staking Program, with limited exceptions, are not subject to bonding and unbonding periods as they would be if they staked these crypto assets directly with most underlying staking protocols. In other words, unlike staking-on-your-own, investors in the Kraken Staking Program are promised enhanced liquidity and immediate rewards. A 2020 Kraken blog post states: “Unlike other staking services, you start earning rewards within minutes of staking your funds,” highlighting an investor’s “flexibility to instantly unstake and trade your funds [on Kraken’s trading platform].” Kraken’s website provides: +
+[.quoteblock .text-justify]##Unlike other staking services, at Kraken there is no minimum On-chain staking time needed to earn rewards. You start earning pro-rated rewards for On-chain staking as soon as your instructions to stake are processed by Kraken (which may be within minutes of you staking your funds). +
 &nbsp; +
-For example, if you utilized On-chain staking for a few hours and then un-staked your funds, you would still be credited prorated rewards on the next payout day. In contrast, on other services you would not receive anything. Unlike other staking services we also have no bonding and unbonding period for Onchain staking (other than ETH2). 
+For example, if you utilized On-chain staking for a few hours and then un-staked your funds, you would still be credited prorated rewards on the next payout day. In contrast, on other services you would not receive anything. Unlike other staking services we also have no bonding and unbonding period for Onchain staking (other than ETH2).## 
 . In effect, Defendants are advertising that they will pay rewards to investors during the period between when the investor transfers his or her assets to the Kraken Staking Program and when the investor demands to receive his or her crypto assets back from the Program. Defendants promise that the Staking Program will begin paying rewards (returns) when investors transfer their crypto assets to the Program, regardless of a blockchain protocol’s bonding period, and promise immediately to return investors’ crypto assets even if the tokens used by Defendants and staked with a protocol actually remain locked and unavailable for the unbonding period.
 
 [.text-center]
 [underline]#*Not All Tokens Staked*#
 
-[start=51]
+[start=51, role=text-justify]
 . Defendants claim that they are able to offer instant liquidity (regardless of the unbonding period) because the pooled tokens are fungible and, according to them, Defendants do not actually stake every investor token transferred to them. For many of these crypto assets, Defendants state that they hold back a subset of tokens as a “liquidity reserve.”
 . However, Defendants do not disclose the extent of these “unstaked” tokens and how they are used. Investors accordingly have no way of analyzing whether Kraken actually can meet all requests for instant liquidity through these reserves or otherwise. In other words, given the limited disclosure regarding the Kraken Staking Program, Defendants do not provide sufficient information to demonstrate that they, at all times, maintain a token reserve that is adequate to honor the Program’s “no unbonding period” and “instant unstaking” representations should multiple investors with large staking positions seek to redeem those positions at the same time.
 . Defendants are under no obligation to segregate the crypto assets that investors transfer to them in exchange for the advertised return (marketed as being from proof of stake activities). Defendants can account for these transfers by rebalancing their internal ledger. 
@@ -678,7 +693,7 @@ For example, if you utilized On-chain staking for a few hours and then un-staked
 [.text-center]
 [underline]#*Not Directly Subject To Transaction And Deposit Fees, Or Minimum Staking Thresholds*#
 
-[start=55]
+[start=55, role=text-justify]
 . Certain underlying staking protocols impose upfront transaction fees for staking and unstaking, as well as require a refundable deposit above the amount of staked tokens.
 . Investors in the Kraken Staking Program are not directly subject to these fees as they do not actually participate in the staking protocols directly, and no initial deposits are required. However, the amount of return that investors receive may be reduced by Defendants based on these and other fees and expenses. Defendants are not required to verify the amount of rewards received, nor verify the amount of any fees charged to Defendants when participating in the staking protocols, or otherwise.
 . In addition, staking protocols generally require a certain threshold number of tokens to be able to participate in staking. The Kraken Staking Program does not require that investors commit any minimum threshold of tokens to participate in the Program.
@@ -686,27 +701,26 @@ For example, if you utilized On-chain staking for a few hours and then un-staked
 [.text-center]
 [underline]#*Purportedly Safe, Easy-To-Use Platform*#
 
-[start=58]
+[start=58, role=text-justify]
 . Kraken offers a simplified user interface. Kraken’s blog states: “Token holders have previously had little choice other than to stake tokens themselves, something that requires technical understanding.” The FAQs state: “Couldn’t I Stake Myself for Free? While you are certainly able to stake yourself, that process can be complex[.]” Another blog entry states: “Instead of needing to purchase special equipment to compete for newly minted network tokens, users are instead able to stake their funds in Kraken’s stake pool.”
 . Kraken also advertises the supposed security of the platform. It touts that its “team of experts have built in a number of sophisticated measures to prevent theft of funds, NFTs or information. Theft isn’t the only threat of course. As a professional exchange we offer financial stability, with full reserves, healthy banking relationships and the highest standards of legal compliance.” 
 . Kraken further states that it has “assembled a global team of top security professionals who take a risk-based approach to ensuring our clients’ assets are protected at the highest levels while maintaining exceptional performance and an unparalleled client experience. Our team has decades of experience building security programs for the world’s top brands, investigating the largest consumer data breaches, developing security technology trusted by millions of businesses and discovering vulnerabilities in the technology used by billions of people every day.”
-. Defendants also tout that they are trustworthy. A November 10, 2022 blog post on Kraken.com titled, “How Kraken Continues to Lead the way in Transparency and Trust” states, in part:
-[none]
-..[W]e are proud to say that Kraken has long taken the lead when it comes to transparency. In fact, we pioneered the use of regular asset audits in 2014 and hired [an accounting firm] to produce two Proof of Reserve audits over the past year alone. These cryptographic audits are more precise and immutable than any other form of financial statement
+. Defendants also tout that they are trustworthy. A November 10, 2022 blog post on Kraken.com titled, “How Kraken Continues to Lead the way in Transparency and Trust” states, in part: +
+[.quoteblock .text-justify]##[W]e are proud to say that Kraken has long taken the lead when it comes to transparency. In fact, we pioneered the use of regular asset audits in 2014 and hired [an accounting firm] to produce two Proof of Reserve audits over the past year alone. These cryptographic audits are more precise and immutable than any other form of financial statement
 and we are one of the first exchanges to perform them regularly. +
-Proof of Reserve audits cryptographically prove that we hold the assets we say we hold on your behalf. While this process is almost impossible for traditional financial institutions to conduct, the open and transparent properties of cryptocurrencies enable us to produce these precise audits regularly.xref:sec_payward_footnote_4[^*(4)*^]
+Proof of Reserve audits cryptographically prove that we hold the assets we say we hold on your behalf. While this process is almost impossible for traditional financial institutions to conduct, the open and transparent properties of cryptocurrencies enable us to produce these precise audits regularly.xref:sec_payward_footnote_4[^*(4)*^]##
 . A November 18, 2022 blog post on Kraken.com similarly states: “Kraken offers a comprehensive approach to Proof of Reserves that verifies not just reserves, but also liabilities. Cryptographically proving that we hold our clients’ covered assets in reserve at the time of an audit is only half the battle. Kraken’s Proof of Reserves also includes covered liabilities (i.e., tokens in client accounts).” However, Defendants also describe the limitations of the purported audit, including that it “cannot identify any hidden encumbrances or prove that funds had not been borrowed for purposes of passing the audit.” In other words, the “proof of reserves” audit is akin to a balance sheet that lists assets but not every liability; proof of reserves may not offer investor protection in this scenario.
 
 [upperalpha,start=2]
 . [underline]#*Defendants Market The Kraken Staking Program As An Investment Opportunity*#
 
-[start=63]
+[start=63, role=text-justify]
 . Defendants tout the Kraken Staking Program as an investment opportunity on the kraken.com website, in social media, and in mass emails to existing customers.
 . For example, Defendants market the possibility of profits through an expected rate of investment return. The kraken.com website, imaged below, states that investors can “*Earn up to 21%* yearly on your crypto”: 
 
-image::media/ch03-payward-01.png[]
+image::media/ch03-payward-01.png[66%,66%, align=center]
 
-[start=65]
+[start=65, role=text-justify]
 . Defendants historically have put forward marketing materials advertising the investor return from the Kraken Staking Program, including: 
 ** “At 6% compounded annually, we offer the highest fixed-rate returns in the industry.”
 ** “Enjoy one of the highest returns in the industry (12% for DOT and 7% for ATOM).”
@@ -717,7 +731,7 @@ image::media/ch03-payward-01.png[]
 [upperalpha,start=3]
 . [underline]#*The Kraken Staking Program Has Generated Tens Of Millions Of Dollars In Investment Returns*#
 
-[start=66]
+[start=66, role=text-justify]
 . Throughout the relevant period, Defendants have offered the Kraken Staking Program to all U.S. residents except New York and Washington State residents. These U.S. residents have been able to “stake” fifteen different crypto assets through the Kraken Staking Program, summarized in the table below:
 
 |===
@@ -741,20 +755,20 @@ image::media/ch03-payward-01.png[]
 [.text-center]
 Supported Crypto Assets for U.S. Investors
 
-[start=67]
+[start=67, role=text-justify]
 . As of June 2022, there were more than 135,000 unique U.S.-based usernames investing in the Kraken Staking Program. 
 . Since launching the Kraken Staking Program in December 2019 and through mid-2022, U.S. investors had staked over $2.7 billion worth of crypto assets in the Kraken Staking Program. Kraken has earned at least $147 million as net revenue throughout the life of the Program, of which at least $45.2 million is attributable to U.S. investors. Defendants’ net income attributable to U.S. investors in the Staking Program is $14.95 million. According to Kraken’s 2021 Annual Shareholder Update, “Staking was Kraken’s fastest growing product in 2021 and accounted for more than one-third of Kraken’s gross revenue growth.” As also stated in the same Update: “As we continue to support new staking assets and offer highly attractive rewards, clients are incentivized to keep more assets on platform, increasing the amount of capital available for clients to exchange between assets, driving volume growth and promoting client stickiness.” 
 
 [upperroman, start=2]
 . [underline]#*THE KRAKEN STAKING PROGRAM IS OFFERED AND SOLD AS A SECURITY*#
 
-[start=69]
+[start=69, role=text-justify]
 . At all relevant times, the Kraken Staking Program was offered and sold as an investment contract and therefore a security whose offers and sales were subject to the registration requirements of the federal securities laws. 
 
 [upperalpha]
 . [underline]#*Participants In The Kraken Staking Program Invest Money*#
 
-[start=70]
+[start=70, role=text-justify]
 . Defendants’ offer and sale of the Kraken Staking Program involves an investment of money. Under the Howey framework, an investment of “money” may but need not take the form of fiat currency. Here, investors purchase crypto assets from Defendants (with fiat or crypto assets) and then transfer them to the Defendants’ Kraken Staking Program; alternatively, investors transfer their own crypto assets to Defendants for staking.
 . Investors put their crypto assets at risk as part of the Kraken Staking Program. Defendants have control over all the crypto assets invested in the Kraken Staking Program and choose when and how to use them. (As explained above, Defendants do not actually stake all crypto assets received from investors.) Moreover, according to the Kraken Terms of Service, these crypto assets may be encumbered by Kraken’s creditors. In addition, to the extent that an investor’s crypto assets actually are staked to the underlying blockchain protocol, those assets are at risk of being slashed.xref:sec_payward_footnote_5[^*(5)*^]
 . Investors also have liquidity and market risk. Defendants market the Kraken Staking Program’s advantage of “instant unbonding” and instant return of “staked” crypto assets. But, as noted above, Defendants do not disclose the extent of their crypto-asset reserves and whether these reserves are sufficient to meet all redemption demands. If these reserves are insufficient, Kraken may be unable to honor a redemption request in a timely fashion, if at all. Investors could suffer market losses if the value of their crypto assets declines while waiting for redemption. 
@@ -762,7 +776,7 @@ Supported Crypto Assets for U.S. Investors
 [upperalpha, start=2]
 . [underline]#*Investors And Defendants Participate In A Common Enterprise*#
 
-[start=73]
+[start=, role=text-justify]
 . Investors in the Kraken Staking Program participate in a common enterprise with other investors and with Defendants.
 . Investor tokens are transferred and pooled in wallets for the purposes of the Kraken Staking Program, and Defendants determine when and how many of these pooled tokens to stake. During this time, and for as long as the investor chooses to stake his or her tokens, investors receive a pre-calculated payout from Defendants. Defendants market that these payouts are distributed pro rata to investors depending on the amount of tokens they have staked (i.e., Defendants advertise a fixed return for all investors). Defendants do not segregate or separately manage an individual investor’s crypto assets as part of the Kraken Staking Program.
 . The fortunes of investors and Defendants also are tied together in this common enterprise. For example, as explained above, the larger the pool of assets for staking, the higher the likelihood of obtaining rewards, which inures to the benefit of all investors and Defendants.
@@ -771,7 +785,7 @@ Supported Crypto Assets for U.S. Investors
 [upperalpha, start=3]
 . [underline]#*Investors Reasonably Expect To Profit From The Efforts Of Defendants*#
 
-[start=77]
+[start=77, role=text-justify]
 . Investors in the Kraken Staking Program reasonably expect to profit from Defendants’ efforts.
 . From its inception, Defendants have marketed the Kraken Staking Program as an investment opportunity. As detailed above, through the kraken.com website, a Kraken blog, and social media channels, Defendants have promoted the Kraken Staking Program as a way for investors to earn a high investment return—“the highest fixed-rate returns in the industry.”
 . Defendants also market the advantages of the Kraken Staking Program over staking independently. According to Defendants, these advantages include simplifying a complex staking process with an easy-to-use interface in a secure and trustworthy environment operated by technical experts.
@@ -782,7 +796,7 @@ Supported Crypto Assets for U.S. Investors
 [upperroman, start=3]
 . *DEFENDANTS HAVE FAILED TO REGISTER THE OFFERS AND SALES OF THE KRAKEN STAKING PROGRAM WITH THE COMMISSION*
 
-[start=83]
+[start=83, role=text-justify]
 . Defendants have used interstate commerce to offer and sell the Kraken Staking Program by, among other things, engaging in general solicitation through the kraken.com website and other promotional materials, including emails and social media. 
 . Defendants have never had a registration statement filed or in effect with the SEC for their offers and sales of the Kraken Staking Program. No exemption from registration applied or applies.
 . Defendants’ public disclosures have contained selective or no information about Defendants’ financial history, audited financial statements, management discussion and analysis of financial condition and results of operations, and ability to generate profits. Investors in the Kraken Staking Program also have not received information about Defendants’ operations, financial condition, liabilities, or other factors relevant in considering whether to invest in the Kraken Staking Program. Investors further have lacked full and detailed information regarding how Defendants use reserves to meet redemptive requests (including whether there are segregated reserves and the extent of those reserves) and have been deprived of information about the staking rewards that Defendants keep for themselves. For example, Defendants do not disclose fees and expenses related to the Kraken Staking Program. Nor do Defendants disclose what they do with “unstaked” tokens, the extent to which Defendants are staking investor tokens, whether Defendants are lending, borrowing, trading, or otherwise alienating investor tokens into some enterprise other than staking protocols, whether and to what extent Defendants are commingling “unstaked” tokens with other assets, the source of rewards paid to investors particularly with respect to “unstaked” tokens, and sufficient information for investors to otherwise determine whether they are receiving a fair share of staking rewards from Defendants.
@@ -793,7 +807,7 @@ Supported Crypto Assets for U.S. Investors
 [.text-center]
 *Violations of Sections 5(a) and 5(c) of the Securities Act*
 
-[start=86]
+[start=86, role=text-justify]
 . The Commission realleges and incorporates by reference herein the allegations in paragraphs 1 through 85.
 . By virtue of the foregoing, Defendants, directly and indirectly: (a) without a registration statement in effect as to that security, made use of the means and instruments of transportation or communications in interstate commerce or of the mails to sell securities through the use or medium of any prospectus or otherwise, (b) without a registration statement in effect as to that security, carried or caused to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale, and (c) made use of the means and instruments of transportation or communication in interstate commerce or of the mails to offer to sell through the use or medium of a prospectus or otherwise, securities as to which no registration statement had been filed.
 . By reason of the conduct described above, Defendants, directly or indirectly, violated, are violating, and, unless enjoined, will continue to violate Securities Act Sections 5(a) and 5(c) [15 U.S.C. §§ 77e(a), (c)].
@@ -805,27 +819,27 @@ WHEREFORE, the Commission respectfully requests that the Court enter a Final Jud
 
 [.text-center]
 *I.*
-
+[.text-justify]
 Permanently enjoining Defendants, and each of their respective agents, servants, employees, attorneys and other persons in active concert or participation with each of them, from violating, directly or indirectly, Sections 5(a) and 5(c) of the Securities Act [15 U.S.C. § 77e(a), 77e(c)];
 
 [.text-center]
 *II.*
-
+[.text-justify]
 Permanently enjoining Defendants and any entity controlled by them from, directly or indirectly, offering or selling securities through crypto asset staking services or staking programs, pursuant to Section 21(d)(5) of the Exchange Act [15 U.S.C. § 78u(d)(5)]; 
 
 [.text-center]
 *III.*
-
+[.text-justify]
 Ordering Defendants to disgorge all ill-gotten gains, with prejudgment interest thereon, pursuant to Section 21(d)(3), (5) and (7) of the Exchange Act [15 U.S.C. § 78u(d)(3), (5) and (7)];
 
 [.text-center]
 *IV.*
-
+[.text-justify]
 Ordering Defendants to pay civil money penalties pursuant to Section 20(d) of the Securities Act [15 U.S.C. § 77t(d)]; and
 
 [.text-center]
 *V.*
-
+[.text-justify]
 Granting any other and further relief this Court may deem just and proper for the benefit of investors.
 
 JURY DEMAND
@@ -852,23 +866,28 @@ Attorneys for Plaintiff
 |===
 
 [[sec_payward_footnote_1]]
+[.text-justify]
 [1] As used in this Complaint, “crypto asset” refers to an asset that is issued and/or transferred using distributed ledger or blockchain technology—including, but not limited to, so-called “digital assets,” “virtual currencies,” “cryptocurrencies,” “coins,” and “tokens.” 
 [[sec_payward_footnote_2]]
+[.text-justify]
 [2] Investors do not have to be “accredited investors” as defined by Rule 501 of Regulation D of the Securities Act. 
 [[sec_payward_footnote_3]]
-[3] Defendants have complete control over the amount and distribution of staking rewards to investors. The Terms of Service states:
-[none]
-.. By opting-in a portion or your entire balance of Supported Tokens, Payward Trading shall remit to you the applicable percentage of staking rewards received from the Supported Token protocol attributable to your staked Supported Tokens (*“Staking Rewards”*) as detailed in your Kraken Account. The applicable percentage and timing of such remittances will: (i) be determined by Payward Trading in its sole discretion; (ii) be subject to Payward Trading’s staking fee; (iii) vary by the Supported Token protocol; and (iv) be further detailed in your Kraken Account. *You agree and understand that neither Payward Trading nor Kraken guarantees that you will receive Staking Rewards and that the applicable percentage (i) is an estimate only and not guaranteed, (ii) may change at any time in Payward Trading’s sole discretion, and (iii) may be more or less than the actual staking rewards Payward Trading receives from the Supported Token protocol.* +
-(emphasis in original).
+[.text-justify]
+[3] Defendants have complete control over the amount and distribution of staking rewards to investors. The Terms of Service states: +
+[.quoteblock .text-justify]##By opting-in a portion or your entire balance of Supported Tokens, Payward Trading shall remit to you the applicable percentage of staking rewards received from the Supported Token protocol attributable to your staked Supported Tokens (*“Staking Rewards”*) as detailed in your Kraken Account. The applicable percentage and timing of such remittances will: (i) be determined by Payward Trading in its sole discretion; (ii) be subject to Payward Trading’s staking fee; (iii) vary by the Supported Token protocol; and (iv) be further detailed in your Kraken Account. *You agree and understand that neither Payward Trading nor Kraken guarantees that you will receive Staking Rewards and that the applicable percentage (i) is an estimate only and not guaranteed, (ii) may change at any time in Payward Trading’s sole discretion, and (iii) may be more or less than the actual staking rewards Payward Trading receives from the Supported Token protocol.* +
+(emphasis in original).##
 
 [[sec_payward_footnote_4]]
+[.text-justify]
 [4] Proof of reserves is a term crypto asset participants use to describe a voluntary method for offering evidence that shows, in the aggregate, an entity has sufficient reserve assets to cover what is held for customers and/or accounts at a given point in time. A proof of reserves engagement is not as rigorous as, as comprehensive as, or equivalent to a financial statement audit and may not provide any level of assurance to investors other than a snapshot of reserve assets at a specific point in time. 
 [[sec_payward_footnote_5]]
+[.text-justify]
 [5] Per Kraken’s Terms of Service, Defendants will compensate investors for some, but not all, “slashing penalties.” For example, Defendants disclaim any obligation to compensate investors for slashed tokens if the tokens are slashed because of protocol “maintenance, bugs, or errors,” acts by a hacker or other malicious actor, or force majeure events. 
 
-____
+- - -
 
 === Discussion Questions ===
+[.text-justify]
 . Kraken is one of the most popular cryptocurrency exchanges in the u.S.A.  Does this complaint mean that the U.S. exchanges can no longer have staking programs?
 
 ////
@@ -895,11 +914,17 @@ ____
 [[defi_blockfi]]
 == BlockFi Lending ==
 
-[.text-right]
+
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
 _Securities and Exchange Commission +
 ADMINISTRATIVE PROCEEDING, File No. 3-20758_
+>| 
+image::excerpt.png[]
+|===
 
-- - - 
 [.text-center]
 *UNITED STATES OF AMERICA +
 Before the +
@@ -979,7 +1004,7 @@ as Investment Opportunities
 . At all relevant times, BlockFi represented that it earned interest on the assets that it borrowed from BIA investors by lending those crypto assets to institutional borrowers. Beginning in September 2020, BlockFi disclosed on its website that it also purchased “SEC-regulated equities and predominantly CFTC-regulated futures” using BIA assets.
 . To begin investing in a BIA, an investor could transfer crypto assets to the digital wallet address assigned by BlockFi to the investor, or purchase crypto assets with fiat currency from BlockFi Trading for the purpose of investing in a BIA. BlockFi Trading accepted the crypto asset or fiat from the investor, and then transferred the asset or fiat to BlockFi. BlockFi did not hold private keys for the investors’ wallet addresses; rather, investors’ crypto assets were sent to BlockFi’s wallet addresses at third-party custodians. 
 
-image::media/blockfi_lending_image1.png[]
+image::media/blockfi_lending_image1.png[66%, 66%, align=center]
 
 [text-justify, start=13]
 . BIA investors were permitted to withdraw the equivalent to the crypto assets they loaned to BlockFi at any time, with some limitations, and could borrow money in U.S. dollars against the amount of crypto assets deposited in BIAs.
@@ -1057,8 +1082,8 @@ image::media/blockfi_lending_image2.png[align=center]
 . BlockFi has undertaken to, within 60 days of the institution of the Order, come into compliance with Section 7(a) of the Investment Company Act by either: 
 .. Filing a notification of registration pursuant to Section 8(a) of the Investment Company Act, and then within 90 days of filing such notification of registration, filing a registration statement with the Commission, on the appropriate form; or 
 .. Completing steps such that BlockFi is no longer required to be registered under Section 7(a) of the Investment Company Act and providing the Commission staff with sufficient credible evidence that it is no longer required to be registered under the Investment Company Act.
-[none]
-The Commission staff may grant a single 30-day extension for good cause shown.
+
+&emsp;&nbsp; The Commission staff may grant a single 30-day extension for good cause shown.
 
 [.text-justify, start=44]
 . A Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield (or any similar product) will not be declared effective if, among other things, BlockFi Inc., or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, is not in compliance with Section 7(a) of the Investment Company Act. If a Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield is declared effective, BlockFi undertakes to, 180 days after the effectiveness date, provide the Commission staff with sufficient credible evidence to affirm that BlockFi, or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, continues to be in compliance with Section 7(a) of the Investment Company Act.
@@ -1118,9 +1143,11 @@ Payments by check or money order must be accompanied by a cover letter identifyi
 
 &lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;
 [[blockfi_lending_ftnote_1]]
+[.text-justify]
 1 The findings herein are made pursuant to Respondent’s Offer of Settlement and are not binding
 on any other person or entity in this or any other proceeding.
 [[blockfi_lending_ftnote_2]]
+[.text-justify]
 2 “HODL” is a purposeful misspelling of “hold” and an acronym for “hold on for dear life,”
 denoting buy-and-hold strategies in the context of crypto assets.
 
