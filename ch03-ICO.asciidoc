@@ -1,6 +1,7 @@
 [role="pagenumrestart"]
 == Initial Coin Offerings and Token Sales Chapter ==
 
+On July 17th, 2017, the Securities Exchange Commission released a report on whether The DAO violated U.S. securities laws in the manner of which it sold cryptocurrency tokens.  The DAO was the first major Decentralized Autonomous Organization (DAO).  
 
 ////
 ###################################################################################################
