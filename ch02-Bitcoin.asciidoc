@@ -133,9 +133,11 @@ As an additional firewall, a new key pair should be used for each transaction to
 [[bitcoin_whitepaper_discussion_questions]]
 === Discussion Questions ===
 [.text-justify]
-. Satoshi Nakamoto proposes Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party.  Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrency tokens created since the launch of Bitcoin.    
+. Satoshi Nakamoto proposes Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party.  Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrency tokens created since the launch of Bitcoin.  
 
-. Satoshi Nakamoto’s posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", more information at https://www.bookofsatoshi.com/.
+. For a more detailed technical explanation of how Bitcoin works, see Mastering Bitcoin, 2nd Edition, https://github.com/bitcoinbook/bitcoinbook
+
+. Satoshi Nakamoto’s posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", see https://www.bookofsatoshi.com/.
 
 . The first use of Bitcoin was Satoshi Nakamoto sending bitcoins to Hal Finney in January 2009.  
 
