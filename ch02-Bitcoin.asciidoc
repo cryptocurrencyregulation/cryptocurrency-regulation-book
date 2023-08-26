@@ -18,7 +18,7 @@ On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bi
 ###################################################################################################>>>>>>>>>>
 ////
 [[bitcoin_whitepaper]]
-== Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.] ==
+== Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." https://bitcoin.org/bitcoin.pdf] ==
 
 
 
