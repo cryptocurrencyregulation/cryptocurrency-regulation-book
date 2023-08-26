@@ -138,7 +138,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 . Satoshi Nakamoto’s posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", more information at https://www.bookofsatoshi.com/.
 
-. The first use of Bitcoin was Satoshi Nakamoto sending bitcoins to Hal Finney in January 2009.  The first public usage of Bitcoin as a currency was when Laszlo Hanyeczto spent 10,000 BTC to purchase two Papa John's pizzas on May 22, 2010 from Jeremy Sturdivant (estimated transaction value was $41).    
+. The first use of Bitcoin was Satoshi Nakamoto sending bitcoins to Hal Finney in January 2009.  The first public usage of Bitcoin as a currency was when Laszlo Hanyeczto spent 10,000 BTC to purchase two Papa John's pizzas on May 22, 2010 from Jeremy Sturdivant (estimated transaction value was $41 or less than one cent per bitcoin).    
 
 . The most famous early usage of bitcoin was the black market website Silk Road.  See United States v. Ulbricht, 858 F.3d 71 (2d Cir. 2017).  
 
