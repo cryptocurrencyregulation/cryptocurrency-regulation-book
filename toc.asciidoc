@@ -36,6 +36,7 @@
 [none]
 . link:ch_Mixer.asciidoc#mixer_dprk[U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats]
 . link:ch_Mixer.asciidoc#[U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash]
+. Loon v. Department of Treasury
 
 = link:ch_FTX.asciidoc[FTX Chapter] =
 [none]
