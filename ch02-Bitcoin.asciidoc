@@ -133,14 +133,13 @@ As an additional firewall, a new key pair should be used for each transaction to
 [[bitcoin_whitepaper_discussion_questions]]
 === Discussion Questions ===
 [.text-justify]
-. After reading this paper, you may have technical issues to consider.  For example, why is trust an issue? Is Bitcoin truly trustless? Why can't Eastern Standard Time be used as a Timestamp? Do you think proof-of-work varying difficulty is fair for all participating nodes? How do malicious nodes affect the overall network? Can a malicious node claim a proof-of-work completed by another node? Are there any disincentives in bitcoin? Is Bitcoin anonymous or can transactions be traced?  
-. You may also have legal issues to consider.  Is it legal to create your own currency under U.S. Law?  Does it matter whether Bitcoin was created in the U.S. or not?   Who owns Bitcoin?  What does it mean to say that you own Bitcoin in a wallet?  If you receive Bitcoin in a wallet, is it taxable income that you have to report on your tax return? 
+. Satoshi Nakamoto proposes Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party.  Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrency tokens created since the launch of Bitcoin.    
 
 . Satoshi Nakamoto’s posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", more information at https://www.bookofsatoshi.com/.
 
 . The first use of Bitcoin was Satoshi Nakamoto sending bitcoins to Hal Finney in January 2009.  
 
-. The first public usage of Bitcoin as a currency was when Laszlo Hanyeczto spent 10,000 BTC to purchase two Papa John's pizzas on May 22, 2010 from Jeremy Sturdivant (estimated transaction value was $41, a valuing bitcoins at less than one cent per bitcoin).    
+. The first public usage of Bitcoin as a currency was when Laszlo Hanyeczto spent 10,000 BTC to purchase two Papa John's pizzas from Jeremy Sturdivant on May 22, 2010 (estimated transaction value was $41, a valuing bitcoins at less than one cent per bitcoin).    
 
 . The most famous early usage of bitcoin was the black market website Silk Road.  See United States v. Ulbricht, 858 F.3d 71 (2d Cir. 2017).  
 
