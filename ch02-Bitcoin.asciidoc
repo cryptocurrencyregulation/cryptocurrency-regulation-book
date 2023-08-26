@@ -143,8 +143,10 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 . The most famous early usage of bitcoin was the black market website Silk Road.  See United States v. Ulbricht, 858 F.3d 71 (2d Cir. 2017).  
 
+. Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  
+
 [.text-justify]
-Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
+The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
 
 ////
 # Bitcoin White Paper
