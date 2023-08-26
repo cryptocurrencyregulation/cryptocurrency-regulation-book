@@ -131,7 +131,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 - - -
 [[bitcoin_whitepaper_discussion_questions]]
-=== Discussion Questions ===
+=== Discussion ===
 [.text-justify]
 . Satoshi Nakamoto proposes Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party.  Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrency tokens created since the launch of Bitcoin.  
 
