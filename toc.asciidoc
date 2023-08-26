@@ -12,7 +12,7 @@
 . link:ch03-ICO.asciidoc#ico_howey[When Howey Met Gary] 
 . link:ch03-ICO.asciidoc#ico_turnkey[TurnKey Jet No Action Letter]
 . link:ch03-ICO.asciidoc#ico_sec_v_lbry[SEC vs. LBRY] 
-SEC v Ripple Labs
+. SEC v Ripple Labs
 
 = link:ch_DeFi.asciidoc[DeFi, Lending, and Staking Chapter] =
 
