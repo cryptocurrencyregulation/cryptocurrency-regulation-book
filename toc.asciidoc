@@ -24,6 +24,15 @@
 . link:ch_DeFi.asciidoc#defi_payward[Payward Ventures and Payward Trading]
 . link:ch_DeFi.asciidoc#defi_blockfi[Blockfi Lending] 
 
+= link:ch_Mixer.asciidoc[Currency Mixers] =
+[none]
+. link:ch_Mixer.asciidoc#mixer_dprk[U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats]
+. link:ch_Mixer.asciidoc#[U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash]
+. Loon v. Department of Treasury
+
+
+= Decentralized Autonomous Organizations (DAOs) =
+
 = link:ch_Fraud.asciidoc[Pyramid Schemes and Fraud] =
 [none]
 . link:ch_Fraud.asciidoc#fraud_coindeal[CoinDeal Charged with Fraud] 
@@ -34,11 +43,6 @@
 . link:ch_NFT_Insider_Trading.asciidoc#doj_insider_trading[Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme]
 . link:ch_NFT_Insider_Trading.asciidoc#doj_insider_trading[Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case]
 
-= link:ch_Mixer.asciidoc[Currency Mixers] =
-[none]
-. link:ch_Mixer.asciidoc#mixer_dprk[U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats]
-. link:ch_Mixer.asciidoc#[U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash]
-. Loon v. Department of Treasury
 
 = link:ch_FTX.asciidoc[FTX] =
 [none]
@@ -59,7 +63,5 @@
 [none]
 . link:ch_Stablecoins.asciidoc#oag_tether[Tether]
 . link:ch_Stablecoins.asciidoc#stablecoin_terraform_knwon[Terraform & Kwon] 
-
-= Decentralized Autonomous Organizations (DAOs) =
 
 
