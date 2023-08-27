@@ -4,6 +4,8 @@
 [none]
 . link:ch02-Bitcoin.asciidoc#bitcoin_whitepaper[Bitcoin White Paper] 
 
+== link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
+[none]
 
 == link:ch03-ICO.asciidoc[Initial Coin Offerings and Token Sales] ==
 [none]
