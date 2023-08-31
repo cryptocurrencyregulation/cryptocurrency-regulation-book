@@ -1,19 +1,22 @@
-== link:ch01-Introduction.asciidoc[Introduction Chapter] ==
+== link:ch01-Introduction.asciidoc[Introduction] ==
 
-== link:ch02-Bitcoin.asciidoc[Bitcoin Chapter] ==
+== link:ch02-Bitcoin.asciidoc[Bitcoin] ==
 [none]
 . link:ch02-Bitcoin.asciidoc#bitcoin_whitepaper[Bitcoin White Paper] 
-. link:ch02-Bitcoin.asciidoc#wright_v_mccormack[Wright vs. McCormack] 
 
-== link:ch03-ICO.asciidoc[Initial Coin Offerings and Token Sales Chapter] ==
+== link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
+[none]
+
+== link:ch03-ICO.asciidoc[Initial Coin Offerings and Token Sales] ==
 [none]
 . link:ch03-ICO.asciidoc#ico_dao[Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO] 
 . link:ch03-ICO.asciidoc#ico_coburn[In the Matter of Zachary Coburn] 
 . link:ch03-ICO.asciidoc#ico_howey[When Howey Met Gary] 
 . link:ch03-ICO.asciidoc#ico_turnkey[TurnKey Jet No Action Letter]
 . link:ch03-ICO.asciidoc#ico_sec_v_lbry[SEC vs. LBRY] 
+. SEC v Ripple Labs
 
-= link:ch_DeFi.asciidoc[DeFi, Lending, and Staking Chapter] =
+= link:ch_DeFi.asciidoc[DeFi, Lending, and Staking] =
 
 [none]
 . link:ch_DeFi.asciidoc#defi_sec_v_genesis[SEC v. Genesis & Gemini]
@@ -21,32 +24,37 @@
 . link:ch_DeFi.asciidoc#defi_payward[Payward Ventures and Payward Trading]
 . link:ch_DeFi.asciidoc#defi_blockfi[Blockfi Lending] 
 
+= link:ch_Mixer.asciidoc[Currency Mixers] =
+[none]
+. link:ch_Mixer.asciidoc#mixer_dprk[U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats]
+. link:ch_Mixer.asciidoc#[U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash]
+. Loon v. Department of Treasury
+
+
+= Decentralized Autonomous Organizations (DAOs) =
+
 = link:ch_Fraud.asciidoc[Pyramid Schemes and Fraud] =
 [none]
 . link:ch_Fraud.asciidoc#fraud_coindeal[CoinDeal Charged with Fraud] 
 . link:ch_Fraud.asciidoc#fraud_sec_pyramid[SEC Charges Eleven Individuals in $300 Million Crypto Pyramid Scheme]
 
-= link:ch_NFT_Insider_Trading.asciidoc[Cryptocurrency and NFT Insider Trading Chapter] =
+= link:ch_NFT_Insider_Trading.asciidoc[Cryptocurrency and NFT Insider Trading] =
 [none]
 . link:ch_NFT_Insider_Trading.asciidoc#doj_insider_trading[Former Employee of NFT Marketplace Charged in First Ever Digital Asset Insider Trading Scheme]
 . link:ch_NFT_Insider_Trading.asciidoc#doj_insider_trading[Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case]
 
-= link:ch_Mixer.asciidoc[Currency Mixers Chapter] =
-[none]
-. link:ch_Mixer.asciidoc#mixer_dprk[U.S. Treasury Issues First-Ever Sanctions on a Virtual Currency Mixer, Targets DPRK Cyber Threats]
-. link:ch_Mixer.asciidoc#[U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash]
 
-= link:ch_FTX.asciidoc[FTX Chapter] =
+= link:ch_FTX.asciidoc[FTX] =
 [none]
 . link:ch_FTX.asciidoc#ftx_sec_ellisonftx_sec_ellison[Securities and Exchange Commission v. Ellison et al]
 . link:ch_FTX.asciidoc#ftx_cftc_bankman[CFTC v. Bankman-Fried et al.] 
 
-= link:ch_Celsius.asciidoc[Celsius Chapter] = 
+= link:ch_Celsius.asciidoc[Celsius] = 
 [none]
 . link:ch_Celsius.asciidoc#celsius_bankruptcy[Celsius Network LLC, et al.]
 . link:ch_Celsius.asciidoc#celsius_examiner_report[Examiner Report on CELSIUS NETWORK LLC, et al.]
 
-= link:ch_AML.asciidoc[Exchanges and Anti-Money Laundering Chapter] =
+= link:ch_AML.asciidoc[Exchanges and Anti-Money Laundering] =
 [none]
 . link:ch_AML.asciidoc#aml_bitzlato[Founder and Majority Owner of Cryptocurrency Exchange Bitzlato Charged]
 . link:ch_AML.asciidoc#aml_coinbase_consent_order[Consent Order in the matter of Coinbase, Inc.]
@@ -55,7 +63,5 @@
 [none]
 . link:ch_Stablecoins.asciidoc#oag_tether[Tether]
 . link:ch_Stablecoins.asciidoc#stablecoin_terraform_knwon[Terraform & Kwon] 
-
-= Decentralized Autonomous Organizations (DAOs) =
 
 

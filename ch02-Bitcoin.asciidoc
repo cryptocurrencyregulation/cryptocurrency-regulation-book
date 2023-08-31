@@ -3,7 +3,7 @@
 = Bitcoin =
 
 
-On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" in an internet forum. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.
+On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" in an internet forum. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.  Satoshi Nakamoto proposed Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party. Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrency tokens created since the launch of Bitcoin.
 
 ////
 ###################################################################################################
@@ -18,7 +18,7 @@ On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bi
 ###################################################################################################>>>>>>>>>>
 ////
 [[bitcoin_whitepaper]]
-== Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." Decentralized Business Review (2008): 21260.] ==
+== Bitcoin Whitepaper footnote:[Nakamoto, Satoshi. "Bitcoin: A peer-to-peer electronic cash system." https://bitcoin.org/bitcoin.pdf] ==
 
 
 
@@ -26,7 +26,7 @@ On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bi
 |===
 >|
 _Nakamoto, Satoshi., "Bitcoin: A peer-to-peer electronic cash system." +
-Decentralized Business Review (2008): 21260._
+https://bitcoin.org/bitcoin.pdf_
 >| 
 image::excerpt.png[]
 |===
@@ -131,229 +131,28 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 - - -
 [[bitcoin_whitepaper_discussion_questions]]
-=== Discussion Questions ===
+=== Discussion ===
 [.text-justify]
-. After reading this paper, you may have technical issues to consider.  For example, why is trust an issue? Is Bitcoin truly trustless? Why can't Eastern Standard Time be used as a Timestamp? Do you think proof-of-work varying difficulty is fair for all participating nodes? How do malicious nodes affect the overall network? Can a malicious node claim a proof-of-work completed by another node? Are there any disincentives in bitcoin? Is Bitcoin anonymous or can transactions be traced?  
-. You may also have legal issues to consider.  Is it legal to create your own currency under U.S. Law?  Does it matter whether Bitcoin was created in the U.S. or not?   Who owns Bitcoin?  What does it mean to say that you own Bitcoin in a wallet?  If you receive Bitcoin in a wallet, is it taxable income that you have to report on your tax return? 
+. For a more detailed technical explanation of how Bitcoin works, see Mastering Bitcoin, 2nd Edition, https://github.com/bitcoinbook/bitcoinbook.
 
-[.text-justify]
-Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  The below case is one of several cases that arose because of Craig Wright's claim to be Satoshi Nakamoto.     
+. Satoshi Nakamoto’s posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", see https://www.bookofsatoshi.com/.
+
+. The first use of Bitcoin was Satoshi Nakamoto sending bitcoins to Hal Finney in January 2009.  
+
+. The first public usage of Bitcoin as a currency was when Laszlo Hanyeczto spent 10,000 BTC to purchase two Papa John's pizzas from Jeremy Sturdivant on May 22, 2010 (estimated transaction value was $41, bitcoin valuation of less than one cent per bitcoin).  See https://www.forbes.com/sites/rufaskamau/2022/05/09/what-is-bitcoin-pizza-day-and-why-does-the-community-celebrate-on-may-22/?sh=4594cbb1fd68  
+
+. The most famous early usage of bitcoin was the black market website Silk Road.  See United States v. Ulbricht, 858 F.3d 71 (2d Cir. 2017).  
+
+. Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  
+
+. The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  See Kleiman v. Wright, Case No. 18-cv-80176-BLOOM/Reinhart (S.D. Fla. Sep. 18, 2020), where Kleiman's estate sued Craig Wright for half of the bitcoins that were mined by Satoshi Nakamoto.  See also Wright v. McCormack, [2023] EWCA Civ 892,    https://www.judiciary.uk/wp-content/uploads/2023/07/Wright-v-McCormack-judgment-260723.pdf.  See also Wright vs. 16 Bitcoin Developers,  [2023] EWCA Civ 868, https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWCA/Civ/2023/868.html&query=(CA-2023-000404)
+
+   
 
 ////
 # Bitcoin White Paper
-#<<<<<<<<<<
-////
-
 
 ////
-###################################################################################################
-# Wright v. McCormack
-#
-#
-#
-#
-#
-#
-#
-###################################################################################################>>>>>>>>>>
-////
-
-[[wright_v_mccormack]]
-== Satoshi Nakamoto Pseudonym footnote:[High Court Approved Judgment WRIGHT v McCORMACK (2022). Retrieved 4 August 2022 from https://www.judiciary.uk/wp-content/uploads/2022/08/Wright-v-McCormack-Judgment.pdf] ==
 
 
-
-[cols="12a,1a", width=100%, frame=none, grid=rows]
-|===
->|
-_WRIGHT v McCORMACK +
-[2022] EWHC 2068 (QB)_
->| 
-image::excerpt.png[]
-|===
-
-*MR JUSTICE CHAMBERLAIN:* 
-
-*Introduction*
-[.text-justify]
-. In 2008, a “white paper” entitled Bitcoin: A Peer-to-Peer Electronic Cash System was published under the pseudonym Satoshi Nakamoto (“Satoshi”). It is widely believed that the author or authors went on to invent Bitcoin, releasing early versions of the software and modifying the source code until 2010, and that this person or these persons still own a significant quantity of early Bitcoin, currently worth many billions of US dollars.
-
-.  There has been much speculation about the identity of Satoshi. Various individuals or groups have been proposed. One of these is the Claimant, Dr Craig Wright, a computer scientist and businessman active in the cryptocurrency and blockchain sphere who also aspires to an academic career in more than one field. Dr Wright now avows the claim that he is Satoshi.
-
-. Together with Calvin Ayre, a Canadian businessman based in Antigua, Dr Wright promotes “Bitcoin Satoshi Vision” or “BSV”, which he says reflects Bitcoin’s founding purpose and values. In his oral evidence, Dr Wright referred to Calvin Ayre as his “mentor”.
-
-. The defendant, Peter McCormack, is a podcaster and blogger specialising in content about Bitcoin and associated cryptocurrencies. He publishes podcasts and blogs on his website “What Bitcoin Did”. He is also a prolific user of Twitter and, from August 2017, tweeted using the handle @PeterMcCormack.
-
-. Between 29 March and 29 August 2019, Mr McCormack published a series of tweets (“Publications 1-10 and 12-15”). There is no longer any complaint about Publication 11. I
-set out the tweets below, but it is now common ground that their meaning is that Dr Wright is not Satoshi and his claims to be Satoshi are fraudulent. Mr McCormack made similar
-claims in a video discussion hosted by an individual known as Hotep Jesus and broadcast on 18 October 2019 on YouTube, where it remains accessible (“Publication 16”).
-
-. On 17 April 2019, Dr Wright issued this claim for libel in respect of the publications which had occurred by that time. The claim was amended to include the later publications. Initially, Mr McCormack pleaded a defence of truth. However, in late 2020, he abandoned that defence, saying that, otherwise, the trial would take about three weeks and he could not afford to pay for legal representation for such a trial. Accordingly, the identity of Satoshi is
-not among the issues I have to determine. 
-
-. The only issues remaining concern:
-.. the meaning of Publication 16;
-.. liability for republication of Publication 16;
-.. whether each of the Publications caused, or was likely to cause, “serious harm to the reputation of the claimant” within the meaning of s. 1(1) of the Defamation Act 2013; and
-.. if liability in respect of one or more of the Publications is established, relief.
-
-*The Publications and their context*
-
-[start=8]
-[.text-justify]
-. I set out below the publications forming the subject matter of this claim, in context. The words complained of are underlined.
-. On 29 March 2019, there were two tweets from Calvin Ayre: +
-[.quoteblock .text-justify]##“yup… Dr Craig Wright is Satoshi Nakamoto…and #BSV is the only real #Bitcoin. All others are attacking Craig to sell their dysfunctional snake oil crypto products. Craig has proven this to me directly in a number of ways.” +
-{empty} +
-“Craig has started filing lawsuit against those falsely denying he is Satoshi…they can all have a day in court to try to prove their fake case but the judge will rule that Craig invented Bitcoin because he did and he can prove it.”##
-. Mr McCormack replied at 8.17pm in these terms (Publication 1): +
-[.quoteblock .text-justify]##[.underline]#“Can I go first? +
-{empty} +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi +
-Craig Wright is not Satoshi”###
-. On 9 April 2019 Calvin Ayre tweeted a photograph of himself, Dr Wright and five others standing behind a conference table in what appears to be a lawyer’s office. Mr Ayre has one arm around Dr Wright’s shoulder and is giving a “thumb’s up” sign with the other hand. The others pictured include Adam Wolanski QC, Dr Wright’s leading counsel in these proceedings. The text accompanying the photograph is: +
-[.quoteblock .text-justify]##“Craig and I are polishing our muskets at today’s Troll Hunting meeting in London. #CraigisSatoshi.”##
-. Mr McCormack responded at 1.47pm on 10 April 2019 (Publication 2): +
-[.quoteblock .text-justify]##[.underline]#“Craig Wright is not Satohis! [sic] +
-When do I get sued?”###
-. At 10.23pm on 10 April 2019, Mr McCormack tweeted (Publication 3): +
-[.quoteblock .text-justify]##[.underline]#“Dear @CalvinAyre,# +
-{empty} +
-I would like to formally state that:# +
-[.underline]#1. Craig Wright is not Satoshi# +
-[.underline]#2. Craig Wright is a fraud# +
-[.underline]#3. I hope as many people ReTweet this as possible# +
-{empty} +
-[.underline]#Please send legal correspondence to [Mr McCormack’s home address]#”##
-. At 2.16pm on 12 April 2019, Mr McCormack replied to his own tweet as follows (Publication 4): +
-[.quoteblock .text-justify]##[.underline]#“@CalvinAyre mate, that is over 1k RTs and 2.3k likes, I demand my lawsuit… +
-{empty} +
-…but you aren’t going to do it are you? You are just trying to bully people into silence with empty threats. +
-{empty} +
-Craig Wright is a fraud, bring it or go jogging.”###
-. By 12 April 2019, Mr McCormack had received a letter from Dr Wright’s solicitors complaining about his tweets and asking him to delete the tweets, undertake not to repeat the claims and apologise publicly. His response was to post a copy of the letter with a series of tweets, the first of which was at 5.04pm. These were as follows (Publication 5): +
-[.quoteblock .text-justify]##[.underline]#“1/ So I got my letter from Craig Wright and @CalvinAyre. This is what they are sending out to people, now you can all see. +
-{empty} +
-I absolutely reject their requirements. +
-{empty} +
-(PS I don’t recommend anyone else does this).” +
-{empty} +
-“2/ I believe that claiming to be Satoshi and promoting a fake version of Bitcoin is fraudulent. I believe this is in the public interest. +
-{empty} +
-Let’s go to court.” +
-{empty} +
-“Before any claims of virtue signalling or clout…I’m doing this because it is the right thing to do. I’ve lost everything before and if I lose again, so what. BSV is a fake Bitcoin run by frauds. +
-{empty} +
-F**k them!”###
-
-...
-
-_**Paragraphs 16-49 omitted**_
-
-...
-
-[start=50]
-[.text-justify]
-. On 29 November 2019, Dr Wright served further revised draft Amended Particulars of Claim, in the same form as ultimately served on 19 December 2019. This altered the
-Claimant’s case on serious harm, abandoning the contentions relating to Dr Wright’s relationships with individuals at Leicester University, SOAS and CNAM. The fact that he
-no longer picked his children up from school was now pleaded as a particular of distress, but not of serious harm. The averment that he had been deterred from undertaking work with public bodies and applying for roles in public life was replaced with a more limited averment that the publications had made it more difficult for him to achieve his ambition of becoming a magistrate in Surrey. The claim in relation to serious harm to reputation in EU states was abandoned; the harm pleaded was now confined to that said to have been suffered in England and Wales.
-. Dr Wright’s new case was that, in the period between 1 January and 31 March 2019, he had been invited to speak and present academic papers at eight academic conferences and that: +
-[.quoteblock .text-justify]##“25.9.2 Prior to publication of the words complained of, the Claimant had been invited to speak at numerous further such conferences. In several instances those invitations followed the successful submission by the Claimant of proposed academic papers for blind peer review. However following publication of the words complained of, invitations to the Claimant were withdrawn by the following conferences:## +
-[.quoteblock .quoteblock .text-justify]##25.9.2.1. The Twenty-sixth International Conference on Telecoms, held in Hanoi, Vietnam on 8 to 10 April 2019;  +
-25.9.2.2. The IEEE International Conference on Computer Communications, held in Paris, France on 29 April to 2 May 2019; +
-25.9.2.3. The Forty-first ACM/IEEE International Conference on Software Engineering, held in Montreal, Canada on 25 to 31 May 2019; +
-25.9.2.4. The Sixth International Symposium on Networks, Computers and Communications, held in Istanbul, Turkey on 18 to 20 June 2019; +
-25.9.2.5. The Twenty-second International Conference on Business Information Systems, held in Seville, Spain, on 26 to 28 June 2019; +
-25.9.2.6. The Forty-second International Conference on Telecommunications and Signal Processing, held in Budapest, Hungary on 1 to 3 July 2019; +
-25.9.2.7. The Second Vietnam Symposium in Leadership and Public Policy, held in Ho Chi Minh City, Vietnam on 28 to 29 October 2019; +
-25.9.2.8. The Twenty-fifth Asia-Pacific Conference on Communications, held in Ho Chi Minh City, Vietnam on 6 to 8 November 2019; +
-25.9.2.9. CHAINSIGHTS Fintech and Blockchain Summit,held in New York City, USA on 10 October 2019; and +
-25.9.2.10. MoneyConf,  held in Lisbon, Portugal on 5 to 7 November 2019. ## +
-[.quoteblock1 .text-justify]##25.9.3. Given the timings of these exclusions it is to be inferred that the primary cause of these exclusions was publication of the words complained of. +
-25.9.4. As a result of the exclusion of the Claimant from the conferences set out at paragraphs +
-25.9.2.1 to 25.9.2.8 the academic papers which the Claimant had been due to present were not presented at those conferences and, as a result, the Claimant has been unable to publish them to the world at large. The inability of the Claimant to present and publish those papers has led to considerable difficulties for the Claimant in pursuing academic opportunities. The Claimant wishes to develop an academic career in England (having previously taught as an Adjunct Lecturer in the Faculty of Business, School of Computing and Mathematics at Charles Sturt University, Australia) but needs to demonstrate the recent publication of academic papers to obtain such positions. +
-25.9.5. Further, the inability of the Claimant to publish academic papers has a detrimental impact upon the value of the patents which the Claimant files and creates. The publication of academic papers assists in the promotion of patents: a patent which has a published academic paper behind it can be worth many times as much as a patent which does not.” ##
-
-...
-
-_** Paragraphs 52-93 omitted **_
-
-...
-
-[start=94]
-[.text-justify]
-. Dr Wright now accepts that his evidence (though not his pleading) was wrong, but says that this was inadvertent. In assessing this, it is necessary to set out what the evidence now shows and the extent to which this diverges from the case originally advanced.
-. There is [.underline]#no# documentary evidence that: (i) Dr Wright had a paper accepted following a blind peer review process at [.underline]#any# of the academic conferences identified in para. 25.9.2 of the ReAmended Particulars of Claim; or (ii) Dr Wright ever received an invitation to speak at [.underline]#any# of those conferences, with the possible exception of Seville; or (iii) that any such invitation was rescinded. I have borne in mind Dr Wright’s evidence that he no longer has access to the emails sent to his CNAM account, but even if that account is true, emails are often retained by the sender as well as the recipient. It is striking that, with the assistance of his very well-resourced lawyers, he has been unable to locate any documentary evidence to support his account that invitations were made and then rescinded: see, in this regard, _Wetton (as Liquidator of Mumtaz Properties Ltd) v Ahmed_ [2011] EWCA Civ 61, [14] (Arden LJ).
-
-...
-
-_** Paragraphs 96-109 omitted **_
-
-...
-
-[start=110]
-[.text-justify]
-. A conclusion that a witness has given deliberately false evidence should not be drawn lightly. There are times, however, when the application of Occam’s razor impels such a conclusion. In this case, there is no other plausible explanation. I reach that view having observed Dr Wright give oral evidence and on the basis of a combination of: (i) the circumstances in which the case on serious harm was pleaded; (ii) the extent to which that case – and the evidence contained in the first witness statement – were subsequently shown to be false; (iii) the timing of Dr Wright’s third witness statement (in response to the new evidence exposing the falsity of his earlier case); (iv) the vague and unimpressive oral evidence given by Dr Wright in support of his new case at trial; and (v) the lack of any adequate or convincing explanation for the falsity of the original case and evidence.
-
-. I therefore conclude that Dr Wright’s original case on serious harm, and the evidence supporting it, both of which were maintained until days before trial, were deliberately false.
-
-...
-
-_** Paragraphs 112-140 omitted **_
-
-...
-
-*Relief*
-
-[start=141]
-[.text-justify]
-. By way of relief, Dr Wright claims damages, an injunction and an order for publication of a summary of the judgment pursuant to s. 12 of the 2013 Act. There has been correspondence in which Mr McCormack’s solicitors have offered undertakings in the event of a finding against Mr McCormack on liability. In my judgment, the appropriate way to proceed is for me to resolve the question of damages first and then invite further submissions as to whether any injunctive or other relief should be granted in the light of my findings. 
-. The general approach to the assessment of damages for defamation cases was set out by Warby J in _Monroe v Hopkins_ at [75]-[78]. However, it is also well established that “a person should only be compensated for injury to the reputation they actually possess” and it is accordingly open to a defendant to adduce evidence of a claimant’s bad reputation in mitigation of damages: _Lachaux_, [74] (Warby J). In assessing the proper level of damages or in mitigation of damages, the court can take into account evidence admitted on another issue: Gatley on Libel and Slander (13th ed., 2022), §34-096; _Dhir v Saddler_ [2017] EWHC 3155 (QB), [2018] 4 WLR 1, [118]; _Bokova v Associated Newspapers Ltd_ [2018] EWHC 2032 (QB), [2019] QB 861, [29].
-
-. In a libel action brought by an individual, compensation is awarded for injury to reputation (objectively assessed) and for injury to feelings. Had it not been for Dr Wright’s deliberately false case as to serious harm, a more than minimal award of damages would have been appropriate, though the quantum would have been reduced to reflect the fact that Mr McCormack was goaded into making the statements he did and, having found Dr Wright not to be a witness of truth, I would have rejected in its entirety his case as to the distress he claims to have suffered.
-
-. But the deliberately false case on serious harm advanced by Dr Wright until days before trial in my judgment requires more than a mere reduction in the award of damages. In my judgment, it makes it unconscionable that Dr Wright should receive any more than nominal damages.
-
-. In _Joseph v Spiller_ [2012] EWHC 2958 (QB), a claim heard before the 2013 Act, the claimant was a member of a musical group. The defendant was one of the directors of an
-entertainment bookings service. He published something defamatory of the claimant’s group on his website. The claimant advanced a claim for special damages for the cancellation of a booking, said to have been occasioned by the publication complained of. Tugendhat J held that the claimant had carried on a sophisticated deception of the court by putting forward a witness statement he knew to be false and by relying on a false document to mislead the court. As a result, although the claim succeeded, “there would be no injustice to Mr Joseph if he is awarded only nominal damages” – and that is what happened: see at [177]-[178] and [184].
-
-. In _FlyMeNow Ltd v Quick Air Jet Charter GmbH_ [2016] EWHC 3197 (QB), Warby J awarded damages of £10 to a company which succeeded in a claim for libel in respect of a statement by one of its creditors imputing insolvency. This very low or nominal award was justified in part by a finding that the claimant had fobbed the defendant off with a series of dishonest excuses (see [127]), but also by the finding that “a central element of its case was false from the beginning and should have been recognised as such by the company’s principal”, who had “given false evidence” (see [128]). The latter findings were “disreputable facts that are properly before the court, which logically affect the extent to which the claimant is entitled to vindication of its reputation through an award of damages”. This approach was said to be supported by _Joseph v Spiller_.
-
-. In my judgment, the same principle applies here:
-.. Dr Wright advanced a deliberately false case as to the disinvitations from academic conferences in his Amended Particulars of Claim and his first witness statement. That case was designed to show that the Publications had caused serious harm, which is now an essential element of the tort of defamation. It was also relevant to the quantum of damages sought. These were both central issues in the claim.
-.. The case was maintained until shortly before the trial and, on my findings, would have been maintained at trial had Mr McCormack not served evidence from two of the organisers of the academic conferences from which Dr Wright said he had been disinvited after previously having had papers accepted following blind peer review.
-.. Dr Wright’s response to this evidence was to change his case and withdraw significant parts of his earlier evidence, while seeking to explain that the errors were inadvertent. I have rejected that explanation as untrue.
-.. I have found that the Publications [.underline]#did# cause serious harm without reference to the earlier deliberately false case as to the academic conferences. However, I am entitled to take into account my findings as to the earlier false case in assessing damages.
-.. As in _Joseph v Spiller_, I find that there would be no injustice if Dr Wright were to recover only nominal damages.
-. In the light of this conclusion, it is not necessary to resolve the differences between the parties as to the extent of publication; and it would not be a proportionate use of judicial resources to do so.
-
-*Conclusions*
-[start=149]
-[.text-justify]
-. For these reasons, I conclude that:
-.. Publication 16 meant that there were reasonable grounds for questioning or inquiring as to whether the Claimant had fraudulently claimed to be Satoshi. This was defamatory at common law. 
-.. Mr McCormack is responsible for the re-publication of Publication 16 by the posting of the recording on YouTube.
-.. Each of Publications 1-10 and 12-16 caused serious harm to the reputation of Dr Wright.
-.. However, because he advanced a deliberately false case and put forward deliberately false evidence until days before trial, he will recover only nominal damages.
-. Accordingly, I shall enter judgment for Dr Wright on the claim in the sum of £1.
-. I shall invite written submissions in the light of this judgment on the question of injunctive or other relief and on costs. 
-
-- - -
-
-[[wright_v_mccormack_discussion_questions]]
-
-=== Discussion Questions ===
-[.text-justify]
-1. Satoshi Nakamoto's posts to the internet are collected in "The Book of Satoshi: The Collected Writings of Satoshi Nakamoto", more information at https://www.bookofsatoshi.com/.  Do the activities of Dr. Wright seem compatible with the writings collected in that book? 
-2. Does this case answer the question as to whether Dr. Wright is the person behind the identity of Satoshi Nakamoto?
-////
-# Wright v. McCormack
-#<<<<<<<<<<
 ////
