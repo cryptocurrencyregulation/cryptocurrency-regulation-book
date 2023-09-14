@@ -6,7 +6,7 @@
 
 == link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
 [none]
-
+. Joseph Van Loon v. Department of Treasury
 == link:ch03-ICO.asciidoc[Initial Coin Offerings and Token Sales] ==
 [none]
 . link:ch03-ICO.asciidoc#ico_dao[Report of Investigation Pursuant to Section 21(a) of the Securities Exchange Act of 1934: The DAO] 
