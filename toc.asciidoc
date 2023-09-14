@@ -3,6 +3,7 @@
 == link:ch02-Bitcoin.asciidoc[Bitcoin] ==
 [none]
 . link:ch02-Bitcoin.asciidoc#bitcoin_whitepaper[Bitcoin White Paper] 
+. United States v. Ulbricht
 
 == link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
 [none]
