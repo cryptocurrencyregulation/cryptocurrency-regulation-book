@@ -31,7 +31,9 @@
 . link:ch_FTX.asciidoc#ftx_cftc_bankman[CFTC v. Bankman-Fried et al.] 
 
 
+
 Supplementary materials
+
 
 = link:ch_DeFi.asciidoc[DeFi, Lending, and Staking] =
 
