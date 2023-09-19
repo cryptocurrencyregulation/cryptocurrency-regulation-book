@@ -19,6 +19,20 @@
 . SEC v Ripple Labs
 . SEC v Telegram Group
 
+= link:ch_Stablecoins.asciidoc[Stablecoins] =
+[none]
+. link:ch_Stablecoins.asciidoc#oag_tether[Tether]
+. link:ch_Stablecoins.asciidoc#stablecoin_terraform_knwon[Terraform & Kwon] 
+. SEC v. Kwon
+
+= link:ch_FTX.asciidoc[FTX] =
+[none]
+. link:ch_FTX.asciidoc#ftx_sec_ellisonftx_sec_ellison[Securities and Exchange Commission v. Ellison et al]
+. link:ch_FTX.asciidoc#ftx_cftc_bankman[CFTC v. Bankman-Fried et al.] 
+
+
+Supplementary materials
+
 = link:ch_DeFi.asciidoc[DeFi, Lending, and Staking] =
 
 [none]
@@ -47,11 +61,6 @@
 . link:ch_NFT_Insider_Trading.asciidoc#doj_insider_trading[Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case]
 
 
-= link:ch_FTX.asciidoc[FTX] =
-[none]
-. link:ch_FTX.asciidoc#ftx_sec_ellisonftx_sec_ellison[Securities and Exchange Commission v. Ellison et al]
-. link:ch_FTX.asciidoc#ftx_cftc_bankman[CFTC v. Bankman-Fried et al.] 
-
 = link:ch_Celsius.asciidoc[Celsius] = 
 [none]
 . link:ch_Celsius.asciidoc#celsius_bankruptcy[Celsius Network LLC, et al.]
@@ -61,11 +70,5 @@
 [none]
 . link:ch_AML.asciidoc#aml_bitzlato[Founder and Majority Owner of Cryptocurrency Exchange Bitzlato Charged]
 . link:ch_AML.asciidoc#aml_coinbase_consent_order[Consent Order in the matter of Coinbase, Inc.]
-
-= link:ch_Stablecoins.asciidoc[Stablecoins] =
-[none]
-. link:ch_Stablecoins.asciidoc#oag_tether[Tether]
-. link:ch_Stablecoins.asciidoc#stablecoin_terraform_knwon[Terraform & Kwon] 
-. SEC v. Kwon
 
 
