@@ -1,4 +1,4 @@
-== Cryptocurrency Mixer Chapter ==
+== Smart Contracts Chapter 3 ==
 
 
 ////
