@@ -32,7 +32,7 @@
 
 
 
-Supplementary materials
+= Supplementary materials =
 
 
 = link:ch_DeFi.asciidoc[DeFi, Lending, and Staking] =
