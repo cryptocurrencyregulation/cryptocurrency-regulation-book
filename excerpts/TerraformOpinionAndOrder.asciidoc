@@ -429,3 +429,12 @@ Dated: New York, NY +
 
 [[terraform_opinion_order_fn_7]]
 [7] At this stage, violations of the securities laws by Terraform Labs can be imputed to its founder, CEO, and co-defendant, Do Hyeong Kwon. As the alleged CEO, founder, and majority shareholder of Terraform Labs, Kwon retained "control" over the company. See Amended Complaint ii 128-129. Kwon was also, according to the Amended Complaint, intimately involved in the central events of this litigation -- including communications with investors over the use of the defendants' crypto-assets on Chai and the May 2021 de-pegging incident. Id. ~i 134-142, 157-159. As such, violations of securities laws by Terraform Labs may be imputed to Mr. Kwon under Section 20(a) of the Exchange Act.
+
+- - - 
+[[terraform_opinion_order_questions]]
+=== Discussion Questions ===
+
+////
+# Terraform Opinion and Order SECTION END
+#<<<<<<<<<<
+////
