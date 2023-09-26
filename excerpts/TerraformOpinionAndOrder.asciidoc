@@ -1,0 +1,431 @@
+////
+###################################################################################################
+# SEC v. Terraform - Opinion and Order
+# https://storage.courtlistener.com/recap/gov.uscourts.nysd.594150/gov.uscourts.nysd.594150.51.0_1.pdf
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
+////
+[[terraform_opinion_order]]
+[role=excerpt-section]
+=== SEC v. Terraform Labs: Opinion and Order ===
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_SEC v. Terraform +
+Case 1:23-cv-01346-JSR  / July 31, 2023_
+>| 
+image::excerpt.png[]
+|===
+UNITED STATES DISTRICT COURT +
+SOUTHERN DISTRICT OF NEW YORK 
+
+|===
+|&nbsp; +
+Securities and Exchange + 	 
+Commission, +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp;Plaintiff, +
+&nbsp; +
+&emsp;&emsp;-v- +
+&nbsp; +
+Terraform Labs Pte. Ltd. and +
+Do Hyeong Kwon, +
+&nbsp; + 
+&emsp;&emsp;&emsp;&emsp;Defendants. +
+&nbsp;|&nbsp; +
+&nbsp; +
+&nbsp; +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp; 23-cv-1346 (JSR) +
+&nbsp; + 
+&emsp;&emsp;&emsp;&emsp; [underline]#OPINION AND ORDER#
+|===
+
+JED S. RAKOFF, U.S.D.J.: 
+
+[.text-justify]
+In this case, the Securities and Exchange Commission (“SEC”) alleges that the defendants -- Terraform Labs Pte Ltd., a “cryptoassets” company, and its Founder, Chief Executive Officer and majority shareholder, Do Hyeong Kwon -- orchestrated a multibillion-dollar fraud involving the development, marketing, and sale of various cryptocurrencies. The defendants have moved to dismiss the SEC’s Amended Complaint. After full briefing, the Court, on June 14, 2023, heard oral argument on the motion. Having now carefully considered the parties’ arguments, the Court concludes that because, according to the well-pleaded allegations of the complaint, the defendants used false and materially misleading statements to entice U.S. investors to purchase and hold on to defendants’ products, and because those products were unregistered investment-contract securities that enabled investors to profit from the supposed investment activities of defendants and others, the motion to dismiss must be denied.
+
+&emsp; *I&period;&emsp; [underline]#Factual Allegations#*
+
+[.text-justify]
+Unless otherwise noted, the following factual allegations are taken from the SEC’s Amended Complaint, Dkt. No. 25. For purposes of this motion, all well-plead allegations must be taken as true, and all reasonable inferences therefrom must be drawn in the SEC’s favor. See Buon v. Spindler, 65 F.4th 64, 76 (2d Cir. 2023). 
+
+&emsp; *A&period;&emsp; [underline]#The Defendants and the “Crypto-Assets” at Issue#*
+
+[.text-justify]
+Defendant Terraform Labs, Pte Ltd. (“Terraform”) is a Singapore-based company that develops, markets, and sells “cryptoassets,” including cryptocurrencies, and co-defendant Do Keyong Kwon is the company’s Founder, Chief Executive Officer, and majority shareholder, holding 92 percent of the company’s shares. See Dkt. No. 25, (“Amended Complaint”) ¶ 1, 16. Terraform and Kwon are best known for developing and selling the Terra USD cryptocurrency (the “UST coin”) and a “companion” cryptocurrency called the “LUNA” coin. Id. ¶ 4. 
+
+[.text-justify]
+The first of these -- the UST coin -- is a “stablecoin,” a kind of cryptocurrency whose price is algorithmically pegged to another asset, such as a fiat currency or exchange-traded commodity. Id. ¶ 7. Theoretically, stablecoins like the UST coin can serve as useful mediums of exchange, since the coin’s stable value -- assuming it maintains its peg -- may assure buyers and sellers that the coin will retain purchasing power over time. See New to the Crypto World? Here Are Terms to Know, N.Y. Times (June 8, 2022).  
+
+[.text-justify]
+In the case of the UST coin, each coin was pegged to the U.S. dollar and, for a time, could be purchased and sold for exactly $1.00. Amended Complaint ¶ 33. At any point, an owner of a UST coin could swap their coin for $1.00 worth of the companion coin, LUNA. Likewise, any holder of a LUNA coin could exchange that coin for $1.00 in UST coin. This fixed relationship theoretically ensured that the value of coins stayed fixed at $1.00. Id. 
+
+[.text-justify]
+The defendants also marketed and sold three other types of “crypto-assets.” The first of these was a version of the LUNA coin called “wLUNA.” Id. ¶ 39. Where LUNA coins were available only for use on the Terraform blockchain (described below), the wLUNA version allowed holders of LUNA to use LUNA coins in transactions on other, non-Terraform blockchains. Id. ¶¶ 59-61. A second offering, mAssets, functioned as “security-based swaps” whose value “mirrored” the price of securities exchanged on stock exchanges.  Id. ¶ 37. By rising or falling in parallel to the price of a given security, the mAsset allowed traders to gauge the risk of investing in that security without “the burdens of owning or transacting real assets.” Id. The third additional crypto-asset was a “MIR” token that allowed its holders to share in the fees generated by the “Mirror Protocol” (also described below). 
+
+&emsp; *B&period;&emsp; [underline]#The Defendants Create the Terraform Blockchain and Related Crypto-Assets#*
+
+[.text-justify]
+In April 2019, Terraform, Kwon, and another co-founder officially launched a blockchain to house transactions using the UST and LUNA coins, which they called the Terraform blockchain.^*(xref:terraform_opinion_order_fn_1[1])*^  On the same day, the defendants created one billion LUNA tokens and, a few months later, began producing the first of the UST coins. See id. ¶¶ 34, 36. Demand for the UST coins, however, was slow to grow. Id. ¶ 36. In the first two months of 2021, the total amount of UST coins in circulation hovered just under 300 million, indicating that many holders of LUNA coins had not exchanged their coins for UST coins. Id.
+
+[.text-justify]
+In response, Terraform and Kwon began in September 2020 marketing UST coins as profitable investment opportunities -- as opposed to just stable stores of value -- in meetings with U.S. investors, investment conferences in major U.S. cities, and on social media platforms. Id. ¶¶ 35, 43.  Beginning in December 2020, for instance, the defendants unveiled the “Mirror Protocol,” a program under which the defendants would, for a fee, issue “mAssets” to investors that -- as noted above –- were designed to help investors maximize their profits and minimize their risk from trading traditional stocks. Id. ¶ 37. Then, in March 2021, the defendants launched a mechanism that would transform the UST coins into “yield-bearing” stablecoins, a program known as the “Anchor Protocol.” Id. ¶ 35.
+
+[.text-justify]
+At bottom, the “Anchor Protocol” was an investment pool into which owners of UST coins could deposit their coins and earn a share of whatever profits the pool generated. Id. ¶ 36. By advertising rates of returns of 19-20% on the coin owners’ initial investment and touting the “deep relevant experience” of the Terraform team, the defendants generated enormous demand for the UST coins. Id. ¶¶ 36, 40. By May 2022, there were about 19 billion UST coins in circulation, with 14 billion deposited in the Anchor Protocol. Id. Indeed, at that time, UST had a total market value of over $17 billion, making it among the world’s most popular cryptocurrency products. Id. ¶ 4.
+
+[.text-justify]
+Terraform and Kwon represented to investors that the continued profitability of the UST coins and the Anchor Protocol depended on the development of the broader Terraform “ecosystem,” which, they said, would grow in proportion to the volume of transactions on the blockchain. Id. ¶¶ 39, 51-52. To encourage more transactions, Kwon and others at Terraform promised investors that they would devote much of the company’s earnings to expanding and improving the Terraform ecosystem and its crypto-asset products. Id. ¶ 47. For instance, at various points when revenues from the “Anchor Protocol” investments did not cover the advertised returns to UST depositors, Terraform injected millions of dollars from its reserves -- which included a $50 million dollar fund named the “LUNA Foundation Guard” -- to ensure depositors received the money they were promised. Id. ¶ 78.
+
+[.text-justify]
+Not only did the defendants develop and market these cryptoassets, but they offered and sold them in unregistered transactions. Id. ¶ 105. Indeed, from April through September 2018, the defendants contracted to sell close to 200 million LUNA coins to institutional investors in the United States and elsewhere, with Kwon signing the purchase agreements. Id. ¶ 107. 
+Then, in November 2019 and September 2020 -- seeking to reverse “the lackluster performance of LUNA” in that year by “improving liquidity” -- the defendants loaned nearly 100 million LUNA coins to a U.S. trading firm. Id. ¶ 108.
+
+[.text-justify]
+These transactions, in the SEC’s view, amounted to unlawful public distributions of securities because the defendants imposed no restrictions on the resale of the LUNA tokens by their new possessors and, indeed, made the sales with the understanding that the tokens would be resold to the public. Id. ¶ 105-109. The SEC alleges, moreover, that the defendants violated laws prohibiting the unregistered offering and sale of securities and securitybased swaps in a more straightforward way: by directly offering and selling MIR tokens, mAssets, and LUNA tokens on crypto-asset marketplaces. Id. ¶¶ 111-113.
+
+[.text-justify]
+According to the SEC, the defendants also defrauded investors through the development, promotion, and sale of these cryptoassets. Although Terraform and Kwon represented that the coins were stable investments and would always retain their value, this was not the case. And in May 2021, the UST coin’s value dropped below $1.00. At that point, realizing that investors harbored serious doubts about the UST coins and that the coin would not return to a value of $1.00 by itself, Terraform and Kwon persuaded a third-party trading firm based in the United States to buy a large number of UST coins in an effort to artificially restore the coin’s $1.00 peg. Id. ¶ 166. While UST returned to $1.00 through this agreement, Kwon and Terraform concealed the true reason the calamity had been adverted, instead touting the restoration of the peg as a triumph of the “automatically self-heal[ing]” UST/LUNA algorithm. Id. ¶ 7.
+
+[.text-justify]
+This artificial secret arrangement restored confidence among investors, who poured billions of dollars into the Terraform ecosystem. Id. ¶ 8. Exactly one year later, however, the market for UST coins crashed. In April 2022, the market price of LUNA reached a high point of $119.18 per coin. Id. ¶ 56. The next month, the UST coin’s value declined below $1.00 after many investors converted their tokens into LUNA coins or sold them altogether. Id. ¶ 9. Because, this time, there was no external intervention to prop up the price of the coins, the value of both UST and LUNA plummeted to under a penny, wiping out over $40 billion of total market value for investors. Id. ¶ 1.
+
+[.text-justify]
+Terraform also fraudulently misstated the real-world utility of its coins. In particular, they told investors that users of “Chai” – a Korean phone application used by consumers and merchants to send and receive payments – were using Terraform’s stablecoins and blockchain to execute transactions on the platform. Id. ¶¶ 121-134. The defendants told investors that this partnership would generate enormous fees for the company that would redound to investors. See, e.g., id. at 130. These claims, however, were false. In essence, the defendants fabricated transactions to make it appear as if Chai users were using Terraform’s products when, in reality, all transactions on Chai took place exclusively on the Chai platform and involved only Korean currency. Id. ¶ 142.
+
+[.text-justify]
+On these allegations, the SEC asserts five claims for relief in its Amended Complaint. First, they allege that the defendants committed fraud in the sale of their crypto-assets in violation of Section 17(a) of the Securities Act. Second, and similarly, they allege that the same fraudulently-induced sales violated Section 10(b) of the Exchange Act and SEC Rule 10b-5 promulgated thereunder. Third, they allege that Kwon, as Terraform’s CEO and co-founder, is jointly and severally liable with Terraform for any securities’ law violations committed by Terraform. Fourth, they allege that the defendants failed to register the offer and sale of Terraform’s crypto-assets as required by the securities laws. Fifth, they allege that the defendants offered, sold and effected transactions of security-based swaps -- namely, its “mAssets” product -- to individuals who were not “eligible contract participants,” as that term is defined by statute and regulation.
+
+&emsp; *II&period;&emsp; [underline]#Legal Standards#*
+
+[.text-justify]
+Terraform and Kwon move to dismiss the SEC’s Amended Complaint both for lack of personal jurisdiction under Federal Rule of Civil 
+Procedure Rule 12(b)(2) and for failure to state a claim under Federal Rule of Civil Procedure Rule 12(b)(6).
+
+[.text-justify]
+To defeat a motion to dismiss for lack of personal jurisdiction under Rule 12(b)(2), a plaintiff must, through its factual allegations, make a prima facie showing that the Court has jurisdiction over the defendants. This burden is satisfied if the factual allegations contained in the complaint, taken as true, demonstrate two things:
+
+[.text-justify]
+First, the allegations must show that the defendants “purposefully directed” their activities at the forum state (in this case, the United States), thereby “avail[ing] [themselves] of the privilege[s] of conducting activities” in that state, including “the protections of its laws.” Burger King Corp. v. 
+Rudzewicz, 471 U.S. 462, 472 (1985). The touchstone, here, is whether the defendants could reasonably “foresee being haled into court” in the forum state because of their activities in that state. Kernan v. Kurz-Hastings, Inc., 175 F.3d 236, 243 (2d Cir. 1999).^*(xref:terraform_opinion_order_fn_2[2])*^
+
+[.text-justify]
+Second, the plaintiff must also show that the alleged injuries “arise out of or relate to” the activities that the defendants directed at the forum state. Burger King, 471 U.S. at 472-73. Precisely how related the alleged harms and the defendants’ activities need be to establish personal jurisdiction depends on the “substantiality of [the defendants’] contacts” with the forum. SPV OSUS Ltd. v. UBS AG, 114 F. Supp. 3d 161, 169 (S.D.N.Y. 2015). Where, for instance, the defendants have “only limited contacts with the state,” the plaintiff must show that those contacts proximately caused the harm complained of. Id. The corollary is that proximate causation may not be strictly required if the defendants’ contacts are extensive. See Chew v. Dietrich, 143 F.3d 24, 29 (2d Cir. 1998).  
+
+[.text-justify]
+As for the defendants’ alternate ground for its motion to dismiss, a complaint survives a motion to dismiss brought under Rule 12(b)(6) if it contains “enough facts to state a claim to relief that is plausible on its face.” Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007). A claim, in turn, bears facial plausibility where it is supported by “factual content that allows the court to draw the reasonable Inference that the defendant is liable for the misconduct alleged.” Ashcroft v. Iqbal, 556 U.S. 
+662, 678 (2009). In other words, a complaint that offers only “labels and conclusions,” bereft of factual support, or one that alleges facts evincing a “sheer possibility that a defendant has acted unlawfully” will not do. Id. If the plaintiff has not “nudged [its] claims across the line from conceivable to plausible, [the claims] must be dismissed.” Twombly, 550 U.S. at 570. 
+
+[.text-justify]
+Finally, at all times for purposes of this motion, the Court must “construe the pleadings and affidavits in the light most favorable to [the] plaintiff[]” and resolve all factual “doubts in [the plaintiff’s] favor.” Dorchester Fin. Sec., Inc. v. Banco BRJ, S.A., 722 F.3d 81, 85 (2d Cir. 2013).  
+
+&emsp; *III&period;&emsp; [underline]#Discussion#*
+
+[.text-justify]
+With these standards in mind, the Court first assesses the defendants’ motion to dismiss under Rule 12(b)(2) and then under Rule 12(b)(6).
+
+&emsp; *A&period;&emsp; The SEC has adequately pled that the Court may exercise personal jurisdiction over the defendants.*
+
+[.text-justify]
+Terraform and Kwon argue that the Court lacks personal jurisdiction over them under the Due Process Clause. That Clause -- the fount of the personal jurisdiction requirement -- dictates that federal jurisdiction can be exercised only over defendants who direct their actions toward residents of a particular state, in this case, the United States.^*(xref:terraform_opinion_order_fn_3[3])*^  See Burger King, 471 U.S. at 471.
+
+[.text-justify]
+For over a century, this “minimum contacts” rule has struck a fair balance between, on the one hand, a state’s interest in holding those who benefit from its laws accountable to those same laws and, on the other hand, an individual’s right to “fair warning” about what sorts of activities will expose the individual to legal liability. See Ford Motor Co. v. Mont. Eighth Jud. Dist. Ct., 141 S. Ct. 1017, 1025 (2021). To that end, a defendant cannot be “haled into a jurisdiction solely as a result of random, fortuitous, or attenuated contacts,” but must be carried there by actions that suggest a manifest intent to benefit from the forum’s markets or laws, such as an offer to sell goods to residents of that forum. Burger King, 471 U.S. at 475.
+
+[.text-justify]
+Here, the defendants argue that none of their actions reflects such an intent. On their telling, the activities that the SEC offers as the basis for specific jurisdiction -- namely, the company’s efforts to offer and sell its crypto-assets -- were aimed generally at investors all over the world and thus not “purposefully directed” at potential investors in the United States. Id at 472. In the defendants’ view, subjecting them to federal jurisdiction based on such incidental contacts with the United States would vitiate the protections afforded them by the Due Process Clause. See id. at 471.
+
+[.text-justify]
+For its part, the SEC maintains that its allegations of direct sales of the company’s crypto-products to United States firms -- carried out, they claim, through the United States banking system -- and the defendants’ efforts to market their products at meetings in the United States suffice to show an intent to conduct business in the United States. Moreover, the SEC insists the Second Circuit has already ruled in a related, earlier action that courts in this district have jurisdiction over the defendants. See U.S. Sec. & Exchange Comm. v. Terraform Labs Pte Ltd., 2022 WL 2066414 (2d Cir. June 8, 2022).
+
+[.text-justify]
+The SEC has the better of the argument and, this Court concludes, has satisfied its jurisdictional burden. For starters, the Second Circuit has already opined on this very issue and concluded, in no uncertain terms, that the defendants “purposefully availed themselves of the [United States] by promoting the digital assets at issue” -- namely, those related to the Mirror Protocol –- “to U.S.-based consumers and investors.” Id. at *3. The panel’s conclusion, in essence, rested on the defendants’ “extensive U.S. contacts,” “including marketing and promotion to U.S. consumers, retention of U.S. based employees, contracts with U.S.-based entities, and business trips to the U.S., all of which relate to ... the digital assets at issue.” Id. at *4. And all the contacts identified by the Second Circuit as bases for their decision are re-alleged by the SEC in its Amended Complaint here.
+
+[.text-justify]
+Defendants offer two reasons why the Second Circuit’s decision is “not dispositive here,” see Defs.’ Reply Br. at 1, but neither reason is persuasive. First, they argue that the Second Circuit “considered whether there was personal jurisdiction to enforce an investigative subpoena directed to a non-party” and did not determine, generally, that there was personal jurisdiction over the defendants. Id. But the panel’s decision contains no such qualification. Though the Second Circuit’s ruling on personal jurisdiction was made in the context of a dispute over a subpoena, there is nothing that suggests its conclusions were limited to that context. Indeed, the word “subpoena” does not even appear in the section of the decision on personal jurisdiction. See Terraform Labs, 2022 WL 2066414, at *3-4
+
+[.text-justify]
+Second, defendants argue that the Second Circuit’s ruling, to the extent it is relevant at all, has no bearing on the issue of personal jurisdiction over the main crypto-assets at issue here: the LUNA and UST tokens. Personal jurisdiction, they point out, exists only where alleged harms “arise out of or relate to” the defendants’ contacts. Defs.’ Reply Br. at 2. Because the prior Second Circuit case involved only the MIR tokens and mAssets, the panel had no basis to consider whether defendants’ activities as to the LUNA or UST tokens “gave rise” to any cognizable injury. It follows, in their view, that the Second Circuit’s ruling says nothing about whether jurisdiction can be exercised based on the defendants’ offer and sale of its LUNA and UST tokens.
+
+[.text-justify]
+Here, again, the defendants point to a distinction without a difference. Though the Second Circuit’s decision applied only to the company’s mAssets and MIR Tokens, the case for personal jurisdiction based on the defendants’ LUNA- and UST-related activities is, if anything, even stronger. While in the prior case, for instance, the SEC carried its burden by alleging that the defendants sold $200,000 of the Mirror Protocol coins to one U.S.based trading platform, here, the SEC’s allegation is that the defendants sold and loaned several million dollars’ worth of LUNA and UST to several U.S. firms. See Amended Complaint ¶¶ 7-8, 107109; Exhs. PP, QQ, RR, SS. Also, it would defy logic to accept, as defendants argue the Court should, that contracts between the defendants and U.S. firms to sell the defendants’ products are not enough to establish personal jurisdiction just because the marketing efforts that ended in these contracts were directed at global investors. At this stage, an allegation that a defendant “negotiat[ed] and form[ed] a contract with a [United States] corporation” is normally enough, by itself, to support jurisdiction. U.S. Titan, Inc. v. Guangzhou Zhen Hua Shipping Co., Ltd., 241 F.3d 135, 152-53 (2d Cir. 2001).
+
+[.text-justify]
+Nor can the defendants evade federal jurisdiction by claiming that these transactions involved the offshore subsidiaries of the parties to the contract, and not the parties themselves. To begin with, this defense does not apply at all to one of the contracts, which can, by itself, support jurisdiction. Specifically, the defendants directly promised to lend 30 million LUNA coins to a company based in the United States, Jump Trading Co., and not through an offshore entity. See Dkt. 33, Exhs. RR, SS. Even one such contract, “negotia[ted] and form[ed] ... with a [United States] corporation,” suffices for jurisdiction. U.S. Titan, Inc, 241 F.3d at 152-53.
+
+[.text-justify]
+But even as to the contract between Terraform’s subsidiary in the British Virgin Islands and a California-based trading firm, a plaintiff may still establish personal jurisdiction over a foreign corporation based on its subsidiary’s purposeful contacts with the United States if that subsidiary is a “mere department” of the foreign parent corporation. Janzini v. Nissan Motor Co., Ltd., 148 F.3d 181, 184 (2d Cir. 1998). A foreign corporation, in other words, cannot use a subsidiary that serves no other purpose than as a shield against legal liability to block federal jurisdiction. Otherwise, rather than serve the values of “fair notice” and individual liberty, the Due Process Clause would be reduced to facilitating pure gamesmanship.
+
+[.text-justify]
+Here, the SEC, if we assume the Amended Complaint’s allegations to be true, have adequately pled that the defendants’ BVI subsidiary is a “mere department” of Terraform itself. As the Amended Complaint points out, the BVI entity that executed the contract was named “Terraform Labs” and the contract was signed on the BVI entity’s behalf by two co-founders of Terraform -- Mr. Kwon and Daniel Hyunsung Shin. See Amended Complaint ¶ 107; Dkt 33, Exhs. PP, QQ. These facts, at a minimum, suggest that the two companies operate under “common ownership,” that “the parent corporation interferes in the selection and assignment of the subsidiary’s executive personnel,” and that the parent company, Terraform, exercises a high “degree of control over the marketing and operation[]” of its BVI subsidiary. Jazini, 148 F.3d 181, 18485 (identifying “common ownership,” the involvement of the parent corporation in the appointment of executives, and the degree of control exercised by the parent company as factors “courts must consider” “in determining whether [a] subsidiary is a mere department of the parent”).
+
+[.text-justify]
+To be sure, it is conceivable that the discovery in this case may show that the companies feature separate ownership structures or that they operate wholly or substantially apart from one another. At this stage, however, the plaintiffs have adequately pled that the contract executed in the BVI entity’s name should be imputed to the defendants. This, in turn, means that they have established still another prima facie case for personal jurisdiction over the defendants.
+
+[.text-justify]
+Furthermore, the SEC’s argument for personal jurisdiction rests on far more than two contracts allegedly drawn up between the defendants and several U.S. firms. In their Amended Complaint, the SEC also alleges that the defendants attended meetings and investor conferences with U.S. investors, and retained U.S.-based employees whose sole duty was to solicit investment in the United States. All this amounts, as the Second Circuit put it, to “extensive U.S. contacts” that, in the Court’s view, can independently support personal jurisdiction. Terraform Labs, 2022 WL 2066414, at *4.
+
+[.text-justify]
+For the forgoing reasons, the portion of defendants’ motion that seeks dismissal under Rule 12(b)(2) is hereby denied. 
+
+&emsp; *B&period;&emsp; The SEC is not barred from asserting that the defendants’ crypto-assets are securities.*
+
+[.text-justify]
+“The Exchange Act,” which established the SEC, “delegates to [the agency] broad authority to regulate ... securities,” but securities only. U.S. Sec. & Exch. Comm’n v. Alpine Sec. Corp., 308 F. Supp. 3d 775, 790 (S.D.N.Y. 2018). The statute, in other words, sets forth the bounds of the SEC’s regulatory authority by defining what sorts of products can be considered “securities” and, therefore, are subject to SEC regulation and enforcement. See 15 U.S.C. § 77b. Here, the SEC asserts that each of the defendants’ crypto-assets is an “investment contract,” one of the categories of products that the statute recognizes as a “security.” See id. (stating that “the term ‘security’ means any . . . investment contract[.]”).  
+
+[.text-justify]
+Against this backdrop, the defendants argue that the “Major Questions Doctrine,” the Due Process Clause, and the Administrative Procedure Act (“APA”) each independently prevent the SEC from alleging the company’s digital assets to be “investment contracts.” The Court considers each argument in turn.
+
+&emsp; 1&period; [underline]#The Major Questions Doctrine#
+
+[.text-justify]
+The so-called “Major Questions Doctrine” (which is, at bottom, a principle of statutory construction) requires that in the extraordinary case where an agency claims the “power to regulate a significant portion of the American economy” that has “vast economic and political significance,” it must point to “clear congressional authorization” for that power. Util. Air Regul. Grp. 
+v. EPA, 573 U.S. 302, 324 (2014). The underlying assumption is that Congress would speak clearly -- and not through “modest words,” “vague terms,” or “subtle device[s],” -- had it intended to grant an agency the authority to make decisions that would have tremendous economic and political consequences. West Virginia v. EPA, 142 S. Ct. 2587, 2609 (2022).
+
+[.text-justify]
+Because the doctrine is reserved for the most extraordinary cases where the agency claims broad regulatory authority and the area to be regulated is one invested with particular economic and political significance, it has been rarely invoked. See West 
+Virginia, 142 S. Ct. at 2608 (stating that the Major Questions Doctrine applies only in “extraordinary cases ... in which the history and breadth of the authority that the agency has asserted, and the economic and political significance of that assertion, provide a reason to hesitate before concluding that Congress meant to confer such authority”). Indeed, since its inception in FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 120, 159 (2000), the doctrine has served as a basis for only five Supreme Court decisions. See Natasha Brunstein & Richard L. Revesz, Mangling the Major Questions Doctrine, 74 Admin. L. Rev. 217, 224-35 (2021).
+
+[.text-justify]
+In all five, the Supreme Court justified the doctrine’s application by highlighting, once again, the extraordinary nature of the agency’s claims and the exceptional importance of the industries to be regulated. In Brown & Williamson, for instance, the Supreme Court struck down an FDA regulation that would have led to the complete prohibition of tobacco products in the United 
+States, an industry which, in the Court’s words, then “constitute[d] one of the greatest basic industries of the United States with ramifying activities which directly affect interstate and foreign commerce at every point, and stable conditions therein are necessary to the general welfare.” Brown & Williamson, 529 U.S. at 137. More recently, the Court deemed that the EPA’s efforts to “substantially restructure the American energy market” represented a “transformative expansion in its regulatory authority” that, absent “clear congressional authorization,” “Congress could [not] reasonably be understood to have granted.” West Virginia, 142 S. Ct. at 2610 (emphasis added).
+
+[.text-justify]
+Needless to say, there is little comparison between the instant case and the ones in which the Major Questions Doctrine was decisive. As the doctrine’s name suggests and the Supreme Court has, in case after case, emphasized, the Major Questions Doctrine is intended to apply only in extraordinary circumstances involving industries of “vast economic and political significance.” Util. Air Regul. Grp., 573 U.S. at 324. This question, moreover, of whether an industry subject to regulation is of “vast economic and political significance” should not be resolved in a vacuum. Rather, an industry can be considered to have “vast economic and political significance” only if it resembles, in these two qualities, the industries that the Supreme Court has previously said meet this definition.
+
+[.text-justify]
+With this standard in mind, the crypto-currency industry –- though certainly important –- falls far short of being a “portion of the American economy” bearing “vast economic and political significance.” Id. Put simply, it would ignore reality to place the crypto-currency industry and the American energy and tobacco industries -- the subjects of West Virginia and Brown & Williamson, respectively –- on the same plane of importance. If one were to do so, almost every large industry would qualify as one of “vast economic and political significance” and the doctrine would frustrate the administrative state’s ability to perform the function for which Congress established it: the regulation of the American economy.
+
+[.text-justify]
+Moreover, the SEC’s role is not to exercise vast economic power over the securities markets, but simply to assure that they provide adequate disclosure to investors. Thus, the SEC’s decision to require truthful marketing of certain crypto-assets based on its determination that certain of such assets are securities hardly amounts to a “transformative expansion in its regulatory authority.” West Virginia, 142 S. Ct. at 2610. It aligns, in fact, with Congress’s expectations that the SEC is to regulate “virtually any instrument that might be sold as an investment,” “in whatever form they are made and by whatever name they are called,” including novel devices like the digital assets at issue here. SEC v. Edwards, 540 U.S. 389, 393 (2004); SEC v. C.M. Joiner Leasing Corp., 320 U.S. 344, 351 (1943) (stating the term “security” was intended to capture “[n]ovel, uncommon, or irregular devices, whatever they appear to be”). Recognizing “the virtually limitless scope of human ingenuity ... in the creation of countless and variable schemes,” Congress’s decision to use general descriptive terms like investment contract in the statute was intended, not to limit the SEC’s authority to enumerated categories, but, on the contrary, to empower the SEC to interpret the statue’s terms to capture these new schemes. Reves v. Ernst & Young, 494 U.S. 56, 60–61 (1990); see also Joiner, 320 U.S. at 351.
+
+[.text-justify]
+Indeed, if the SEC were restricted (as defendant argues) to regulating only those instruments that are specifically listed by their precise names in 15 U.S.C § 77b, the statute would “embody a static” rather than “flexible” principle, the exact opposite of what Congress intended. SEC v. W.J. Howey Co., 328 U.S. 293, 299 (1946). Strictly limiting the SEC’s authority to a few narrow categories of instruments would, moreover, contradict the Supreme Court’s instruction that “the reach of the [Exchange] Act does not stop with the obvious and commonplace,” but must extend to “[n]ovel, uncommon, or irregular devices, whatever they appear to be,” that are “widely offered [and sold]” in a way that “established their character” as a security. Joiner, 320 U.S. at 351-52. 
+
+[.text-justify]
+In sum, there is no indication that Congress intended to hamstring the SEC’s ability to resolve new and difficult questions posed by emerging technologies where these technologies impact markets that on their face appear to resemble securities markets. Defendants cannot wield a doctrine intended to be applied in exceptional circumstances as a tool to disrupt the routine work that Congress expected the SEC and other administrative agencies to perform.
+
+[.text-justify]
+&emsp; 2&period; [underline]#Due Process Clause and the APA#
+
+[.text-justify]
+Next, defendants argue that the SEC violated their due process rights by bringing this enforcement action against them without first providing them “fair notice” that their crypto-assets would be treated as securities. See FCC v. Fox Television Stations Inc., 567 U.S. 239, 253-54 (2012) (ruling that the Due Process Clause requires that agencies bringing an enforcement action “provide,” through written guidance, regulations, or other activity, “a person of ordinary intelligence fair notice” that the regulated conduct was “prohibited”).
+
+[.text-justify]
+According to the defendants, the SEC has long maintained that cryptocurrencies are not securities, but here, they claim it has for the first time taken the position that all cryptocurrencies are securities and enforced this understanding against the defendants without any prior indication that it had changed its view. This sudden about-face, the defendants say, deprived them of their constitutional right to “fair notice” and, by implication, the opportunity to conform their behavior to the SEC’s regulations.  In response, the SEC argues that it has never taken either of the black-and-white positions that the defendants ascribe to it. Indeed, rather than state that all crypto-currencies are securities or that none of them are, the SEC insists that it has broadcast the same position on this issue all along: that some crypto-currencies, depending on their particular characteristics, may qualify as securities. 
+
+[.text-justify]
+Prior to its bringing this case, moreover, the SEC asserted the exact same position it has taken in this case in several enforcement actions brought against other crypto-currency companies for allegedly fraudulent conduct in the offer and sale of their crypto-assets. See, e.g., SEC v. PlexCorps, 2018 WL 4299983, at *2-3 (E.D.N.Y. Aug. 9, 2018); SEC v. Zaslavskiy, 2018 WL 4346339, at *8-9 (E.D.N.Y. Sept. 11, 2018). These relatively high-profile lawsuits -- which involved substantially similar allegations and millions of dollars in allegedly fraudulent crypto-currency transactions -- would have apprised a reasonable person working in the crypto-currency industry that the SEC considered some crypto-currencies to be securities and that the agency would enforce perceived violations of the securities laws through the development, marketing, and sale of these cryptocurrencies.
+
+[.text-justify]
+Following this prior litigation, moreover, a department of the SEC issued written guidance in April 2019 that admonished those 
+“engaging in the offer, sale, or distribution of a digital asset” to consider “whether the digital asset is a security” that would trigger the application of “federal securities laws.” Sec. & Exchange Comm., Framework for “Investment Contract” Analysis of Digital Assets (April 2019). Within this document, the SEC also provided “a framework for analyzing whether a digital asset is an investment contract” and a list of characteristics that, if present in a given digital asset, would make the SEC more likely to view the given crypto-asset as a “security.” Id. The instant lawsuit, in sum, is just one example of the SEC’s longstanding view that some cryptocurrencies may fall within the regulatory ambit of federal securities laws.^*(xref:terraform_opinion_order_fn_4[4])*^ 
+
+[.text-justify]
+None of the statements cited by the defendant, moreover, suggests that the SEC ever operated under a contrary assumption.  
+For instance, the statement of an SEC staff member that a “token … all by itself is not a security, just as the orange groves in Howey were not,” Defs.’ Br. at 13, does not amount to a concession that all cryptocurrencies are not securities. It does not, in other words, preclude the SEC from asserting, as it has here, that a token constitutes an investment contract when it is joined with a promise of future profits or the like to be generated by the offerors. The SEC’s most recent representation that digital assets “may or may not meet the definition of a ‘security’ under the [f]ederal securities laws” is even more obviously aligned with its position in this case. Securities & Exchange Comm., Release No. IA-6240, at 16 n.25 (Feb. 15, 2023).
+
+[.text-justify]
+In short, defendants’ attempt to manufacture a “fair notice” problem here comes down to asserting the SEC’s position in this litigation is inconsistent with a position that the SEC never adopted. So long as the SEC has -- through its regulations, written guidance, litigation, or other actions -- provided a reasonable person operating within the defendant’s industry fair notice that their conduct may prompt an enforcement action by the SEC, it has satisfied its obligations under the Due Process Clause.^*(xref:terraform_opinion_order_fn_5[5])*^
+
+[.text-justify]
+It follows from the foregoing that the APA also does not foreclose the SEC’s interpretation of federal securities laws to encompass the regulation of the defendants’ crypto-assets. While it may be true that, where an agency intends to promulgate “a new industry-wide policy,” notice-and-comment rulemaking -- not caseby-case adjudication -- offers a “better, fairer, and more effective” method of doing so, Cmty Television v. Gottfried, 459 U.S. 498, 511 (1983), here, as detailed above, the SEC is not announcing a new policy in this case, but merely enforcing its previously stated view that certain crypto-assets can be regulated as securities if they meet the characteristics of an “investment contract” under the Howey case (described below). Far from representing a “radical departure” from the SEC’s stated views on the law, this enforcement action is simply a “fact-intensive application of a statutory standard,” a category of agency action that has traditionally been exempt from the procedural requirements of notice-and-comment rulemaking.
+
+[.text-justify]
+To conclude, no doctrine -- whether grounded in interpretive canons, statute, or the federal Constitution -- bars the SEC from, as a preliminary matter, asserting that the defendants’ crypto-assets are “investment contracts” that are subject to federal
+securities laws.
+
+&emsp; *C&period;&emsp; The SEC has, through its factual allegations, asserted a plausible claim that the defendants’ crypto-assets qualify as securities.*
+
+[.text-justify]
+Putting aside the SEC’s general authority to regulate certain crypto-assets as investment contracts, the Court must still resolve whether the defendants’ particular crypto-assets can fairly be given this label at this stage. For the reasons below, the Court concludes that the SEC has alleged facts sufficient to claim that the defendants’ crypto assets are securities. More specifically, the SEC has adequately pled that each of the defendants’ products are either themselves “investment contracts” or confer a right to “subscribe or purchase” another such security. See 15 U.S.C. § 77b(a)(1).
+
+&emsp; 1&period; [underline]#The Howey Test and its Scope#
+
+[.text-justify]
+Before proceeding, a few words on SEC v. W.J. Howey Co., 328 U.S. 293 (1946) (“Howey”), in which the Supreme Court set forth the standard for determining whether a particular economic arrangement can be classified as an “investment contract.” The Howey case centered on a transaction between an “orange-grove” cultivator and investors, in which the cultivator sold investors various parcels of land along with a promise to share with them any profits that were generated from his cultivation of the parcels. Id. at 295-96, 299. In the Supreme Court’s view, the transaction – comprised of not just the sale of the underlying property but also the promise of any profits that attached to that property – amounted to a “investment contract” that the SEC could legally regulate. Put another way, it was the cultivator’s promise to share in the profits generated by his cultivation of the parcels that transformed the transaction from a mere sale of property into a contract that promised a future return based on an initial investment – that is, an investment contract.
+
+[.text-justify]
+Out of these facts emerged the Howey standard for determining the existence of an “investment contract.” Following Howey, an “investment contract” under federal securities law is any “contract, transaction, or scheme whereby a person [(1)] invests his money [(2)] in a common enterprise and [(3)] is led to expect profits solely from the efforts of the promotor or a third party.” Id. at 288-99. The question in the instant case, then, is whether each of the defendants’ crypto-assets -- and the means by which they were offered and sold -- amounted to a transaction or scheme that exhibited these three qualities.
+
+[.text-justify]
+Two preliminary notes are necessary before applying the Howey standard to the defendants’ crypto-assets. To begin with, there need not be -- contrary to defendants’ assertions -- a formal common-law contract between transacting parties for an “investment contract” to exist. Basic principles of interpretation compel this conclusion. By stating that “transaction[s]” and “scheme[s]” -- and not just “contract[s]” -- qualify as investment contracts, the Supreme Court made clear in Howey that Congress did not intend the term to apply only where transacting parties had drawn up a technically valid written or oral contract under state law. See id. Instead, Congress intended the phrase to apply in much broader circumstances: wherever the “contracting” parties agree -- that is, “scheme” -- that the contractee will make an investment of money in the contractor’s profit-seeking endeavor. So, the supposed absence of an enforceable written contract between the defendants and many of the defendants’ customers in this case does not, as an initial matter, preclude the SEC from asserting that defendants’ crypto-assets are nevertheless investment contracts.  Nor must the Court restrict its Howey analysis to whether the tokens themselves -- apart from any of the related various investment “protocols” -- constitute investment contracts. As the Supreme Court has long made clear, courts deciding whether a given transaction or scheme amounts to a “investment contract” under Howey must analyze the “substance” -- and not merely the “form” -- of the parties’ economic arrangement and decide if, under the “totality of the circumstances,” that transaction or scheme meets the three requirements of Howey. Tcherepnin v. Knight, 389 U.S. 332, 336 (1967); Glen-Arden Commodities, Inc. v. Constantino, 493 F.2d 1027, 1034 (2d Cir. 1974).
+
+[.text-justify]
+As reiterated by the Supreme Court in Maine Bank v. Weaver, to determine the applicability of the securities laws, a given transaction needs to be “evaluated on the basis of the content of the instruments in question, the purposes intended to be served, and the factual setting as a whole.” 445 U.S. 551, 560 n.11 (1982). The fact that, for example, the Anchor Protocol did not exist at the time UST and LUNA were first launched is therefore immaterial. A product that at one time is not a security may, as circumstances change, become an investment contract that is subject to SEC regulation. See Edwards, 540 U.S. at 390.  
+
+[.text-justify]
+To that end, the Court declines to erect an artificial barrier between the tokens and the investment protocols with which they are closely related for the purposes of its analysis. Instead, it will evaluate -- as the Supreme Court did in Howey -- whether the crypto-assets and the “full set of contracts, expectations, and understandings centered on the sales and distribution of [these tokens]” amounted to an “investment contract” under federal securities laws. Sec. & Exch. Comm’n v. Telegram Grp. Inc., 448 F. Supp. 3d 352, 379 (S.D.N.Y. 2020) (setting forth that the putative subject of an investment contract must be considered alongside the full set of “contracts, expectations, and understandings” that attach to the subject); Howey, 328 U.S. at 297–98 (declining to “treat[] the contracts and deeds as separate transactions”).
+
+[.text-justify]
+To be sure, the original UST and LUNA coins, as originally created and when considered in isolation, might not then have been, by themselves, investment contracts. Much as the orange groves in Howey would not be considered securities if they were sold apart from the cultivator’s promise to share any profits derived by their cultivation, the term “security” also cannot be used to describe any crypto-assets that were not somehow intermingled with one of the investment “protocols,” did not confer a “right to ... purchase” another security, or were otherwise not tied to the growth of the Terraform blockchain ecosystem. See Telegram, 448 F. Supp. 3d at 379 (describing a crypto-asset as “little more than alphanumeric cryptographic sequence”); 15 U.S.C. § 77b(a)(1) (including in the definition of security any instrument that confers a “right to subscribe to or purchase another security”). And where a stablecoin is designed exclusively to maintain a oneto-one peg with another asset, there is no reasonable basis for expecting that the tokens -- if used as stable stores of value or mirrored shares traded on public stock exchanges -- would generate profits through a common enterprise. So, in theory, the tokens, if taken by themselves, might not qualify as investment contracts.
+
+[.text-justify]
+But this conclusion is only marginally of interest, because, to begin with the coins were never, according to the amended complaint, standalone tokens. Rather, they conferred a “right to 
+... purchase” another security, the LUNA tokens. 15 U.S.C. § 77b(a)(1); Amended Complaint ¶ 84. Furthermore, the Amended Complaint alleges that the vast majority -- nearly 75 percent -- of the defendants’ UST tokens were deposited in the Anchor Protocol.
+
+[.text-justify]
+As to the first point, the SEC alleges that the LUNA coins were, from the outset, pitched to investors, not as stablecoins, but primarily as yield-bearing investments whose value would grow in line with the Terraform blockchain ecosystem. See, e.g., Amended Complaint ¶¶ 34-35, 46-47, 74-83. On these allegations, then, the Amended Complaint asserts that purchasers of LUNA coins reasonably expected their tokens to generate profits. And because the fees generated from the Mirror Protocol were allegedly distributed among holders of the MIR tokens, the Amended Complaint plausibly asserts that its purchasers viewed these tokens as profitable investments. It follows, moreover, that the UST coins, because they could be converted to LUNA coins, were also investment contracts.
+
+[.text-justify]
+As to the second point, the fact that most of the UST coins were deposited in the Anchor Protocol independently rendered these tokens investment contracts, indeed investments that were touted as being capable of being able to generate future profits of as much as 20%.
+
+&emsp; 2&period; [underline]#Howey Applied to the SEC’s Claims#
+
+[.text-justify]
+Against the background of these general observations, the Court turns to whether the SEC has adequately pled that each of the defendants’ inter-related crypto-assets -- the UST coin, the 
+LUNA coin, the wLUNA tokens, the MIR tokens, and the mAssets tokens -- qualify as “investment contracts” under the three-pronged Howey test.
+
+[.text-justify]
+Because the defendants do not dispute that each purchaser of the defendants’ crypto-assets made an “investment of money” in exchange for these crypto-assets, the Court’s analysis focuses exclusively on the two remaining Howey prongs. 
+
+&emsp; &emsp; _a)&emsp; Common Enterprise_
+
+[.text-justify]
+First, the Amended Complaint states a plausible claim that purchasers of the defendants’ crypto-assets were investing in a common enterprise. Howey, 328 U.S. at 288-99. A common enterprise exists wherever there is “horizontal commonality” between purchasers and a given defendant. Such commonality, moreover, is established if each investor’s fortunes are “ti[ed] ... to the fortunes of the other investors by the pooling of assets,” and there is a “pro-rata distribution of profits” earned from these combined assets. Revak v. SEC Realty Corp., 18 F.3d 81, 87 (2d Cir. 1994).
+
+[.text-justify]
+Here, the defendants marketed the UST coins as an asset that, when deposited into the Anchor Protocol, could generate returns of up to 20%. See Amended Complaint ¶¶ 74-83. In essence, the UST tokens were allegedly “pooled” together in the Anchor Protocol and, through the managerial efforts of the defendants, were expected to generate profits that would then be re-distributed to all those who deposited their coins into the Anchor Protocol -- in other words, on a pro-rata basis. Id. ¶ 76. If the SEC’s allegations are credited -- which, at this stage, they must be -- there was thus plainly horizontal commonality between the defendants and at least those large majority of UST investors who deposited their coins in the Anchor Protocol.^*(xref:terraform_opinion_order_fn_6[6])*^
+
+[.text-justify]
+To be sure, not all UST token-holders deposited their tokens into the Anchor Protocol. Moreover, neither the LUNA tokens nor the MIR tokens could be deposited into the Anchor Protocol. The SEC’s theory for horizontal commonality as to these other coins, however, rests on a different but equally plausible theory. As to the LUNA tokens, for instance, the SEC has demonstrated horizontal commonality by alleging that the defendants’ used proceeds from LUNA coin sales to develop the Terraform blockchain and represented that these improvements would increase the value of the LUNA tokens themselves. See Amended Complaint ¶¶ 46-47, 49-51. In other words, by alleging that the defendants “pooled” the proceeds of LUNA purchases together and promised that further investment through these purchases would benefit all LUNA holders, the SEC has adequately pled that the defendants and the investors were joined in a common, profit-seeking enterprise. See, e.g., Balestra v. AtbCoin LLC, 380 F. Supp. 3d 340, 353 (S.D.N.Y. 2019) (finding horizontal commonality where assets “were pooled together to facilitate the launch of the [blockchain], the success of which, in turn, would increase the value” of purchasers’ coins); SEC v. Kik Interactive, Inc., 492 F. Supp. 3d 169, 178 (S.D.N.Y. 2020) (finding horizontal commonality where the issuer of the cryptoassets pooled funds and used the funds to construct and develop its digital ecosystem). And the wLUNA investors were just a variation on this theme since wLUNA tokens could be exchanged for LUNA tokens.
+
+[.text-justify]
+The SEC asserts an equally plausible claim that a similar scheme established horizontal commonality between MIR token investors and the defendants. According to the SEC, the proceeds from sales of the MIR tokens were “pooled together” to improve the Mirror Protocol. See Amended Complaint ¶ 87. Profits derived from the use of the Mirror Protocol, moreover, were fed back to investors based on the size of their investment. Here, too, the defendants tied their fortunes with those of the crypto-asset purchasers and distributed any profits generated by their investments on a pro-rata basis. See Revak, 18 F.3d at 87. 
+Finally, the mAssets on their face were intended to reflect the fortunes of the existing securities they mirrored. (See also, further discussion of mAssets below).
+
+&emsp;&emsp; _b)&emsp; Reasonable Expectation of Profits_
+
+[.text-justify]
+Under Howey, the SEC must adequately also plead that the investors not only invested in a common enterprise providing the possibility of future profits, but also that they were led to believe that it was the efforts of the defendants or other third parties that could earn them a return on their investment. Howey, 328 U.S. at 288-99 (defining an investment contract as one in which an investor is “led to expect profits solely from the efforts of the promotor or a third party.”). The qualification that the investors’ expectations be reasonable is an important one. The SEC need not prove that each and every investor was personally led to think that profits would follow from their investment in the defendants’ products. If an objective investor would have perceived the defendants’ statements and actions as promising the possibility of such returns, the SEC has satisfied Howey’s requirement.
+
+[.text-justify]
+Through the facts alleged in its Amended Complaint, the Court concludes that the SEC meets this requirement. Beginning with investors in UST coins, the complaint adequately alleges that the defendants -- through social media posts, at investor conferences, in monthly investor reports, and at one-on-one meetings with investors -- repeatedly touted the profitability of the Anchor Protocol and encouraged UST coin purchasers to unload their tokens into that investment vehicle. See Amended Complaint ¶¶ 74-83. Those profits, the defendants allegedly stated, would come about through the defendants’ unique combination of investing and engineering experience. See id. ¶¶ 40, 57, 76.
+
+[.text-justify]
+Similarly, as to LUNA coin investors, the defendants allegedly coaxed investors to continue purchasing LUNA coins (and indirectly wLUNA coins) by pointing out the possibility of future investment returns. In particular, they said that profits from the continued sale of LUNA coins would be fed back into further development of the Terraform ecosystem, which would, in turn, increase the value of the LUNA coins. See id. ¶¶ 3, 31-33, 42, 4957 (alleging Kwon stated that “[i]n the long run, Luna[‘s] value is actionable -- it grows as the ecosystem grows”). And, as with the UST coins, the defendants premised their case for LUNA’s profitability on the defendants’ particular investment and technical acumen. See id. ¶¶ 31, 47, 57-58.  
+The scheme surrounding the MIR tokens was, according to the Amended Complaint, nearly identical to that involving LUNA, except that the defendants’ linked the MIR tokens’ worth to the growth and development of the Mirror Protocol, rather than to the Terraform blockchain network more generally. See id. ¶¶ 90-96. And much the same could be said of the mAssets (discussed further below).
+
+[.text-justify]
+In conclusion, the SEC’s claim that the defendants held out to the coins’ consumers the possibility of profiting from their purchases is supported by specific factual allegations in the Amended Complaint, including readouts of investor meetings, excerpts of investor materials, and screenshots of social media posts made by Mr. Kwon and other Terraform executives. Because these particularized allegations, if true, clearly “nudge the [SEC’s] claims across the line from conceivable to plausible,” the SEC’s assertion that the crypto-assets at issue here are securities under Howey survives the defendants’ motion to dismiss. See Friel v. Dapper Labs, Inc., 2023 WL 2162747, at *8 (S.D.N.Y. Feb. 22, 2023).
+
+[.text-justify]
+It may also be mentioned that the Court declines to draw a distinction between these coins based on their manner of sale, such that coins sold directly to institutional investors are considered securities and those sold through secondary market transactions to retail investors are not. In doing so, the Court rejects the approach recently adopted by another judge of this 
+District in a similar case, SEC v. Ripple Labs Inc., 2023 WL 4507900 (S.D.N.Y. July 13, 2023). There, that court found that, “[w]hereas ... [i]nstitutional [b]uyers reasonably expected that [the defendant crypto-asset company] would use the capital it received from its sales to improve the [crypto-asset] ecosystem and thereby increase the price of [the crypto-asset],” those who purchased their coins through secondary transactions had no reasonable basis to expect the same. Id. at *11-12. According to that court, this was because the re-sale purchasers could not have known if their payments went to the defendant, as opposed to the third-party entity who sold them the coin. Whatever expectation of profit they had could not, according to that court, be ascribed to defendants’ efforts.
+
+[.text-justify]
+But Howey makes no such distinction between purchasers. And it makes good sense that it did not. That a purchaser bought the coins directly from the defendants or, instead, in a secondary resale transaction has no impact on whether a reasonable individual would objectively view the defendants’ actions and statements as evincing a promise of profits based on their efforts. Indeed, if the Amended Complaint’s allegations are taken as true -- as, again, they must be at this stage -- the defendants’ embarked on a public campaign to encourage both retail and institutional investors to buy their crypto-assets by touting the profitability of the cryptoassets and the managerial and technical skills that would allow the defendants to maximize returns on the investors’ coins.
+
+[.text-justify]
+As part of this campaign, the defendants said that sales from purchases of all crypto-assets -- no matter where the coins were purchased -- would be fed back into the Terraform blockchain and would generate additional profits for all crypto-asset holders. These representations would presumably have reached individuals who purchased their crypto-assets on secondary markets –- and, indeed, motivated those purchases -- as much as it did institutional investors. Simply put, secondary-market purchasers had every bit as good a reason to believe that the defendants would take their capital contributions and use it to generate profits on their behalf.
+
+
+&emsp; *D&period;&emsp; The Court declines to dismiss the counts in the SEC’s Amended Complaint that relate to securities registration requirements.*
+
+
+&emsp; 1&period; [underline]#LUNA and MIR Counts (Counts Four and Five)#
+
+[.text-justify]
+Assuming the defendants’ crypto-assets are securities, the defendants nonetheless seek to dismiss the SEC’s first set of 
+“registration counts” -- Counts Four and Five of the Amended Complaint -- as inadequately pled. In those counts, the SEC alleges that the defendants’ offer and sale of its LUNA and MIR tokens amounted to unlawful public distributions of unregistered securities.
+
+[.text-justify]
+The defendants allegedly sold LUNA coins to institutional investors without any restrictions on their re-sale and loaned other LUNA coins to a U.S. institutional investor with the explicit purpose of “improving liquidity” in light of the then “lackluster performance ... of the LUNA token.” Amended Complaint ¶ 108. Because these transactions were allegedly made with the expectation that the purchasers would re-sell the coins into public markets, the SEC claims that they “essentially” amounted to “largescale unregistered public distributions of LUNA” prohibited under Section 5 of the of the Securities Act. Defs.’ Br. at 21. 
+
+[.text-justify]
+Contrary to defendants’ arguments, the SEC has pled sufficient facts to support this theory of liability. “Liability for violations of Section 5 extends to those who have ‘engaged in steps necessary to the distribution of [unregistered] security issues.’” U.S Secs. & Exch. Comm. v. Universal Exp., Inc., 475 F. Supp. 2d 412, 422 (S.D.N.Y. 2007) (quoting SEC v. Chinese Consol. Benev. Ass'n, Inc., 120 F.2d 738, 741 (2d Cir. 1941)).
+
+[.text-justify]
+If the SEC’s allegations are credited, the defendants loaned LUNA tokens to a U.S. institutional investor to “improve liquidity,” a term that in this context could signify little else than the defendants’ desire that the institutional investor redistribute the coins on the secondary market. Indeed, the SEC also claims that the U.S. institutional investors actually sold the loaned LUNA tokens on a U.S. crypto-asset trading platform. See Amended Complaint ¶ 109. The agency, thus, has made a prima facie case that the defendants were necessary participants to unregistered public distributions of the securities, in that these transactions “would not have taken place ... but for the defendants[‘] participation.” Cf. id.; see also SEC v. Murphy, 626 F.2d 633, 650-51 (9th Cir. 1980). The scheme, as alleged, is the very disguised public distribution that Section 5 seeks to prohibit.
+
+[.text-justify]
+This conclusion, of course, does not end the matter. Once the plaintiff satisfies its prima facie burden under Section 5 of the Securities Act, the burden shifts to the defendants to affirmatively plead an entitlement to the exemption. See SEC v. Canavagh, 445 F.3d 105, 111 n.13 (2d Cir. 2006).
+
+[.text-justify]
+Defendants fail to make the necessary showing. Nor is an exemption clear from the face of the complaint. SEC v. Sason, 433 F. Supp. 3d 496, 514 (S.D.N.Y. 2020).
+
+[.text-justify]
+For one, their insistence that the loan was intended to “improve liquidity” by “provid[ing] market participants on nonU.S. markets who were already intent on buying and selling LUNA a ready counterparty to trade against and thereby reduce their cost to trade” is, at this stage, completely unsupported by factual allegations. Defs.’ Br. at 22. Equally unpersuasive is their argument that they did not violate Section 5 because they “did not direct the firm to resell into the U.S. market.” Id. Proof of scienter, it is well-established, is not needed to show Section 5 liability. Cavanagh, 445 F.3d at 11 n.13.
+
+[.text-justify]
+The defendants’ argument as to its sale of the MIR tokens is even less availing. For one, the SEC alleges that the defendants sold 37 million MIR tokens to at least six U.S. purchasers. See Amended Complaint at § 112. Though the defendants point out that these sales were made through a subsidiary, this Court, as noted above, considers the parent Terraform Labs and its wholly owned subsidiaries to be one and the same for purposes of this motion.
+
+[.text-justify]
+The defendants, moreover, engaged in a “listing agreement with a U.S. crypto-asset trading platform for the listing of MIR tokens on the platform.” Amended Complaint ¶ 114. Here, they cannot evade the securities laws’ registration requirements through technological subterfuge. Even if, as the defendants say, the U.S. trading platform automatically generated the MIR tokens that were then sold, the defendants would still be required to register any distributions stemming from this platform because they allegedly pocketed the fees generated by the MIR token sales.
+
+&emsp; 2&period; [underline]#mAssets Counts (Counts Five and Six)#
+
+[.text-justify]
+In its second set of “registration counts,” the SEC claims that the defendants offered, sold, and effected security-based swaps -- that is, its mAssets -- to non-eligible participants, in violation of Sections 5(e) and 5(l) of the Security Act. Most fundamentally, the defendants argue that the mAssets are not security-based swaps. This is because, according to the defendants, the mAssets do not involve a payment from one party to their counterparty based on a change of value in an underlying security. CFTC v. Wilson, 2018 WL 6322024, at *2 (S.D.N.Y. Nov. 30, 2018) (defining a swap as a “contract in which two parties agree to exchange cash payments at predetermined dates in the future”).
+
+[.text-justify]
+The defendants, however, misunderstand the SEC’s allegations. Though the underlying mAsset does not involve a “swap,” offers and sales of such mAssets do, if the Amended Complaint’s allegations are to be believed. When an individual purchases an mAsset, they receive, in return for 150% of the traditional stock or security’s value, a token whose value rises and falls based on the value of that underlying stock or security. Thus, though the mAsset, after being purchased, thereafter involves no counterparty with which to “swap” and can be sold or “burned” at will, the original purchase does indeed involve a counterparty -- the defendants -- and a transfer of financial risk based on a stock or security’s future value. 7 U.S.C. § 1a(47) (defining a security-based swap as an agreement to transfer “the financial risk associated with a future change” in a security’s value “without also conveying a current or future direct or indirect ownership interest in [the] asset”).
+
+[.text-justify]
+And though, again, the defendants did not technically sell the mAssets through the Mirror Protocol, which programmatically generated the tokens, the defendants were allegedly responsible for the Protocol’s creation, upkeep, and promotion to the general public, including institutional and retail investors alike. Thus, though not the final step in the mAssets distribution cycle, they were “necessary participants” in it and, for their efforts, allegedly pocketed the fees generated by the Mirror Protocol.  
+
+&emsp; *E&period;&emsp; The fraud counts in the SEC’s Amended Complaint also survive the defendants’ motion to dismiss.*
+
+[.text-justify]
+Finally, the defendants seek to dismiss Counts One and Two of the Amended Complaint -- otherwise known as the “fraud” counts – because, in their view, the SEC failed to satisfy any of the pleading requirements on those counts in two respects. First, the defendants contend, the SEC allegedly failed to demonstrate that the defendants’ statements regarding the crypto-assets’ utility on the “Chai” platform were false. Second, and relatedly, the defendants argue that the SEC did not assert particularized allegations of fraud in its Amended Complaint as to the May 2021 alleged de-pegging incident.
+
+[.text-justify]
+Defendants appear to misunderstand what is required for a fraud claim to be dismissed at this stage. On a motion to dismiss, the SEC must plead factual allegations that, if taken as true, would state a plausible claim for relief. Bell Atl. Corp. v. Twombly, 550 U.S. 544, 570 (2007). Under Rule 9(b)’s particularity requirement, moreover, the SEC must also allege “precisely what material misstatements were made, the time and place of each misstatement, the speaker, the content, the [way] the statement was misleading, and what the defendants obtained as a result of the fraud.” Joseph Victori Wines Inc. v. Vina Santana Carolina, S.A., 933 F. Supp. 347, 356 (S.D.N.Y. 1996).
+
+[.text-justify]
+The SEC has met this burden: first, by asserting that the “Chai transactions” were processed in Korean Won and not on the Terraform blockchain, as the defendants claimed they were, see Amended Complaint ¶¶ 121, 134; and also second, by alleging that the defendants benefited from this allegedly false or misleading statement in the form of a $57 million investment in their company. Id. at ¶ 150. The pleading requirements do not require that the SEC affirmatively prove its allegations at this stage. The defendants’ contrary factual allegations about the relationship between Chai and the defendants’ crypto-assets -- aimed at showing that their statements about the crypto-assets’ utility on Chai were accurate -- are therefore unavailing for purposes of this motion.
+
+[.text-justify]
+Next, the defendants allege that the SEC did not plead a “misstatement or omission” with respect to the May 2021 de-pegging incident. This is because, in defendants’ view, Kwon was under no duty to disclose to investors that a third-party was responsible for restoring the token’s peg. However, on the Amended Complaint’s allegations, such a “duty to disclose” does apply, because it “arises whenever secret information renders prior public statements materially misleading.” In re Time Warner Inc. Sec. Litig., 9 F.3d 259, 268 (2d Cir. 1993). Here, the SEC has plausibly alleged both that the defendants ascribed the “re-peg” to the “self-healing” effects of the UST/LUNA algorithm and that the defendants knew that it was, in reality, a third-party investor that had stabilized the UST tokens value. That is enough under Second Circuit law to give rise to a duty to disclose that, on the SEC’s allegation, the defendants did not fulfill. See id at 268-69.
+
+[.text-justify]
+Finally, as to the defendants’ arguments that the count should be dismissed for lack of a proof of scienter, the SEC has, again, met its burden. Under Exchange Act Section 10(b) and Securities Act Section 17(a)(1), scienter can be pled either by “alleg[ing] facts establishing a motive to commit fraud and an opportunity to do so” or by “alleg[ing] facts constituting circumstantial evidence of either reckless or conscious behavior.” In re Time Warner, 9 F. 3d at 269.
+
+[.text-justify]
+Here, the SEC alleges that the defendants had a motive to mislead investors about the utility of their crypto-assets on the 
+Chai platform, as the truth would decrease the tokens’ value. See Amended Complaint ¶¶ 121-122, 132. What is more, the Amended Complaint’s factual allegations give rise to the reasonable inference that Kwon had direct access to the truth about Chai and the de-pegging incident. For one, Kwon was a founder and board member of Chai until at least May 2022. Id. i 127. ^*(xref:terraform_opinion_order_fn_7[7])*^7 According to the SEC, moreover, Kwon personally negotiated the arrangement with the U.S. Trading Firm to buy UST for the express purpose of
+restoring the peg. See Amended Complaint ii 166-167; SEC v. Constantin, 939 F. Supp. 2d 288, 308 (S.D.N.Y. 2013).
+
+&emsp; *IV&period;&emsp; [underline]#Conclusion#*
+
+[.text-justify]
+For the foregoing reasons, the Court denies the defendants' motion to dismiss in its entirety.
+
+&emsp;&emsp; SO ORDERED.
+
+[.text-right]
+[underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/s/JED S. RAKOFF&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# +
+JED S. RAKOFF, U.S.D.J.
+
+Dated: New York, NY +
+&emsp;&emsp;&emsp; July 31, 2023
+ 
+***
+[[terraform_opinion_order_fn_1]]
+[1] A blockchain is a digital public ledger on which transactions between parties -- most often involving the exchange of cryptocurrencies -- are permanently recorded and viewable to anyone. Blockchains and cryptocurrencies are both understood to be “decentralized,” in that no entity has power over who can view transactions on the blockchain and the cryptocurrencies themselves are not denominated or minted by any centralized entity, such as a reserve bank.
+
+[[terraform_opinion_order_fn_2]]
+[2] Unless otherwise indicated, in quoting cases all internal quotation marks, alterations, emphases, footnotes and citations are omitted.
+
+[[terraform_opinion_order_fn_3]]
+[3] Specifically, because jurisdiction in this case is predicated on federal statutes, the relevant inquiry -- as both parties agree -- is whether the defendants had sufficient contacts with the United States generally to give rise to personal jurisdiction. Thus, the SEC need not demonstrate that the defendants had purposefully directed their activities at any particular U.S. state to establish that the Court possesses personal jurisdiction.
+
+[[terraform_opinion_order_fn_4]]
+[4] In the defendants’ view, even these actions would not be enough to satisfy the SEC’s obligations under the Due Process Clause with respect to its allegations regarding UST. The agency, they press, needed to have “previously asserted that something is a security merely because it can be used to buy something else the SEC calls a security.” This, however, misstates the SEC’s position. While the SEC did claim that the UST tokens were securities because they could be exchanged for LUNA, it also alleged with respect to each of the defendants’ crypto-assets in its Amended Complaint that the defendants’ UST tokens qualify as securities not simply because they were used to buy LUNA, but because they satisfy Howey’s three-part test (see below) for identifying “investment contracts.” See Amended Complaint ¶¶ 74-83. It cannot be that the Due Process Clause requires an agency to detail in advance, in the name of “fair notice,” each and every argument it intends to make in an adjudication proceeding. That the SEC previously expressed its views that crypto-assets could be considered “investment contracts” under Howey suffices. 
+
+[[terraform_opinion_order_fn_5]]
+[5] Here, the Court makes explicit what has long been implied in the “fair notice” inquiry, at least as applied to agencies like the SEC that are charged with regulating highly technical entities. The question whether “fair notice” has been provided should be assessed from the perspective of a reasonable person in the defendant’s industry rather than from that of a member of the general public. It would make little sense to construe the Due Process Clause to require that agencies like the SEC provide “fair notice” to everyday citizens, most of whom have no interaction with the industries that the SEC is tasked with regulating. assets are “investment contracts” that are subject to federal securities laws.  
+
+[[terraform_opinion_order_fn_6]]
+[6] Considering the Court’s determination that the SEC has adequately pled the existence of “horizontal” commonality between such investors and the SEC, it sees no need to decide whether the SEC also established that there was vertical commonality between such investors and the defendants.
+
+[[terraform_opinion_order_fn_7]]
+[7] At this stage, violations of the securities laws by Terraform Labs can be imputed to its founder, CEO, and co-defendant, Do Hyeong Kwon. As the alleged CEO, founder, and majority shareholder of Terraform Labs, Kwon retained "control" over the company. See Amended Complaint ii 128-129. Kwon was also, according to the Amended Complaint, intimately involved in the central events of this litigation -- including communications with investors over the use of the defendants' crypto-assets on Chai and the May 2021 de-pegging incident. Id. ~i 134-142, 157-159. As such, violations of securities laws by Terraform Labs may be imputed to Mr. Kwon under Section 20(a) of the Exchange Act.
