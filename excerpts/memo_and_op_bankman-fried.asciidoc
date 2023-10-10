@@ -1,0 +1,120 @@
+*UNITED STATES DISTRICT COURT +
+SOUTHERN DISTRICT OF NEW YORK* +
+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash; +
+UNITED STATES OF AMERICA, +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-against- &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;S6 22-cr-0673 (LAK) +
+&nbsp; +
+
+SAMUEL BANKMAN-FRIED, +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Defendant. +
+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;
+
+[.text-center]
+*MEMORANDUM OPINION*
+
+&nbsp; +
+Appearances: +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Danielle R. Sassoon +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Nicolas Roos +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Danielle Marie Kudla +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Samuel Raymond +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Thane Rehn +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Assistant United States Attorneys +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Jil Simon + 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Trial Attorney +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;DAMIAN WILLIAMS +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;UNITED STATES ATTORNEY +
+&nbsp; +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Mark Stewart Cohen +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Christian R. Everdell +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;S. Gale Dick +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sri K. Kuehnlenz +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Alexandra Theobald +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;David Lisner +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Drew Dean +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Sharon L. Barbour +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;COHEN & GRESSER LLP +
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; _Attorneys for Defendant_
+
+
+Lewis A. Kaplan, _District Judge._
+
+Defendant awaits trial on two substantive counts alleging wire fraud as well as five counts charging conspiracies to commit wire fraud, securities fraud, commodities fraud, and money laundering. The matter is before the Court on the government’s motion _in limine_ to preclude the defendant from arguing or adducing evidence regarding the involvement of attorneys in certain events at FTX and Alameda absent defendant’s assertion of what often is referred to as a formal “advice-of-counsel defense.” The Court previously has deferred ruling on the motion.
+
+[.text-center]
+_Discussion_
+
+It is helpful at the outset to clear the verbal underbrush.
+
+
+What the government (and some courts in prior cases) refers to as a formal “advice-of-counsel defense” is proof that the defendant “[1] made a complete disclosure to counsel [concerning the matter at issue], [2] sought advice as to the legality of his conduct, [3] received advice that his conduct was legal, and [4] relied on that advice in good faith.”^*(xref:mem_op_305_bankman_fried_fn_1[1])*^ But the characterization of such evidence as a “defense” frequently is not accurate in one sense of the term.
+
+As the Second Circuit has written: +
+[quoteblock]#An affirmative defense is ‘[a] defendant’s assertion of facts and arguments that, if true, will defeat the plaintiff's or prosecution’s claim, even if all the allegations in the complaint are true.’ [citations omitted] In a fraud case, however, the advice-of-counsel defense is not an affirmative defense that defeats liability even if the jury accepts the government’s allegations as true. Rather, the claimed advice of counsel is evidence that, if believed, can raise a reasonable doubt in the minds of the jurors about whether the government has proved the required element of the offense that the defendant had an ‘unlawful intent.’ [citation omitted] The government must carry its burden to prove [the defendant’s] intent to defraud, and that burden does not diminish because [the defendant] raised an advice-of-counsel defense.^*(xref:mem_op_305_bankman_fried_fn_2[2])*^#
+
+Thus, evidence concerning the presence, involvement and even advice of lawyers in relevant events is viewed best as evidence probative of the defendant’s intent to defraud or lack thereof^*(xref:mem_op_305_bankman_fried_fn_3[3])*^. 
+
+Mr. Bankman-Fried does not assert what commonly is referred to as a formal advice- of-counsel defense, which would require him to establish the four elements set forth above. Rather, he argues that “evidence that [he] was aware that counsel . . . were involved in decisions related to [the use of ephemeral messaging applications and auto-deletion policies at FTX, the formation and incorporation of the North Dimension entities, the banking relationship between Silvergate Bank and Alameda, North Dimension, and FTX, loans given to FTX and Alameda executives, the Terms of Service, intercompany agreements between FTX and Alameda,] and other matters is directly relevant to his good faith and lack of criminal intent, even if not introduced as part of a formal advice of counsel defense.”^*(xref:mem_op_305_bankman_fried_fn_4[4])*^ The government disputes this -- at least in the way it has been stated by the defendant. It seeks to preclude the defendant “from _unduly_ focusing on the fact of attorneys’ involvement” in such matters or “suggesting that attorneys _blessed_, for instance, the loans, bank documents, or message deletions.”^*(xref:mem_op_305_bankman_fried_fn_5[5])*^ But these formulations beg at least the following important questions:
+
+- What would constitute “undue” focus on attorney involvement?
+- What could suggest inappropriately that attorneys had “blessed” a particular course of conduct?
+- Assuming for the sake of argument that the defendant were to offer evidence of attorney involvement that did not focus “unduly” on that involvement or “suggest” a “blessing” that the lawyers never intended, on what theory would the evidence be relevant?
+
+These problems are illustrated by a number of decisions in other cases.
+
+In _S.E.C. v. Tourre_, the defendant was precluded “from placing undue focus on the fact of a lawyer’s presence at a meeting or that counsel reviewed disclosures” given the defendant’s concession that he would “not be able to prove the required elements of a reliance on advice of counsel defense.”^*(xref:mem_op_305_bankman_fried_fn_6[6])*^ The Court reasoned that “it would be irrelevant, misleading, or both to emphasize the presence of counsel” given the risk that the jury could be led to believe that counsel “blessed” the legality of the transactions at issue.^*(xref:mem_op_305_bankman_fried_fn_7[7])*^ Accordingly, it precluded evidence that (1) would be “relevant solely to show that lawyers attended meetings or set up meetings” and (2) could “only be intended” to “suggest that counsel blessed the relevant disclosures.”^*(xref:mem_op_305_bankman_fried_fn_8[8])*^
+
+Similarly, in _S.E.C. v. Lek Securities Corporation_, Judge Cote held that “references to counsel’s communications [was] not relevant in the absence of an advice-of-counsel defense and should be excluded... pursuant to Rule 403.”^*(xref:mem_op_305_bankman_fried_fn_9[9])*^ That was so, she held, because “[t]he intimation that counsel ha[d] blessed a transaction or practice without waiver of the attorney-client privilege “would give the defendant all of the essential benefits of an advice of counsel defense without having to bear the burden of proving any of the elements of the defense.’”^*(xref:mem_op_305_bankman_fried_fn_10[10])*^ She held also that “any probative value of such references [would be] substantially outweighed by the danger of undue prejudice to the SEC, which was denied discovery of the confidential communications, and the risk that such references [would] sow confusion and mislead the jury by suggesting” that counsel for the defendants were fully informed and approved the transaction at issue."^*(xref:mem_op_305_bankman_fried_fn_11[11])*^ 
+
+
+The defendant relies on an _in limine_ ruling issued before the start of trial in _United States v. Tagliaferri_.^*(xref:mem_op_305_bankman_fried_fn_12[12])*^ That decision precluded any testimony or argument that the defendant relied on his attorney’s advice because, “according to [defense counsel], [the defendant] did not receive any advice about what was required to be disclosed.”^*(xref:mem_op_305_bankman_fried_fn_13[13])*^ The _in limine_ ruling, however, nevertheless permitted the defendant “to elicit testimony that attorneys were involved in the transactions (which [would have] in any event come out on the government’s case)” and “to argue that this involvement affected his state of mind, thus bearing on whether he acted with fraudulent intent.”^*(xref:mem_op_305_bankman_fried_fn_14[14])*^ It held also that “if [the defendant] has an evidentiary basis for doing so, [he] may argue that attorneys who drafted or reviewed documents related to the charged transactions did not inform him of the illegality of his receiving fees or that formal disclosure of them was required, and that the defendant took comfort in the attorney silence.”^*(xref:mem_op_305_bankman_fried_fn_15[15])*^ But this is not the endorsement of defendant’s position that he suggests.
+
+As an initial matter, defendant’s argument ignores the factual context. The defendant was an investment advisor who allegedly took fees -- kickbacks -- from companies in which he caused his clients to invest and did so, moreover, without disclosing those payments to his clients. The defendant’s lawyer drafted or reviewed for the defendant documents that provided for the defendant to receive the allegedly concealed kickbacks. The likelihood that the kickbacks were illegal, or that the defendant at least had a duty to disclose them to his clients, thus was obvious from the very tasks for which the lawyer was were engaged. In consequence, the lawyer’s alleged silence at least arguably seemed probative to some degree of the defendant’s state of mind.^*(xref:mem_op_305_bankman_fried_fn_16[16])*^ But this ruling was not the last word on the subject in that case.
+
+The defendant in _Tagliaferri_ took the witness stand at the trial. He testified that the lawyer in question never told him that he was obliged to disclose the “advisory fees” — the kickbacks — to his client.^*(xref:mem_op_305_bankman_fried_fn_17[17])*^ Judge Abrams in a sidebar then expressed concern that “the jury is getting this misleading impression that advice was sought and given and that the lawyer advised him that he didn’t need to disclose his fees and that what he was doing was perfectly appropriate. And I don’t want them to be left with the misleading impression... .”^*(xref:mem_op_305_bankman_fried_fn_18[18])*^ At that point, defendant’s counsel dropped the line of examination.^*(xref:mem_op_305_bankman_fried_fn_19[19])*^ And on cross-examination, the defendant admitted that he neither had asked for nor received any advice from the lawyer about whether or not the kickbacks should have been disclosed.^*(xref:mem_op_305_bankman_fried_fn_20[20])*^ Thus, the Court’s intervention at the sidebar eliminated the risk of creating a misleading impression that advice was sought and given on one of the precise alleged breaches of duty at issue in the criminal case.
+
+In light of the foregoing, the risk of confusion and unfair prejudice to the government were defendant to focus on the presence or involvement of lawyers at or for FTX and Alameda — without any degree of specificity about what they were present for or involved in, what their tasks were, what exactly they knew, and what the defendant knew about what the lawyers knew and were doing — is palpable. Cutting the other way may be circumstances in which lawyer presence, involvement, or advice known to the defendant at the time of his alleged misconduct might have a real bearing on whether he acted with or without fraudulent intent. So whether and to what extent the defendant should be permitted to argue or adduce evidence regarding the presence or involvement of lawyers will depend on the circumstances. The best that can be done for now is to ensure that the Court will have sufficient notice to make appropriate rulings on a case-by-case basis.
+
+[.text-center]
+_Conclusion_
+
+Accordingly, the government’s motion in this respect (Dkt 204) is granted to the extent that it seeks to preclude the defendant from referring in his opening statement to the presence or involvement of attorneys and from offering any evidence, argument, or testimony on those subjects absent prior notice to the Court and the government outside of the presence of the jury. It is denied without prejudice in all other respects.
+
+&nbsp;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;SO ORDERED.
+
+Dated: &emsp;&emsp;&emsp;&emsp;&nbsp; October 1, 2023
+
+[.text-right]
+(signed) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; +
+&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; +
+Lewis A. Kaplan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; +
+United States District Judge&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+
+[small]
+. [[mem_op_305_bankman_fried_fn_1]] [small]#_Markowski v. S.E.C.,_ 34 F.3d 99, 105 (2d Cir. 1994) (citing _S.E.C. v. Savoy Industries, Inc.,_ 665 F.2d 1310, 1314 n.28 (D.C. Cir.1981)).#
+. [[mem_op_305_bankman_fried_fn_2]] [small]#_United States v. Scully,_ 877 F.3d 464, 476 (2d Cir. 2017) (citations omitted).#
+. [[mem_op_305_bankman_fried_fn_3]] [small]#_Id._ at 476-77 (citing _United States v. Beech-Nut Nutrition Corp.,_ 871 F.2d 1181, 1194 (2d Cir. 1989)); _see also Markowski,_ 34 F.3d at 105 (reliance on the advice of counsel “is not a complete defense, but only one factor for [the jury’s] consideration”); _Howard v. S.E.C.,_ 376 F.3d 1136, 1147 (D.C. Cir. 2004).#
+. [[mem_op_305_bankman_fried_fn_4]] [small]#Dkt 246, at 29.#
+. [[mem_op_305_bankman_fried_fn_5]] [small]#Dkt 204, at 45 (emphasis added). +
+The government seeks also to preclude the defendant “from referencing the involvement of attorneys in his opening statement” and requests that the Court provide “a cautioning instruction” if he attempts to “introduce evidence of the involvement of attorneys  during trial.” _Id._#
+. [[mem_op_305_bankman_fried_fn_6]] [small]#950 F. Supp. 2d 666, 684 (S.D.N.Y. 2013).#
+. [[mem_op_305_bankman_fried_fn_7]] [small]#_Id._#
+. [[mem_op_305_bankman_fried_fn_8]] [small]#_Id._ +
+The Court held also that counsel could not include references to the presence and involvement of lawyers in their openings and that, “to the extent [the defendant] d[id] reference the involvement of lawyers in a manner that could suggest he relied on their advice, the Court [would] give a limiting instruction.” _Id._#
+. [[mem_op_305_bankman_fried_fn_9]] [small]#No. 17 Civ. 1789 (DLC), 2019 WL 5703944, at *3-4 (S.D.N.Y. Nov. 5, 2019).#
+. [[mem_op_305_bankman_fried_fn_10]] [small]#_Id._ (quoting _Tourre_, 950 F. Supp. 2d at 684).#
+. [[mem_op_305_bankman_fried_fn_11]] [small]#_Id._#
+. [[mem_op_305_bankman_fried_fn_12]] [small]#No. 13 Cr. 115 (RA) (S.D.N.Y. 2014), Trial Tr. (Dkt 63), at 83-85.#
+. [[mem_op_305_bankman_fried_fn_13]] [small]#_Id._ at 83.#
+. [[mem_op_305_bankman_fried_fn_14]] [small]#_Id._ at 83-84.#
+. [[mem_op_305_bankman_fried_fn_15]] [small]#_Id._ at 84.#
+. [[mem_op_305_bankman_fried_fn_16]] [small]#Additionally, the defendant in _Tagliaferri_ waived the attorney-client privilege, whereas Mr. Bankman-Fried has not waived, and perhaps lacks the authority to waive, the attorney-client privilege over any of the alleged communications at issue. _See Lek_, 2019 WL 5703944, at *3-4 (“The intimation that counsel has blessed a transaction or practice _without waiver of the attorney-client privilege_ ‘would give the defendant all of the essential benefits of an advice of counsel defense without having to bear the burden of proving any of the elements of the defense.””) (internal quotation marks omitted) (emphasis added).#
+. [[mem_op_305_bankman_fried_fn_17]] [small]#_Tagliaferri_, Trial Tr. (Dkt 83), at 2123:10-2125:3.#
+. [[mem_op_305_bankman_fried_fn_18]] [small]#_Id._ at 2127:9-13.#
+. [[mem_op_305_bankman_fried_fn_19]] [small]#_Id._ at 2128:1-14.#
+. [[mem_op_305_bankman_fried_fn_20]] [small]#_Tagliaferri_, Trial Tr. (Dkt 85), at 2302:23-2303:5.#
