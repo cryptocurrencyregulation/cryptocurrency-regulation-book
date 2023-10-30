@@ -1,0 +1,391 @@
+////
+###################################################################################################
+# Yuga Labs v. Ripps, et al. - Opinion and Order
+# https://storage.courtlistener.com/recap/gov.uscourts.nysd.573363/gov.uscourts.nysd.573363.140.0.pdf
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
+////
+[[yugalabs]]
+[role=excerpt-section]
+=== Yuga Labs v. Ripps, et al. ===
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_Case 2:22-cv-04355-JFW-JEM +
+Document 225, 04/21/2023_
+>| 
+image::excerpt.png[]
+
+|===
+
+- - -
+
+[.text-center]
+*UNITED STATES DISTRICT COURT +
+CENTRAL DISTRICT OF CALIFORNIA +
+&nbsp; +
+[underline]#CIVIL MINUTES -- GENERAL#*
+
+[frame=none, grid=none]
+|===
+|Case No. &emsp; *CV 22-4355-JFW(JEMx)* >|Date: April 21, 2023
+|Title: &emsp;&emsp;&emsp; Yuga Labs, Inc. -v- Ripps, et al.|
+|===
+
+---
+
+*PRESENT:* 
+
+
+[.text-center]
+*HONORABLE JOHN F. WALTER, UNITED STATES DISTRICT JUDGE*
+
+[frame=none, grid=none]
+|===
+^|*Shannon Reilly* ^|*None Present*
+^|*Courtroom Deputy* ^|*Court Reporter*
+^|&nbsp; ^|&nbsp;
+^|*ATTORNEYS PRESENT FOR PLAINTIFFS:* ^|*ATTORNEYS PRESENT FOR DEFENDANTS:*
+^|None ^|None
+|*PROCEEDINGS (IN CHAMBERS):* |*ORDER GRANTING IN PART AND DENYING IN PART +
+PLAINTIFF YUGA LABS, INC.’S MOTION FOR +
+SUMMARY JUDGMENT [filed 3/15/23; Docket No. 149]*
+|===
+
+[.text-justify]
+On March 15, 2023, Plaintiff and Counter-Defendant Yuga Labs, Inc. (“Yuga”) filed a Motion for Summary Judgment (“Motion”). On March 27, 2023, Defendants and Counterclaimants Ryder Ripps (“Ripps”) and Jeremy Cahen (“Cahen”) (collectively, “Defendants”) filed their Opposition. On April 3, 2023, Yuga filed a Reply. Pursuant to Rule 78 of the Federal Rules of Civil Procedure and Local Rule 7-15, the Court found the matter appropriate for submission on the papers without oral argument. The matter was, therefore, removed from the Court’s April 17, 2023 hearing calendar and the parties were given advance notice. After considering the moving, opposing, and reply papers, and the arguments therein, the Court rules as follows:
+
+*I&period; &emsp;&emsp; Factual and Procedural Background* ^*(xref:yugalabs_fn_1[1])*^
+
+*&emsp; A&period; &emsp;&emsp; Factual Background*
+
+[.text-justify]
+Yuga is the creator of one of the world’s most well known and successful Non-Fungible Token (“NFT”) collections, known as the Bored Ape Yacht Club (“BAYC”). According to Yuga, the BAYC NFTs have earned significant attention from the media for their popularity and value, including being featured on the cover of Rolling Stone magazine and being dubbed the “epitome of coolness for many” by Forbes magazine. Yuga alleges that BAYC NFTs often resell for hundreds of thousands, if not millions, of dollars, and prominent celebrities are holders of BAYC NFTs. In addition to certain benefits that come with membership in the exclusive community of BAYC NFT holders, Yuga maintains that much of the BAYC NFT collection’s value arises from their rarity because only 10,000 BAYC NFTs exist and each is entirely unique. Yuga claims that it owns several unregistered trademarks, including “BORED APE YACHT CLUB,” “BAYC,” “BORED APE,” the BAYC Logo, the BAYC BORED APE YACHT CLUB Logo, and the Ape Skull Logo (collectively, the “BAYC Marks”).^*(xref:yugalabs_fn_2[2])*^ Yuga has used the BAYC Marks since approximately April 2021 in connection with advertising, marketing, and promotion of its products and services nationwide and internationally through multiple platforms, including the BAYC website, NFT markets such as OpenSea, and social media platforms, such as Facebook, Instagram, and Twitter. 
+
+[.text-justify]
+Ripps is a visual artist and creative designer who purports to create artwork that comments on the boundaries between art, the internet, and commerce. According to Defendants, Yuga has deliberately embedded racist, neo-Nazi, and alt-right dog whistles in the BAYC NFTs and associated projects.^*(xref:yugalabs_fn_3[3])*^ Beginning in approximately November 2021, Ripps began criticizing Yuga’s use of these purported racist, neo-Nazi, and alt-right dog whistles through his Twitter and Instagram profiles, podcasts, cooperation with investigative journalists, and by creating the website gordongoner.com.
+
+[.text-justify]
+In addition, in approximately May 2022, Ripps, along with Cahen, created their own NFT collection, known as the Ryder Ripps Bored Ape Yacht Club (“RR/BAYC”). According to Defendants, the RR/BAYC NFT collection point to the same online digital images as the BAYC [NFT] collection but use verifiably unique entries on the Ethereum blockchain. Defendants contend that their “use of pointers to the same images is a form of ‘appropriation art’ that serves several purposes,” including: (1) bringing attention to Yuga’s use of racist, neo-Nazi, and alt-right messages and imagery; (2) exposing Yuga’s use of unwitting celebrities and popular brands to disseminate offensive material; (3) creating social pressure demanding that Yuga take responsibility for its actions; and (4) educating the public about the technical nature and utility of NFTs.
+
+*&emsp; B&period; &emsp;&emsp; Procedural Background*
+
+[.text-justify]
+On July 24, 2022, Yuga filed a Complaint against Defendants, alleging causes of action for: (1) false designation of origin (15 U.S.C. § 1125(a)); (2) false advertising (15 U.S.C. § 1125(a)); (3) cybersquatting (15 U.S.C. § 1125(d)); (4) common law trademark infringement; (5) common law unfair competition; (6) unfair competition (Cal. Bus. & Prof. Code §§ 17200 et seq.); (7) false advertising (Cal. Bus. & Prof. Code §§ 17500 et seq.); (8) unjust enrichment; (9) conversion; (10) intentional interference with prospective economic advantage; and (11) negligent interference with prospective economic advantage. Docket No. 1. In its Complaint, Yuga alleges that Defendants have misused the BAYC Marks as part of a scheme to harass Yuga, mislead consumers, and unjustly enrich themselves. According to Yuga, in response to the popularity of the BAYC NFTs: +
+&nbsp; +
+[.quoteblock]#Defendant Ryder Ripps, a self-proclaimed “conceptual artist,” recently began trolling Yuga Labs and scamming consumers into purchasing RR/BAYC NFTs by misusing Yuga Labs’ trademarks. He seeks to devalue the Bored Ape NFTs by flooding the NFT market with his own copycat NFT collection using the original Bored Ape Yacht Club images and calling his NFTs “RR/BAYC” NFTs. Brazenly, he promotes and sells these RR/BAYC NFTs using the very same trademarks that Yuga Labs uses to promote and sell authentic Bored Ape Yacht Club NFTs. He also markets these copycat NFTs as falsely equivalent to an authentic Bored Ape Yacht Club NFT. He then goes on to use Yuga Labs’ marks to promote his coming “Ape Market” NFT marketplace, which requires a person to purchase one of his infringing NFTs to join the Ape Market. This is no mere monkey business. It is a deliberate effort to harm Yuga Labs at the expense of consumers by sowing confusion about whether these RR/BAYC NFTs are in some way sponsored, affiliated, or connected to Yuga Labs’ official Bored Ape Yacht Club, in violation of the Lanham Act and related state law.# +
+Complaint, ¶ 2.
+
+[.text-justify]
+On December 16, 2022, the Court issued an Order denying Defendants’ Anti-SLAPP Motion and denying Defendants’ Motion to Dismiss except with respect to Yuga’s unjust enrichment cause of action, and that cause of action was dismissed without prejudice. Docket No. 62. On December 21, 2022, Defendants filed a Notice of Appeal, appealing the Court’s denial of their Anti-SLAPP Motion. Docket No. 63.
+
+[.text-justify]
+On December 27, 2022, Defendants filed their Answer and Counterclaim. Docket No. 65. Defendants alleged six claims against Yuga: (1) knowing misrepresentation of infringing activity; (2) declaratory judgment of no copyright under 17 U.S.C. § 102(a); (3) declaratory judgment of no copyright under 17 U.S.C. § 204(a); (4) intentional infliction of emotional distress (“IIED”); (5) negligent infliction of emotional distress (“NIED”); and (6) declaratory judgment of no defamation. In their Counterclaim, Defendants allege that Yuga’s lawsuit against them is Yuga’s “attempt to silence creators who used their craft to call out a multi-billion-dollar company built on racist and neo-Nazi dog whistles.” Counterclaim, ¶ 1. Specifically, Defendants allege that they “brought attention to Yuga’s conduct by creating a satirical conceptual art and performance project called the “Ryder Ripps Bored Ape Yacht Club,” which included a collection of NFTs and associated online commentary.” Counterclaim, ¶ 2. Defendants also allege that although “Yuga never acted against any of the dozens of commercial ‘ape’ NFT collections, it did engage in a relentless and systematic campaign against Mr. Ripps and Mr. Cahen. This Counterclaim Complaint asserts various causes of action associated with Yuga’s unlawful and immoral conduct aimed at abusing, bully [sic], and harassing Mr. Ripps and Mr. Cahen into silence regarding Yuga’s fraud and its use of racist messages and imagery.” Counterclaim, ¶ 3.
+
+[.text-justify]
+On March 17, 2023, the Court issued an Order granting Yuga’s Special Motion to Strike Counterclaims and granting in part and denying in part Yuga’s Motion to Dismiss Counterclaims. Docket No. 156. In the March 17, 2023 Order, the Court dismissed without leave to amend and with prejudice Defendants’ second and third Counterclaims, struck and dismissed without leave to amend and with prejudice Defendants’ fourth and fifth Counterclaims, and dismissed without prejudice Defendants’ sixth Counterclaim. Id.
+
+*II&period; &emsp;&emsp; Legal Standard*
+
+[.text-justify]
+Summary judgment is proper where “the movant shows that there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law.” Fed. R. Civ. P. 56(a). The moving party has the burden of demonstrating the absence of a genuine issue of fact for trial. See Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256 (1986). Once the moving party meets its burden, a party opposing a properly made and supported motion for summary judgment may not rest upon mere denials but must set out specific facts showing a genuine issue for trial. Id. at 250; Fed. R. Civ. P. 56(c), (e); see also Taylor v. List, 880 F.2d 1040, 1045 (9th Cir. 1989) (“A summary judgment motion cannot be defeated by relying solely on conclusory allegations unsupported by factual data.”). In particular, when the non-moving party bears the burden of proving an element essential to its case, that party must make a showing sufficient to establish a genuine issue of material fact with respect to the existence of that element or be subject to summary judgment. See Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986). “An issue of fact is not enough to defeat summary judgment; there must be a genuine issue of material fact, a dispute capable of affecting the outcome of the case.” American International Group, Inc. v. American International Bank, 926 F.2d 829, 833 (9th Cir. 1991) (Kozinski, dissenting).
+
+[.text-justify]
+An issue is genuine if evidence is produced that would allow a rational trier of fact to reach a verdict in favor of the non-moving party. Anderson, 477 U.S. at 248. “This requires evidence, not speculation.” Meade v. Cedarapids, Inc., 164 F.3d 1218, 1225 (9th Cir. 1999). The Court must assume the truth of direct evidence set forth by the opposing party. See Hanon v. Dataproducts Corp., 976 F.2d 497, 507 (9th Cir. 1992). However, where circumstantial evidence is presented, the Court may consider the plausibility and reasonableness of inferences arising therefrom. See Anderson, 477 U.S. at 249-50; TW Elec. Serv., Inc. v. Pacific Elec. Contractors Ass’n, 809 F.2d 626, 631-32 (9th Cir. 1987). Although the party opposing summary judgment is entitled to the benefit of all reasonable inferences, “inferences cannot be drawn from thin air; they must be based on evidence which, if believed, would be sufficient to support a judgment for the nonmoving party.” American International Group, 926 F.2d at 836-37. In that regard, “a mere ‘scintilla’ of evidence will not be sufficient to defeat a properly supported motion for summary judgment; rather, the nonmoving party must introduce some ‘significant probative evidence tending to support the complaint.’” Summers v. Teichert & Son, Inc., 127 F.3d 1150, 1152 (9th Cir. 1997).
+
+*III&period; &emsp; &emsp; Discussion*
+
+[.text-justify]
+In its Motion, Yuga seeks partial summary judgment as to its first cause of action for false designation of origin under 15 U.S.C. § 1125(a). Specifically, Yuga seeks partial summary judgment with respect to the following issues: (1) Yuga owns the BAYC Marks, which are valid and enforceable; (2) Defendants used the BAYC Marks to sell RR/BAYC NFTs, without the consent of Yuga and in a manner likely to cause confusion; (3) Yuga is entitled to damages and injunctive relief; and (4) this is an exceptional case. Yuga also moves for summary judgment or, in the alternative, partial summary judgment as to: (1) Yuga’s third cause of action for cybersquatting under 15 U.S.C. § 1125(d); (2) Defendants’ First Amendment/Rogers affirmative defense; (3) Defendants’ fair use affirmative defense; (4) Defendants’ unclean hands affirmative defense; and (5) Defendants’ first counterclaim alleging a knowing misrepresentation of infringing activity. Yuga argues that Defendants have used Yuga’s BAYC Marks to sell identical-looking NFTs in the exact same market that Yuga sold its BAYC NFTs and that Defendants’ infringement resulted in confusion and harmed Yuga’s brand and goodwill. In addition, Yuga argues that Defendants’ defenses and counterclaims are “flimsy,” meritless, and do not conceal the fact that Defendants’ RR/BAYC NFTs are nothing more than a scam. In their Opposition, Defendants argue that Yuga cannot demonstrate ownership of the BAYC Marks and without trademark rights, Yuga cannot prevail on either its false designation of origin or cybersquatting claims. Defendants also argues that there are disputed issues of fact that preclude summary judgment on the issue of consumer confusion and Defendants’ affirmative defenses. In addition, Defendant argues that Yuga’s Motion demonstrates that Yuga violated Section 512(f) of the Copyright Act and, as a result, Defendants should prevail on their first counterclaim alleging a knowing misrepresentation of infringing activity. 
+
+*&emsp; A&period; &emsp;&emsp; Yuga’s First Cause of Action for False Designation of Origin*
+
+[.text-justify]
+In its Motion, Yuga argues that it is entitled to partial summary judgment as to its first cause of action for false designation of origin. Specifically, Yuga argues that it should prevail on its false designation of origin cause of action because: (1) Yuga owns the BAYC Marks, which are valid and enforceable; (2) Defendants used the BAYC Marks to sell RR/BAYC NFTs without the consent of Yuga in a manner likely to cause confusion; (3) Yuga is entitled to damages and injunctive relief; and (4) this is an exceptional case. In their Opposition, Defendants argue that Yuga is not entitled to summary judgment because: (1) Yuga does not own the BAYC Marks for NFTs; and (2) NFTs are intangible and, as a result, ineligible for trademark protection. Defendants also argue that Yuga did not use the BAYC Marks in commerce. In addition, Defendants argue that Yuga transferred all trademark rights to NFT purchasers and abandoned all trademark rights through naked licensing and failure to police. Defendants also argue that there are disputed issues of fact that preclude summary judgment on the issue of consumer confusion.
+
+[.text-justify]
+The Lanham Act “prohibits the use of false designations of origin, false descriptions, and false representations in the advertising and sale of goods and services.” Jack Russell Terrier Network of N. Ca. v. Am. Kennel Club, Inc., 407 F.3d 1027, 1036 (9th Cir. 2005). A claim for false designation of origin under 15 U.S.C. § 1125 requires proof of the same elements as a claim for trademark infringement under 15 U.S.C. § 1114. Brookfield Commc'ns, Inc. v. W. Coast Entm't Corp., 174 F.3d 1036, 1046 n. 6 (9th Cir. 1999) (citing 15 U.S.C. §§ 1114(1), 1125(a)(1)). To prevail on a trademark infringement claim or a false designation of origin claim under the Lanham Act, a plaintiff must demonstrate that: (1) it has a protectable ownership interest in the mark; and (2) the defendant's use of the mark is likely to cause consumer confusion.” Rearden LLC v. Rearden Commerce, Inc., 683 F.3d 1190, 1202 (9th Cir. 2012) (quoting Network Automation, Inc. v. Advanced Sys. Concepts, Inc., 638 F.3d 1137, 1144 (9th Cir.  011)); see also Monster Energy Company v. BeastUp LLC, 395 F.Supp. 3d 1334 (E.D. Cal. 2019). 
+
+*&emsp; &emsp; 1&period; &emsp;&emsp; Yuga Owns the BAYC Marks And Those Marks Are Valid and Protectable*
+
+[.text-justify]
+In this case, it is undisputed that the BAYC Marks are unregistered. However, “an unregistered trademark can be enforced against would-be infringers.” Matal v. Tam, 582 U.S. 218, 225 (2017); Halicki Films v. Sanderson Sales & Marketing, 547 F.3d 1213, 1226 (9th Cir. 2008). In addition, it is undisputed that Yuga first began using the BAYC Marks in April 2021 in connection with its BAYC NFT collection, prior to Defendants use of the BAYC Marks in connection with its RR/BAYC NFT collection in May 2022.
+
+*&emsp;&emsp;&emsp; a&period; &emsp;&emsp; NFTs are Goods for Purposes of the Lanham Act*
+
+[.text-justify]
+Defendants argue that Yuga does not own any trademark rights in the BAYC Marks because NFTs are intangible and, as a result, ineligible for trademark protection, relying on Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23 (2003). However, this Court agrees with the court in Hermes International v. Rothschild, 590 F.Supp. 3d 647, 655 (S.D.N.Y. 2022), which concluded that “neither Dastar nor its progeny require that a defendant’s goods be tangible for Lanham Act liability to attach.” As the court in Hermes explained: +
+&nbsp; +
+[quoteblock]#In Dastar, Twentieth Century Fox (“Fox”) accused Dastar Corporation of violating § 43(a) of the Lanham Act -- which makes unlawful misrepresentations that “[are] likely to cause confusion . . . as to the origin . . . of [a defendant's] goods” -- because Dastar copied a documentary series on which Fox held exclusive television rights onto videotapes that it then sold. Dastar, 539 U.S. at 31, 123 S.Ct. 2041. The documentary series existed in the public domain at the time of copying and Fox did not possess any copyright on it. +
+&nbsp; +
+The precise question before the Court was whether “origin” of “goods” in § 43(a) referred to the producer of the goods for sale -- i.e., the videotapes owned by Dastar -- or the creator of the intangible, creative content on the videotapes -- i.e., the documentary that was owned by Fox. While the former interpretation would absolve Dastar of liability because copying the documentary did not generate consumer confusion about the origin of the physical videotapes themselves, the latter reading
+would likely entitle Fox to damages under the Lanham Act. If “origin” of the “goods” means the producer of the documentary series, as Fox argued it does, Dastar's copying could plausibly have “caused” consumers to think that it -- not Fox -- was the
+“origin” of the series. +
+&nbsp; +
+The Supreme Court ultimately held that “the most natural understanding of the ‘origin’ of ‘goods’ . . . is the producer of the tangible product sold in the marketplace,” in this case, the physical videotapes sold by Dastar. Id. The Lanham Act, it reasoned, does not provide individuals or other entities with a copyright-like protection in originality, creative ideas, or other abstractions but only against misrepresentations that generate consumer confusion as to the origin of a good for sale. Id. at 33, 123 S.Ct. 2041. +
+&nbsp; +
+. . . But Dastar said nothing at all about the general applicability of the Lanham Act to intangible goods. Rather, the Supreme Court sought to underscore the subtle distinction between copyright -- with its focus on encouraging the production of creative content -- and trademark -- aimed principally at preventing confusion regarding consumer goods. +
+&nbsp; +
+The plaintiff in Dastar, possessing no copyright on the documentary series, attempted to disguise what was in essence a copyright claim as a trademark claim, even though the copying at issue did not cause consumer confusion vis-à-vis the defendant's goods -- the touchstone of any trademark claim. Faced with this legal gamesmanship, the Supreme Court ruled that the plaintiff could not circumvent § 43(a)’s requirement that there be consumer confusion with respect to the goods for sale, and not just as to the intangible ideas underlying them. See also Shepard v. Eur. Pressphoto Agency, 291 F. Supp. 3d 465, 469 (S.D.N.Y. 2017) (“Dastar addresses the interplay between copyright -- which protects authors’ rights in their creations -- and unfair competition laws -- which protect consumers from, inter alia, confusion as to the origin of goods.”).#
+
+[.text-justify]
+In addition, the Court concludes that although NFTs are virtual goods, they are, in fact, goods for purposes of the Lanham Act. See Andrea MCCollum, Treating Non-Fungible Tokens as Digital Goods Under the Lanham Act, 63 IDEA: L. Rev. Franklin Pierce Center for Intell. Prop. 415 (2023) (“While virtual goods are intangible items that exist in a digital space, they are also items that have specific uses and values that are dependent on the consumer”). As one commentator pointed out: +
+&nbsp; +
+[quoteblock]#[F]ocusing only on tangibility misses important characteristics of NFTs that suggest that they can be treated as “goods” under the Lanham Act. At the time of Dastar, virtual goods were fungible and more akin to creative works than to unique, traceable products capable of deriving value from their association with their underlying brands. What has changed is the ability of digital assets to reliably record a source for the good and the selling of virtual goods specifically based on goodwill built by a brand. In Dastar, external labeling of physical videotapes was the only relevant source indicator for the digital media on the tapes. Blockchain technology has revolutionized digital assets and allowed the creation of unique digital goods that are non-fungible. New digital goods like NFTs that are built with ledgers have essentially imported the external labeling function for source indication into the file of the digital asset itself, although in an intangible form. Further, intangibility does not exclude NFTs from having other characteristics of “goods,” including being individually transferrable between owners, storable for indefinite periods of time, exclusively owned by a single owner, and distinguishable based on their source.#
+
+[.text-justify]
+Id. (“Those that argue for NFTs to be considered only as ownership receipts often focus on the fact that blockchain-based technologies essentially comprise software code that provides a new way to store and synchronize encrypted data about purchases. Inside that software code lies a sequence of instructions that cause a computer to perform a certain process. However, viewing the NFTs as ownership receipts treats the NFTs as mere written instructions while ignoring their documented commercial value. Software is created to contain instructions to tell a computer what to do, and it is most often this functionality, not brand association or creative content, that causes consumers to buy software. In contrast, NFTs and some other blockchain-based assets are sold specifically for their connection to a particular brand, creator, or associated creative work”); Slep-Tone Entertainment Corporation v. Sellis Enterprises, Inc., 87 F.Supp. 3d 897 (N.D. Ill. 2015) (rejecting the bar owner defendant’s argument that Dastar prevented a producer of karaoke accompaniment tracks from maintaining a Lanham Act claim because the defendant’s “argument ignores a significant portion of [the plaintiff’s] complaint – it claims that karaoke operators engage in media and format shifting, creating tracks on both a new hard medium and in a completely new format . . . The media and format shifting operates as an independent creation event, placing a new ‘good’ in the marketplace”). Moreover, as the court in Hermes concluded, “[i]ndividuals do not purchase NFTs to own a ‘digital deed’ divorced from any other asset: they buy them precisely so that they can exclusively own the content associated with the NFT.” Hermes International v. Rothschild, F.3d , 2023 WL 1458126 (S.D.N.Y. Feb. 2, 2023) (“Thus, the title “MetaBirkins” should be understood to refer to both the NFT and the digital image with which it is associated. Indeed, a reasonable inference from the admissible evidence presented on these motions is that the relevant consumers did not distinguish the NFTs offered by Mr. Rothschild from the underlying MetaBirkins images associated with the NFTs and, instead, tended to use the term “MetaBirkins NFTs” to refer to both”). 
+
+*&emsp;&emsp;&emsp; b&period; &emsp;&emsp; Yuga Used the BAYC Marks in Commerce*
+
+[.text-justify]
+Defendants also argue that even if NFTs are “tangible goods” subject to trademark law, Yuga cannot meet the “use in commerce” requirement. “The Lanham Act grants trademark protection only to marks that are used to identify and to distinguish goods or services in commerce – which typically occurs when a mark is used in conjunction with the actual sale of goods or services.” Brookfield Commc'ns, Inc. v. W. Coast Entm't Corp., 174 F.3d 1036, 1051 (9th Cir.1999). “The purpose of a trademark is to help consumers identify the source, but a mark cannot serve a source-identifying function if the public has never seen the mark and thus is not meritorious of trademark protection until it is used in public in a manner that creates an association among consumers between the mark and the mark's owner.” Id. “For both goods and services, the ‘use in commerce’ requirement includes (1) an element of actual use, and (2) an element of display.” Chance v. Pac-Tel Teletrac Inc., 242 F.3d 1151, 1159 (9th Cir. 2001) (citing 15 U.S.C. § 1127). In determining whether the two prongs of the “use in commerce” test have been satisfied, the Ninth Circuit has generally followed a “totality of the circumstances” approach. Rearden LLC v. Rearden Commerce, Inc., 683 F.3d 1190 (9th Cir. 2012). The “totality of the circumstances” approach requires evidence of “[u]se in a way sufficiently public to identify or distinguish the marked goods in an appropriate segment of the public mind.” New West Corp. v. NYM Co. of Cal., 595 F.2d 1194, 1200 (9th Cir. 1979) (internal quotation omitted). In addition, under the “totality of the circumstances” approach, “evidence of actual sales, or lack thereof, is not dispositive in determining whether a party has established ‘use in commerce’ within the meaning of the Lanham Act. Instead, [the Ninth Circuit has] acknowledged the potential relevance of non-sales activity in demonstrating not only whether a mark has been adequately displayed in public, but also whether” a mark has been “rendered in commerce” for purposes of 15 U.S.C. § 1127. Rearden, 683 F.3d at 1205. Specifically, the Ninth Circuit has explained that: +
+[quoteblock]#In applying [the “totality of the circumstances”] approach, the district courts should be guided in their consideration of non-sales activities by factors we have discussed, such as the genuineness and commercial character of the activity, the determination of whether the mark was sufficiently public to identify or distinguish the marked service in an appropriate segment of the public mind as those of the holder of the mark, the scope of the non-sales activity relative to what would be a commercially reasonable attempt to market the service, the degree of ongoing activity of the holder to conduct the business using the mark, the amount of business transacted, and other similar factors which might distinguish whether a service has actually been “rendered in commerce.”#
+
+[.text-justify]
+Chance, 242 F.3d at 1159.
+
+[.text-justify]
+In this case, the Court concludes that Yuga has used the BAYC Marks in commerce and continues to use the BAYC Marks in commerce. It is undisputed that Yuga has sold 10,000 BAYC NFTs. In addition, holders of BAYC NFTs have exclusive access to membership perks, including access to the online “Bored Ape Yacht Club,” a collaborative community art canvas, various online games, in person events (such as the music festival Ape Fest), and new product launches and merchandise, all of which incorporate and feature the BAYC Marks. In addition, Yuga has entered into marketing partnerships and collaborations with various brands, including Arizona Iced tea and adidas, which incorporate and feature the BAYC Marks. Moreover, Yuga and BAYC Marks have been featured in various media articles, including Rolling Stone, which featured BAYC NFT art on the cover and included the article “How Four NFT Novices Created a Billion-Dollar Ecosystem of Cartoon Apes.” Indeed, despite Defendants’ argument that Yuga has failed to use the BAYC Marks in commerce, Defendants entire defense in this action is premised on their use of the BAYC Marks as “art” to comment on and bring attention to Yuga’s alleged use of racist, neo-Nazi, and altright messages and imagery and create social pressure demanding that Yuga take responsibility for its actions. However, if Yuga had not established significant brand recognition and goodwill from the use of its BAYC Marks in commerce, such commentary and attention would be unnecessary.
+
+*&emsp;&emsp;&emsp; c&period; &emsp;&emsp; Yuga Has Not Transferred or Abandoned Its Trademark Rights in the BAYC Marks*
+
+[.text-justify]
+Defendants also argue that Yuga has either transferred all its trademark rights in the BAYC Marks to BAYC NFT purchasers or abandoned its trademark rights through naked licensing and failure to police. A “naked license” occurs when a trademark owner grants a trademark license then fails to monitor the quality of goods that the licensee produces under that trademark to such an extent that the trademark can be deemed abandoned. See FreecycleSunnyvale v. Freecycle Network, 626 F.3d 509, 516 (9th Cir. 2010); Barcamerica Int'l USA Tr. v. Tyfield Importers, Inc., 289 F.3d 589, 596 (9th Cir. 2002). However, “[n]aked licensing does not occur where there is no trademark license at issue.” See Neo4j, Inc. v. PureThink, LLC, 480 F. Supp. 3d 1071, 1077 (N.D. Cal. 2020). Under its Terms and Conditions, Yuga grants each BAYC NFT holder a copyright license for both personal use and commercial use with respect to their respective BAYC ape image, but not a trademark license to use the BAYC Marks.^*(xref:yugalabs_fn_4[4])*^ Because Yuga has not granted BAYC NFT holders a trademark license, Defendants’ naked licensing theory fails. Sweetheart Plastics, Inc. v. Detroit Forming, Inc., 743 F.2d 1039, 1047 (4th Cir. 1984) (“Th[e] rule of uncontrolled licensing of a trademark is inapplicable to the instant case as no evidence of licensing has been presented”).
+
+[.text-justify]
+In addition, “despite Defendants’ attempt to argue abandonment through third party use or failure to police, these arguments are unquestionably meritless.” San Diego Comic Convention v. Dan Farr Productions, 2017 WL 4227000 (S.D. Cal. Sept. 22, 2017). Under the Lanham Act, abandonment of a trademark only occurs by nonuse or by a mark becoming generic, and neither apply in this case. Id. Indeed, the filing of this action is strong evidence that Yuga enforces its trademark rights in the BAYC Marks against infringing third-party users. 
+
+*&emsp;&emsp;2&period; &emsp;&emsp; Defendants’ Use Is Likely To Cause Confusion*
+
+[.text-justify]
+“While maintenance of a valid and protectable [trade]mark is a prerequisite to bringing a trademark claim, the likelihood of confusion is the central element of a trademark infringement action.” Cytosport, Inc. v. Vital Pharms., Inc., 617 F. Supp. 2d 1051, 1065 (E.D. Cal. 2009). “The test for likelihood of confusion is whether a reasonably prudent consumer in the market place is likely to be confused as to the origin of the good or service bearing one of the marks.” Dreamwerks Production Group, Inc. v. SKG Studio, 142 F.3d 1127, 1129 (9th Cir. 1998) (internal quotations omitted). In AMF Inc. v. Sleekcraft Boats, 599 F.2d 341, 348-49 (9th Cir. 1979), the Ninth Circuit identified eight factors that should be considered in determining whether there is a likelihood of confusion: (1) the strength of the plaintiff’s mark; (2) the proximity or relatedness of the parties’ goods; (3) the marks’ similarity in appearance, sound, and meaning; (4) evidence of actual confusion; (5) evidence of the defendants’ intention in selecting and using the allegedly infringing name; (6) the degree to which the parties’ marketing channels converge; (7) the type of goods and the degree of care customers are likely to exercise in purchasing them; and (8) the likelihood that the parties will expand their product lines. “This list of factors, while perhaps exhausting, is neither exhaustive nor exclusive. Rather, the factors are intended to guide the court in assessing the basic question of likelihood of confusion. The presence or absence of a particular factor does not necessarily drive the determination of a likelihood of confusion.” E & J Gallo Winery v. Gallo Cattle Co., 967 F.2d 1280, 1290-91 (9th Cir. 1992). In addition, in cases involving claims of trademark infringement on the internet, the Ninth Circuit has held the “internet troika” – (1) similarity of marks; (2) relatedness of goods or services; and (3) simultaneous use of the internet as a marketing channel – are of greater importance. Internet Specialities West v.  Milon-DiGorgio Enterprises, 559 F.3d 985, 989 (9th Cir. 2009)
+
+*&emsp;&emsp;&emsp; a&period; &emsp;&emsp; Strength of the Mark*
+
+[.text-justify]
+A mark's strength is based on its conceptual strength and strength in the marketplace. See GoTo.com, Inc. v. Walt Disney Co., 202 F.3d 1199, 1207 (9th Cir. 2000). Conceptual strength depends on the mark's characterization: the strongest marks are “arbitrary” and “suggestive” marks; the weakest are “descriptive” and “generic” marks. See Sleekcraft, 599 F.2d at 349. Weaker marks are afforded less protection than strong ones, with generic marks afforded no protection at all. See Matrix Motor Co. v. Toyota Jidosha, 290 F.Supp.2d 1083, 1091 (C.D. Cal. 2003). “Commercial strength is based on actual marketplace recognition.” Network Automation, Inc. v. Advanced Systems Concepts, Inc., 638 F.3d 1137, 1149 (9th Cir. 2011) (quotation marks omitted). In this case, the Court agrees with Yuga and concludes that the BAYC Marks are both conceptually and commercially strong. Conceptually, the BAYC Marks are arbitrary designations for the NFTs and NFT-related products offered by Yuga. Commercially, although though the NFT
+market is relatively new, Yuga has prominently used the BAYC Marks since April 2021. In addition, Yuga’s BAYC NFT collection is consistently one of the top-selling and highest-valued NFT collections and Yuga has used its BAYC Marks to brand this success in connection with Yuga’s website, events, social media pages, marketing, partnerships, products, and services. As a result of its advertising, promotion, and use of the BAYC Marks, Yuga has developed recognition for its goods and services under the BAYC Marks and has acquired significant goodwill from its BAYC Marks. Consolidated Cigar Corp. v. Monte Cristi de Tabacos, 58 F. Supp. 2d 188, 198 (S.D.N.Y. 1999) (holding that plaintiff’s “commercial success, as shown by widespread media exposure and advertising expenditures, reinforces the strength of the mark”); Tri-Star Pictures, Inc. v. Unger, 14 F. Supp. 2d 339, 355 (S.D.N.Y. 1998) (holding that the strength of plaintiff’s mark was demonstrated by fact that its film “received vast unsolicited media coverage in mass circulation newspapers and magazines as well as coverage in the electronic media”).
+
+[.text-justify]
+Moreover, as in this case, where the conflicting marks and the goods provided are identical, the strength of the mark is of diminished importance in the likelihood of confusion analysis. GoTo.com, 202 F.3d at 1208 (citation and quotation marks omitted).
+Accordingly, the first Sleekcraft factor weighs in favor of Yuga.
+
+*&emsp;&emsp;&emsp; b&period; &emsp;&emsp; Proximity Or Relatedness Of The Goods*
+
+[.text-justify]
+With respect to the relatedness of products and services offered, the Ninth Circuit has held that if the conflicting marks are identical or virtually identical and “if they were used with identical products or services likelihood of confusion would follow as a matter of course.” Brookfield Commc'ns, Inc. v. W. Coast Entm't Corp., 174 F.3d 1036, 1056 (9th Cir. 1999). Because Defendants have admittedly used Yuga’s BAYC Marks in connection with Defendants’ RR/BAYC NFT collection, the “consuming public is likely . . . to associate” Defendants with Yuga. See id. at 1056. Indeed, Defendants are selling the exact same product – NFTs that point to Yuga’s BAYC images – and Defendants marketed their RR/BAYC NFTs using the same corresponding BAYC Ape ID number used by Yuga for the BAYC NFTs.
+
+[.text-justify]
+Accordingly, the second Sleekcraft factor weighs in favor of Yuga.
+
+*&emsp;&emsp;&emsp; c&period; &emsp;&emsp; Similarity of the Marks*
+
+[.text-justify]
+“Similarity of the marks is tested on three levels: sight, sound, and meaning.” Sleekcraft, 599 F.2d at 351. In this case, the Court has already concluded that Defendants have used Yuga’s BAYC Marks. Indeed, Defendants have admitted that they intentionally used the BAYC Marks in their RR/BAYC NFTs. 
+
+[.text-justify]
+Accordingly, the third Sleekcraft factor weighs in favor of Yuga.
+
+*&emsp;&emsp;&emsp; d&period; &emsp;&emsp; Evidence of Actual Confusion*
+
+[.text-justify]
+“[A]ctual confusion is not necessary to a finding of likelihood of confusion under the Lanham Act. Indeed, [p]roving actual confusion is difficult . . . and the courts have often discounted such evidence because it was unclear or insubstantial.” Network Automation, 638 F.3d at 1151 (citation and quotation marks omitted). In this case, even though Yuga has presented evidence of actual confusion, the Court does not need to consider it because the other Sleekcraft factors weigh heavily in favor of a likelihood of confusion.
+
+[.text-justify]
+Accordingly, the fourth Sleekcraft factor is neutral.
+
+*&emsp;&emsp;&emsp; e&period; &emsp;&emsp; Evidence of Defendants’ Intent in Selecting and Using the Allegedly Infringing Mark*
+
+[.text-justify]
+“When the alleged infringer knowingly adopts a mark similar to another's, reviewing courts presume that the defendant can accomplish his purpose: that is, that the public will be deceived.” Network Automation, 638 F.3d at 1153 (quoting Sleekcraft, 599 F.2d at 354). In this case, Defendants knowingly and intentionally used Yuga’s BAYC Marks. Because Defendants knowingly and intentionally used Yuga’s BAYC Marks, and in the absence of any contrary evidence, the Court concludes that Defendants used the BAYC Marks in an effort to confuse consumers. Glow Industries, Inc. v. Lopez, 252 F. Supp. 2d 962, 1002 (C.D. Cal. 2002) (holding that “[k]nowing adoption of a mark closely similar to another is a sound basis for inferring an intent to deceive”). In addition, the Court concludes that Defendants intentionally designed the RR/BAYC NFTs and sales websites to resemble Yuga’s branding. For example, Defendants listed the RR/BAYC NFTs on rrbayc.com under the very same Ape ID number associated with BAYC NFTs, despite having their very own unique and different ID numbers. 
+
+[.text-justify]
+Accordingly, the fifth Sleekcraft factor weighs in favor of Plaintiffs.
+
+*&emsp;&emsp;&emsp; f&period; &emsp;&emsp; Degree to Which the Parties’ Marketing Channels Converge*
+
+[.text-justify]
+“Convergent marketing channels increase the likelihood of confusion.” Sleekcraft, 599 F.2d at 353. In this case, as competing NFT collections, it is not surprising that both Yuga and Defendants promoted and sold their NFTs through the same online NFT marketplaces – OpenSea and x2y2. In addition, both Yuga and Defendants used Twitter to promote their respective NFT collections.
+
+[.text-justify]
+Accordingly, the sixth Sleekcraft factor weighs in favor of Yuga.
+
+*&emsp;&emsp;&emsp; g&period; &emsp;&emsp; Type of Goods and the Degree of Care Customers Are Likely to Exercise in Purchasing Them*
+
+[.text-justify]
+Likelihood of confusion is determined on the basis of a “reasonably prudent consumer.” Brookfield, 174 F.3d at 1060 (holding that “confusion may often be likely even in the case of expensive goods sold to discerning customers”). In this case, the Court concludes that confusion is likely given the complexity and required sophistication to understand the blockchain and verify provenance. Indeed, Defendants concede that authenticating NFTs requires specialized knowledge and, because of the specialized knowledge required, Defendants knew that their RR/BAYC NFTs were likely to be confused with Yuga’s BAYC NFTs and that at least some purchasers of their RR/BAYC NFTs would have difficulty identifying the RR/BAYC NFTs as a different and distinct product from Yuga’s BAYC NFTs. 
+
+[.text-justify]
+Accordingly, the seventh Sleekcraft factor weighs in favor of Yuga.
+
+*&emsp;&emsp;&emsp; h&period; &emsp;&emsp; The Likelihood That The Parties Will Expand Their Product Lines*
+
+[.text-justify]
+Because Yuga and Defendants both market and sell NFTs, this factor “is relatively unimportant.” Brookfield, 174 F.3d at 1060 (“The likelihood of expansion in product lines factor is relatively unimportant where two companies already compete to a significant extent”); GoTo.com,, 202 F.3d 1199 (“Because Disney and GoTo compete with one another by providing similar Internet search engines, we decline to evaluate the issue of whether there is a likelihood of expansion of their product lines”).
+Accordingly, the eighth Sleekcraft factor is neutral. 
+
+*&emsp;&emsp;&emsp; i&period; &emsp;&emsp; Balancing of the Sleekcraft Factors*
+
+[.text-justify]
+Ultimately, the Sleekcraft factors “should not be rigidly weighed” (Dreamwerks Prod. Grp., Inc. v. SKG Studio, 142 F.3d 1127, 1129 (9th Cir. 1998)), but are instead “intended to guide the court in assessing the basic question of likelihood of confusion.” E. & J. Gallo Winery, 967 F.2d at 1290. “A determination may rest on only those factors that are most pertinent to the particular case before the court, and other variables besides the enumerated factors should also be taken into account based on the particular circumstances.” Rearden, 683 F.3d at 1209. In this case, the Court concludes that the majority of the Sleekcraft factors weigh in favor of Yuga and those factors that do not weigh in favor of Yuga are neutral. Therefore, the Court easily  concludes that Defendants’ use of Yuga’s BAYC Marks was likely to cause confusion.
+
+*&emsp;&emsp; 3&period; &emsp;&emsp; Yuga’s Damages Will Be Decided At Trial*
+
+[.text-justify]
+Yuga also seeks a determination that it is entitled to damages and injunctive relief, including whether this is an exceptional case entitling Yuga to enhanced damages and attorneys’ fees on its first cause of action for false designation of origin. See Motion, 13:5-21. The Court concludes that Yuga is entitled to monetary damages and injunctive relief. Monster Energy Co. v. Integrated Supply Network, 533 F.Supp. 3d 928, 933 (C.D. Cal. 2021); Phillip Morris USA v. Shalabi, 352 F.Supp. 2d 1067, 1074-75 (C.D. Cal. 2004). However, the Court denies Yuga’s Motion as to whether this is an exceptional case entitling Yuga to enhanced damages and attorneys’ fees because Yuga has reserved the issue of damages for trial. See Motion 3:28.
+
+[.text-justify]
+Accordingly, Yuga’s Motion is granted as to Yuga’s first cause of action for false designation of origin. Yuga’s Motion is denied with respect to damages.
+
+*&emsp; B&period; &emsp;&emsp; Yuga’s Third Cause of Action for Cybersquatting*
+
+[.text-justify]
+Cyberpiracy, also known as “cybersquatting,” is governed by the Anti-Cybersquatting Consumer Protection Act (“ACPA”). 15 U.S.C. § 1125(d); see also 6 McCarthy on Trademarks and Unfair Competition, § 25A:49 (5th ed. 2022). A “cybersquatter” is a person who “knowingly obtains from a registrar a domain name consisting of the mark or name of a company for the purpose of ransoming the right to that domain name back to the legitimate owner for a price.” 6 McCarthy on Trademarks and Unfair Competition, § 25A:48 (5th ed. 2022). To prevail on a cyberpiracy claim under the ACPA, a plaintiff must prove “that (1) the defendant registered, trafficked in, or used a domain name; (2) the domain name is identical or confusingly similar to a protected mark owned by the plaintiff; and (3) the defendant acted with bad faith intent to profit from that mark.” DSPT Intern., Inc. v. Nahum, 624 F.3d 1213, 1218-19 (9th Cir. 2010) (citing 15 U.S.C. § 1125(d)(1)(A)).
+
+[.text-justify]
+In this case, it is undisputed that Defendants registered, used, and continue to use the domain names https://rrbayc.com/[] and https://apemarket.com/[]. See DSPT, 624 F.3d at 1219 (“The statute says ‘registers, traffics in, or uses,’ with ‘or’ between the terms, so use alone is enough to support a verdict, even in the absence of violative registration or trafficking”).  
+
+[.text-justify]
+Yuga must also establish that the challenged domain names are identical or confusingly similar to a protected mark owned by it. Id. at 1218-19. “In determining whether there is confusing similarity under the ACPA, courts compare the plaintiff’s mark with the name of the website.” Super-Krete Int’l v. Sadleir, 712 F.Supp. 2d 1023, 1031 (C.D. Cal. 2010). The Court concludes that this factor has been established in this case because the domain names used by Defendants incorporate Yuga’s trademarks. Specifically, the domain https://rrbayc.com/[] consists of Yuga’s “BAYC” mark (and corresponding domain https://bayc.com[]) with two additional letters – rr. In addition, https://apemarket.com/[] uses Yuga’s “BORED APE” and other “APE”-based marks and merely adds the descriptive word “market.” These additions do not change the fact that Defendants’ domain names are confusingly similar to Yuga’s trademarks. See, e.g., Coca-Cola Co. v. Purdy, 382 F.3d 774, 783 (8th Cir. 2004) (affirming district court's finding that domains “mywashingtonpost.com,” “mymcdonalds.com,” and “drinkcoke.org” were confusingly similar to the Washington Post, McDonald's, and Coke marks); see also Haas Automation v. Denny, 2013 WL 6502876 (C.D. Cal. Dec. 4, 2013) (finding confusing similarity where domain names all contained the plaintiff’s mark “‘haas’ plus some addition term or terms,” such as haasplus.com, haasmillparts.com). Indeed, an internet user who encountered the website www.rrbayc.com would undoubtedly be confused about its affiliation, given its substantial similarity to Yuga’s mark. Therefore, the Court concludes that this element has been satisfied.
+
+[.text-justify]
+In addition, Yuga must establish that Defendants acted with a bad faith intent to profit from their use of Yuga’s mark. “In determining whether a person has a bad faith intent, a court may consider the nine non-exhaustive factors listed in 15 U.S.C. § 1125(d)(1)(B).” United Artists v. United Artist Studios, 2020 WL 4369778, *42 (C.D. Cal. July 7, 2020). “The first four factors are circumstances tending to indicate an absence of bad faith intent to profit from the goodwill of the mark, the next four tend to indicate that bad faith does exist and the last factor points in either direction, depending on the degree of distinctiveness and fame of the mark.” 5 McCarthy on Trademarks and Unfair Competition § 25A:53 (5th ed.). Specifically, those factors including: (1) the trademark or other intellectual property rights of the defendant, if any, in the domain name; (2) the extent to which the domain name consists of the legal name of the defendant or a name that is otherwise commonly used to identify the defendant; (3) the defendant’s prior use, if any, of the domain name in connection with the bona fide offering of any goods or services; (4) the defendant’s bona fide noncommercial or fair use of the mark in a site accessible under the domain name; (5) the defendant’s intent to divert consumers from the mark owner’s online location to a site accessible under the domain name that could harm the goodwill represented by the mark, either for commercial gain or with the intent to tarnish or disparage the mark, by creating a likelihood of confusion as to the source, sponsorship, affiliation, or endorsement of the site; (6) the defendant’s offer to transfer, sell, or otherwise assign the domain name to the mark owner or any third party for financial gain without having used, or having an intent to use, the domain name in the bona fide offering of any goods or services, or the person's prior conduct indicating a pattern of such conduct; (7) the defendant’s provision of material and misleading false contact information when applying for the registration of the domain name, the defendant’s intentional failure to maintain accurate contact information, or the defendant’s prior conduct indicating a pattern of such conduct; (8) the defendant’s registration or acquisition of multiple domain names which the defendant knows are identical or confusingly similar to marks of others that are distinctive at the time of registration of such domain names, or dilutive of famous marks of others that are famous at the time of registration of such domain names, without regard to the goods or services of the parties; and (9) the extent to which the mark incorporated in the defendant’s domain name registration is or is not distinctive and famous.
+
+[.text-justify]
+Having weighed all the factors in light of the undisputed evidence, the Court concludes that Defendants acted with a bad faith intent to profit. Super-Krete, 712 F. Supp. 2d at 1035 (ruling that the safe harbor defense inapplicable where defendant’s conduct met two of the nine factors of bad faith). Defendants do not have any trademark or other intellectual property rights in the domain names and the domain names do not consist of the legal names of Defendants. Defendants did not have a bona fide prior use of the domains because they registered the domains after Yuga had already launched its BAYC NFTs collection. Defendants’ websites were not for a noncommercial or fair use purpose. Instead, Defendants registered their domains, which included Yuga’s marks, for commercial gain to divert customers from purchasing BAYC NFTs. See, e.g., Super-Krete, 712 F. Supp. 2d at 1033 (finding bad faith where “[d]efendants only interest in the domain name is to divert customers who may have been searching for [p]laintiff’s mark to their own commercial website”). In addition, Defendants concealed their registration of the domain names through the use of a proxy registration service. Moreover, Defendants registered multiple domain names – https://rrbayc.com[], https://apemarket.com[], and pages within OpenSea and Foundation – knowing that they were identical or confusingly similar to the BAYC Marks. Given that the evidence satisfies eight of the nine factors, the Court concludes that Defendants acted in bad faith and they are not entitled to the ACPA’s safe harbor defense. See Lahoti v. VeriCheck, 586 F.3d 1190, 1203 (9th Cir. 2009) (“A defendant who acts even partially in bad faith in registering a domain name is not, as a matter of law, entitled to benefit from the ACPA’s safe harbor provision”).
+
+[.text-justify]
+Yuga also argues that it is entitled to damages and injunctive relief, including a determination that Yuga is entitled to $200,000 in statutory damages. The Court concludes that Yuga is entitled to damages and injunctive relief. However, the Court denies Yuga’s Motion as to statutory damages, because Yuga has reserved the issue of damages for trial. See Motion, 3:28.
+
+[.text-justify]
+Accordingly, Yuga’s Motion is granted as to Yuga’s third cause of action for cybersquatting. Yuga’s Motion is denied with respect to statutory damages.
+
+*&emsp; C&period; &emsp;&emsp; Defendants’ First Amendment/Rogers Affirmative Defense*
+
+[.text-justify]
+Defendants argue that the Rogers test applies in this case because their RR/BAYC NFT collection is an expressive work protected under the First Amendment. With respect to the Rogers test, the Ninth Circuit in Gordon v. Draper Creative, Inc., 909 F.3d 257, 260-61 (9th Cir. 2018), held, in relevant part that: +
+&nbsp; +
+[quoteblock]#We use the Rogers test to balance competing interests at stake when a trademark owner claims that an expressive work infringes on its trademark rights. The test construes the Lanham Act to apply to expressive works “only where the public interest in avoiding consumer confusion outweighs the public interest in free expression.” [875 F.2d] at 999. “[T]he balance will normally support application of the Act, unless the [use of the mark] has no artistic relevance to the underlying work whatsoever, or . . . explicitly misleads [consumers] as to the source or the content of the work.” Id.#
+
+[.text-justify]
+Under the Rogers tests, “[a]n artistic work’s use of a trademark that otherwise would violate the Lanham Act is not actionable ‘unless the use of the mark has no artistic relevance to the underlying work whatsoever, or, if it has some artistic relevance, unless it explicitly misleads as to the source or the content of the work.’” Entertainment 2000, Inc. v. Rock Star Videos, Inc., 547 F.3d 1095, 1099 (9th Cir. 2008) (alternations omitted) (quoting Mattel v. MCA Records, Inc., 296 F.3d 894, 902 (9th Cir. 2002)).
+
+[.text-justify]
+In this case, the Court concludes that the Rogers test does not apply. The Ninth Circuit only applies the Rogers test when “artistic expression is at issue,” and requires defendants to make a “threshold legal showing that its allegedly infringing use is part of an expressive work protected by the First Amendment.” Gordon, 909 F.3d at 264; see also Rogers v. Grimaldi, 875 F.2d 94, 999 (2nd Cir. 1989). Although Defendants’ argue that the larger RR/BAYC “project” is an expressive artistic work protected by the First Amendment, Defendants’ sale of what is admittedly a collection of NFTs that point to the same online digital images as the BAYC collection is the only conduct at issue in this action and does not constitute an expressive artistic work protected by the First Amendment. In particular, the RR/BAYC NFTs do not express an idea or point of view, but, instead, merely point to the same online digital images associated with the BAYC collection. Indeed, even Defendants’ token tracker uses an exact copy of Yuga’s BAYC Marks without any expressive content. Similarly, Defendants’ NFT marketplace sales and Ape Market website contain no artistic expression or critical commentary. For example, the title of Defendants’ Foundation sales page was simply “Bored Ape Yacht Club,” and a Google search of “BAYC Foundation.app” resulted in a link entitled “Bored Ape Yacht Club – Foundation.app” that redirected to Defendants’ Foundation sales page. These are all commercial activities designed to sell infringing products, not expressive artistic speech protected by the First Amendment. Moreover, Defendants concede that the Ape Market contained no speech – artistic or otherwise – because it never had any content. As Yuga has pointed out, and the Court agrees, Defendants’ sale of RR/BAYC NFTs is no more artistic than the sale of a counterfeit handbag, making the Rogers test inapplicable. See, e.g., Tommy Hilfiger Licensing, Inc. v. Nature Labs, LLC, 221 F. Supp. 2d 410, 415 (S.D.N.Y. 2002).
+
+[.text-justify]
+In addition, even if the Court applied the Rogers test, the Court concludes that Defendants’ use of the BAYC Marks is not artistically relevant to Defendants’ “art.” Although there is a low bar for artistic relevance, as Yuga has pointed out, it is not infinitely low. For example, in Twentieth Century Fox Television v. Empire Distribution, Inc., 875 F.3d 1192, 1196-97 (9th Cir. 2017), the court found that using the “Empire” mark in the title of a TV show was artistically relevant, but contemplated that it would not be artistically relevant for a “pretextual expressive work meant only to disguise a business profiting from another’s trademark,” which is precisely what Defendants are doing in this case.
+
+[.text-justify]
+Moreover, even if the Court applied the Rogers test and concluded that the BAYC Marks are artistically relevant, the Court concludes that Defendants’ use of the BAYC marks is explicitly misleading. In determining if the use of a mark is explicitly misleading, a court considers two factors: (1) “the degree to which the junior user uses the mark in the same way as the senior user”; and (2) “the extent to which the junior user has added his or her own expressive content to the work beyond the mark itself.” Gordon, 909 F.3d at 270-71. In this case, Defendants admit that they have used the BAYC Marks in the same marketplaces to identify and sell NFTs bearing the exact same images underlying the BAYC NFTs and without adding any expressive content. See Gordon, 909 F.3d at 270-71 (holding that “the potential for explicitly misleading usage is especially strong when the senior user and the junior user both use the mark in similar artistic expressions”).
+
+[.text-justify]
+Furthermore, use of a senior user’s mark is explicitly misleading when the mark is used “as the centerpiece of an expressive work itself, unadorned with any artistic contribution by the junior user, [which] may reflect nothing more than an effort to induce the sale of goods or services by confusion or lessen the distinctiveness and thus the commercial value of a competitor’s mark.” Id. at 271 (internal quotations omitted). In this case, Defendants concede they are using the BAYC Marks as the centerpiece of their RR/BAYC NFTs, including using “Bored Ape Yacht Club (BAYC)” to identify the RR/BAYC NFTs that point to the same online digital images as the BAYC NFT collection. Thus, Defendants used Yuga’s BAYC Marks to make their competing product look identical to Yuga’s product and ensure that the consumer will be explicitly misled in the token tracker, which is the place where a consumer should be able to authenticate and verify who created the NFT. Indeed, although Defendants argue that their disclaimer on the rrbayc.com reservation site that Ripps was the creator of the RR/BAYC NFTs and that the project used satire and appropriation to criticize Yuga’s BAYC collection negates any confusion, Defendants ignore the fact that they also used other websites to market and sell their RR/BAYC NFTs and those other websites did not include any disclaimer. Moreover, the fact that Defendants concluded it was necessary to include a disclaimer demonstrates their awareness that their use of the BAYC Marks was misleading.
+
+[.text-justify]
+Accordingly, Yuga is entitled to summary judgment on Defendants’ First Amendment/Rogers affirmative defense, and, as a result, Yuga’s Motion is granted with respect to Defendants’ first affirmative defense.
+
+*&emsp; D&period; &emsp;&emsp; Defendants’ Fair Use Affirmative Defense*
+
+[.text-justify]
+Defendants argue that the affirmative defense of nominative fair use applies in this case because Yuga’s BAYC NFT collection would not be identifiable as a target of criticism without using the BAYC Marks. There are two types of fair use. The classic fair-use defense, a statutory defense, “in essence, forbids a trademark registrant to appropriate a descriptive term for his exclusive use and so prevents others from accurately describing a characteristic of their goods.” New Kids on the Block v. News America Pub., Inc., 971 F.2d 302, 306 (9th Cir.1992); see also 15 U.S.C. § 1115(b)(4). Nominative fair use, on the other hand, governs where the defendant uses a trademark to describe the plaintiff's product, rather than its own. Id. at 308. In explaining nominative fair use, the Ninth Circuit has held: +
+&nbsp; +
+[quoteblock]#We may generalize a class of cases where the use of the trademark does not attempt to capitalize on consumer confusion or to appropriate the cachet of one product for a different one. Such nominative use of a mark-where the only word reasonably available to describe a particular thing is pressed into service-lies outside the strictures of trademark law: Because it does not implicate the sourceidentification function that is the purpose of trademark, it does not constitute unfair competition; such use is fair because it does not imply sponsorship or endorsement by the trademark holder.#
+
+[.text-justify]
+New Kids, 971 F.2d at 307–308. To establish a nominative fair-use defense, a defendant must prove the following three elements: +
+&nbsp; +
+[quoteblock]#First, the [plaintiff's] product or service in question must be one not readily identifiable without use of the trademark; second, only so much of the mark or marks may be used as is reasonably necessary to identify the [plaintiff's] product or service; and third, the user must do nothing that would, in conjunction with the mark, suggest sponsorship or endorsement by the trademark holder.#
+
+[.text-justify]
+New Kids, 971 F.2d at 308. This analysis involves multiple questions of fact. See KP Permanent Make–Up, Inc. v. Lasting Impression I, Inc., 408 F.3d 596, 609 (9th Cir.2005) (holding that there were genuine issues of fact that are appropriate for the fact-finder to determine in order to find that the defense of fair use has been established)
+
+[.text-justify]
+In this case, the Court concludes, based on the undisputed facts, that Defendants’ use of the BAYC Marks does not constitute nominative fair use. Defendants are not using the BAYC Marks to sell Yuga’s BAYC NFTs, but to sell their own competing RR/BAYC NFTs. New Kids, 971 F.2d at 308 (holding that nominative fair use does not apply when a defendant uses a mark to refer “to something other than the plaintiff’s product”); Toyota Motor Sales, U.S.A., Inc. v. Tabari, 610 F.3d 1171, 1177 (9th Cir. 2010) (holding that nominative fair use allows for “truthful use of a mark, such as when a Lexus dealer uses the Lexus mark to sell Lexus vehicles at lexusbroker.com). In addition, Defendants have failed to establish all the elements of the nominative fair use defense. For example, Defendants frequently used the entirety of the BAYC Marks without modification, including the “visual trappings” of Yuga’s brand. Toyota Motor Sales, 610 F.3d at 1181. Moreover, Defendants’ use of the BAYC Marks “prominently and boldly,” to market their RR/BAYC NFTs clearly “suggest[s] sponsorship.” Brother Recs., Inc. v. Jardine, 318 F.3d 900, 908 (9th Cir. 2003). Defendants argue that they are entitled to a nominative fair use defense because their criticism of Yuga required the use of the BAYC Marks. However, because Defendants used the BAYC Marks to sell and promote their own product, their use of the BAYC Marks is not nominative fair use. Downing v. Abercombie & Fitch, 265 F.3d 994, 1009 (9th Cir. 2001) (holding that the defendant was not entitled to a nominative fair use defense where it “used [the plaintiffs’] photograph in its catalog that was intended to sell its goods”).
+
+[.text-justify]
+Accordingly, Yuga is entitled to summary judgment on Defendants’ fair use affirmative defense, and, as a result, Yuga’s Motion is granted with respect to Defendants’ third affirmative defense.
+
+*&emsp; E&period; &emsp;&emsp; Defendants’ Unclean Hands Affirmative Defense*
+
+[.text-justify]
+Defendants argue that the affirmative defense of unclean hands applies in this case because Yuga “dirtied its hands” by compensating celebrity endorsers without disclosing that compensation and by selling unregistered securities. Unclean hands can be a defense to trademark infringement. Fuddruckers. Inc. v. Doc's B.R. Others. Inc., 825 F.2d 837, 847 (9th Cir. 1987). To establish an unclean hands defense, the defendant must show that: (1) the plaintiff's conduct was inequitable; and (2) the plaintiff's inequitable conduct relates to the subject matter of its claims. Id. However, the Ninth Circuit has significantly narrowed the unclean hands defense in the trademark context. See, e.g., Cochran Firm PC v. Cochran Firm Los Angeles LP, 641 Fed. Appx. 749, 751 (9th Cir. 2016) (Callahan, J., dissenting) (“The unclean hands has an increasingly limited scope in trademark infringement suits”). In the Ninth Circuit, it is not enough that the plaintiff engaged in misconduct regarding the trademark generally. Instead, the defendant must also show that the plaintiff used the trademark with the specific intent to deceive consumers. Japan Telecom. Inc. v. Japan Telecom Am., Inc., 287 F.3d 866, 870 (9th Cir. 2002) (“To show that a trademark plaintiff's conduct is inequitable, defendant must show that plaintiff used the trademark to deceive consumers”); Dollar Sys., Inc., v. Avcar Leasing Sys., Inc., 890 F.2d 165, 173 (9th Cir. 1989) (“Bad intent is the essence of the defense of unclean hands”). “This is because trademark law, in addition to protecting private intellectual property rights, also serves to protect the public from consumer confusion in the marketplace.” 2Die4Kourt v. Hillair Capital management, LLC, 2016 WL 4487895 (C.D. Cal. Aug. 23, 2016).
+
+[.text-justify]
+In this case, Defendants argue that Yuga’s claims are barred because of its alleged misconduct regarding celebrity endorsements and securities violations. However, neither of these allegations relate to the trademark dispute between the parties. See S. Cal. Darts Ass’n v. Zaffina, 762 F.3d 921, 932-33 (9th Cir. 2014) (holding that where “the misconduct alleged [by the plaintiff] does not bear any ‘immediate and necessary relation’ to the manner in which [the plaintiff] acquired its rights or to the equities of this case, the unclean hands doctrine is inapplicable”). Accordingly, Yuga is entitled to summary judgment on Defendants’ unclean hands affirmative defense, and, as a result, Yuga’s Motion is granted with respect to Defendants’ seventh affirmative defense.
+
+*&emsp; F&period; &emsp;&emsp; Defendants’ First Counterclaim Alleging A Knowing Misrepresentation of Infringing Activity*
+
+[.text-justify]
+In their first counterclaim, Defendants allege that Yuga sent takedown notices that violated the DMCA. In its Motion, Yuga argues that Defendants cannot establish a violation of the DMCA because Defendants cannot demonstrate either a material misrepresentation in a takedown notice that resulted in a takedown or that Yuga acted with subjective bad faith in submitting a takedown notice. Defendants argue that Yuga wrongfully used and approved DMCA takedown notices based solely on trademark, not copyright and Yuga cannot demonstrate that it owns the copyright that is the subject of one of its DMCA takedown notices.
+
+[.text-justify]
+17 U.S.C. § 512(f) provides that “[a]ny person who knowingly materially misrepresents . . . that material or activity is infringing . . . shall be liable for any damages . . . incurred by the alleged infringer . . . who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.” The Ninth Circuit has observed that because “Congress included an expressly limited cause of action for improper infringement notifications, imposing liability only if the copyright owner's notification is a knowing misrepresentation,” a copyright owner “cannot be liable simply because an unknowing mistake is made, even if the copyright owner acted unreasonably in making the mistake.” Rossi v. Motion Picture Ass'n of Am. Inc., 391 F.3d 1000, 1004–05 (9th Cir. 2004). “Rather, there must be a demonstration of some actual knowledge of misrepresentation on the part of the copyright owner.” Id. “Congress could have easily incorporated an objective standard of reasonableness,” so the “fact that it did not do so indicates an intent to adhere to the subjective standard traditionally associated with a good faith requirement.” Id. at 1004. As a result, to state a Section 512(f) claim, Defendant must allege: (1) a material misrepresentation in a takedown notice that led to a takedown; and (2) that the takedown notice was submitted in subjective bad faith. Ningbo Mizhihe I&E Co. v. Does 1-200, 2020 WL 2086216, at *3 (S.D.N.Y. Apr. 30, 2020); see also Rossi v. Motion Picture Ass'n of Am. Inc., 391 F.3d 1000, 1005 (9th Cir. 2004) (“Juxtaposing the ‘good faith’ proviso of the DMCA with the ‘knowing misrepresentation’ provision of that same statute reveals an apparent statutory structure that predicated the imposition of liability upon copyright owners only for knowing misrepresentations regarding allegedly infringing websites”) (citations omitted).
+
+[.text-justify]
+In this case, it is undisputed that although Yuga sent approximately twenty-five takedown notices, only four of those notices resulted in the takedown of any of Defendants’ content. Accordingly, only those four notices are potentially actionable under Section 512(f). See, e.g., Moonbug Enter. Ltd. v. Babybus (Fujian) Network Tech. Co., 2022 WL 580788, *7 (N.D. Cal. Feb. 25, 2022) (holding that a Section 512(f) claim must allege “a takedown notice that lead to a takedown”). It is also undisputed that three of the successful takedown notices were “based solely on trademark, not copyright” infringement. Opposition, 21:9-10. However, the Court concludes that those three takedown notices that were based solely on trademark were not DMCA takedown notices pursuant to Section 512(c) and, as a result, cannot support a Section 512(f) claim. See Rock River Communications v. Universal Music Group, 2011 WL 1598916, *13 (C.D. Cal. Apr. 27, 2011) (granting summary judgment on a Section 512(f) claim because notice was “not a DMCA take-down notice pursuant to section 512(c)”). To properly notify a service provider of a claimed infringement under Section 512, a person must make a “written communication . . . to the designated agent of a service provider that includes substantially the following” six elements: +
+&nbsp; +
+[quoteblock]#(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed. +
+&nbsp; +
+(ii) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site. +
+&nbsp; +
+(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material. +
+&nbsp; +
+(iv) Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted. +
+(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law. +
+&nbsp; +
+(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.#
+
+[.text-justify]
+§ 512(c)(3)(A). As a result, “[a] notification is not a DMCA notice under § 512 if the above elements are not ‘substantially’ included . . . And without a DMCA notice, § 512(f) does not apply.” International Unions, Security Police and Fire Professionals of America v. Maritas, 2023 WL 2726030 (E.D. Mich. Mar. 30, 2023) (granting motion to dismiss with respect to DMCA claim because the notice sent did not conform with the requirements of Section 512(c)). The three trademark takedown notices lack one of the “most critical elements of the proper notice requirements under § 512(c)(3)(A)” – they do not identify any “copyrighted work[s] claimed to have been infringed.” Id.; see also Declaration of Kevin Williams (Docket No. 149-3), Exh. 4. Defendants argue that Yuga has violated Section 512(f) precisely because the takedown notices do not identify any copyrighted works that were infringed despite the fact that the DMCA takedown notices improperly included a Section 512(f) copyright certification. However, a review of the three takedown notices clearly demonstrates that they are not DMCA takedown notices, but merely “form” takedown notices that can be used in a variety of contexts. For example, although the takedown notices included a “512(f) Acknowledgement,” it was specifically limited to when it is “applicable” – meaning when or if relevant – and the Section 512(f) acknowledgment is clearly not applicable in the context of a trademark takedown notice. In addition, although the takedown notices state that the company contacting Defendants, Appdetex, is Yuga’s DMCA Agent, it does not state that the notice is a DMCA notice.
+
+[.text-justify]
+With respect to the only DMCA notice that resulted in the takedown of Defendants’ content, Defendants have failed to demonstrate that the notice contains a material misrepresentation that resulted in the takedown of Defendants’ content or that Yuga acted in bad faith in submitting the takedown notice. Although Defendants argue that Yuga does not have a copyright registration for the Ape Skull logo that was the subject of the DMCA takedown notice, a registration is not required to own a copyright. Instead, a copyright exists at the moment copyrightable material is fixed in any tangible medium of expression. Fourth Estate Public Benefit Corp. v. Wall-Street.com LLC, 139 S.Ct. 881, 887 (2019); see also Feist v. Publ’ns, Inc. v. Rural Tel. Serv. Co., 449 U.S. 340, 345 (1991) (holding that for a work to be copyrightable, it only needs to possess “some minimal degree of creativity”). Moreover, courts in the Ninth Circuit have held that a logo can receive both trademark and copyright protection. See, e.g., Vigil v. Walt Disney Co., 1995 WL 621832 (N.D. Cal. Oct. 16, 1995).
+
+[.text-justify]
+Accordingly, Yuga is entitled to summary judgment on Defendants’ counterclaim alleging a knowing misrepresentation of infringing activity, and, as a result, Yuga’s Motion is granted with respect to Defendants’ first counterclaim.
+
+*IV&period; &emsp;&emsp; Conclusion*
+
+[.text-justify]
+For all the foregoing reasons, Yuga’s Motion is *GRANTED in part and DENIED in part*. Yuga is *GRANTED* summary judgment as to its first cause of action for false designation of origin under 15 U.S.C. § 1125(a) and as to its third cause of action for cybersquatting under 15 U.S.C. § 1125(d). Yuga is also *GRANTED* summary judgment on Defendants’ second affirmative defense alleged under the First Amendment/Rogers, Defendants’ third affirmative defense alleging fair use, Defendants’ seventh affirmative defense alleging unclean hands, and Defendants’ first counterclaim alleging a knowing misrepresentation of infringing activity. Yuga’s Motion is *DENIED* with respect to a determination of Yuga’s damages on its first cause of action for false designation of origin under 15 U.S.C. § 1125(a) and third cause of action for cybersquatting under 15 U.S.C. § 1125(d).
+
+IT IS SO ORDERED.
+
+&nbsp;
+
+&emsp;
+
+&emsp;
+
+---
+[.text-justify]
+[[yugalabs_fn_1]]
+[small]#^*1*^ &emsp; To the extent any of these facts are disputed, they are not material to the disposition of this motion. In addition, to the extent that the Court has relied on evidence to which the parties have objected, the Court has considered and overruled those objections. As to the remaining objections, the Court finds that it is unnecessary to rule on those objections because the disputed evidence was not relied on by the Court.#
+[.text-justify]
+[[yugalabs_fn_2]]
+[small]#^*2*^ &emsp; Yuga did not move for summary judgment with respect to its APE mark, but reserved the right to assert it at any trial on its first or second causes of action.#
+[.text-justify]
+[[yugalabs_fn_3]]
+[small]#^*3*^ &emsp; Although Defendants contend that Yuga’s purported use of racist, neo-Nazi, and alt-right dog whistles are “too numerous to catalog,” Defendants have provided several examples, including their claim that Yuga’s BAYC Logo imitates the Nazi Totenkopf emblem for the Schutzstaffel and their claim that the name of Yuga’s company includes a neo-Nazi dog whistle because the word “Yuga” is a reference to the phrase “Surf the Kali Yuga,” which the alt-right uses as an esoteric way of saying enjoy sin and embrace conflict.#
+[.text-justify]
+[[yugalabs_fn_4]]
+[small]#^*4*^ &emsp; Similarly, the Court concludes that Yuga did not license any trademark rights to APE Foundation, which administers the ApeCoin DAO. Defendants’ evidence merely shows that Yuga Labs “gifted” (not licensed) an NFT with an image of a rotating coin and ape skull, which is significantly different from Yuga’s Ape Skull Logo.#
+
+
+- - - 
+[[yugalabs_questions]]
+=== Discussion Questions ===
+
+
+////
+# YUGA LABS SECTION END
+#<<<<<<<<<<
+////
