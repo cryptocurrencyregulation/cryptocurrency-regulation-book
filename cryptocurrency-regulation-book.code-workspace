@@ -5,5 +5,17 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"asciidoc.antora.enableAntoraSupport": true,
+		"cSpell.ignoreWords": [
+			"unvaluable"
+		],
+		"cSpell.words": [
+			"cryptoassets",
+			"Hendershott",
+			"Kuan",
+			"SAFTs",
+			"unvaluable"
+		]
+	}
 }

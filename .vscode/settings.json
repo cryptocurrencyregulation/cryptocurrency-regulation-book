@@ -277,6 +277,7 @@
         "Quentson",
         "quoteblock",
         "quotinglink",
+        "RAKOFF",
         "Ralston",
         "Ramani",
         "realleged",
@@ -425,5 +426,6 @@
         "Coie",
         "Cryptillian",
         "Valhil"
-    ]
+    ],
+    "asciidoc.antora.enableAntoraSupport": true
 }
