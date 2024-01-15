@@ -170,15 +170,10 @@ image::excerpt.png[]
 |===
 
 
-[.text-justify]
-05-31-2017
+
 
 [.text-justify]
 UNITED STATES of America, Appellee, v. Ross William ULBRICHT, a/k/a Dread Pirate Roberts, a/k/a Silk Road, a/k/a Sealed Defendant 1, a/k/a DPR, Defendant-Appellant.
-
-
-
-
 
 [.text-justify]
 Before: Newman, Lynch, and Droney, Circuit Judges.
