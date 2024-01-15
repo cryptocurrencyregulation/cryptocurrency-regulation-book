@@ -1,6 +1,6 @@
 [[bitcoin_chapter]]
 [role=test]
-= Bitcoin Chapter 1=
+= Bitcoin Chapter 1 =
 
 
 On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" in an internet forum. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.  Satoshi Nakamoto proposed Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party. Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrency tokens created since the launch of Bitcoin.
