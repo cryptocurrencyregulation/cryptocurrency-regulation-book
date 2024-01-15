@@ -164,7 +164,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 |===
 >|
 _US v. Ulbricht +
-Docket No. 15-1815 August Term, 2016_
+_
 >| 
 image::excerpt.png[]
 |===
