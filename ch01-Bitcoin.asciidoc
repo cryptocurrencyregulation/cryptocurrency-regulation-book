@@ -162,7 +162,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
->|
+
 
 [.text-justify]
 UNITED STATES of America, Appellee, v. Ross William ULBRICHT, a/k/a Dread Pirate Roberts, a/k/a Silk Road, a/k/a Sealed Defendant 1, a/k/a DPR, Defendant-Appellant.
