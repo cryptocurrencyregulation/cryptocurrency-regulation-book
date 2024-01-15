@@ -24,7 +24,7 @@
 
 == link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
 [none]
-. Joseph Van Loon v. Department of Treasury
+. NFT cases
 
 
 = Supplementary materials =
