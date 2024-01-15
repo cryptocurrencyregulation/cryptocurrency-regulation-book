@@ -155,18 +155,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 ////
 
 
-////
-###################################################################################################
-# SEC v. Terraform - Opinion and Order
-# https://storage.courtlistener.com/recap/gov.uscourts.nysd.594150/gov.uscourts.nysd.594150.51.0_1.pdf
-#
-#
-#
-#
-#
-#
-###################################################################################################>>>>>>>>>>
-////
+
 [[ulbricht]]
 [role=excerpt-section]
 === United States v. Ulbricht ===
