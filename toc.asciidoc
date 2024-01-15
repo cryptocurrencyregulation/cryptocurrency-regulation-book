@@ -22,7 +22,7 @@
 
 
 
-== link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
+== link:ch02-SmartContracts.asciidoc[Non-Fungible Tokens] ==
 [none]
 . NFT cases
 
