@@ -1745,34 +1745,11 @@ As a result, there is no evidence in the record showing how a holder of an mAsse
 
 ***
 
-[[terraform_memorandum_and_opinion_fn_1]]
-[.text-justify]
-[small]##*1* Citations to a particular paragraph in either side’s response to the other side’s Local Rule 56.1 statement of facts include the content of both the initial Local Rule 56.1 statement and the response.##
 
-[[terraform_memorandum_and_opinion_fn_2]]
-[.text-justify]
-[small]##*2* In December 2020, Terraform launched a platform allowing LUNA holders to create a “wrapped” version of LUNA, named wLUNA, that could be traded on non-Terraform blockchains but was otherwise identical to LUNA. Defs.’ Response to SEC 56.1 ¶ 42.##
 
-&period; &period; &period; 
 
-[small]#_(footnotes related to section II omitted)_#
 
-&period; &period; &period; 
 
-[[terraform_memorandum_and_opinion_fn_8]]
-[.text-justify]
-[small]##*8* Defendants made other arguments at the motion to dismiss stage, similarly seeking to avoid the application of [underline]#Howey#’s test to determine whether their crypto assets are securities. The Court rejected those arguments, which involved the major questions doctrine, due process, and the Administrative Procedure Act. [underline]#See# ECF No. 51, at 18-29. Although the legal argument defendants now newly make was equally available at that earlier stage of this litigation, the SEC does not contend that the argument has been waived or forfeited, so the Court carries on to the merits of it.##
-
-[[terraform_memorandum_and_opinion_fn_9]]
-[.text-justify]
-[small]##*9* Defendants’ argument that the Supreme Court conducts statutory interpretation differently nowadays, and thus would not today independently reach the same holding it did in [underline]#Howey#, is no more persuasive even if the premise is credited [underline]#arguendo#. The Supreme Court has cautioned that “other courts should [not] conclude that [its] more recent cases have, by implication, overruled an earlier precedent.” [underline]#Agostini v. Felton#, 521 U.S. 203, 237 (1997). When a Supreme Court precedent “has direct application in a case,” as [underline]#Howey# does here, this Court must follow it, even if it “appears to rest on reasons rejected in some other line of decisions.” [underline]#Id.# In any event, neither the Supreme Court nor the Second Circuit has ever suggested that [underline]#Howey# rests on a shaky foundation.##
-
-[[terraform_memorandum_and_opinion_fn_10]]
-[.text-justify]
-[small]##*10* As the Court explained in its opinion denying the motion to dismiss, the analysis of LUNA applies equally to wLUNA. [underline]#See# ECF No. 51, at 37 (“[T]he wLUNA investors were just a variation on this theme since wLUNA tokens could be exchanged for LUNA tokens.”); [underline]#see also# Defs.’ Response to SEC 56.1 ¶ 42.##
-[[terraform_memorandum_and_opinion_fn_11]]
-[.text-justify]
-[small]##*11* Defendants challenge as inadmissible the declaration of Donald Hong, the SEC’s summary witness who reviewed Terraform’s financial records to show that the funds from LUNA purchases were indeed pooled. Defendants argue that Hong’s declaration is a last-minute, back-door expert report because he states that “the evidence reflects that defendants pooled investor funds into wallet addresses, crypto trading platform accounts, and bank accounts they controlled and used those funds to make payments for business expenses.” ECF No. 123 (“Defs.’ Opp.”), at 7. But a witness providing “a summary of the relevant financial records” is not supplying expert testimony under Federal Rule of Evidence 702. [underline]#United States v. Lebedev#, 932 F.3d 40, 50 (2d Cir. 2019), [underline]#abrogated on other grounds#, [underline]#Ciminelli v. United States#, 598 U.S. 306 (2023). And, as the SEC points out, “Hong’s summary is even more mechanical than the analyses approved as summary testimony in [underline]#Lebedev# . . ., which relied on accounting methodologies.” ECF No. 127 (“SEC Reply”), at 8; [underline]#see also# Fed. R. Evid. 1006 (allowing summary testimony).##
 
 - - - 
 [[terraform_memorandum_and_opinion_questions]]
