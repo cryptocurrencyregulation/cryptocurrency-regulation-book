@@ -546,7 +546,7 @@ In sum, we conclude that the Force and Bridges complaint did not contain Brady i
 [.text-justify]
 The district court precluded both of Ulbricht's proposed expert witnesses from testifying because he did not timely or adequately disclose his intent to call them under Rule 16, Fed. R. Crim. P. In general, the "defendant must, at the government's request, give to the government a written summary of any [expert] testimony that a defendant intends to use.... This summary must describe the witness's opinions, the bases and reasons for those opinions, and the witness's qualifications."^*
 
-[.text-justify
+[.text-justify]
 The district court did not abuse its discretion in precluding the defense from calling its proposed experts. Not only were the disclosures late, more importantly, they were plainly inadequate. Both disclosures merely listed general and in some cases extremely broad topics on which the experts might opine. 
 
 _Expert Witness preclusion discussion omitted._  
