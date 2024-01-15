@@ -162,11 +162,8 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
->|
-US v. Ulbricht 
 
->| 
-image::excerpt.png[]
+
 |===
 
 
