@@ -155,24 +155,66 @@ As an additional firewall, a new key pair should be used for each transaction to
 ////
 
 
-
+////
+###################################################################################################
+# SEC v. Terraform - Opinion and Order
+# https://storage.courtlistener.com/recap/gov.uscourts.nysd.594150/gov.uscourts.nysd.594150.51.0_1.pdf
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
+////
 [[ulbricht]]
 [role=excerpt-section]
 === United States v. Ulbricht ===
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
+>|
+_US v. Ulbricht +
+Docket No. 15-1815 August Term, 2016_
+>| 
+image::excerpt.png[]
+|===
 
+
+[.text-justify]
+05-31-2017
 
 [.text-justify]
 UNITED STATES of America, Appellee, v. Ross William ULBRICHT, a/k/a Dread Pirate Roberts, a/k/a Silk Road, a/k/a Sealed Defendant 1, a/k/a DPR, Defendant-Appellant.
 
+[.text-justify]
+Joshua L. Dratel, Joshua L. Dratel, P.C., New York, NY, for defendant-appellant Ross William Ulbricht. Eun Young Choi, Assistant United States Attorney (Michael D. Neff, Timothy T. Howard, Adam S. Hickey, Assistant United States Attorneys, on the brief), for Preet Bharara, United States Attorney for the Southern District of New York, New York, NY. Tamar Todd, Jolene Forman, Drug Policy Alliance, Oakland, CA, for amici curiae Drug Policy Alliance, Law Enforcement Against Prohibition, JustLeadershipUSA, and Nancy Gertner. Joel B. Rudin, Law Offices of Joel B. Rudin, P.C., New York, NY; Steven R. Morrison, University of North Dakota School of Law, Grand Forks, ND, for amicus curiae National Association of Criminal Defense Lawyers.
+
+[.text-justify]
+Gerard E. Lynch, Circuit Judge
+
+[.text-justify]
+
+Joshua L. Dratel , Joshua L. Dratel, P.C., New York, NY, for defendant-appellant Ross William Ulbricht.
+
+[.text-justify]
+Eun Young Choi , Assistant United States Attorney (Michael D. Neff, Timothy T. Howard, Adam S. Hickey, Assistant United States Attorneys, on the brief), for Preet Bharara, United States Attorney for the Southern District of New York, New York, NY.
+
+[.text-justify]
+Tamar Todd, Jolene Forman, Drug Policy Alliance, Oakland, CA, for amici curiae Drug Policy Alliance, Law Enforcement Against Prohibition, JustLeadershipUSA, and Nancy Gertner.
+
+[.text-justify]
+Joel B. Rudin, Law Offices of Joel B. Rudin, P.C., New York, NY; Steven R. Morrison, University of North Dakota School of Law, Grand Forks, ND, for amicus curiae National Association of Criminal Defense Lawyers.
 
 [.text-justify]
 Before: Newman, Lynch, and Droney, Circuit Judges.
 
 [.text-justify]
 Gerard E. Lynch, Circuit Judge:
+
+[.text-justify]
+Defendant Ross William Ulbricht appeals from a judgment of conviction and sentence to life imprisonment entered in the United States District Court for the Southern District of New York (Katherine B. Forrest, J. ). A jury convicted Ulbricht of drug trafficking and other crimes associated with his creation and operation of Silk Road, an online marketplace whose users primarily purchased and sold illegal goods and services. He challenges several aspects of his conviction and sentence, arguing that (1) the district court erred in denying his motion to suppress evidence assertedly obtained in violation of the Fourth Amendment; (2) the district court committed numerous errors that deprived him of his right to a fair trial, and incorrectly denied his motion for a new trial; and (3) his life sentence is both procedurally and substantively unreasonable. Because we identify no reversible error, we AFFIRM Ulbricht's conviction and sentence in all respects.
+
 
 [.text-justify]
 Defendant Ross William Ulbricht appeals from a judgment of conviction and sentence to life imprisonment entered in the United States District Court for the Southern District of New York (Katherine B. Forrest, J. ). A jury convicted Ulbricht of drug trafficking and other crimes associated with his creation and operation of Silk Road, an online marketplace whose users primarily purchased and sold illegal goods and services. He challenges several aspects of his conviction and sentence, arguing that (1) the district court erred in denying his motion to suppress evidence assertedly obtained in violation of the Fourth Amendment; (2) the district court committed numerous errors that deprived him of his right to a fair trial, and incorrectly denied his motion for a new trial; and (3) his life sentence is both procedurally and substantively unreasonable. Because we identify no reversible error, we AFFIRM Ulbricht's conviction and sentence in all respects.
