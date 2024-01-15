@@ -396,7 +396,7 @@ On appeal, Ulbricht raises a number of claims of error. For purposes of organiza
 [.text-justify]
 Ulbricht claims that the district court erred in denying his motion to suppress evidence obtained in violation of the Fourth Amendment. On appeal from a denial of a suppression motion, "we review a district court's findings of fact for clear error, and its resolution of questions of law and mixed questions of law and fact de novo ." United States v. Bohannon , 824 F.3d 242, 247-48 (2d Cir. 2016). Ulbricht raises two principal arguments. First, he contends that the pen/trap orders that the government used to monitor IP address traffic to and from his home router violated the Fourth Amendment because the government obtained the orders without a warrant. Second, he claims that the warrants authorizing the government to search his laptop as well as his Google and Facebook accounts violated the Fourth Amendment's particularity requirement. We reject those contentions and affirm the denial of Ulbricht's motion to suppress.
 
-(Edited).
+_Motion to suppress discussion omitted._  
 
 [.text-justify]
 *II&period; The District Court's Trial Rulings and Ulbricht's Rule 33 Motion*
