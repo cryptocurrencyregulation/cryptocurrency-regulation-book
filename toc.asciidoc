@@ -21,6 +21,18 @@
 . Joseph Van Loon v. Department of Treasury
 
 
+
+== link:ch02-SmartContracts.asciidoc[Smart Contracts] ==
+[none]
+. Joseph Van Loon v. Department of Treasury
+
+
+= Supplementary materials =
+
+
+= link:ch_DeFi.asciidoc[DeFi, Lending, and Staking] =
+
+
 = link:ch_Stablecoins.asciidoc[Stablecoins] =
 [none]
 . link:ch_Stablecoins.asciidoc#oag_tether[Tether]
@@ -32,12 +44,6 @@
 . link:ch_FTX.asciidoc#ftx_sec_ellisonftx_sec_ellison[Securities and Exchange Commission v. Ellison et al]
 . link:ch_FTX.asciidoc#ftx_cftc_bankman[CFTC v. Bankman-Fried et al.] 
 
-
-
-= Supplementary materials =
-
-
-= link:ch_DeFi.asciidoc[DeFi, Lending, and Staking] =
 
 [none]
 . link:ch_DeFi.asciidoc#defi_sec_v_genesis[SEC v. Genesis & Gemini]
