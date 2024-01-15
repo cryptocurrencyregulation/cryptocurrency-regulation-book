@@ -4,4 +4,4 @@ This book is intended as a textbook for a semester-length course on cryptocurren
 
 The focus of the textbook is on cryptocurrency regulation, and other topics should be supplemented by the instructor as necessary.  If students need additional background materials on cryptocurrency technology, those topics are not covered in this book, but I do provide references to additional materials.  If students need additional background on some of the legal topics, I also provide references for those additional topics.
 
-If students have not previously been exposed to cryptocurrency, the instructor may begin with an overview of Bitcoin, Ethereum, and Decentralized Finance before diving into the topics covered by the Cryptocurrency Regulation textbook.
+If students have not previously been exposed to cryptocurrency, the instructor should consider beginning with an overview of Bitcoin, Ethereum, and Decentralized Finance before diving into the topics covered by the Cryptocurrency Regulation textbook.
