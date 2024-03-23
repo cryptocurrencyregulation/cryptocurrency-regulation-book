@@ -1,0 +1,286 @@
+////
+###################################################################################################
+# Williams v. Binance - Certified Opinion
+# https://storage.courtlistener.com/recap/gov.uscourts.ca2.57352/gov.uscourts.ca2.57352.98.0.pdf
+#
+#
+#
+#
+#
+#
+###################################################################################################>>>>>>>>>>
+////
+
+[[williams_v_binance]]
+[role=excerpt-section]
+=== Williams  v. Binance - Opinion ===
+
+[cols="12a,1a", width=100%, frame=none, grid=rows]
+|===
+>|
+_Williams v. Binance, +
+22-972, (2d Cir. Mar 08, 2024) ECF No. 98_
+>| 
+image::excerpt.png[]
+|===
+
+[.text-center]
+*United States Court of Appeals +
+For the Second Circuit*
+
+___
+[.text-center]
+August Term 2022
+
+[.text-center]
+Argued: April 12, 2023 +
+Decided: March 8, 2024
+
+[.text-center]
+No. 22-972
+
+___
+
+[.text-center]
+CHASE WILLIAMS , individually and on behalf of all others similarly situated, +
+_Plaintiff-Appellant,_ +
+&nbsp; + 
+JD ANDERSON, COREY HARDIN, ERIC LEE , individually and on behalf of all others
+similarly situated, BRETT MESSIEH , DAVID MUHAMMAD, RANJITH THIAGARAJAN,
+TOKEN F UND I LLC, +
+_Lead-Plaintiffs-Appellants,_
+
+[.text-center]
+_v._
+
+[.text-center]
+BINANCE , CHANGPENG ZHAO, +
+_Defendants-Appellees,_ +
+&nbsp; +
+YI HE , ROGER WANG, +
+_Defendants._
+
+___
+
+[.text-center]
+Appeal from the United States District Court +
+for the Southern District of New York +
+No. 20-cv-2803, Andrew L. Carter, Judge.
+
+___
+
+
+Before:&emsp;&emsp; LEVAL, CHIN, and NATHAN, _Circuit Judges_.
+
+[.text-justify]
+Plaintiffs-Appellants used Defendants-Appellees’ website, Binance.com, to purchase a type of crypto-asset called “tokens.” They allege that by selling these tokens without registration, Binance violated Section 12(a)(1) of the Securities Act of 1933, 15 U.S.C. § 77l(a)(1), and the “Blue Sky” securities laws of various states. Plaintiffs also seek recission of contracts they entered into with Binance under Section 29(b) of the Securities and Exchange Act of 1934, 15 U.S.C. § 78cc(b). The district court dismissed Plaintiffs’ claims as impermissible extraterritorial applications of these statutes and also dismissed their federal claims as untimely. We conclude that Plaintiffs have adequately alleged that their transactions on the Binance exchange were domestic transactions and that therefore the application of federal and state securities laws here was not impermissibly extraterritorial. We further conclude that Plaintiffs’ federal claims did not accrue until after they made the relevant purchases, and therefore their claims arising from purchases made during the year before filing suit are timely. Accordingly, we *REVERSE* and *REMAND* as to the claims challenged on appeal.
+
+!===
+||JORDAN GOLDSTEIN (David Coon, _on the +
+brief_), Selendy Gay Elsberg PLLC, New +
+York, NY, for _Plaintiffs-Appellants_. +
+&nbsp; +
+JAMES P. ROUHANDEH (Daniel J. Schwartz, +
+Marie Killmond, _on the brief_), Davis Polk & +
+Wardwell LLP, New York, NY, for +
+_Defendants-Appellees_.
+!===
+
+NATHAN, _Circuit Judge_:
+[.text-justify]
+Plaintiffs-Appellants, purchasers of crypto-assets on an international electronic exchange called Binance, appeal the dismissal of this putative class action against Defendants-Appellees Binance and its chief executive officer Changpeng Zhao. Plaintiffs seek damages arising from Binance’s alleged violation of Section 12(a)(1) of the Securities Act of 1933 (Securities Act), 15 U.S.C. § 77l(a)(1), which they claim occurred when Binance unlawfully promoted, offered, and sold billions of dollars’ worth of crypto-assets called “tokens,” which were not registered as securities. Plaintiffs also seek recission of contracts they entered into with Binance under Section 29(b) of the Securities and Exchange Act of 1934 (Exchange Act), 15 U.S.C. § 78cc(b), on the basis that Binance allegedly contracted to sell securities without being registered as a securities exchange or broker-dealer. Lastly, Plaintiffs raise claims under “Blue Sky” laws, which are state statutes designed to protect the public from securities fraud.
+[.text-justify]
+The district court concluded that (1) Plaintiffs’ claims constitute an impermissible extraterritorial application of securities law under _Morrison_ v. National Australia Bank Ltd., 561 U.S. 247 (2010), and (2) Plaintiffs’ federal claims are also untimely under the applicable statutes of limitations. On appeal, Plaintiffs argue that they have plausibly alleged that the transactions at issue are subject to domestic securities laws and that their federal claims involving purchases made during the year before filing suit are timely.^*(xref:williams_v_binance_fn_1[1])*^ We agree. First, we conclude that Plaintiffs have plausibly alleged that the transactions at issue are domestic transactions subject to domestic securities laws because the parties became bound to the transactions in the United States, and therefore irrevocable liability attached in the United States. Second, we conclude that these claims accrued at the time Plaintiffs purchased or committed to purchase the tokens, and thus Plaintiffs’ claims arising from transactions in tokens during the year before filing the complaint are timely. Accordingly, we *REVERSE* and *REMAND* for further proceedings as to the claims challenged on appeal.
+
+[.text-center]
+*BACKGROUND*
+
+*I&period;&emsp; Facts*
+[.text-justify]
+The following facts are taken from Plaintiffs’ allegations in their operative complaint and documents that it incorporates. _See Chambers v. Time Warner, Inc.,_ 282 F.3d 147, 152–53 (2d Cir. 2002). Binance is an online platform where a variety of crypto-assets can be purchased and sold. It represents itself as the largest such exchange in the world. By July 2017, Binance had been founded in China and had launched its digital asset exchange. Within less than a year, it moved its titular headquarters first to Japan and then to Malta, seeking more favorable regulatory environments. Nonetheless, Binance rejects having any physical headquarters in any geographic jurisdiction. In February 2020, in response to Maltese regulators denying that Binance was a “Malta-based cryptocurrency company,” Binance founder and CEO, co-defendant Changpeng Zhao stated: +
+[.quoteblock .text-justify]#Binance.com is not headquartered or operated in Malta . . . There are misconceptions some people have on how the world must work . . . you must have offices, HQ, etc. But there is a new world with blockchain now . . . Binance.com has always operated in a decentralized manner as we reach out to our users across more than 180 nations worldwide.# +
+App’x at 171–72 ¶¶ 27–28. One of those nations is the United States, where Binance now has a substantial presence, with servers, employees, and customers throughout the country. Binance never registered as a securities exchange or a broker-dealer of securities in the United States.
+[.text-justify]
+Plaintiffs bring claims on behalf of themselves and a class of similarly situated investors who used Binance to purchase crypto-assets known as “tokens” from seven categories: EOS, TRX, ELF, FUN, ICX, OMG, and QSP (collectively, the Tokens).^*(xref:williams_v_binance_fn_2[2])*^ Each named plaintiff purchased one or more of the Tokens on Binance, placing orders on the electronic platform from their state or territory of residence: Texas, Nevada, New York, Florida, California, and Puerto Rico.
+[.text-justify]
+As with most crypto-assets, ownership of the Tokens is tracked on a blockchain, a decentralized ledger that records each transaction. Just as banks settle and clear transactions moving between traditional currency accounts, blockchains track transactions in crypto-assets. A critical difference is that blockchains typically operate through a decentralized process: every computer running on a given blockchain independently tracks and clears transactions to validate the crypto-asset’s ownership. Blockchains therefore allow for increased security, because the decentralized nature of a blockchain means that any data recorded on the ledger cannot be altered.
+[.text-justify]
+Plaintiffs allege that the Tokens are a type of crypto-asset called “security tokens.” Binance does not dispute—at least for the purposes of this appeal—that the tokens at issue are properly classified as “securities” as the term is used in the relevant federal and state securities laws. “Security tokens,” as described by Plaintiffs in the complaint, are tokens issued to raise capital for the issuer and provide the token holder with some form of future interest in the issuer’s project to create the platform and software required for its use. That future interest could increase in value if the token’s creators are successful in their endeavor. But unlike traditional securities, security tokens do not give the token holder ownership or a creditor interest in any corporate entity.
+[.text-justify]
+Security tokens also differ from other types of crypto-assets. Unlike Bitcoin and Ethereum, security tokens are not designed to facilitate transactions or serve as a long-term store of value, but rather to raise capital for an enterprise without granting the holder ownership in any corporate entity. And unlike “utility tokens,” security tokens do not grant the holder use and access to a particular service or product offered by the issuer. Security tokens are therefore distinct from other classes of crypto-assets that have some present tangible use beyond their potential to appreciate.
+
+[.text-justify]
+The Tokens at issue here are “ERC-20 tokens,” meaning they were all designed on the Ethereum blockchain with a programming language called the ERC-20 protocol. Between 2017 and 2018, many ERC-20 tokens were created and sold by third party issuers in initial coin offerings (ICOs), which collectively raised nearly $20 billion. Typically, each ICO was accompanied by a “whitepaper,” which included both advertising and a technical blueprint for the proposed project associated with the token. Plaintiffs allege that these whitepapers did not include the warnings that SEC registration statements would have included, and that registration statements for the Tokens were never filed with the SEC. After their ICOs, each of the Tokens was listed on Binance for secondary-market trading. Investors could buy the tokens through the Binance platform using other crypto- assets or traditional currencies.
+
+[.text-justify]
+Plaintiffs allege that they each purchased Tokens on Binance pursuant to its Terms of Use, and that they paid Binance fees for the use of its exchange. They allege that all of their activities to transact on Binance were undertaken from each of their U.S. state or territory of residence. When users register with Binance, they are required to accept Binance’s Terms of Use upon registration. Once users set up accounts, they can place buy orders to purchase tokens on the Binance platform, which are then matched with sell orders to complete a transaction. Plaintiffs allege that their trade orders were matched on, and their account data was stored on, servers hosting the Binance platform—the vast majority of which were located in the United States. The Terms of Use in effect during the class period did not require Plaintiffs to place any particular trade order. But the Terms dictated that once a trade order was placed, Binance had the right to reject a user’s request to cancel it. Moreover, pursuant to the Terms, once matching occurred, the order could not be cancelled at all.
+[.text-justify]
+Plaintiffs allege that Binance directly targeted the U.S. market with advertising and customer support specifically aimed at U.S. users. Although Binance ostensibly cut off access to its platform for U.S. users in September 2019, Plaintiffs allege that it simultaneously advised U.S.-based purchasers how to circumvent its own restrictions using virtual private networks (VPNs), after which several of the Plaintiffs continued trading on Binance from the United States. According to Plaintiffs, in 2019, Zhao tweeted that the use of VPNs is “a necessity, not optional” in order to trade tokens on Binance. App’x at 184 ¶ 82.
+[.text-justify]
+Eventually, Plaintiffs’ experience trading Tokens on Binance turned sour. They allege that “the vast majority” of Tokens they purchased on Binance “turned out to be empty promises,” “all of the Tokens are now trading at a tiny fraction of their 2017–2018 highs,” and “investors were left holding the bag when these tokens crashed.” App’x at 164 ¶ 6.
+
+*II&period;&emsp; The Proceedings Below*
+[.text-justify]
+Plaintiffs initiated this action on April 3, 2020, seeking recission or damages, interest, and attorney’s fees in compensation for Defendants’ alleged violations of federal and state securities laws. Plaintiffs filed the operative complaint on December 15, 2020. The 327-page complaint asserts 154 causes of action under the Securities Act, the Exchange Act, and the Blue Sky statutes of 49 different states, the District of Columbia, and Puerto Rico.
+[.text-justify]
+Defendants filed a motion to dismiss or, in the alternative, to compel arbitration. On March 31, 2022, the district court granted the motion to dismiss. _See Anderson v. Binance_, No. 20-cv-2803, 2022 WL 976824 (S.D.N.Y. Mar. 31, 2022). The district court held that all of Plaintiffs’ claims, including those brought under state Blue Sky securities laws, were impermissibly extraterritorial. _Id._ at *4–5. The district court also concluded that Plaintiffs’ federal claims under Section 12(a)(1) of the Securities Act and Section 29(b) of the Exchange Act were untimely. _Id._ at *2–4. Additionally, the district court dismissed claims brought under the Blue Sky laws of states where none of the named class members resided, concluding there was “an insufficient nexus between the allegations and those jurisdictions.” _Id._ at *4. Plaintiffs timely appealed each basis for dismissal, except the district court's determination that equitable doctrines did not delay accrual of Plaintiffs’ federal claims arising from transactions outside of the one-year period before the lawsuit was filed.
+
+[.text-center]
+*DISCUSSION*
+[.text-justify]
+We hold that each of the district court’s bases for dismissing Plaintiffs’ claims that are before us on appeal was erroneous. First, Plaintiffs have adequately alleged that their claims involved domestic transactions because they became irrevocable within the United States and are therefore subject to our securities laws. Second, Plaintiffs’ federal claims are timely insofar as they relate to transactions that occurred during the year before they filed suit because their federal claims all require a completed transaction and therefore could not have accrued before the transactions were made. Finally, we vacate as premature the district court’s conclusion that there was an insufficient nexus between the named Plaintiffs’ claims and the states whose laws govern the claims of putative absent class members.
+
+
+*I&period;&emsp; Extraterritoriality*
+[.text-justify]
+At the outset, the parties dispute whether the domestic securities laws apply to the claims at issue or whether applying domestic law would be impermissibly extraterritorial. “It is a longstanding principle of American law that legislation of Congress, unless a contrary intent appears, is meant to apply only within the territorial jurisdiction of the United States.” _Morrison v. Nat’l Australia Bank Ltd._, 561 U.S. 247, 255 (2010) (internal quotation marks omitted). Therefore, “[w]hen a statute gives no clear indication of an extraterritorial application, it has none.” _Id._ In _Morrison_, the Supreme Court invoked the presumption against extraterritoriality to interpret the Exchange Act as applying only to “[1] securities listed on domestic exchanges, and [2] domestic transactions in other securities.” _Id._ at 267. The Court reached this conclusion as a matter of statutory interpretation, and by considering international comity and the need to avoid “[t]he probability of incompatibility with the applicable laws of other countries.” _Id._ at 269. Although _Morrison_ involved the Exchange Act, we have applied a similar framework to Securities Act claims as well as claims under state Blue Sky laws. _See Univs. Superannuation Scheme Ltd. v. Petróleo Brasileiro S.A. Petrobras (In re Petrobras Sec.)_, 862 F.3d 250, 259 (2d Cir. 2017) (Securities Act); _Fed. Hous. Fin. Agency v. Nomura Holding Am., Inc.,_ 873 F.3d 85, 156–58 (2d Cir. 2017) (state Blue Sky laws).
+[.text-justify]
+Binance contends that neither _Morrison_ category applies because the securities at issue here are not listed on domestic exchanges and the transactions are not domestic. Therefore, according to Binance, Plaintiffs seek to impermissibly apply the relevant statutes extraterritorially. We disagree and conclude that Plaintiffs plausibly alleged that the transactions at issue were “domestic transactions in other securities” under _Morrison_.
+[.text-justify]
+In light of _Morrison_, we have explained that “to sufficiently allege the existence of a ‘domestic transaction in other securities,’ plaintiffs must allege facts indicating that irrevocable liability was incurred or that title was transferred within the United States.” _Absolute Activist Value Master Fund Ltd. v. Ficeto,_ 677 F.3d 60, 62 (2d Cir. 2012). Irrevocable liability attaches when parties “becom[e] bound to effectuate the transaction or enter[] into a binding contract to purchase or sell securities.” _Miami Grp. v. Vivendi S.A. (In re Vivendi, S.A. Sec. Litig.),_ 838 F.3d 223, 265 (2d Cir. 2016) (internal quotation marks omitted). In other words, irrevocable liability attaches “when the parties to the transaction are committed to one another,” or when “in the classic contractual sense, there was a meeting of the minds of the parties.” _Absolute Activist,_ 677 F.3d at 68 (quoting _Radiation Dynamics, Inc. v. Goldmuntz,_ 464 F.2d 876, 891 (2d Cir. 1972)).
+[.text-justify]
+To determine whether a transaction is domestic, courts must therefore consider both when and where the transaction became irrevocable. But this is not always a simple task. Indeed, this task is particularly difficult when a transaction takes place over an exchange that claims to have no physical location in any geographic jurisdiction and not be subject to the oversight of any country’s regulatory authority. We have recognized, however, that irrevocable liability may attach in “more than one location,” _Fed. Hous. Fin. Agency,_ 873 F.3d at 156, and at more than one time, _see Myun-Uk Choi v. Tower Rsch. Cap. LLC,_ 890 F.3d 60, 68 (2d Cir. 2018), because there is always more than one side to any given transaction. Here, we find that Plaintiffs plausibly alleged facts showing that two transactional steps giving rise to an inference of irrevocable liability occurred in the United States. First, the transactions at issue were matched, and therefore became irrevocable, on servers located in the United States. Second, Plaintiffs transacted on Binance from the United States, and pursuant to Binance’s Terms of Use, their buy orders became irrevocable when they were sent.
+
+*&emsp; A&period; Matching*
+[.text-justify]
+We begin with the matching of Plaintiffs’ buy offers with sellers on servers hosting Binance’s platform. In the absence of an official locus of the Binance exchange, we conclude it is appropriate to locate the matching of transactions where Binance has its servers. We therefore hold that irrevocable liability was incurred in the United States because Plaintiffs plausibly alleged facts allowing the inference that the transactions at issue were matched on U.S.-based servers.
+[.text-justify]
+We have previously considered the application of _Morrison_ in the context of securities traded over an electronic intermediary exchange, like the securities at issue in this litigation. In _Myun-Uk Choi v. Tower Research Capital LLC,_ the plaintiffs executed trades in Korea Exchange futures contracts, which were “listed and traded on CME Globex, an electronic [Chicago Mercantile Exchange (CME)] platform located in Aurora, Illinois.” 890 F.3d at 63 (internal quotation marks omitted). We held that the plaintiffs plausibly alleged that those transactions were domestic because the plaintiffs incurred irrevocable liability when their trade offers were matched with offers from counterparties on the Illinois-based platform. _Id._ at 67.^*(xref:williams_v_binance_fn_2a[2&ast;])*^ The defendants there argued that irrevocable liability did not attach until trades were cleared and settled on the Korea Exchange in South Korea, the morning after buy and sell orders were “matched” on CME Globex. _Id._ at 67–68. But we explained that “[t]his view evinces a fundamental misunderstanding of Plaintiffs’ allegations and _exchange trading generally._” _Id._ at 68 (emphasis added). We said that while “liability might ultimately attach between the buyer/seller and the [Korea Exchange] upon clearing, that does not mean liability does not also attach between the buyer and seller at matching prior to clearing.” _Id._ We explained that +
+[quoteblock]#[t]his is analogous to the traditional practice, prior to the advent of remote algorithmic high-speed trading, in which buyers and sellers of commodities futures would reach an agreement on the floor of the exchange and then subsequently submit their trade to a clearinghouse for clearing and settling. Just as the meeting of the minds previously occurred on the exchange floor, Plaintiffs plausibly allege that there is a similar meeting of the minds when the minds of the [Korea Exchange] night market parties meet on CME Globex. + 
+_Id._ (cleaned up).#
+[.text-justify]
+Here, as in _Choi_, Plaintiffs allege that they purchased and sold securities over an electronic exchange, though here these transactions were subsequently recorded on the Ethereum blockchain, which has no centralized location. Consistent with our reasoning in _Choi_, the parties here agree that at least one time at which irrevocable liability attaches is at the time when transactions are “matched.” _See_ Reply Br. at 5; Appellees’ Br. at 4, 32; _see also Choi,_ 890 F.3d at 67 (“[I]n the classic contractual sense, parties incur irrevocable liability on . . . trades at the moment of matching.” (cleaned up)).
+[.text-justify]
+But _where_ did that matching take place? In _Choi_ there was no dispute that trades were matched “on CME Globex” and that CME Globex was located in Illinois. 890 F.3d at 63. This appeal presents a more difficult case than _Choi_ because the parties dispute _where_ matching occurs when it takes place on Binance, an online exchange that purports to have no physical location. 
+[.text-justify]
+We conclude that, at this early stage of the litigation, Plaintiffs have plausibly alleged that matching occurred in the United States. The complaint alleges that online crypto-asset exchanges such as Binance serve a similar function as “traditional exchanges in that they provide a convenient marketplace to match buyers and sellers of virtual currencies,” such as the Tokens purchased by Plaintiffs. App’x at 175 ¶ 46. Defendants agree that “the complaint’s allegations and the documents it incorporates by reference establish that matching occurred on the Binance exchange.” Appellees’ Br. at 33. But Defendants contend, since Plaintiffs acknowledge that Binance is decentralized, that the Binance exchange was “concededly . . . not in the United States.” _Id._; _see also Id._ at 35 (arguing that “matching and irrevocable liability occurred abroad on the Binance platform, . . . [which] is not in the United States.”). At oral argument, Binance’s counsel repeated this argument but also conceded that the location of Binance’s servers may be relevant to determining where matching occurs on the Binance platform. Oral Arg. at 26:00–37:40. We reject Binance’s argument that Plaintiffs pled themselves out of court by noting Binance’s intentional efforts to evade the jurisdiction of regulators. Binance operates by “match[ing] buyers and sellers of virtual currencies.” App’x at 175 ¶ 46. Even if the Binance exchange lacks a physical location, the answer to where that matching occurs cannot be “nowhere.”
+[.text-justify]
+Rather, we conclude that the complaint plausibly alleges that matching occurred on “the infrastructure Binance relies on to operate its exchange.” App’x at 253 ¶ 327. According to Plaintiffs’ allegations, much of that infrastructure “is located in the United States.” _Id._ Specifically, Plaintiffs allege that “Binance is hosted on computer servers and data centers provided by Amazon Web Services (AWS), a cloud computing company that is located in the United States”; “a significant portion, if not all, of the AWS servers and [associated data centers and support services] that host Binance are located in California”; and “[u]pon information and belief, most or all of Binance’s digital data is stored on servers located in Santa Clara County, California.” App’x at 170–71 ¶ 24.
+[.text-justify]
+Moreover, Plaintiffs allege that the fact that their purchase orders were submitted from locations in the United States renders it more plausible that the trades at issue were matched over Binance’s servers located in the United States, as opposed to Binance’s servers located elsewhere. At this stage, Plaintiffs need merely plead “a plausible claim for relief.” _Ashcroft v. Iqbal_, 556 U.S. 662, 679 (2009). Construing Plaintiffs’ allegations regarding the servers in the light most favorable to them, we conclude that they have alleged facts that make it plausible that their trade orders were matched in the United States.
+[.text-justify]
+To be sure, our cases involving exchange-mediated securities trades, such as _Choi_, have looked to the official location of the exchange on which matching occurred to determine the situs of irrevocable liability. In cases involving traditional exchanges, there is often no dispute over where the exchange is located, and therefore where matching takes place. This is particularly so when the exchange is registered in a certain country and therefore has intentionally subjected itself to that sovereign’s jurisdiction. While it may not always be appropriate to determine where matching occurred solely based on the location of the servers the exchange runs on, it is appropriate to do so here given that Binance has not registered in any country, purports to have no physical or official location whatsoever, and the authorities in Malta, where its nominal headquarters are located, disclaim responsibility for regulating Binance.
+[.text-justify]
+Our conclusion might be different were we faced with plaintiffs seeking to apply United States securities laws based on the happenstance that a transaction was initially processed through servers located in the United States despite all parties to the transaction understanding that they were conducting business on a foreign-registered exchange. The application of federal securities laws in that situation would squarely implicate the comity concerns that animated _Morrison_. _See_ 561 U.S. at 269. But since Binance notoriously denies the applicability of any other country’s securities regulation regime, and no other sovereign appears to believe that Binance’s exchange is within its jurisdiction, the application of United States securities law here does not risk “incompatibility with the applicable laws of other countries” and is consistent with the test articulated in _Morrison_ and with the principles underlying _Morrison_. _Id._ We therefore hold that under these circumstances, the location of the servers on which trades are matched by Binance is deemed to be a location of the transaction. Accordingly, Plaintiffs have adequately alleged domestic transactions based on their allegations that matching occurred on Binance’s servers located in the United States.
+
+
+*&emsp;B&period; Plaintiffs’ Submission of Trades and Payments on Binance*
+
+[.text-justify]
+We agree that Plaintiffs plausibly alleged that the transactions at issue are domestic for a second, interrelated reason. Because Binance disclaims having any location, Plaintiffs have plausibly alleged that irrevocable liability attached when they entered into the Terms of Use with Binance, placed their purchase orders, and sent payments from the United States.
+[.text-justify]
+As discussed above, in _Choi_, we noted that irrevocable liability may attach between different parties and intermediaries in a securities transaction at more than one transactional step. _See_ 890 F.3d at 67–68. Just as in _Choi_, where irrevocable liability attached first between the parties on the Illinois-based night market and then later “between the buyer/seller and the [Korea Exchange] upon clearing,” here Plaintiffs’ allegations allow for the inference that irrevocable liability attached at multiple points in the transaction—first when they submitted their purchase offers to Binance, and later when Binance matched their offers with seller counterparties. _Id._ at 68.
+[.text-justify]
+Here, because the Binance exchange disclaims having any physical location, we have particular reason to consider other factors that our cases have found relevant to the irrevocable liability analysis. In _City of Pontiac Policemen’s & Firemen’s Retirement Systems v. UBS AG,_ we explained that “in the context of transactions not on a foreign exchange,” our cases look to “facts concerning the formation of the contracts, _the placement of purchase orders,_ the passing of title, or the exchange of money” to determine when and where an investor becomes irrevocably bound to complete a transaction. 752 F.3d 173, 181 n.33 (2d Cir. 2014) (quoting _Absolute Activist,_ 677 F.3d at 69–70 (cleaned up)). While we have placed more emphasis on these factors when dealing with transactions that did not occur on an official exchange, we have reason here to consider where Plaintiffs’ trades originated given that Binance expressly disclaims having any physical location, foreign or otherwise. In _Giunta v. Dingman,_ we found that irrevocable liability occurred in New York because that was where the parties met in person, where one party received telephone calls from the other while they were negotiating a securities contract, where they sent the terms of the agreement, and where funds were transferred from. 893 F.3d 73, 76-77, 79-80 (2d Cir. 2018). Similarly, in _Federal Housing Financial Agency,_ we held that evidence that employees of Fannie Mae and Freddie Mac worked in the District of Columbia and Virginia, and therefore received emailed offer materials there, supported the inference that irrevocable liability attached in those places. 873 F.3d at 156–58; _see also, e.g., United States v. Vilar,_ 729 F.3d 62, 76–78 (2d Cir. 2013) (looking to location where party executed documents necessary to make investment and location from where money was sent).
+[.text-justify]
+Applying a similar analysis to the allegations here, irrevocable liability was incurred when Plaintiffs entered into the Terms of Use with Binance, placed their trade orders, and sent payments, all of which they claim occurred from their home states within the United States. When Plaintiffs sent buy orders and payments on the Binance platform, they irrevocably “committed to the investment[s] while in” their states of residence. _Vilar,_ 729 F.3d at 77. “[A]s a practical matter, [Plaintiffs were] contractually obligated” to complete the transactions after committing to them on the Binance exchange and “could not, on [their] own accord, revoke.” Giunta, 893 F.3d at 81. The inference that Plaintiffs could not revoke once they placed a trade on Binance is also supported by allegations regarding Binance’s Terms of Use, in which Binance “reserves the right to reject any cancellation reques[t] related to” a submitted trade order. App’x at 605.
+[.text-justify]
+True, in _City of Pontiac_, we held that the “mere placement of a buy order in the United States for the purchase of foreign securities on a foreign exchange” was not, “standing alone,” sufficient to allege that a purchaser incurred irrevocable liability in the United States. 752 F.3d at 181. But here, Binance’s Terms of Use, which remove the trader’s ability to unilaterally revoke the trade prior to execution, plus the additional actions Plaintiffs took, including making domestic payments, provide more. Moreover, as explained above, _City of Pontiac_ concerned trades executed over a foreign Swiss exchange, whereas here the relevant exchange disclaims any location, foreign or otherwise. So, as noted above, the sovereignty and comity concerns that at least partially motivate the careful policing of the line between foreign and domestic transactions in cases like _City of Pontiac_ and _Morrison_ are less present in a case like this.^*(xref:williams_v_binance_fn_3[3])*^
+[.text-justify]
+Accordingly, we hold that at this stage in the litigation, Plaintiffs have
+plausibly alleged that they engaged in domestic transactions in unlisted
+securities.^*(xref:williams_v_binance_fn_4[4])*^
+
+*II&period;&emsp; Timeliness*
+
+[.text-justify]
+The parties also dispute whether the district court correctly held that Plaintiffs’ federal claims under Section 12(a)(1) of the Securities Act and Section 29(b) of the Exchange Act were untimely. As a preliminary matter, Plaintiffs do not press an argument for equitable tolling on appeal, and they acknowledge that their claims relating to most of the Tokens are untimely. However, a subset of Plaintiffs argue that they have timely federal claims because they made purchases of two of the Tokens, EOS and TRX, within the year before filing their original complaint on April 3, 2020.^*(xref:williams_v_binance_fn_5[5])*^ We hold that Plaintiffs’ claims under each of the federal statutes did not accrue until they could have filed suit, which was only after they made their purchases. Therefore, we reverse the dismissal of Plaintiffs’ claims arising from purchases made during the year before they filed this lawsuit.
+
+*&emsp;A&period; Section 12(a) Claims*
+[.text-justify]
+A claim under Section 12(a)(1) of the Securities Act for solicitation of an unregistered security must be brought “within one year after the violation upon which it is based.” 15 U.S.C. § 77m (Section 13). A half-century ago, we held that Section 13’s one-year statute of limitations does not begin to run on an illegal offer until the plaintiff acquires the security. _See Diskin v. Lomasney & Co.,_ 452 F.2d 871, 875–76 (2d Cir. 1971). In _Diskin_, Judge Friendly explained that “although § 13 dates” the running of the statute of limitations “from the ‘violation’ in cases of claims under § 12[(a)](1), it would be unreasonable to read § 13 as starting the short period for an action at a date before the action could have been brought.” _Id._; _see also Wigand v. Flo-Tek, Inc.,_ 609 F.2d 1028, 1033 n.5 (2d Cir. 1979) (holding, based on _Diskin_, that “the limitations period . . . begins to run only after the sale” of a security following an illegal solicitation in Section 12(a)(2) actions). _Diskin_ is binding law. Applied here, that means Plaintiffs have timely claims against Binance under Section 12(a)(1) for its solicitation of their purchase of EOS and TRX.
+[.text-justify]
+Defendants fail to distinguish or discredit _Diskin_. First, they argue _Diskin_ only controls in cases where a single entity both solicited and sold securities as part of a single transaction. However, Binance promoted, intermediated, and earned money from the transactions of the Tokens. The mere fact that Binance was not a direct counter-party to the transactions is an insufficient distinction, particularly given _Diskin_’s statement that “Congress quite obviously meant to allow rescission or damages in the case of illegal offers as well as of illegal sales.” _Diskin_, 452 F.2d at 876. _Diskin_’s interpretation of Section 13 was driven by a concern with avoiding the “extreme case[]” of “a running of the statute of limitations before the claim had even arisen,” which is exactly what would result from adopting Defendants’ theory here. _Id._
+[.text-justify]
+Next, Defendants argue that _Diskin_’s interpretation of Section 13 is incorrect as a textual matter. They point out that Section 13 starts the running of the one- year limitations period from “the _violation,_” not from a “purchase or sale,” and that there are only two ways to violate Section 12: (1) “pass[ing] title, or other interest in the security, to the buyer for value,” or (2) “successfully solicit[ing] the purchase” of the security. _Pinter v. Dahl,_ 486 U.S. 622, 642, 647 (1988). Based on these premises, Defendants assert that the last “violations” Plaintiffs allege relating to EOS or TRX date back to November 2018 and February 2019, respectively, when Binance republished third-party reports about each token. Since both of these dates were more than a year before April 2020, when Plaintiffs filed suit, Binance claims that under the plain text of the statute, the statute of limitations ran before Plaintiffs sued.
+[.text-justify]
+This line of reasoning was equally available when _Diskin_ was decided, but as described above, Judge Friendly rejected such a wooden interpretation of Section 13. Instead, he interpreted it in such a way as to effectuate Congress’s purpose of protecting all investors who fall victim to illegal solicitations and bring suit within a year of doing so, not just those who happen to make their purchases within a year of the defendant’s unlawful acts. We are not free to upset our respected predecessor’s conclusion or ignore _Diskin_. _See Adams v. Zarnel (In re Zarnel),_ 619 F.3d 156, 168 (2d Cir. 2010) (“This panel is bound by the decisions of prior panels until such time as they are overruled either by an en banc panel of our Court or by the Supreme Court.” (internal quotation marks omitted)).
+[.text-justify]
+Furthermore, _Diskin_ makes sense of the fact that Section 13 contains both a statute of limitations and a statute of repose. The latter protects defendants and provides that no action can “be brought to enforce a liability created under section [11 or 12(a)(1)] more than three years after the security was bona fide offered to the public.” 15 U.S.C § 77m. As opposed to statutes of repose, “[s]tatutes of limitations are designed to encourage plaintiffs to pursue diligent prosecution of known claims.” _Cal. Pub. Emps.’ Ret. Sys. v. ANZ Sec., Inc.,_ 582 U.S. 497, 504 (2017) (internal quotation marks omitted). Thus, “limitations periods begin to run when the cause of action accrues—that is, _when the plaintiff can file suit and obtain relief._” _Id._ at 504–05 (internal quotation marks omitted) (emphasis added). And “a prospective buyer has no recourse against a person who touts unregistered securities to him if he does not purchase the securities.” _Pinter,_ 486 U.S. at 644. It would make little sense to begin the running of Section 12’s statute of limitations before a plaintiff made the purchase allowing her to sue.
+[.text-justify]
+On the other hand, a statute of repose “begins to run from the defendant’s violation.” _City of Pontiac Gen. Emps.’ Ret. Sys. v. MBIA, Inc. (MBIA),_ 637 F.3d 169, 176 (2d Cir. 2011). “[S]tatutes of repose are enacted to give more explicit and certain protection to defendants,” and thus run from “the date of the last culpable act or omission of the defendant.” _Cal. Pub.,_ 582 U.S. at 505. Defendants’ reading of Section 13 would transform its statute of limitations into a duplicative, and shorter, statute of repose capable of running before any purchase has been made and thus before any claim has accrued. We rejected such a reading fifty years ago and do so again today. We therefore conclude, based on precedent and statutory context, that Plaintiffs’ claims as to EOS and TRX purchases made after April 3, 2019 are timely.^*(xref:williams_v_binance_fn_6[6])*^
+
+
+*&emsp;B&period; Section 29(b) Claims*
+
+[.text-justify]
+For similar reasons, we reverse the district court’s dismissal of Plaintiffs’ claims for recission of the EOS and TRX purchases made after April 3, 2019 under Section 29(b) of the Exchange Act. Section 29(b) states that “[e]very contract made in violation of any provision of this chapter . . . the performance of which involves the violation of, or the continuance of any relationship or practice in violation of, any provision of this chapter . . . shall be void . . . .” 15 U.S.C. § 78cc(b). Plaintiffs alleged that their contracts with Binance are voidable under Section 29(b) because Binance violated Section 5 of the Exchange Act by operating as an unregistered exchange, 15 U.S.C. § 78e, and Section 15(a)(1) of the Exchange Act by operating as an unregistered broker-dealer, 15 U.S.C. § 78o(a)(1). Unlike Section 12(a), this provision does not contain an express cause of action tied to a statute of limitations but the parties agree that claims for recission under Section 29(b) expire one year after they accrue. Their dispute is over when accrual occurs. We conclude that, as with Section 12(a), Plaintiffs’ claims accrued, if at all, only after they made or committed to making their purchases.
+[.text-justify]
+As a threshold matter, we assume without deciding that Binance is correct that the relevant contract to be rescinded is Binance’s Terms of Use and that Plaintiffs did not adequately allege that they entered into new, implied contracts every time Plaintiffs conducted a transaction on Binance’s platform.
+[.text-justify]
+With that assumption in mind, we conclude that Section 29(b)’s express limitations period governs these claims. _See_ 15 U.S.C. § 78cc(b). That provision states an action must be “brought within one year after the discovery that such sale or purchase involves such violation.” _Id._
+[.text-justify]
+“[W]here, as here, the claim asserted is one implied under a statute that also contains an express cause of action with its own time limitation, a court should look first to the statute of origin to ascertain the proper limitations period.” _Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson,_ 501 U.S. 350, 359 (1991) (superseded by statute on other grounds). Section 29(b)’s express statute of limitations for fraud-based claims is therefore the appropriate one because it “focuses on the analogous relationship, involves the same policy concerns, and provides for a similar restitutionary remedy.” _Kahn v. Kohlberg, Kravis, Roberts & Co. (KKR),_ 970 F.2d 1030, 1038 (2d Cir. 1992). Under this statute of limitations, Plaintiffs’ claims as to purchases of EOS and TRX made after April 3, 2019 would be timely because it is impossible to discover that a “sale or purchase involves [a] violation” of the Exchange Act before that sale or purchase has occurred. _See_ 15 U.S.C. § 78cc(b).
+[.text-justify]
+Defendants mistakenly rely on _KKR_ to argue that the limitations period for Plaintiffs’ recission claims runs from the formation of the allegedly violative contract. _KKR_ held that the claim at issue there—for recission of an agreement under the Investment Advisers Act—accrued at the time of contract formation and that “subsequent payments on a completed sales transaction[] affect the amount of damages but do not constitute separate wrongs.” 970 F.2d at 1040. But that does not resolve this case because the contract at issue in _KKR_ contemplated a long-term relationship in which “a certain amount of [plaintiffs’] capital” was committed from the get-go “to investments chosen by KKR.” _Id._ Therefore, that contract constituted a “completed sales transaction,” which in and of itself violated the Investment Advisers Act. _Id._
+[.text-justify]
+That is meaningfully different from the situation we face because, by agreeing to Binance’s Terms of Use, Plaintiffs did not effectuate a “completed sales transaction.” Though the Terms of Use prevented Plaintiffs from unilaterally revoking a trade once it was made, they did not commit Plaintiffs to making any trades at all on Binance’s platform; the Terms simply outlined the governing rules if Plaintiffs did choose to trade. Plaintiffs were not “committed to pay [an] amount under the contract,” and indeed they “retained the right” to stop trading on Binance “at any time.” _Id._ Therefore, _KKR_ does not require that the statute of limitations run from the time Plaintiffs agreed to the Terms of Use but before they committed to or completed any transactions.^*(xref:williams_v_binance_fn_7[7])*^
+[.text-justify]
+In any event, even if Defendants were correct that the statute of limitations expires a year after a “reasonably diligent plaintiff would have discovered the facts constituting the [alleged] violation,” Appellees’ Br. at 48 (quoting _Merck & Co. v. Reynolds,_ 559 U.S. 633, 637 (2010)), Plaintiffs’ claims arising from purchases made during the year before filing are still timely because the “violation” at issue requires a violative transaction. Just as we concluded with respect to their Section 12(a) claims above, Plaintiffs’ Section 29(b) claims could not have accrued, and therefore the statute of limitations could not have begun to run, absent a specific transaction. _See_ MBIA, 637 F.3d at 175–76.
+[.text-justify]
+That is because a Section 29(b) claim must be predicated on an underlying violation of the Exchange Act. _See_ 15 U.S.C. § 78cc(b) (providing a contract is void where “the performance of [it] involves the violation of” the Exchange Act or regulations promulgated under its authority); _see also Boguslavsky v. Kaplan,_ 159 F.3d 715, 722 (2d Cir. 1998). And the two alleged violations of the Exchange Act underlying Plaintiffs’ recission claims both require transactions. Plaintiffs allege Binance violated Section 5 of the Exchange Act by operating as an unregistered exchange and Section 15(a)(1) of the Exchange Act by operating as an unregistered broker or dealer of securities. _See_ 15 U.S.C. § 78e (Section 5, titled “Transactions on unregistered exchanges”); 15 U.S.C. § 78o(a)(1) (Section 15(a)(1), sub-titled “Registration of all persons utilizing exchange facilities to effect transactions”). Both of these provisions clearly contemplate a transaction. Further, district courts in this circuit have long recognized that to make out a violation under Section 29(b), “plaintiffs must show that . . . the contract involved a prohibited transaction.” _Pompano-Windy City Partners, Ltd. v. Bear Stearns & Co.,_ 794 F. Supp. 1265, 1288 (S.D.N.Y. 1992) (internal quotation marks omitted); _EMA Fin., LLC v. Vystar Corp.,_ No. 19-cv-1545, 2021 WL 1177801, at *2 (S.D.N.Y. Mar. 29, 2021) (same).
+[.text-justify]
+As discussed above, the Terms of Use did not commit Plaintiffs to making a violative transaction. Since Plaintiffs’ Section 29(b) claims require a transaction, the claims could not have accrued until a transaction occurred.^*(xref:williams_v_binance_fn_8[8])*^ To conclude otherwise would be inconsistent with the caselaw discussed above, which demarcates the difference—in the securities context at least—between a statute of repose and a statute of limitations. Plaintiffs could not have known the facts “required to adequately plead . . . and survive a motion to dismiss” without knowing what, if any, violative transactions constituted the alleged underlying violation of the Exchange Act. MBIA, 637 F.3d at 175 (citing _Merck_, 599 U.S. at 648– 49). We therefore conclude that Plaintiffs’ claims under Section 29(b) as to EOS and TRX purchases made during the year before filing suit are also timely.
+
+*III&period;&emsp; Dismissal of Absent Class Member Claims*
+
+Finally, in addition to dismissing the federal and state claims of the named Plaintiffs as untimely and impermissibly extraterritorial, the district court dismissed the claims asserted on behalf of absent class members under the Blue Sky statutes of states other than California, Florida, Nevada, Puerto Rico, and Texas, where the named Plaintiffs are from. The district court held there was “an insufficient nexus between the allegations and those [other] jurisdictions” from which no named Plaintiffs hailed. _Anderson_, 2022 WL 976824, at *4. Dismissal at this stage on this basis was improper. “[A]s long as the named plaintiffs have standing to sue the named defendants, any concern about whether it is proper for a class to include out-of-state, nonparty class members with claims subject to different state laws is a question of predominance under Rule 23(b)(3)” to be decided after the motion to dismiss stage. _Langan v. Johnson & Johnson Consumer Cos.,_ 897 F.3d 88, 93 (2d Cir. 2018). We therefore vacate the dismissal of the absent class member claims.
+
+[.text-center]
+*CONCLUSION*
+
+
+Accordingly, we *REVERSE* and *REMAND* for proceedings consistent with this Opinion as to the claims challenged on appeal.
+
+
+---
+
+[.text-justify]
+[[williams_v_binance_fn_1]]
+[small]#^*1*^ &emsp; Plaintiffs do not appeal the district court’s dismissal of their claims concerning tokens BNT, SNT, KNC, LEND, and CVC. Nor do they appeal the district court’s decision as to the timeliness of their federal claims concerning tokens ELF, FUN, ICX, OMG, and QSP. Accordingly, such claims are not before us.#
+
+
+[.text-justify]
+[[williams_v_binance_fn_2]]
+[small]#^*2*^ &emsp; Plaintiffs initially brought claims regarding twelve tokens, but on appeal they challenge only the district court’s dismissal of their claims regarding these seven tokens.#
+
+
+[.text-justify]
+[[williams_v_binance_fn_2a]]
+[small]#^*2&ast;*^ &emsp; _Choi_ involved claims under the Commodity Exchange Act but applied the same framework for evaluating the exterritorial reach of domestic securities laws under _Morrison_ at issue here. _Choi_, 890 F.3d at 66–67; _see also Loginovskaya v. Batratchenko,_ 764 F.3d 266, 271–74 (2d Cir. 2014).#
+
+[.text-justify]
+[[williams_v_binance_fn_3]]
+[small]#^*3*^ &emsp; We do not mean to imply that in such circumstances, irrevocability can attach in only one country. It is entirely possible that such a transaction might fall under the laws of more than one jurisdiction, especially as the result of the efforts of the exchange, or of participants, to have the transaction be subject to no country's legislative jurisdiction.#
+
+
+[.text-justify]
+[[williams_v_binance_fn_4]]
+[small]#^*4*^ &emsp; In light of this conclusion, we need not and do not reach Plaintiffs’ alternative arguments for concluding that their claims concern domestic transactions.#
+
+[.text-justify]
+[[williams_v_binance_fn_5]]
+[small]#^*5*^ &emsp; Specifically, these plaintiffs are Hardin, Muhammad, Thiagarajan, Token Fund I LLC, and Williams.#
+
+
+[.text-justify]
+[[williams_v_binance_fn_6]]
+[small]#^*6*^ &emsp; We therefore do not resolve whether, by continuing to offer TRX and EOS on its website right up until the complaint was filed, Binance engaged in an ongoing violation of the Securities Act. _See Wilson v. Saintine Expl. & Drilling Corp.,_ 872 F.2d 1124, 1126 (2d Cir. 1989) (holding that “the ministerial act of mailing” offer materials at the seller’s direction did not constitute solicitation).#
+
+[.text-justify]
+[[williams_v_binance_fn_7]]
+[small]#^*7*^ &emsp; Defendants do not argue that Plaintiffs’ claims accrued when the first transaction took place pursuant to the Terms of Use and that subsequent transactions affect only damages but do not restart the statute of limitations. Instead, Defendants argue that Plaintiffs’ Section 29(b) claim accrued “when the allegedly illegal contract [was] signed” regardless of whether or when transactions were made pursuant to it. Appellees’ Br. at 54. That is the argument we consider and reject.#
+
+[.text-justify]
+[[williams_v_binance_fn_8]]
+[small]#^*8*^ &emsp; To be clear, we express no view as to whether Plaintiffs successfully stated a claim under Section 29(b) where the contract they are seeking to rescind does not commit the parties to complete a transaction. In the district court, Defendants moved to dismiss Plaintiffs’ Section 29(b) claim arguing that it failed as a matter of law because Plaintiffs did not allege that the Terms of Use committed the parties to a violative transaction. However, the district court did not reach that argument and Defendants have not raised it as an alternative basis for affirmance. Therefore, for the purpose of this opinion, we have assumed that a plaintiff can state a claim for recission of a contract based on violative transactions that are made pursuant to, but not required by, the contract.#
+
+
+- - - 
+[[williams_v_binance_questions]]
+=== Discussion Questions ===
+
+////
+# Williams v. Binance - Certified Opinion SECTION END
+#<<<<<<<<<<
+////
