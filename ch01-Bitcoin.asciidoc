@@ -757,7 +757,7 @@ For the foregoing reasons, we AFFIRM the judgment of the district court in all r
 [[ulbricht_questions]]
 === Discussion Questions ===
 1.  Do you think the usage of bitcoin increased the sentence that Ross received?  Would he have received the same sentence if the transactions were made using dollars instead?
-2. Did the government's violate Ulbricht's due process rights by not disclosing Bridges and Force's corruption earlier?  
+2. Did the government violate Ulbricht's due process rights by not disclosing Bridges and Force's actions earlier?  
 3. Since the introduction of BItcoin, thousands of other cryptocurrencies have been created.  Our next chapter dives into some of the legal issues created by these other cryptocurrencies.  
 
 ////
