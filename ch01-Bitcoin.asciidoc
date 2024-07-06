@@ -143,7 +143,7 @@ As an additional firewall, a new key pair should be used for each transaction to
  
 . Satoshi Nakamoto is a pseudoynm.  We don't know the real name(s) of the man, woman, or group of people behind the pseudonym Satoshi Nakamoto.  There are various people who have been suspected of secretly being Satoshi Nakamoto.  There are also people who have claimed to be Satoshi Nakamoto, although none of the claimants have offered convincing proof that they are in fact Satoshi Nakamoto.  
 
-. The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  See Kleiman v. Wright, Case No. 18-cv-80176-BLOOM/Reinhart (S.D. Fla. Sep. 18, 2020), where Kleiman's estate sued Craig Wright for half of the bitcoins that were mined by Satoshi Nakamoto.  See also Wright v. McCormack, [2023] EWCA Civ 892,    https://www.judiciary.uk/wp-content/uploads/2023/07/Wright-v-McCormack-judgment-260723.pdf.  See also Wright vs. 16 Bitcoin Developers,  [2023] EWCA Civ 868, https://www.bailii.org/cgi-bin/format.cgi?doc=/ew/cases/EWCA/Civ/2023/868.html&query=(CA-2023-000404)
+. The most famous claim to be Satoshi Nakamoto was made by Craig Wright.  See Kleiman v. Wright, Case No. 18-cv-80176-BLOOM/Reinhart (S.D. Fla. Sep. 18, 2020), where Kleiman's estate sued Craig Wright for half of the bitcoins that were mined by Satoshi Nakamoto.  In 2024, a Court in the U.K. ruled that Craig Wright's claim to be Satoshi Nakamoto was false.  
 
 . The most famous early usage of bitcoin was the black market website Silk Road.  See United States v. Ulbricht, 858 F.3d 71 (2d Cir. 2017), Discussed below. 
 
