@@ -494,7 +494,7 @@ UNITED STATES DISTRICT JUDGE
 
 ==== Discussion Questions ====
 [.text-justify]
-. Placeholder Question
+. 1. Due other privacy technologies need to be concerned, or is this case a precedent that is restricted to Mixers?
 
 ////
 # Van Loon Section End
