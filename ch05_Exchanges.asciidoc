@@ -216,50 +216,13 @@ Accordingly, we *REVERSE* and *REMAND* for proceedings consistent with this Opin
 ---
 
 [.text-justify]
-[[williams_v_binance_fn_1]]
-[small]#^*1*^ &emsp; Plaintiffs do not appeal the district court’s dismissal of their claims concerning tokens BNT, SNT, KNC, LEND, and CVC. Nor do they appeal the district court’s decision as to the timeliness of their federal claims concerning tokens ELF, FUN, ICX, OMG, and QSP. Accordingly, such claims are not before us.#
 
-
-[.text-justify]
-[[williams_v_binance_fn_2]]
-[small]#^*2*^ &emsp; Plaintiffs initially brought claims regarding twelve tokens, but on appeal they challenge only the district court’s dismissal of their claims regarding these seven tokens.#
-
-
-[.text-justify]
-[[williams_v_binance_fn_2a]]
-[small]#^*2&ast;*^ &emsp; _Choi_ involved claims under the Commodity Exchange Act but applied the same framework for evaluating the exterritorial reach of domestic securities laws under _Morrison_ at issue here. _Choi_, 890 F.3d at 66–67; _see also Loginovskaya v. Batratchenko,_ 764 F.3d 266, 271–74 (2d Cir. 2014).#
-
-[.text-justify]
-[[williams_v_binance_fn_3]]
-[small]#^*3*^ &emsp; We do not mean to imply that in such circumstances, irrevocability can attach in only one country. It is entirely possible that such a transaction might fall under the laws of more than one jurisdiction, especially as the result of the efforts of the exchange, or of participants, to have the transaction be subject to no country's legislative jurisdiction.#
-
-
-[.text-justify]
-[[williams_v_binance_fn_4]]
-[small]#^*4*^ &emsp; In light of this conclusion, we need not and do not reach Plaintiffs’ alternative arguments for concluding that their claims concern domestic transactions.#
-
-[.text-justify]
-[[williams_v_binance_fn_5]]
-[small]#^*5*^ &emsp; Specifically, these plaintiffs are Hardin, Muhammad, Thiagarajan, Token Fund I LLC, and Williams.#
-
-
-[.text-justify]
-[[williams_v_binance_fn_6]]
-[small]#^*6*^ &emsp; We therefore do not resolve whether, by continuing to offer TRX and EOS on its website right up until the complaint was filed, Binance engaged in an ongoing violation of the Securities Act. _See Wilson v. Saintine Expl. & Drilling Corp.,_ 872 F.2d 1124, 1126 (2d Cir. 1989) (holding that “the ministerial act of mailing” offer materials at the seller’s direction did not constitute solicitation).#
-
-[.text-justify]
-[[williams_v_binance_fn_7]]
-[small]#^*7*^ &emsp; Defendants do not argue that Plaintiffs’ claims accrued when the first transaction took place pursuant to the Terms of Use and that subsequent transactions affect only damages but do not restart the statute of limitations. Instead, Defendants argue that Plaintiffs’ Section 29(b) claim accrued “when the allegedly illegal contract [was] signed” regardless of whether or when transactions were made pursuant to it. Appellees’ Br. at 54. That is the argument we consider and reject.#
-
-[.text-justify]
-[[williams_v_binance_fn_8]]
-[small]#^*8*^ &emsp; To be clear, we express no view as to whether Plaintiffs successfully stated a claim under Section 29(b) where the contract they are seeking to rescind does not commit the parties to complete a transaction. In the district court, Defendants moved to dismiss Plaintiffs’ Section 29(b) claim arguing that it failed as a matter of law because Plaintiffs did not allege that the Terms of Use committed the parties to a violative transaction. However, the district court did not reach that argument and Defendants have not raised it as an alternative basis for affirmance. Therefore, for the purpose of this opinion, we have assumed that a plaintiff can state a claim for recission of a contract based on violative transactions that are made pursuant to, but not required by, the contract.#
 
 
 - - - 
 [[williams_v_binance_questions]]
 === Discussion Questions ===
-
+. If the purchasers of these tokens had not lost money on their transactions, would they still be able to sue Binance?
 ////
 # Williams v. Binance - Certified Opinion SECTION END
 #<<<<<<<<<<
