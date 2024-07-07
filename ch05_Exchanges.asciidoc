@@ -623,6 +623,7 @@ reach this issue, as Plaintiffs’ claims clearly fail as to the first prong of 
 - - - 
 [[risley_v_uniswap_questions]]
 === Discussion Questions ===
+. Footnote 2 lists 40 tokens that the plaintiffs purchased on Uniswap liquidity pools.  When you look at the names of these tokens, do you get the feeling that the purchaser knew or should have known that the tokens might be scams?
 . The plaintiffs claim that the scam tokens rely upon the Uniswap liquidity pools.  But is that true?  Don't the tokens exist prior to the liquidity pool being created?  Are these scam tokens being sold in other ways to investors beyond the use of Uniswap?
 ////
 # Risley v. uniswap - Certified Opinion SECTION END
