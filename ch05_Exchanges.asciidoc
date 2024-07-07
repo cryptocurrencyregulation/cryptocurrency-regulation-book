@@ -1,7 +1,7 @@
 [[ch05_exchanges]]
 == Cryptocurrency Exchanges == 
 
-Some of the most famous events involving cryptocurrency involve the failure of exchanges including Mt. Gox and FTX.  Chapter 5 examines some of the cases that involve cryptocurrency exchanges.  In some ways, these cases are similar to the cases discussed in chapter 3.  However, in other ways, these cases form a distinct category.  
+Some of the most famous events involving cryptocurrency involve cryptocurrency exchanges.  Mt. Gox was the largest exchange of its time until it filed for bankruptcy in February 2014 after a series of heists that saw up to 950,000 bitcoin stolen by hackers.  FTX had a very visible brand, including sponsorship of the Mimai Heat Arena and celebrity brand supporters including Tom Brady, prior to its collapse in November, 2022.  Chapter 5 examines some of the cases that involve cryptocurrency exchanges.  In some ways, these cases are similar to the cases discussed in chapter 3.  However, in other ways, these cases form a distinct category.  
 
 
 
