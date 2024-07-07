@@ -2,7 +2,9 @@
 [role=test]
 = Bitcoin Chapter 1 =
 
-The primary focus of this book is decisions by U.S. Federal Courts, but any serious discussion of cryptocurreny must begin with the Bitcoin White paper by Satoshi Nakamoto.  
+The primary focus of this book is decisions by U.S. Federal Courts, but any serious discussion of cryptocurreny must begin with the Bitcoin White paper by Satoshi Nakamoto.  This chapter begins with the Bitcoin white paper and then continues with the most famous bitcoin case in U.S. vs. Ulbricht.  
+
+
 On October 31, 2008, Satoshi Nakamoto published a white paper titled "https://bitcoin.org/bitcoin.pdf[Bitcoin: A Peer-to-Peer Electronic Cash System]" in an internet forum. This white paper and the accompanying software that was launched in January 2009 created the Blockchain and Cryptocurrency industry.  Satoshi Nakamoto proposed Bitcoin as an electronic currency which uses cryptography and financial incentives to solve the double-spending problem without relying on a centralized third party. Bitcoin is the first successful cryptocurrency, and there have been over 10,000 cryptocurrencies created since the launch of Bitcoin.  Satoshi Nakamoto is a pseudonym, and the identity of the individual or group behind that name is still unknown.
 
 ////
