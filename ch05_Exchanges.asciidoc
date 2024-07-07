@@ -72,16 +72,7 @@ Before:&emsp;&emsp; LEVAL, CHIN, and NATHAN, _Circuit Judges_.
 [.text-justify]
 Plaintiffs-Appellants used Defendants-Appellees’ website, Binance.com, to purchase a type of crypto-asset called “tokens.” They allege that by selling these tokens without registration, Binance violated Section 12(a)(1) of the Securities Act of 1933, 15 U.S.C. § 77l(a)(1), and the “Blue Sky” securities laws of various states. Plaintiffs also seek recission of contracts they entered into with Binance under Section 29(b) of the Securities and Exchange Act of 1934, 15 U.S.C. § 78cc(b). The district court dismissed Plaintiffs’ claims as impermissible extraterritorial applications of these statutes and also dismissed their federal claims as untimely. We conclude that Plaintiffs have adequately alleged that their transactions on the Binance exchange were domestic transactions and that therefore the application of federal and state securities laws here was not impermissibly extraterritorial. We further conclude that Plaintiffs’ federal claims did not accrue until after they made the relevant purchases, and therefore their claims arising from purchases made during the year before filing suit are timely. Accordingly, we *REVERSE* and *REMAND* as to the claims challenged on appeal.
 
-!===
-||JORDAN GOLDSTEIN (David Coon, _on the +
-brief_), Selendy Gay Elsberg PLLC, New +
-York, NY, for _Plaintiffs-Appellants_. +
-&nbsp; +
-JAMES P. ROUHANDEH (Daniel J. Schwartz, +
-Marie Killmond, _on the brief_), Davis Polk & +
-Wardwell LLP, New York, NY, for +
-_Defendants-Appellees_.
-!===
+
 
 NATHAN, _Circuit Judge_:
 [.text-justify]
