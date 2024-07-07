@@ -1577,7 +1577,7 @@ United States District Judge
 [[terraform_memorandum_and_opinion]]
 
 [role=excerpt-section]
-=== SEC v. Terraform Labs: Memorandum and Opinion ===
+=== Securities Exchange Commission v. Terraform Labs PTE. LTD. and Do Hyeong Kwon ===
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
