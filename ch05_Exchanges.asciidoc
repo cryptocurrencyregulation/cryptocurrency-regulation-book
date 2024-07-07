@@ -1,9 +1,9 @@
 [[ch05_exchanges]]
 == Cryptocurrency Exchanges == 
 
-Chapter 5 examines some of the cases that involve cryptocurrency exchanges.  In some ways, these cases are similar to the cases discussed in chapter 3.  However, in other ways, these cases form a distinct category.  
+Some of the most famous events involving cryptocurrency involve the failure of exchanges including Mt. Gox and FTX.  Chapter 5 examines some of the cases that involve cryptocurrency exchanges.  In some ways, these cases are similar to the cases discussed in chapter 3.  However, in other ways, these cases form a distinct category.  
 
-Some of the most famous events involving cryptocurrency involve the failure of exchanges including Mt. Gox and FTX.  
+
 
 ////
 ###################################################################################################
