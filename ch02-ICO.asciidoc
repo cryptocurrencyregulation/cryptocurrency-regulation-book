@@ -457,7 +457,7 @@ Regulation ATS pursuant to Rule 301(a) of Regulation ATS. See 17 C.F.R. §§ 240
 [[ico_dao_questions]]
 ==== Discussion Questions ====
 [.text-justify]
-. placeholder for questions
+. Does the DAO report clarify how to determine whether a cryptocurrency is a security regulated by the SEC?
 
 ////
 # ICO DAO SECTION END
@@ -563,8 +563,7 @@ _ _ _
 
 ==== Discussion Questions ====
 
-. Is a digital asset a security under the Howey test, or is the transaction of sale for the digital asset an investment contract under the Howey test?
-. Bill Hinman stated that he wanted to discuss when a token that is originally created as a security is no longer a security.  Does this phrasing make sense to you?  Does this transition make sense?
+. Bill Hinman stated that he wanted to discuss whether "a digital asset offered as a security can, over time, become something other than a security." Is a digital asset a security under the Howey test, or is it the offer that is the investment contract under the Howey test? In Howey, the oranges are not an investment contract, but the offer to sell the orange groves was an investment contract when combined with the maintenance contract.
 
 
 ////
@@ -573,82 +572,10 @@ _ _ _
 ////
 
 
-////
-###################################################################################################
-### Turnkey Jet Letter
-#
-#
-#
-#
-#
-#
-#
-###################################################################################################>>>>>>>>>>
-////
-
-[[ico_turnkey]]
-[role=excerpt-section]
-=== Turnkey Letter ===
-
-
-
-
-[cols="12a,1a", width=100%, frame=none, grid=rows]
-|===
->|
-_Securities and Exchange Commission, +
-https://www.sec.gov/divisions/corpfin/cf-noaction/2019/turnkey-jet-040219-2a1.htm_
->| 
-image::excerpt.png[]
-|===
-
-
-*Securities Act of 1933 +
-Section 2(a)(1)*
-
-*April 3, 2019*
-
-*Response of the Division of Corporation Finance*
-
-Re: &emsp;&emsp; TurnKey Jet, Inc. +
-&emsp;&emsp;&emsp;&emsp;Incoming letter dated April 2, 2019
-
-Based on the facts presented, the Division will not recommend enforcement action to the Commission if, in reliance on your opinion as counsel that the Tokens are not securities, TKJ offers and sells the Tokens without registration under the Securities Act and the Exchange Act. Capitalized terms have the same meanings as defined in your letter.
-
-In reaching this position, we particularly note that:
-
-* TKJ will not use any funds from Token sales to develop the TKJ Platform, Network, or App, and each of these will be fully developed and operational at the time any Tokens are sold;
-* the Tokens will be immediately usable for their intended functionality (purchasing air charter services) at the time they are sold;
-* TKJ will restrict transfers of Tokens to TKJ Wallets only, and not to wallets external to the Platform;
-* TKJ will sell Tokens at a price of one USD per Token throughout the life of the Program, and each Token will represent a TKJ obligation to supply air charter services at a value of one USD per Token;
-* If TKJ offers to repurchase Tokens, it will only do so at a discount to the face value of the Tokens (one USD per Token) that the holder seeks to resell to TKJ, unless a court within the United States orders TKJ to liquidate the Tokens; and
-* The Token is marketed in a manner that emphasizes the functionality of the Token, and not the potential for the increase in the market value of the Token.
-
-This position is based on the representations made to the Division in your letter. Any different facts or conditions might require the Division to reach a different conclusion. Further, this response expresses the Division's position on enforcement action only and does not express any legal conclusion on the question presented.
-[cols="1,1", frame=none, grid=none]
-|===
-|&nbsp; 
-|Sincerely, +
-&nbsp; +
-Jonathan A. Ingram +
-Chief Legal Advisor, FinHub +
-Division of Corporation Finance
-|===
-
-- - - 
-[[ico_turnkey_questions]]
-==== Discussion Questions ====
-. Placeholder Question
-
-////
-# Turnkey Letter Section End
-#<<<<<<<<<<
-////
-
 
 ////
 ###################################################################################################
-### SEC v. LBRy, Inc.
+### SEC v. LBRY, Inc.
 #
 #
 #
