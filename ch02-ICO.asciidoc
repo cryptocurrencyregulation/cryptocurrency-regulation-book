@@ -771,20 +771,7 @@ United States District Judge +
 
 
 * * *
-[[sec_v_lbry_footnote_1]]
-[.text-justify]
-[1] LBRY has renamed this application “Odysee.” Kauffman Decl., link:https://ecf.nhd.uscourts.gov/doc1/11712791682[Doc. No. 613] at 10 ¶ 35. 
-[[sec_v_lbry_footnote_2]]
-[.text-justify]
-[2]  In [underline]#Howey#, the Court stated that the expected profits from an investment must be due “[underline]#solely#” to the efforts of a promoter or a third party. link:++https://1.next.westlaw.com/Document/I22292b4f9bf011d993e6d35cc61aab4a/View/FullText.html?VR=3.0&RS=da3.0&__lrTS=20221102163016736&transitionType=Default&contextData=(sc.Default)#co_pp_sp_780_298++[328 U.S. at 299] (emphasis added). “The courts of appeals have been unanimous in declining to give literal meaning to the word ‘solely’ in” applying [underline]#Howey#. link:++https://www.westlaw.com/Document/I13202b1079bf11d9ac1ffa9f33b6c3b0/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=da3.0&fragmentIdentifier=co_pp_sp_506_55++[SG Ltd., 265 F.3d at 55]. I join their number. The requirement is instead satisfied when “the efforts made by those other than the investor are the undeniably significant ones, those essential managerial efforts which affect the failure or success of the enterprise.” link:++https://www.westlaw.com/Document/I13202b1079bf11d9ac1ffa9f33b6c3b0/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=da3.0++[Id.] (quoting link:++https://www.westlaw.com/Document/Icdef154a900e11d9bc61beebb95be672/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=da3.0&fragmentIdentifier=co_pp_sp_350_482++[SEC v. Glenn W. Turner Enters., 474 F.2d 476, 482 (9th Cir. 1973)]); [underline]#accord# link:++https://www.westlaw.com/Document/I0b1f065837af11dd8dba9deb08599717/View/FullText.html?transitionType=Default&contextData=(sc.Default)&VR=3.0&RS=da3.0&fragmentIdentifier=co_pp_sp_506_88+n.6++[United States v. Leonard, 529 F.3d 83, 88 n.6 (2d Cir. 2008)]. 
-[[sec_v_lbry_footnote_3]]
-[.text-justify]
-[3] LBRY disputes the SEC's claim that the recipient was an investor but does not say who the recipient actually was. [underline]#See# Def.'s Fact Responses, link:https://ecf.nhd.uscourts.gov/doc1/11712810870[Doc. No. 74-25] at 7 ¶ 65. 
-[[sec_v_lbry_footnote_4]]
-[.text-justify]
-[4]  LBRY argues in the alternative that it should not be required to register future offerings of LBC even if its prior offerings were subject to Section 5's registration requirement. I decline to address this argument on the present record because LBRY has not explained why possible future offerings of LBC should be treated differently from the company's past offerings. 
 
-- - -
 
 ==== Discussion Questions ====
 
