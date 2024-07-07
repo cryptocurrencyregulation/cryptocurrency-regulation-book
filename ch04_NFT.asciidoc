@@ -1,6 +1,6 @@
 = Chapter 04 Non-Fungible Tokens =
 
-Fungible tokens are popular on the Ethereum Blockchain, particularly after the creation of the ERC-20 standard and related standards which made it easy for anyone to use a smart contract to create thier own currency token.  Non-Fungible Tokens became one of the most popular creations on the Ethereum Blockchain following the launch of Cryptokitties and the ERC-721 standard.  Non-Fungible Tokens use smart contracts to enable ownership of uniquely identified items on the blockchain.  If I own a Cryptokitty, that Kitty is unique and distinct from every other Cryptokitty.  If online currency is the most popular use case for blockchain technology, non-fungible tokens or uniquely identified items, is the second most popular use case for blockchain technology.
+Fungible tokens were popularized by the Ethereum Blockchain, particularly after the creation of the ERC-20 standard and related standards which made it easy for anyone to use a smart contract to create thier own currency token.  Non-Fungible Tokens became one of the most popular creations on the Ethereum Blockchain following the launch of Cryptokitties and the ERC-721 standard.  Non-Fungible Tokens use smart contracts to enable ownership of uniquely identified items on the blockchain.  If I own a Cryptokitty, that Kitty is unique and distinct from every other Cryptokitty.  If online currency is the most popular use case for blockchain technology, non-fungible tokens or uniquely identified items, is the second most popular use case for blockchain technology.
 
 
 
