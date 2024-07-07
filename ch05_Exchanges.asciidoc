@@ -37,18 +37,6 @@ image::excerpt.png[]
 *United States Court of Appeals +
 For the Second Circuit*
 
-___
-[.text-center]
-August Term 2022
-
-[.text-center]
-Argued: April 12, 2023 +
-Decided: March 8, 2024
-
-[.text-center]
-No. 22-972
-
-___
 
 [.text-center]
 CHASE WILLIAMS , individually and on behalf of all others similarly situated, +
