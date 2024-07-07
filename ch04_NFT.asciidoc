@@ -1,6 +1,6 @@
 = Chapter 04 Non-Fungible Tokens =
 
-
+Fungible tokens are popular on the Ethereum Blockchain, particularly after the creation of the ERC-20 standard and related standards which made it easy for anyone to use a smart contract to create thier own currency token.  Non-Fungible Tokens became one of the most popular creations on the Ethereum Blockchain following the launch of Cryptokitties and the ERC-721 standard.  Non-Fungible Tokens use smart contracts to enable ownership of uniquely identified items on the blockchain.  If I own a Cryptokitty, that Kitty is unique and distinct from every other Cryptokitty.  If online currency is the most popular use case for blockchain technology, non-fungible tokens or uniquely identified items, is the second most popular use case for blockchain technology.
 
 ////
 #>>>>>>>>>>
@@ -76,71 +76,6 @@ The charges contained in the Indictment are merely accusations, and the defendan
 # First Ever Digital Asset Insider Trading Scheme Section End
 #<<<<<<<<<<
 ////
-
-
-////
-#>>>>>>>>>>
-###################################################################################################
-### Former Coinbase Insider Pleads Guilty
-# Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case
-# https://www.justice.gov/usao-sdny/pr/former-coinbase-insider-pleads-guilty-first-ever-cryptocurrency-insider-trading-case
-#
-#
-#
-#
-#
-#################################################################################################
-////
-
-[[nft_insider_pleads_guilty]]
-== Former Coinbase Insider Pleads Guilty In First-Ever Cryptocurrency Insider Trading Case == 
-
-[cols="12a,1a", width=100%, frame=none, grid=rows]
-|===
->|
-_Department of Justice, February 7, 2023 +
-Press Release Number: 23-040_
->| 
-image::excerpt.png[]
-|===
-
-
-*Ishan Wahi Tipped His Associates Regarding Crypto Assets That Were Going To Be Listed On Coinbase Exchanges*
-
-[.text-justify]
-Damian Williams, the United States Attorney for the Southern District of New York, announced today that ISHAN WAHI, a former product manager at Coinbase Global, Inc. (“Coinbase”), pled guilty to two counts of conspiracy to commit wire fraud in connection with a scheme to commit insider trading in cryptocurrency assets by using confidential Coinbase information about which crypto assets were scheduled to be listed on Coinbase’s exchanges.  WAHI was arrested and charged in July 2022 and pled guilty earlier today before U.S. District Judge Loretta A. Preska.
-[.text-justify]
-U.S. Attorney Damian Williams said: “Ishan Wahi – a former Coinbase product manager – admitted in court today that he tipped others regarding Coinbase’s planned token listings so that they could trade in crypto assets for a profit.  Wahi is the first insider to admit guilt in an insider trading case involving the cryptocurrency markets.  Whether it occurs in the equity markets or the crypto markets, stealing confidential business information for your own personal profit or the profit of others is a serious federal crime.  The Southern District of New York has decades of experience pursuing insider trading cases, and we will continue to use our expertise to prosecute this crime no matter what form it takes and where it occurs.”
-[.text-justify]
-According to the allegations in the Indictment and statements made in public court proceedings:
-[.text-justify]
-At all relevant times, Coinbase was one of the largest cryptocurrency exchanges in the world.  Coinbase users could acquire, exchange, and sell various crypto assets through online user accounts with Coinbase.  Periodically, Coinbase added new crypto assets to those that could be traded through its exchange, and the market value of crypto assets typically significantly increased after Coinbase announced that it would be listing a particular crypto asset.  Accordingly, Coinbase kept such information strictly confidential and prohibited its employees from sharing that information with others, including by providing a “tip” to any person who might trade based on that information.
-[.text-justify]
-Beginning in approximately October 2020, ISHAN WAHI worked at Coinbase as a product manager assigned to a Coinbase asset listing team.  In that role, WAHI was involved in the highly confidential process of listing crypto assets on Coinbase’s exchanges and had detailed and advanced knowledge of which crypto assets Coinbase was planning to list and the timing of public announcements about those crypto asset listings. 
-[.text-justify]
-On multiple occasions between June 2021 and April 2022, WAHI violated his duties of trust and confidence to Coinbase by providing confidential business information that he learned in connection with his employment at Coinbase to Nikhil Wahi and Sameer Ramani so that they could secretly engage in profitable trades around public announcements by Coinbase that it would be listing certain crypto assets on Coinbase’s exchanges.  Following Coinbase’s public listing announcements, on multiple occasions, Nikhil Wahi and Ramani sold the crypto assets for a profit. 
-[.text-justify]
-On April 12, 2022, a Twitter account that is well known in the crypto community tweeted regarding an Ethereum blockchain wallet “that bought hundreds of thousands of dollars of tokens exclusively featured in the Coinbase Asset Listing post about 24 hours before it was published.”  The trading activity referenced in the April 12 tweet was trading previously conducted by Ramani based on tips provided by WAHI.  Coinbase thereafter publicly replied on Twitter, noting that it had already begun investigating the matter and, a few weeks later, stated in a public blog post that any Coinbase employee who leaked confidential company information would be “immediately terminated and referred to relevant authorities (potentially for criminal prosecution).”  On May 11, 2022, Coinbase’s director of security operations emailed WAHI to inform him that he should appear for an in-person meeting relating to Coinbase’s asset listing process at Coinbase’s Seattle, Washington, office on May 16, 2022.  WAHI confirmed he would attend the meeting.
-[.text-justify]
-On the evening of May 15, 2022, WAHI purchased a one-way flight to India that was scheduled to depart the next day shortly before WAHI was supposed to be interviewed by Coinbase.  In the hours between booking the flight and his scheduled departure, WAHI called and texted Nikhil Wahi and Ramani about Coinbase’s investigation and sent both of them a photograph of the messages he had received on May 11, 2022, from Coinbase’s director of security operations.  Prior to boarding the May 16, 2022, flight to India, WAHI was stopped by law enforcement and prevented from leaving the country.
-
-[.text-center]
-&ast;&emsp;&emsp;&ast;&emsp;&emsp; &ast;
-
-[.text-justify]
-ISHAN WAHI, 32, of Seattle, Washington, pled guilty to two counts of conspiracy to commit wire fraud, which each carry, respectively, a maximum sentence of 20 years in prison.
-[.text-justify]
-The statutory maximum sentence is prescribed by Congress and is provided here for informational purposes only, as any sentencing of the defendant will be determined by a judge.  WAHI is scheduled to be sentenced by Judge Preska on May 10, 2023, at 12:00 p.m.
-[.text-justify]
-Mr. Williams praised the investigative work of the Federal Bureau of Investigation.  He also acknowledged the assistance of the Justice Department’s National Cryptocurrency Enforcement Team, as well as that of the Securities and Exchange Commission, which separately initiated civil proceedings against WAHI.
-[.text-justify]
-This case is being handled by the Office’s Securities and Commodities Fraud Task Force.  Assistant U.S. Attorneys Noah Solowiejczyk and Nicolas Roos are in charge of the prosecution.
-
-- - - 
-
-=== Discussion Questions ===
-[.text-justify]
-. Ishan is the first insider to plead guilty to insider trading based on cryptocurrency.  Do you believe he had fair notice that insider trading of cryptocurrency was against the law?
 
 
 ////
