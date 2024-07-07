@@ -32,23 +32,6 @@ image::excerpt.png[]
 
 |===
 
-- - -
-
-[.text-center]
-*UNITED STATES DISTRICT COURT +
-CENTRAL DISTRICT OF CALIFORNIA +
-&nbsp; +
-[underline]#CIVIL MINUTES -- GENERAL#*
-
-[frame=none, grid=none]
-|===
-|Case No. &emsp; *CV 22-4355-JFW(JEMx)* >|Date: April 21, 2023
-|Title: &emsp;&emsp;&emsp; Yuga Labs, Inc. -v- Ripps, et al.|
-|===
-
-
-
-
 
 [.text-justify]
 On March 15, 2023, Plaintiff and Counter-Defendant Yuga Labs, Inc. (“Yuga”) filed a Motion for Summary Judgment (“Motion”). On March 27, 2023, Defendants and Counterclaimants Ryder Ripps (“Ripps”) and Jeremy Cahen (“Cahen”) (collectively, “Defendants”) filed their Opposition. On April 3, 2023, Yuga filed a Reply. Pursuant to Rule 78 of the Federal Rules of Civil Procedure and Local Rule 7-15, the Court found the matter appropriate for submission on the papers without oral argument. The matter was, therefore, removed from the Court’s April 17, 2023 hearing calendar and the parties were given advance notice. After considering the moving, opposing, and reply papers, and the arguments therein, the Court rules as follows:
