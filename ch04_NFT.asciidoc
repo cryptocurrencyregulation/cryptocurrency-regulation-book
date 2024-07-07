@@ -354,7 +354,7 @@ For all the foregoing reasons, Yuga’s Motion is *GRANTED in part and DENIED in
 - - - 
 [[yugalabs_questions]]
 === Discussion Questions ===
-
+. Ripps defended their actions as "appropriation art."  Should "appropriation art" be a form of fair use?
 
 ////
 # YUGA LABS SECTION END
@@ -594,7 +594,7 @@ For the reasons discussed above, the parties’ cross-motions for summary judgem
 - - - 
 [[hermes_questions]]
 === Discussion Questions ===
-. 
+. Do you agree with the court that neither party satisfied the requirements for summary judgement?
 
 ////
 # Hermes SECTION END
