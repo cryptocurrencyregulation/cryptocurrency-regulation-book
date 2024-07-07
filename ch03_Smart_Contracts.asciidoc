@@ -1,6 +1,6 @@
 == Smart Contracts Chapter 3 ==
 
-Smart contracts enable programmatic payments over a blockchain as described in chapter 2.  Chapter 3 asks the question of When can a smart contract itself be the target of legal action.  
+Smart contracts enable programmatic payments over a blockchain as described in chapter 2.  Chapter 3 asks the question of whether a smart contract itself can be the target of legal action.  
 
 Chapter 3 begins with an enforcement action by the U.S. Department of the Treasury against the Bitcoin virtual currency mixer, Blender.IO. 
 The discussion of virtual currency mixers then moves to an Ethereum mixer, Tornado Cash, in the court decision in Van Loon vs. Department of Treasury.
