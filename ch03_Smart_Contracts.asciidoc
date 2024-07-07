@@ -1,9 +1,9 @@
 == Smart Contracts Chapter 3 ==
 
-In the discussion of the DAO Report in chapter 2, it was described that smart contracts enable programmatic payments over a blockchain.  When can a smart contract itself be the target of legal action is the topic of chapter 3.  
+Smart contracts enable programmatic payments over a blockchain as described in chapter 2.  Chapter 3 asks the question of When can a smart contract itself be the target of legal action.  
 
 Chapter 3 begins with a pair of enforcement actions by the U.S. Department of the Treasury against virtual currency mixers, Blender.IO and Tornado Cash. 
-This is then followed by the court decision in Van Loon vs. Department of Treasury.
+The discussion of Tornado Cash is then continued in the court decision in Van Loon vs. Department of Treasury.
 
 ////
 #>>>>>>>>>>
