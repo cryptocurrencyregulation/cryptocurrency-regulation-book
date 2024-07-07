@@ -518,16 +518,6 @@ CONCLUSION
 [.text-justify]
 For the foregoing reasons, Defendants’ motions to dismiss are GRANTED. In particular, the Court dismisses Plaintiffs’ federal claims with prejudice, and dismisses Plaintiffs’ state-law claims without prejudice to their refiling in state court.^*(xref:risley_v_uniswap_fn_19[19])*^ Because the Court dismisses the action, it declines to certify the class.
 
-[.text-justify]
-The Clerk of Court is instructed to terminate all pending motions, adjourn all remaining deadlines, and close this case.
-
-&emsp;&emsp;SO ORDERED.
-!===
-|Dated:&emsp; August 29, 2023 +
-&emsp;&emsp;&emsp;&emsp; New York, New York ^|&nbsp; +
-[underline]#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/s/ Katherine Polk Failla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# +
-KATHERINE POLK FAILLA +
-United States District Judge
 !===
 
 ---
