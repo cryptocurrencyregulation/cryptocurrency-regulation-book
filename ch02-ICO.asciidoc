@@ -5,7 +5,7 @@ After Bitcoin became popular, over ten thousand other cryptocurrencies were crea
 
 One of the key legal issues of this chapter is under what circumstances will a cryptocurrency transaction be considered an investment contract under the Howey test?  
 
-This chapter begins with the DAO Report issued by the SEC followed by a speech by William Hinman of the SEC.  The chapter than proceeds to the court opinions in DEC vs. LBRY, SEC vs. Ripple Labs, and SEC vs. Terraform Labs and Do Kwon.
+This chapter begins with the DAO Report issued by the SEC followed by a speech by William Hinman of the SEC.  The chapter than proceeds to the court opinions in SEC vs. LBRY, SEC vs. Ripple Labs, and SEC vs. Terraform Labs and Do Kwon.
 
 On July 17th, 2017, the Securities Exchange Commission released a report analyzing whether The DAO violated U.S. securities laws by selling cryptocurrency tokens.  The DAO was the first major Decentralized Autonomous Organization (DAO) on the Ethereum blockchain.  The DAO was launched on April 29, 2016.  In one of most famous crpytocurrency hacks, DAO funds were stolen on June 16th, 2016.  On July 20th, 2016, the Ethereum blockchain changed its software to return all of the stolen funds to the original owners.  For a detailed understanding of the founding of the Ethereum blockchain and the DAO hack (including the identity of the DAO hacker), I recommend Laura Shin's book, "The Cryptopians: Idealism, Greed, Lies, and the Making of the First Big Cryptocurrency Craze," published in 2022.  
 
