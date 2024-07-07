@@ -1497,23 +1497,10 @@ Accordingly, the SEC’s motion for summary judgment on the aiding and abetting 
 [.text-justify]
 &emsp;For the foregoing reasons, the SEC’s motion for summary judgment is GRANTED as to the Institutional Sales, and otherwise DENIED. Defendants’ motion for summary judgment is GRANTED as to the Programmatic Sales, the Other Distributions, and Larsen’s and Garlinghouse’s sales, and DENIED as to the Institutional Sales.
 
-[.text-justify]
-&emsp;The Court shall issue a separate order setting a trial date and related pre-trial deadlines in due course.
 
-[.text-justify]
-&emsp;The Clerk of Court is directed to terminate the motions at ECF Nos. 621, 625, 639, 642, 807, 824, and 836.
 
-&emsp;SO ORDERED.
 
-Dated: July 13, 2023 +
-&emsp;New York, New York
 
-[frame=none, grid=none]
-|===
-|&nbsp; ^| &nbsp; +
-[underline]#&emsp;/s/ ANALISA TORRES&emsp;# +
-ANALISA TORRES +
-United States District Judge 
 |===
 
 &nbsp; 
@@ -1525,29 +1512,7 @@ United States District Judge
 * * *
 
 [.text-justify]
-. [[sec_ripple_footnote_1]]Portions of the briefs, Rule 56.1 statements, and other documents discussed in this order were filed under seal or redacted. _See_ ECF No. 819 (granting in part and denying in part the parties’ and third parties’ motions to seal). These materials are “judicial documents” because they are “relevant to the performance of the judicial function and useful in the judicial process.” _Lugosch v. Pyramid Co. of Onondaga,_ 435 F.3d 110, 119 (2d Cir. 2006); _see also Bernstein v. Bernstein Litowitz Berger & Grossmann LLP,_ 814 F.3d 132, 139 (2d Cir. 2016). To the extent that information in these documents is disclosed in this order, the privacy and business interests that justified their sealing or redaction are outweighed by “the public’s right of access to [information] necessary to understand the basis for court rulings.” Spinelli v. Nat’l Football League, 903 F.3d 185, 193 n.2 (2d Cir. 2018); _see also_ Dodona I, LLC v. Goldman, Sachs & Co., 119 F. Supp. 3d 152, 155 (S.D.N.Y. 2015).
-. [[sec_ripple_footnote_2]]The facts in this section are taken from the parties’ Rule 56.1 statements, counterstatements, and responses, unless otherwise noted. Disputed facts are so noted. Citations to a paragraph in a Rule 56.1 statement also include the opposing party’s response. “[W]here there are no citations[,] or where the cited materials do not support the factual assertions in the [s]tatements, the Court is free to disregard the assertion.” Holtz v. Rockefeller & Co., 258 F.3d 62, 73 (2d Cir. 2001) (alteration omitted). 
-. [[sec_ripple_footnote_3]] A blockchain is an electronically distributed database or ledger “shared among a computer network’s nodes.” _See_ Adam Hayes, Blockchain Facts: What Is It, How It Works, and How It Can Be Used, Investopedia (updated Apr. 23, 2023), https://www.investopedia.com/terms/b/blockchain.asp/. A blockchain is a system for recording information. Each transaction is recorded as a “block” of data on the digital ledger, which is connected to the blocks before and after it. SEC 56.1 Resp. ¶ 1, ECF No. 842. Blockchains are typically recorded across a distributed network of computers. _Id._ ¶ 2. 
-. [[sec_ripple_footnote_4]] Ripple was originally named NewCoin, Inc. and incorporated under California law. SEC 56.1 Resp. ¶ 33. It was then renamed OpenCoin, Inc. in October 2012. _Id._ In 2013, the company was renamed Ripple Labs, Inc., and in 2014, it was incorporated under Delaware law. _Id._ In this order, the Court shall refer to the company as Ripple, even when referring to its forerunners, NewCoin and OpenCoin.
 
-. [[sec_ripple_footnote_5]] Since 2012, Ripple has also raised investment capital through multiple funding rounds in which it sold stock to investors. SEC 56.1 Resp. ¶ 34. Ripple has issued millions of shares of common stock, as well as convertible notes, preferred stock, and a stock warrant. SEC Add. 56.1 Resp. ¶¶ 1607, 1609, ECF No. 844.
-
-. [[sec_ripple_footnote_6]] Ripple also distributed XRP for free to “early adopters and developers” and to charities and grant recipients. SEC 56.1 Resp. ¶¶ 92–94. The SEC does not include these transactions in its complaint. _See_ SEC Opp. at 26 n.15, ECF No. 841.
-
-. [[sec_ripple_footnote_7]] EDGAR, or “Electronic Data Gathering, Analysis, and Retrieval,” is an electronic filing system developed by the SEC “to increase the efficiency and accessibility of corporate filings.” James Chen, Electronic Data Gathering Analysis and Retrieval: Overview, FAQ, Investopedia (updated Feb. 13, 2022), https://www.investopedia.com/terms/e/edgar.asp/. 
-. [[sec_ripple_footnote_8]] The SEC’s Rule 56.1 statement contains over 1,600 purported facts—many of which are disputed by Defendants— and cites over 900 exhibits. _See_ generally Defs. 56.1 Resp. The Court highlights below only those documents and statements directly relevant to this order.
-. [[sec_ripple_footnote_9]] Accredify, Inc. did not formally file an amicus brief after the Court granted leave to do so, _see_ ECF No. 704, but included its brief as an attachment to its original request, _see_ ECF No. 698.
-. [[sec_ripple_footnote_10]] On November 4, 2022, the Court directed that any requests to file amicus briefs be filed by November 11, 2022. ECF No. 695. William M. Cunningham and Anoop Bungay, both pro se litigants, each separately requested leave to file an amicus brief on November 16, 2022, and January 20, 2023, respectively. ECF Nos. 712, 807. Cunningham’s and Bungay’s requests are DENIED as untimely.
-. [[sec_ripple_footnote_11]] The SEC’s opposition papers misconstrue Defendants’ “essential ingredients” test. The SEC dedicates several pages to refuting the argument that a written contract must exist, _see_ SEC Opp. at 19–24, but Defendants’ proposed test does not turn on the need for a written contract as opposed to an oral or implied contract, _see_ Defs. Mem. at 2, 18–19; Defs. Reply at 9, ECF No. 832. Therefore, the Court does not address the SEC’s arguments that _Howey_ does not require the existence of a written contract. _See_ SEC Opp. at 19–24.
-. [[sec_ripple_footnote_12]] The SEC also argues that the record establishes strict vertical commonality. _See_ SEC Mem. at 51–53. The Second Circuit has not addressed whether the strict vertical commonality theory can give rise to a common enterprise. _See_ Revak, 18 F.3d at 88. In this case, because horizontal commonality establishes the existence of a common enterprise, the Court does not reach the issue of strict vertical commonality or its viability as a theory.
-. [[sec_ripple_footnote_13]] The Court holds only that a common enterprise existed between Ripple and the Institutional Buyers. The Court does not reach the question of whether the common enterprise extends to encompass “other XRP holders,” Defendants Garlinghouse and Larsen, the “XRP ecosystem,” or any other entities. Cf. Defs. Opp. at 20–21. 
-. [[sec_ripple_footnote_14]] _Howey_ contemplates that an investor is “led to expect profits solely from the efforts of the promoter or a third party.” 328 U.S. at 298–99. However, the Second Circuit “ha[s] held that the word ‘solely’ should not be construed as a literal limitation; rather, [courts] ‘consider whether, under all the circumstances, the scheme was being promoted primarily as an investment or as a means whereby participants could pool their own activities, their money and the promoter’s contribution in a meaningful way.’” United States v. Leonard, 529 F.3d 83, 88 (2d Cir. 2008) (quoting SEC v. Aqua-Sonic Prods. Corp., 687 F.2d 577, 582 (2d Cir. 1982)).
-. [[sec_ripple_footnote_15]] The Court holds only that Ripple’s sales of XRP to the Institutional Buyers were offers and sales of investment contracts. To the extent the SEC instead argues that Ripple actually sold investment contracts to the public and used the Institutional Buyers as underwriters, the Court rejects that argument. Cf. SEC Mem. at 63–65. 
-. [[sec_ripple_footnote_16]] The Court does not address whether secondary market sales of XRP constitute offers and sales of investment contracts because that question is not properly before the Court. Whether a secondary market sale constitutes an offer or sale of an investment contract would depend on the totality of circumstances and the economic reality of that specific contract, transaction, or scheme. _See Marine Bank,_ 455 U.S. at 560 n.11; _Telegram,_ 448 F. Supp. 3d at 379; _see also_ ECF No. 105 at 34:14-16, _LBRY,_ No. 21 Civ. 260 (D.N.H. Jan. 30, 2023) (declining to extend holding to include secondary sales).
-. [[sec_ripple_footnote_17]] Because the Court finds that the record does not establish the third _Howey_ prong as to the Programmatic Sales, the Court does not reach whether the first or second _Howey_ prongs have been satisfied. 
-. [[sec_ripple_footnote_18]] Because the Court determines that the record does not establish the first _Howey_ prong as to the Other Distributions, the Court does not reach whether the second or third _Howey_ prongs have been satisfied.
-. [[sec_ripple_footnote_19]] For the reasons stated, the Court need not address Defendants’ argument that Larsen and Garlinghouse are entitled to summary judgment on offers and sales on “foreign exchanges.” _See_ Defs. Mem. at 58–74.
-. [[sec_ripple_footnote_20]] Because the Court finds that only the Institutional Sales constituted the offer and sale of investment contracts, the Court does not address Defendants’ asserted fair notice defense as to the other transactions and schemes. The Court’s holding is limited to the Institutional Sales because the SEC’s theories as to the other sales in this case are potentially inconsistent with its enforcement in prior digital asset cases. _See Upton v. SEC,_ 75 F.3d 92, 98 (2d Cir. 1996).
 
 * * *
 
