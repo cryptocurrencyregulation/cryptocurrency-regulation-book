@@ -1124,23 +1124,6 @@ Accordingly, the SEC’s motion for summary judgment on the aiding and abetting 
 [.text-justify]
 &emsp;For the foregoing reasons, the SEC’s motion for summary judgment is GRANTED as to the Institutional Sales, and otherwise DENIED. Defendants’ motion for summary judgment is GRANTED as to the Programmatic Sales, the Other Distributions, and Larsen’s and Garlinghouse’s sales, and DENIED as to the Institutional Sales.
 
-
-
-
-
-|===
-
-&nbsp; 
-
-&nbsp; 
-
-&nbsp; 
-
-* * *
-
-[.text-justify]
-
-
 * * *
 
 [[sec_ripple_questions]]
@@ -1152,6 +1135,7 @@ Accordingly, the SEC’s motion for summary judgment on the aiding and abetting 
 # Ripple SECTION END
 #<<<<<<<<<<
 ////
+
 
 
 ////
