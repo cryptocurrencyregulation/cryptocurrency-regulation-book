@@ -1,5 +1,5 @@
-[role="pagenumrestart"]
-== Initial Coin Offerings and Cryptocurrency Sales Chapter 2 ==
+[[ico-chapter]]
+== Chapter 2: Initial Coin Offerings and Cryptocurrency Sales ==
 
 After Bitcoin became popular, over ten thousand other cryptocurrencies were created by invidusals and organizations.  Some of these cryptocurrencies were very similar to Bitcoin, other currencies were signficiantly different in a variety of ways.  We will discuss several of these currencies over the following chapters, including Ethereum and Ripple.  
 

@@ -1,5 +1,5 @@
 [[bitcoin_chapter]]
-== Bitcoin Chapter 1 ==
+== Chapter 1: Bitcoin ==
 
 The primary focus of this book is decisions by U.S. Federal Courts, but any serious discussion of cryptocurreny must begin with the Bitcoin White paper by Satoshi Nakamoto.  This chapter begins with the Bitcoin white paper and then continues with the most famous bitcoin case in U.S. vs. Ulbricht.  
 
@@ -156,12 +156,13 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 [[ulbricht]]
 [role=excerpt-section]
-=== United States v. Ulbricht ===
+=== The Silk Road Marketplace ===
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
-15-1815-cr
-United States v. Ulbricht
+>|_United States v. Ulbricht_
+>| 
+image::excerpt.png[]
 |===
 
 

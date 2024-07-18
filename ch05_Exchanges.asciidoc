@@ -1,5 +1,5 @@
-[[ch05_exchanges]]
-== Cryptocurrency Exchanges ==
+[[exchanges_chapter]]
+== Chapter 5: Cryptocurrency Exchanges ==
 
 Some of the most famous events involving cryptocurrency involve cryptocurrency exchanges.  Mt. Gox was the largest exchange of its time until it filed for bankruptcy in February 2014 after a series of heists that saw up to 950,000 bitcoin stolen by hackers.  FTX had a very visible brand, including sponsorship of the Mimai Heat Arena and celebrity brand supporters including Tom Brady, prior to its collapse in November, 2022.  
 

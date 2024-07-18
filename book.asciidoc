@@ -1,8 +1,9 @@
-= Crytpo Regulation =
+= Crytpo Regulations =
 :doctype: book
 :pdf-page-size: letter
 :pdf-page-margin: [1in, 1in]
 :text-align: justify
+
 :toc:
 
 include::ch00-Introduction.asciidoc[]

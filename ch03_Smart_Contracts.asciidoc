@@ -1,4 +1,5 @@
-== Smart Contracts Chapter 3 ==
+[[smart-contracts-chapter]]
+== Chapter 3: Smart Contracts ==
 
 Smart contracts enable programmatic payments over a blockchain as described in chapter 2.  Chapter 3 asks the question of whether a smart contract itself can be the target of legal action.  
 

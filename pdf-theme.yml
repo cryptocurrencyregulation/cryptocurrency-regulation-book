@@ -1,0 +1,20 @@
+extends: default
+header:
+  height: 0.75in
+  line-height: 1
+  recto:
+  
+    center:
+      content: '{document-title}'
+  verso:
+    center:
+      content: $header-recto-center-content
+footer:
+  height: 0.75in
+  line-height: 1
+  recto:
+    right:
+      content: '{section-or-chapter-title} | {page-number}'
+  verso:
+    left:
+      content: '{page-number} | *{chapter-title}*'
