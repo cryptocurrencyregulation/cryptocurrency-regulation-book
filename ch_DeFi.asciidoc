@@ -432,17 +432,17 @@ Accordingly, it is hereby ORDERED that:
 . Pursuant to Section 8A of the Securities Act, Respondent cease and desist from committing or causing any violations and any future violations of Sections 5(a) and 5(c) of the Securities Act.
 . Respondent shall pay a civil money penalty in the amount of $22,500,000.00 to the Securities and Exchange Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). Payment shall be made in the following installments: +
 &nbsp; +
-1&period; Due within 14 days of the entry of this Order: $7,500,000 +
-2&period; Due within 120 days of the entry of this Order: $5,000,000 +
-3&period; Due within 240 days of the entry of this Order: $5,000,000 +
-4&period; Due within 365 days of the entry of this Order: $5,000,000 +
+1&#46; Due within 14 days of the entry of this Order: $7,500,000 +
+2&#46; Due within 120 days of the entry of this Order: $5,000,000 +
+3&#46; Due within 240 days of the entry of this Order: $5,000,000 +
+4&#46; Due within 365 days of the entry of this Order: $5,000,000 +
 &nbsp; +
 Payments shall be applied first to post-order interest, which accrues pursuant to 31 U.S.C. § 3717. Prior to making the final payment set forth herein, Respondent shall contact the staff of the Commission for the amount due. If Respondent fails to make any payment by the date agreed and/or in the amount agreed according to the schedule set forth above, all outstanding payments under this Order, including post-order interest, minus any payments made, shall become due and payable immediately at the discretion of the staff of the Commission without further application to the Commission. +
 Payment must be made in one of the following ways: +
 &nbsp; +
-1&period; Respondent may transmit payment electronically to the Commission, which will provide detailed ACH transfer/Fedwire instructions upon request; +
-2&period; Respondent may make direct payment from a bank account via Pay.gov through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or +
-3&period; Respondent may pay by certified check, bank cashier’s check, or United States postal money order, made payable to the Securities and Exchange Commission and hand-delivered or mailed to: +
+1&#46; Respondent may transmit payment electronically to the Commission, which will provide detailed ACH transfer/Fedwire instructions upon request; +
+2&#46; Respondent may make direct payment from a bank account via Pay.gov through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or +
+3&#46; Respondent may pay by certified check, bank cashier’s check, or United States postal money order, made payable to the Securities and Exchange Commission and hand-delivered or mailed to: +
 &nbsp; +
 [.quoteblock]##Enterprise Services Center +
 Accounts Receivable Branch +
@@ -513,15 +513,15 @@ SAN FRANCISCO DIVISION*
 
 |SECURITIES AND EXCHANGE COMMISSION, +
 &nbsp; +
-&emsp;&emsp;&emsp;Plaintiff, +
+&#8195;&#8195;&#8195;Plaintiff, +
 &nbsp; +
-&emsp;v. +
+&#8195;v. +
 &nbsp; +
 PAYWARD VENTURES, INC. (D/B/A KRAKEN); +
 and +
 PAYWARD TRADING, LTD. (D/B/A KRAKEN), +
 &nbsp; +
-&emsp;&emsp;&emsp;Defendents.
+&#8195;&#8195;&#8195;Defendents.
 
 |&nbsp; +
 &nbsp; +
@@ -945,23 +945,23 @@ File No. 3-20758*
 |&nbsp; +
 In the Matter of +
 &nbsp; +
-&emsp;&emsp;&emsp;BLOCKFI LENDING LLC, +
+&#8195;&#8195;&#8195;BLOCKFI LENDING LLC, +
 &nbsp; +
 Respondent. +
 &nbsp; |ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS PURSUANT TO SECTION 8A OF THE SECURITIES ACT OF 1933 AND SECTION 9(f) OF THE INVESTMENT COMPANY ACT OF 1940, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER
 |===
 [.text-center]
-*I&period;*
+*I&#46;*
 [.text-justify]
 The Securities and Exchange Commission (“Commission”) deems it appropriate that public cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 8A of the Securities Act of 1933 (“Securities Act”) and Section 9(f) of the Investment Company Act of 1940 (“Investment Company Act”) against BlockFi Lending LLC (“BlockFi” or “Respondent”).
 
 [.text-center]
-*II&period;*
+*II&#46;*
 [.text-justify]
 In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the “Offer”) which the Commission has determined to accept. Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the Commission, or to which the Commission is a party, and without admitting or denying the findings herein, except as to the Commission’s jurisdiction over it and the subject matter of these proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Ceaseand-Desist Proceedings Pursuant to Section 8A of the Securities Act of 1933 and Section 9(f) of the Investment Company Act of 1940, Making Findings, and Imposing a Cease-And-Desist Order (“Order”), as set forth below.
 
 [.text-center]
-*III&period;*
+*III&#46;*
 [.text-justify]
 On the basis of this Order and Respondent’s Offer, the Commission findsxref:blockfi_lending_ftnote_1[^*1*^]
 that:
@@ -1083,14 +1083,14 @@ image::media/blockfi_lending_image2.png[align=center]
 .. Filing a notification of registration pursuant to Section 8(a) of the Investment Company Act, and then within 90 days of filing such notification of registration, filing a registration statement with the Commission, on the appropriate form; or 
 .. Completing steps such that BlockFi is no longer required to be registered under Section 7(a) of the Investment Company Act and providing the Commission staff with sufficient credible evidence that it is no longer required to be registered under the Investment Company Act.
 
-&emsp;&nbsp; The Commission staff may grant a single 30-day extension for good cause shown.
+&#8195;&nbsp; The Commission staff may grant a single 30-day extension for good cause shown.
 
 [.text-justify, start=44]
 . A Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield (or any similar product) will not be declared effective if, among other things, BlockFi Inc., or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, is not in compliance with Section 7(a) of the Investment Company Act. If a Form S-1 registration statement filed by BlockFi Inc. for BlockFi Yield is declared effective, BlockFi undertakes to, 180 days after the effectiveness date, provide the Commission staff with sufficient credible evidence to affirm that BlockFi, or any subsidiary or affiliate involved in the BlockFi Yield investment product or in the borrowing or lending of crypto assets to external parties, continues to be in compliance with Section 7(a) of the Investment Company Act.
 . BlockFi undertakes to certify, in writing, compliance with each undertaking set forth above. Each certification shall identify the undertaking(s), provide written evidence of compliance in the form of a narrative, and be supported by exhibits sufficient to demonstrate compliance. The Commission staff may make reasonable requests for further evidence of compliance, and BlockFi agrees to provide such evidence. Each certification and supporting material shall be submitted to Kristina Littman, Chief, Cyber Unit, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549, with a copy to the Office of Chief Counsel of the Division of Enforcement, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549, no later than 30 days from the date of the completion of each undertaking.
 
 [.text-center]
-*IV&period;*
+*IV&#46;*
 
 [.text-justify]
 In view of the foregoing, the Commission deems it appropriate to impose the sanctions agreed to in Respondent’s Offer.
@@ -1102,29 +1102,29 @@ Accordingly, it is hereby ORDERED that:
 . Respondent shall comply with the undertakings set forth in Section III, paragraphs 42 through 45 above.
 . Respondent shall pay a civil money penalty in the amount of $50,000,000.00 to the Securities and Exchange Commission for transfer to the general fund of the United States Treasury, subject to Exchange Act 21F(g)(3). Payment shall be made in the following installments: +
 &nbsp; +
-&emsp;1&period;&emsp;Due within 14 days of the entry of this Order: $10,000,000 (the “Initial Payment”) +
-&emsp;2&period;&emsp;Due 180 days of the entry of this Order: $10,000,000 +
-&emsp;3&period;&emsp;Due 365 days of the entry of this Order: $10,000,000 +
-&emsp;4&period;&emsp;Due 545 days of the entry of this Order: $10,000,000 +
-&emsp;5&period;&emsp;Due 730 days of the entry of this Order: $10,000,000 +
+&#8195;1&#46;&#8195;Due within 14 days of the entry of this Order: $10,000,000 (the “Initial Payment”) +
+&#8195;2&#46;&#8195;Due 180 days of the entry of this Order: $10,000,000 +
+&#8195;3&#46;&#8195;Due 365 days of the entry of this Order: $10,000,000 +
+&#8195;4&#46;&#8195;Due 545 days of the entry of this Order: $10,000,000 +
+&#8195;5&#46;&#8195;Due 730 days of the entry of this Order: $10,000,000 +
 &nbsp; +
 Payments shall be applied first to post-order interest, which accrues pursuant to 31 U.S.C. 3717. Prior to making the final payment set forth herein, Respondent shall contact the staff of the Commission for the amount due. If Respondent fails to make any payment by the date agreed and/or in the amount agreed according to the schedule set forth above, all outstanding payments under this Order, including post-order interest, minus any payments made, shall become due and payable immediately at the discretion of the staff of the Commission without further application to the Commission. +
 &nbsp; +
-&emsp;&emsp;Payment must be made in one of the following ways: +
+&#8195;&#8195;Payment must be made in one of the following ways: +
 &nbsp; +
-&emsp;&emsp;(1)&emsp;Respondent may transmit payment electronically to the Commission, +
-&emsp;&emsp;&emsp;&emsp; which will provide detailed ACH transfer/Fedwire instructions upon request; +
-&emsp;&emsp;(2)&emsp;Respondent may make direct payment from a bank account via Pay.gov +
-&emsp;&emsp;&emsp;&emsp; through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or +
-&emsp;&emsp;(3)&emsp;Respondent may pay by certified check, bank cashier’s check, or United  +
-&emsp;&emsp;&emsp;&emsp; States postal money order, made payable to the Securities and Exchange +
-&emsp;&emsp;&emsp;&emsp; Commission and hand-delivered or mailed to: +
+&#8195;&#8195;(1)&#8195;Respondent may transmit payment electronically to the Commission, +
+&#8195;&#8195;&#8195;&#8195; which will provide detailed ACH transfer/Fedwire instructions upon request; +
+&#8195;&#8195;(2)&#8195;Respondent may make direct payment from a bank account via Pay.gov +
+&#8195;&#8195;&#8195;&#8195; through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or +
+&#8195;&#8195;(3)&#8195;Respondent may pay by certified check, bank cashier’s check, or United  +
+&#8195;&#8195;&#8195;&#8195; States postal money order, made payable to the Securities and Exchange +
+&#8195;&#8195;&#8195;&#8195; Commission and hand-delivered or mailed to: +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;Enterprise Services Center +
-&emsp;&emsp;&emsp;&emsp;&emsp;Accounts Receivable Branch +
-&emsp;&emsp;&emsp;&emsp;&emsp;HQ Bldg., Room 181, AMZ-341 +
-&emsp;&emsp;&emsp;&emsp;&emsp;6500 South MacArthur Boulevard +
-&emsp;&emsp;&emsp;&emsp;&emsp;Oklahoma City, OK 73169 +
+&#8195;&#8195;&#8195;&#8195;&#8195;Enterprise Services Center +
+&#8195;&#8195;&#8195;&#8195;&#8195;Accounts Receivable Branch +
+&#8195;&#8195;&#8195;&#8195;&#8195;HQ Bldg., Room 181, AMZ-341 +
+&#8195;&#8195;&#8195;&#8195;&#8195;6500 South MacArthur Boulevard +
+&#8195;&#8195;&#8195;&#8195;&#8195;Oklahoma City, OK 73169 +
 &nbsp; +
 Payments by check or money order must be accompanied by a cover letter identifying BlockFi Lending LLC as Respondent in these proceedings, and the file number of these proceedings; a copy of the cover letter and check or money order must be sent to Kristina Littman, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549.
 . Amounts ordered to be paid as civil money penalties pursuant to this Order shall be treated as penalties paid to the government for all purposes, including all tax purposes. To preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor Action, they shall not argue that they are entitled to, nor shall they benefit by, offset or reduction of any award of compensatory damages by the amount of any part of Respondent’s payment of a civil penalty in this action (“Penalty Offset”). If the court in any Related Investor Action grants such a Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed an additional civil penalty and shall not be deemed to change the amount of the civil penalty imposed in this proceeding. For purposes of this paragraph, a “Related Investor Action” means a private damages action brought against Respondent by or on behalf of one or more investors based on substantially the same facts as alleged in the Order instituted by the Commission in this proceeding.
@@ -1132,13 +1132,13 @@ Payments by check or money order must be accompanied by a cover letter identifyi
 [cols="1a,1a", width=100%, frame=none, grid=none]
 |===
 |&nbsp; +
-&emsp;&emsp;&emsp;By the Commission.
+&#8195;&#8195;&#8195;By the Commission.
 |&nbsp; +
 &nbsp; +
 &nbsp; +
 &nbsp; +
-&emsp;Vanessa A. Countryman +
-&emsp;Secretary
+&#8195;Vanessa A. Countryman +
+&#8195;Secretary
 |===
 
 &lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;

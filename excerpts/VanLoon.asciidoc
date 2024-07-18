@@ -35,13 +35,13 @@ AUSTIN DIVISION
 |===
 |JOSEPH VAN LOON, et al., +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;Plaintiffs, +
+&#8195;&#8195;&#8195;&#8195;Plaintiffs, +
 &nbsp; +
 v. +
 &nbsp; +
 DEPARTMENT OF TREASURY, et al., +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;Defendants. +
+&#8195;&#8195;&#8195;&#8195;Defendants. +
 &nbsp;
 ^| &nbsp; +
 &nbsp; +
@@ -62,16 +62,16 @@ Loon, Tyler Almeida, Alexander Fisher, Preston Van Loon, Kevin Vitale, and Nate 
 Foreign Assets Control (“OFAC”), Janet Yellen, and Andrea M. Gacki (together, “Defendants” or “government”), (Dkt. 80). Having considered the parties’ arguments, the evidence, and the relevant law, the Court will deny Plaintiffs’ motion and grant Defendants’ motion for summary judgment. 
 
 [.text-center]
-*I&period; BACKGROUND* 
+*I&#46; BACKGROUND* 
 
 [.text-justify]
 This case is about Tornado Cash—but the parties disagree on how to characterize Tornado Cash. Plaintiffs contend that Tornado Cash is a decentralized, open-source software project comprised of a subset of smart contracts, or “pools,” on the Ethereum blockchain. (Pls.’ Mot. Summ. J., Dkt. 41, at 10). In contrast, the government argues that Tornado Cash is an organization that runs a cryptocurrency mixing service. (Def’s. Mot. Summ. J., Dkt. 80, at 10). It is undisputed that the Department of Treasury’s Office of Foreign Assets Control added Tornado Cash to the Specially Designated Nationals and Blocked Persons (“SDN”) List. Plaintiffs argue that the designation exceeds the Department’s statutory authority over foreign nationals’ interests in property and violates the Free Speech Clause. 
 
 [.text-center]
-A&period; Technical Background 
+A&#46; Technical Background 
 
 [.text-center]
-1&period; [underline]#Cryptocurrency and Blockchain Technology# 
+1&#46; [underline]#Cryptocurrency and Blockchain Technology# 
 
 [.text-justify]
 The government describes “cryptocurrency” as follows: Cryptocurrency is a type of virtual currency that can be traded and exchanged on blockchains, and that can be used for payment or investment purposes. (_See_ Admin. Record (“A.R.”) Vol. 1, Dkt. 91-1, at 22–23; A.R. Vol. 23, Dkt. 91-3, at 157–58). A “blockchain” is a decentralized ledger, or record of transactions, that relies on an online network of users to maintain the ledger’s accuracy. (A.R. Vol. 1, Dkt. 91-1, at 23; A.R. Vol. 2, Dkt. 91-2, at 97). Cryptocurrency can be exchanged “directly person to person, through a cryptocurrency exchange, or through other intermediaries.” (A.R. Vol. 1, Dkt. 91-1, at 23; A.R. Vol. 3, Dkt. 91-3, at 158). Cryptocurrency is typically stored within a digital “wallet,” which functions like a virtual account integrated into the blockchain and is identified by a “wallet address.” (A.R. Vol. 1, Dkt. 91-1, at 23–24; A.R. Vol. 3, Dkt. 91-3, at 158). Wallets can generate or store “keys” that are used to send and receive cryptocurrency. (A.R. Vol. 3, Dkt. 91-3, at 158). Those keys include public keys, which are analogous to bank account numbers, and private keys, which function like a personal identification number or password. (_Id._). 
@@ -90,7 +90,7 @@ DAOs often describe themselves as highly decentralized and democratized, (_see, 
 Dkt. 91-3, at 151), the actual governance authority of DAOs is often highly concentrated, (A.R. Vol. 1, Dkt. 91-1, at 151), and the core developer group often remains closely involved in managing, promoting, and proposing changes to the protocol to be voted upon by the DAO, (_see, e.g._, id. at 53; A.R. Vol. 2, Dkt. 91-2, at 125). 
 
 [.text-center]
-2&period; [underline]#Ethereum#
+2&#46; [underline]#Ethereum#
 
 [.text-justify]
 According to the government, Ethereum is a prominent virtual currency blockchain. (A.R. Vol. 1, Dkt. 91-1, at 27; A.R. Vol. 2, Dkt. 91-2, at 79). A transaction on the Ethereum blockchain generally involves the transfer of Ether (“ETH”)—the native cryptocurrency of the Ethereum blockchain, (A.R. Vol. 2, Dkt. 91-2, at 65)—from one account to another, (id. at 80). An Ethereum account is a wallet with an ETH balance that can be used to execute transactions on the Ethereum blockchain. (A.R. Vol. 1, Dkt. 91-1, at 142). There are two kinds of Ethereum accounts: (1) “externally owned” accounts, which are effectively wallets that may be controlled by anyone with the corresponding private keys, and (2) “smart contracts,” or “pools” which are software programs deployed directly onto the Ethereum network, and which may be run by Ethereum users who satisfy the program’s conditions. (Id. at 143). Smart contracts allow users to route digital asset deposits and withdrawals by generating a randomized key upon deposit, which the depositing user can later use to withdraw the funds. (Blockchain Ass’n.’s Amici Br., Dkt. 49, at 12–13). 
@@ -102,7 +102,7 @@ Externally owned accounts allow users to initiate transactions for ETH or token 
 Unlike an externally owned account, a smart contract is computer code that is stored directly on the Ethereum blockchain, and which automatically executes all or parts of an agreement, pursuant to its specifications. (A.R. Vol. 3, Dkt. 91-3, at 228). The deployment of a smart contract to the blockchain has a cost, which is exacted in the form of gas. (Id.). Once deployed, authorized users (or other smart contracts) can execute the code. (Id.). The fee for executing a smart contract is determined by the complexity of the smart contract. (Id.). 
 
 [.text-center]
-3&period; [underline]#Cryptocurrency mixers#
+3&#46; [underline]#Cryptocurrency mixers#
 
 [.text-justify]
 According to the government, cryptocurrency mixing services, known as “mixers” or “tumblers,” are designed to obscure the source or owner of particular cryptocurrency units, thereby allowing users to remain anonymous. (Id. at 211). A mixer customer typically directs mixer software to send a certain number of cryptocurrency units to a specific address that is controlled by the mixer, for a fee. (Id.). The mixer then takes the sender’s cryptocurrency units and pools them together with the cryptocurrency of other users (i.e., “mixes” the cryptocurrency) before delivering the specified number of units to the requested destination. (Id.). This renders it difficult to determine the link between a sender and recipient wallet account. (Id.). 
@@ -111,7 +111,7 @@ According to the government, cryptocurrency mixing services, known as “mixers�
 Mixers are sometimes operated via smart contracts. (See A.R. Vol. 2, Dkt. 91-2, at 38). To initiate a transaction, a user sends the cryptocurrency to the mixer and, in return, receives a cryptographic “note,” or password, proving that they are the depositor. (Id.). The deposited cryptocurrency is then mixed with cryptocurrency units of other users. (Id.). At a time of the user’s choosing, the user sends the note back to the mixer and withdraws the designated amount to a specified recipient address. (Id.). The withdrawal transaction is typically initiated by the withdrawal wallet address alone, to ensure that no connection can be drawn between sender and recipient. (See id. at 123). However, because every transaction requires that the account initiating the transaction pay “gas,” the withdrawal account must be prefunded with Ether to pay that fee. (Id.). Because prefunding the withdrawal account would allow the source of the pre-existing balance to be traced, transactions are often executed with the aid of service providers called “relayers,” who both provide a fee to the mixer and collect a fee from the depositor, in exchange for initiating the withdrawal transaction. (Id.). Relayers provide an extra layer of anonymity by eliminating the requirement to prefund the recipient account. (See id.). 
 
 [.text-center]
-4&period; [underline]#Tornado Cash#
+4&#46; [underline]#Tornado Cash#
 
 [.text-justify]
 Plaintiffs describe Tornado Cash as a “decentralized, open-source software project made of the smart contracts on the Ethereum blockchain.” (Pls.’ Mot., Dkt. 41, at 10 (citing A.R. Vol. 2, Dkt. 91-2, at 8)). According to Plaintiffs, unlike mixing services, Tornado Cash is an autonomous software, and its users rely on smart contracts that are immutable, autonomous, and self-executing. 
@@ -127,10 +127,10 @@ The parties also differ in their characterization of the smart contracts. It is 
 The parties also dispute Tornado Cash’s use of relayers. Relayers withdraw funds from the Tornado Cash pool on a user’s behalf, to further obscure the source of funds. (A.R. Vol. 1, Dkt. 911, at 57). The government argues that Tornado Cash collects fees through relayers, third parties who have agreed to provide an extra layer of anonymity enhancement to avoid the need for users to prefund a recipient account. (Id. at 56–60 & n.113, 951). Plaintiffs claim that relayers are an optional, privacy-enhancing service, but according to the government, eighty-four percent of Tornado Cash transactions use relayers. (Id., Dkt. 91-1, at 58; id. at 58 n.11). 
 
 [.text-center]
-B&period; Legal Background 
+B&#46; Legal Background 
 
 [.text-center]
-1&period; [underline]#The International Emergency Economic Powers Act#
+1&#46; [underline]#The International Emergency Economic Powers Act#
 
 [.text-justify]
 The International Emergency Economic Powers Act (“IEEPA”) authorizes the President to declare national emergencies “to deal with any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States, to the national security, foreign policy, or economy of the United States.” 50 U.S.C. § 1701(a). Once a national emergency is declared, IEEPA authorizes the President to:  +
@@ -150,13 +150,13 @@ E.O. 13694, as amended by E.O. 13757, further authorizes the Secretary “to tak
 Subsequently, the Secretary delegated to the Director of OFAC the authority to block persons under E.O. 13694, as amended. See 31 C.F.R. § 578.802. Pursuant to that delegation, OFAC promulgated regulations to implement E.O. 13694, as amended. See 31 C.F.R. pt. 578. OFAC’s regulations provide bases and procedures for any blocked person to challenge their designation and establishes procedures for OFAC’s consideration of and response to any such challenge. Id. § 501.807. These regulations also allow for OFAC to issue general and specific licenses that would authorize transactions otherwise prohibited by the sanctions. See id. § 578.404. 
 
 [.text-center]
-2&period; [underline]#Executive Order Providing for Sanctions with Respect to North Korea#
+2&#46; [underline]#Executive Order Providing for Sanctions with Respect to North Korea#
 
 [.text-justify]
 Pursuant to IEEPA, the President issued E.O. 13722 on March 15, 2016. Exec. Order No. 13722, 81 Fed. Reg. 14,943 (March 18, 2016). The President explained that “the Government of North Korea’s continuing pursuit of its nuclear and missile programs . . . increasingly imperils the United States and its allies.” Id. The President therefore blocked the property and interests in property of the Government of North Korea and the Workers’ Party of Korea. Id. § 1(a). In addition, the President blocked persons determined “to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of” the Government of North Korea. Id. § 2(a)(vii). E.O. 13694 authorizes the Secretary of the Treasury “to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA [and the United Nations Participation Act of 1945] as may be necessary to carry out the purposes of this order.” E.O. 13694, § 8. The Secretary later delegated to the Director of OFAC the authority to block persons under E.O. 13722, and OFAC promulgated implementing regulations in response. See 31 C.F.R. pt. 510. 
 
 [.text-center]
-C&period; OFAC’s Designation of Tornado Cash
+C&#46; OFAC’s Designation of Tornado Cash
 
 [.text-justify]
 On August 8, 2022, OFAC designated Tornado Cash pursuant to E.O. 13694, as amended. See Press Release, U.S. Dep’t of the Treasury, U.S. Treasury Sanctions Notorious Virtual Currency Mixer Tornado Cash, https://perma.cc/AY3X-Z8JG. The accompanying press release asserted that Tornado Cash “indiscriminately facilitates anonymous transactions by obfuscating their origin, destination, and counterparties, with no attempt to determine their origin.” Id. OFAC noted that illicit actors often use mixing services like Tornado Cash to launder funds. Id. The press release claims that Tornado Cash has laundered hundreds of millions of dollars’ worth of virtual currency since its creation in 2019, including hundreds of millions of dollars for the Lazarus Group, a North Korean state-sponsored hacking group. Id. 
@@ -171,7 +171,7 @@ People’s Republic of Korea,” or “DPRK”) activities, and to consider addi
 OFAC also designated Tornado Cash for having materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, the Government of North Korea, pursuant to section 2(a)(vii) of E.O. 13722. (Id. at 74–77). OFAC first determined that the Lazarus Group constituted an agency, instrumentality, or controlled entity of the Government of North Korea based on its relationship with the Reconnaissance General Bureau, North Korea’s primary intelligence bureau. (Id. at 74). Furthermore, as discussed above, Tornado Cash is alleged to have facilitated the laundering of the $600 million proceeds stolen by the Lazarus Group. (Id. at 76). OFAC also asserted that Tornado Cash facilitated the laundering of $100 million in proceeds stemming from a separate virtual currency theft allegedly perpetrated by the Lazarus Group.. (Id. at 76–77).  
 
 [.text-center]
-D&period; Procedural History 
+D&#46; Procedural History 
 
 [.text-justify]
 Plaintiffs filed their original complaint on September 8, 2022. (Dkt. 1). They amended their complaint on November 22, 2022. (Dkt. 21). They bring claims under the Administrative Procedure Act (“APA”), the First Amendment’s Free Speech Clause, and the Fifth Amendment’s Due Process Clause. (Id. at 23–26). 
@@ -180,7 +180,7 @@ Plaintiffs filed their original complaint on September 8, 2022. (Dkt. 1). They a
 The parties filed competing motions for summary judgment. (Pls.’ Mot., Dkt. 41; Defs. Mot., Dkt. 80). In their motion, Plaintiffs argue that OFAC’s designation of Tornado Cash exceeds the Department’s statutory authority over foreign nationals’ interests in property and violates the Free Speech Clause. Specifically, Plaintiffs argue that: (1) Tornado Cash is neither a foreign “national” or “person” under IEEPA nor a “person” under the North Korea Act; (2) the smart-contracts components of the designation are not “property” that can be regulated under either of the acts; and (3) Tornado Cash cannot have a property interest in those components. (Pls.’ Mot., Dkt. 41, at 17– 27). Plaintiffs further argue that the Department’s actions violate their rights of free speech. (Id. at 27–29). The government, on the other hand, argues that Tornado Cash is an entity that may be designated and that it has a property interest in the smart contracts. (Defs.’ Mot., Dkt. 18–35). The government also argues that the designation does not restrict Plaintiffs’ protected speech, and that, in any case, any such restriction would be lawful under the applicable constitutional standard. (Id. at 36–40). 
 
 [.text-center]
-*II&period; LEGAL STANDARD*
+*II&#46; LEGAL STANDARD*
 
 [.text-justify]
 “Summary judgment is [the] appropriate procedure for resolving a challenge to a federal agency’s administrative decision when review is based upon the administrative record, even though the Court does not employ the standard of review set forth in the rule governing summary judgment motions.” Larson v. Geren, No. SA-08-CA-722-FB, 2010 WL 11542078, at *4 (W.D. Tex. Apr. 14, 2010) (internal quotation marks omitted), aff’d, 432 F. App’x 356 (5th Cir. 2011). When judicial review is sought under 5 U.S.C. § 706, “the focal point for judicial review should be the administrative record already in existence, not some new record made initially in the reviewing court.” Camp v. Pitts, 411 U.S. 138, 142 (1973) (per curiam). 
@@ -189,13 +189,13 @@ The parties filed competing motions for summary judgment. (Pls.’ Mot., Dkt. 41
 The APA directs that a “court shall review the whole record or those parts of it cited by a party.” 5 U.S.C. § 706. In APA cases, “[e]vidence cannot be submitted in the reviewing court and the parties are bound by the evidence in the administrative record.” Redmond v. United States, 507 F.2d 1007, 1011 (5th Cir. 1975). As relevant here, an agency action may not be set aside unless it is “arbitrary” and “capricious,” “not in accordance with law,” or “unsupported by substantial evidence.” 5 U.S.C. § 706; see also Holy Land Found. for Relief & Dev. v. Ashcroft (“Holy Land II”), 333 F.3d 156, 162 (D.C. Cir. 2003) (applying these standards to an OFAC designation). In such cases, “a reviewing court is bound by the findings of the administrative agency if those findings are supported by substantial evidence on the administrative record as a whole.” Redmond, 507 F.2d at 1011. “The agency’s decision does not have to be ideal so long as the agency gave at least minimal consideration to relevant facts contained in the record.” Wright v. United States, 164 F.3d 267, 268–69 (5th Cir. 1999) (per curiam). 
 
 [.text-center]
-*III&period; DISCUSSION*
+*III&#46; DISCUSSION*
 
 [.text-center]
-A&period; APA Claims 
+A&#46; APA Claims 
 
 [.text-center]
-1&period; [underline]#Tornado Cash is an Entity that May Be Designated#
+1&#46; [underline]#Tornado Cash is an Entity that May Be Designated#
 
 [.text-justify]
 Under IEEPA, the President may direct the Department to take action “with respect to or transactions involving, any property in which any foreign country or a national thereof has any interest by any person, or with respect to any property, subject to the jurisdiction of the United States.” 50 U.S.C. § 1702(a)(1)(B). Similarly, under the North Korea Act, the Department may take action with respect to the “property and interest in property” of “any person” who knowingly engages in certain enumerated conduct. 22 U.S.C. § 9214(c). Pursuant to these statutes, the President issued two executive orders that authorize the designation of “any person” determined to meet the criteria set forth by the terms of those orders. See E.O. 13,722, § 2(a)(vii); E.O. 13,757, § 1(a)(ii), (iii)(B). 
@@ -223,7 +223,7 @@ Finally, Plaintiffs argue that Tornado Cash cannot be an association because the
 In summary, the Cout finds that Tornado Cash is an association within the ordinary meaning of the term and is therefore an entity that may be designated per OFAC regulations. 
 
 [.text-center]
-2&period; [underline]#Tornado Cash Has a Property Interest in the Smart Contracts#
+2&#46; [underline]#Tornado Cash Has a Property Interest in the Smart Contracts#
 
 [.text-justify]
 Next, Plaintiffs argue that, even if Tornado Cash is a properly designated entity, it does not have a property interest in the smart contacts that have been blocked. Plaintiffs ask the Court to adopt the ordinary meaning of “interest in property”: a “legal or equitable claim to or right in property.” (Pls.’ Mot., Dkt. 41, at 24); Interest, BLACK’S LAW DICTIONARY (11th ed. online 2019). 
@@ -235,7 +235,7 @@ See, e.g., Streber v. Hunter, 221 F.3d 701, 722 (5th Cir. 2000) (rejecting dicti
 Plaintiffs urge the Court to reject broad definition, claiming that OFAC is not entitled to deference when defining unambiguous statutory terms. But “interest in property” is hardly an unambiguous term. For example, the Supreme Court has already interpreted the word “interest” to encompass interests that are not legally enforceable. Regan v. Wald, 468 U.S. 222, 224, 225–26, 233– 34 (1984). Therefore, the Court will reject Plaintiffs’ definition and evaluate whether Tornado Cash has a property interest in the smart contracts based on OFAC’s regulatory definitions. 
 
 [.text-center]
-_a&period; The Smart Contracts are Property Within the Meaning of the Statute_ 
+_a&#46; The Smart Contracts are Property Within the Meaning of the Statute_ 
 
 [.text-justify]
 Plaintiffs contend that the smart contracts are not property because they are incapable of being owned, and that, even if they were, Tornado Cash does not have a “legal or equitable claim or right in property” to them. But OFAC’s regulations define “property” and “interest in property” as follows: +
@@ -249,7 +249,7 @@ The Court finds that OFAC’s determination that the smart contracts constitute 
 In fact, Plaintiffs acknowledge that smart contracts are “like a vending machine” because “the smart contract automatically carries out a particular, predetermined task without additional human intervention.” (Id. at 10). This reinforces the Court’s point. Vending machines are examples of unilateral contracts. And like vending machines, a smart contract is a tool that carries out a particular, predetermined task. The fact that smart contracts do so without additional human intervention, like a vending machine, or that they are immutable, does not affect its status as type of contract and, thus, a type of property within the meaning of the regulation.  
 
 [.text-center]
-_b&period; Tornado Cash Has a Property Interest in the Smart Contracts_
+_b&#46; Tornado Cash Has a Property Interest in the Smart Contracts_
 
 [.text-justify]
 Plaintiffs further argue that Tornado Cash does not have a property interest in the smart contracts. Plaintiffs urge the Court to instead adopt the “ordinary meaning” of “interest,” which would restrict the definition to a “legal or equitable claim or right in property.” Interest, BLACK’S LAW DICTIONARY (11th ed. online 2019). But OFAC’s definition of “interest” is expansive. 31 C.F.R. §§ 510.323, 578.314. The regulations define the word “interest” as “an interest of any nature whatsoever, direct or indirect.” Id. The phrase “any interest” should be construed broadly, and it includes even interests that are not legally enforceable. Regan, 468 U.S. at 224, 225–26, 233–34 (recognizing that the phrase “any interest” should be construed broadly); Holy Land Found. for Relief & Dev. v. Ashcroft, 219 F. Supp. 2d 57, 67 (D.D.C. 2002), aff'd, 333 F.3d 156 (D.C. Cir. 2003) (“IEEPA does not limit the President’s blocking authority to the existence of a legally enforceable interest.”). The beneficial interest Tornado Cash derives from the smart contracts falls within this definition. 
@@ -273,7 +273,7 @@ Finally, Plaintiffs argue that OFAC’s definition is too expansive because “[
 In summary, the Court finds that OFAC’s designation of Tornado Cash does not exceed its statutory powers and is not plainly inconsistent with its regulations. Tornado Cash is an entity that may be designated by OFAC and it has a property interest in the smart contracts it has deployed. Accordingly, the Court will grant summary judgment for the government on this issue. 
 
 [.text-center]
-B&period; First Amendment Claims  
+B&#46; First Amendment Claims  
 
 [.text-justify]
 Plaintiffs also raise a First Amendment claim and argue that Tornado Cash’s designation fails constitutional scrutiny because it is overbroad and not narrowly tailored. The Court will grant summary judgment to the government and dismiss these claims. Plaintiffs have not shown that the government’s action in any way implicates the First Amendment.  
@@ -291,7 +291,7 @@ Instead, Plaintiffs insist that the government may not interfere with their “l
 Plaintiffs also claim that the designation chilled “the right to publish . . . source code,” which other circuits have held is protected speech. (Pls.’ Mot., Dkt. 41, at 29 (citing A.R. Vo. 2, Dkt. 91-2, at 130); see also id. (citing Universal City Studios, Inc. v. Corley, 273 F.3d 429, 447 (2d Cir. 2001); Junger v. Daley, 209 F.3d 481, 485 (6th Cir. 2000). Similarly, amicus curiae Electronic Frontier Foundation argues that OFAC’s designation has had a chilling effect on certain code developers. (Amicus Br., Dkt. 82, at 13–14). However, OFAC’s designation blocks only transactions in property in which Tornado Cash holds an interest, such as the smart contracts. It does not restrict interaction with the open-source code unless these interactions amount to a transaction. Plaintiffs claim that using the code is impossible, since its sole function is to perform transactions. (Pls.’ Reply, Dkt. 87, at 22). Plaintiffs’ characterization is misleading. Developers may, for example, lawfully analyze the code and use it to teach cryptocurrency concepts. They simply cannot execute it and use it to conduct cryptocurrency transactions. Finally, to the extent that the designation could serve to create a chilling effect, Plaintiffs have not claimed, let alone sufficiently demonstrated, that any Plaintiff in this suit has felt inhibited to use the open-source code. Accordingly, the Court will grant summary judgment for Defendants on this claim. 
 
 [.text-center] 
-C&period; Takings Claims
+C&#46; Takings Claims
 
 [.text-justify]
 Plaintiffs Almeida, Van Loon, and Welch also allege that they are unable to access Ether that belongs to them because it is trapped in a Tornado Cash smart-contract pool. Accordingly, they raise Fifth Amendment Takings claims, claiming that they did not receive any process prior to the deprivation. (Compl., Dkt. 21, at 26). However, Plaintiffs did not move for summary judgment on this ground. (Pls.’ Mot. Summ. J., Dkt. 41, at 8, 30). The government moved for summary judgment on all counts. (Defs.’ Mot. Summ. J., Dkt. 80, at 25–26, 52). 

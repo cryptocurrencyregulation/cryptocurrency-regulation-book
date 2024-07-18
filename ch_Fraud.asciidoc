@@ -38,9 +38,9 @@ EASTERN DISTRICT OF MICHIGAN*
 UNITED STATES SECURITIES +
 AND EXCHANGE COMMISSION, +
 &nbsp; +
-&emsp;&emsp;&emsp;Plaintiff, +
+&#8195;&#8195;&#8195;Plaintiff, +
 &nbsp; +
-&emsp;&emsp;&emsp;v. +
+&#8195;&#8195;&#8195;v. +
 &nbsp; +
 NEIL S. CHANDRAN, +
 GARRY J. DAVIDSON, +
@@ -51,7 +51,7 @@ AEO PUBLISHING INC., +
 BANNER CO-OP, INC., and +
 BANNERSGO, LLC, +
 &nbsp; +
-&emsp;&emsp;&emsp;Defendants.
+&#8195;&#8195;&#8195;Defendants.
 |&nbsp;
 |&nbsp; +
 &nbsp; +

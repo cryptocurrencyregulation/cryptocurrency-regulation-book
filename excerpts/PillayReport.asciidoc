@@ -2,8 +2,8 @@
 
 [quote, FINAL REPORT OF SHOBA PILLAY&comma; EXAMINER for Celsius Network et al.&comma; Case No. 22-10964 (MG), https://cases.stretto.com/public/x191/11749/PLEADINGS/1174901312380000000039.pdf ]
 ____
-&period;&period;&period;&period; +
-&period;&period;&period;&period;
+&#46;&#46;&#46;&#46; +
+&#46;&#46;&#46;&#46;
 
 *[underline]#Part One: Investigation Background.#*
 
@@ -222,8 +222,8 @@ Based on Mazar’s advice, Celsius Network (UK) believes that it was not require
 
 The Examiner’s Final Report is the culmination of her review of voluminous data and records, as well as information gathered during interviews of current and former Celsius employees, customers, and vendors. The Examiner also met with numerous interested parties, including representatives of Celsius, the Unsecured Creditors’ Committee, state and federal regulatory agencies, and the ad hoc committees from whom she gathered relevant information.
 
-&period;&period;&period;&period;+
-&period;&period;&period;&period;
+&#46;&#46;&#46;&#46;+
+&#46;&#46;&#46;&#46;
 
 
 [[sec_pillay_footnote_1]]

@@ -326,13 +326,13 @@ image::media/ch03_kwonzi_05.jpg[]
 . For instance, in a presentation aired on CNBC Africa that Terraform made available to U.S. investors when it posted it to YouTube on October 14, 2019, Kwon discussed Chai in depth, explaining:   
 [none]
 ... [I]n the backend, it uses Terra’s blockchain technology to solve some major pain points and problems for the merchants. +
- &period; &period; &period; +
+ &#46; &#46; &#46; +
 But in the backend is where the real magic starts to happen. And I contend that Terra solves two of the biggest roadblocks to the adoption of digital payments in Asia and the rest of the world.  So the first is slow settlement periods. +
- &period; &period; &period; +
+ &#46; &#46; &#46; +
 Terra settles in six seconds.  So every block for every transaction that has been made, we batch it up and then send it to the merchant so they can have easy and early access to working capital should they choose to do so.  The second problem that we solve is high transaction fees. +
- &period; &period; &period; +
+ &#46; &#46; &#46; +
 So in the thirteen weeks in which we have been operational, early response has been quite explosive.  Up - up to today we have had 430,000 shoppers over the Chai gateway, and most of them coming in the last month. And we’ve processed nearly 2,000,000 transactions up to date.  And we think that this number will continue to grow.  In terms of daily active users, Terra and Chai has already surpassed some of the most popular tokens.  Our daily active user numbers today currently stand at around 58,000 users. . . +
- &period; &period; &period; +
+ &#46; &#46; &#46; +
 So, basically what we are going for is to facilitate everyday retail transactions that are powered by Terra. 
 
 [start=129]

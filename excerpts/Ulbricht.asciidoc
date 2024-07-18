@@ -75,7 +75,7 @@ In February 2015, a jury convicted Ross William Ulbricht on seven counts arising
 According to the government, between 2011 and 2013, thousands of vendors used Silk Road to sell approximately $183 million worth of illegal drugs, as well as other goods and services. Ulbricht, acting as DPR, earned millions of dollars in profits from the commissions collected by Silk Road on purchases. In October 2013, the government arrested Ulbricht, seized the Silk Road servers, and shut down the site.
 
 [.text-justify]
-*I&period; Silk Road Investigation*
+*I&#46; Silk Road Investigation*
 
 [.text-justify]
 After Ulbricht created Silk Road in 2011, the site attracted the interest of at least two separate divisions of the Department of Justice:^*(xref:ulbricht_fn_4[4])*^ the United States Attorney's Offices for the District of Maryland and for the Southern District of New York. Throughout the investigations, law enforcement agents knew that the person using Dread Pirate Roberts as his or her Silk Road username had created and managed the site, but they did not know DPR's actual identity. In 2012 and 2013, agents from both offices investigated several individuals who the government suspected were operating Silk Road as DPR. Those individuals included Ulbricht, Anand Athavale, and Mark Karpeles. Ultimately, the New York office identified Ulbricht as DPR, but the Maryland office had investigated and later abandoned the theory that either Athavale or Karpeles might have been Dread Pirate Roberts.
@@ -89,7 +89,7 @@ After Ulbricht created Silk Road in 2011, the site attracted the interest of at 
 Two aspects of the pre-arrest investigation into Ulbricht are particularly relevant to this appeal: (1) the pen/trap orders that the government obtained to monitor Internet Protocol ("IP") address traffic to and from various devices associated with Ulbricht; and (2) the corrupt behavior of two Baltimore agents who worked on the Silk Road investigation.
 
 [.text-justify]
-*A&period; The Pen/Trap Orders*
+*A&#46; The Pen/Trap Orders*
 
 [.text-justify]
 In September 2013, after Ulbricht became a primary suspect in the DPR investigation, the government obtained five "pen/trap" orders. See 18 U.S.C. §§ 3121 -27 ("Pen/Trap Act"). The orders authorized law enforcement agents to collect IP address data for Internet traffic to and from Ulbricht's home wireless router and other devices that regularly connected to Ulbricht's home router. According to the government's applications for the pen register and trap and trace device, "[e]very device on the Internet is identified by a unique number" called an IP address. S.A. 73.^*(xref:ulbricht_fn_5[5])*^ "This number is used to route information between devices, for example, between two computers." Id. at 73-74. In other words, an "IP address is analogous to a telephone number" because "it indicates the online identity of the communicating device without revealing the communication's content." Id. at 74. Ulbricht does not dispute that description of how IP addresses function.
@@ -102,7 +102,7 @@ In September 2013, after Ulbricht became a primary suspect in the DPR investigat
 The pen/trap orders thus did not permit the government to access the content of Ulbricht's communications, nor did the government "seek to obtain[ ] the contents of any communications." Id. at 75. According to Ulbricht, the government's use of his home Internet routing data violated the Fourth Amendment because it helped the government match Ulbricht's online activity with DPR's use of Silk Road. Ulbricht argues that he has a constitutional privacy interest in IP address traffic to and from his home and that the government obtained the pen/trap orders without a warrant, which would have required probable cause.
 
 [.text-justify]
-*B&period; Corrupt Agents Force and Bridges*
+*B&#46; Corrupt Agents Force and Bridges*
 
 [.text-justify]
 One of the many other tactics that the government used to expose DPR's identity was to find low-level Silk Road administrators who helped DPR maintain the site, obtain their cooperation, take over their Silk Road usernames, and chat with DPR under those identities. The true owners of the administrator accounts would assist in the investigation by helping the government chat with DPR and access various aspects of the site. Government agents would also create their own new usernames and pose as drug dealers or buyers to purchase or sell narcotics and occasionally contact DPR directly. One of the government's principal trial witnesses, Special Agent Jared Der-Yeghiayan, used the former technique to chat with DPR under the name Cirrus. Cirrus had been a member of the Silk Road support staff before the government took over his account, and Der-Yeghiayan frequently used Silk Road's messaging system to communicate with DPR and other administrators as Cirrus. Cirrus also gave the government access to the staff chat, a separate program allowing DPR to communicate only with his employees.
@@ -139,7 +139,7 @@ Force created yet another unauthorized Silk Road account, under the name DeathFr
 As will be explained in more detail below, the district court prevented Ulbricht from introducing evidence at trial related to Force's corruption because doing so would have exposed the ongoing grand jury investigation into Force's conduct. The district court also denied Ulbricht discovery related to the investigation and excluded certain hearsay statements that arguably revealed Force's corruption. Ulbricht contends on appeal that the district court's various rulings concerning evidence related to Force deprived him of a fair trial. Additionally, Ulbricht did not learn of Bridges's corrupt conduct until after trial when the criminal complaint against both agents was unsealed. Thus, in his motion for a new trial, he argued that the belated disclosure violated his due process rights under Brady v. Maryland , 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963). Ulbricht contends on appeal that the district court incorrectly denied that motion.
 
 [.text-justify]
-*II&period; Ulbricht's Arrest*
+*II&#46; Ulbricht's Arrest*
 
 [.text-justify]
 Ulbricht was arrested in a San Francisco public library on October 1, 2013, after the government had amassed significant evidence identifying him as Dread Pirate Roberts. The arrest was successfully orchestrated to catch Ulbricht in the act of administering Silk Road as DPR. Federal agents observed Ulbricht enter the public library, and a few minutes later Dread Pirate Roberts came online in the Silk Road staff chat. Der-Yeghiayan, under the undercover administrator username Cirrus, initiated a chat with DPR, asking him to go to a specific place on the Silk Road site to address some flagged messages from users. Der-Yeghiayan reasoned that this would "force [Ulbricht] to log in under ... his Dread Pirate Roberts account" in the Silk Road marketplace, as well as in the staff chat software. Tr. 331-32.
@@ -151,13 +151,13 @@ Once Der-Yeghiayan knew that DPR had logged onto the flagged message page in the
 A great deal of the evidence against Ulbricht came from the government's search of his laptop and his home after the arrest. On the day of Ulbricht's arrest, the government obtained a warrant to seize Ulbricht's laptop and search it for a wide variety of information related to Silk Road and information that would identify Ulbricht as Dread Pirate Roberts. Ulbricht moved to suppress the large quantity of evidence obtained from his laptop, challenging the constitutionality of that search warrant. Ulbricht argues on appeal that the district court erred in denying his motion to suppress. More details concerning the search warrant will be described in context below.
 
 [.text-justify]
-*III&period; The Trial*
+*III&#46; The Trial*
 
 [.text-justify]
 Ulbricht's trial lasted approximately three weeks, from January 13 through February 4, 2015. Judge Forrest handled the complex and contentious trial with commendable patience and skill. Although Ulbricht does not challenge the sufficiency of the evidence to support the jury's verdict on any of the counts of conviction, we summarize the evidence presented at trial as context for the issues raised on appeal.
 
 [.text-justify]
-*A&period; The Government's Case*
+*A&#46; The Government's Case*
 
 [.text-justify]
 The government presented overwhelming evidence that Ulbricht created Silk Road in 2011 and continued to operate the site throughout its lifetime by maintaining its computer infrastructure, interacting with vendors, crafting policies for site users, deciding what products would be available for sale on the site, and managing a small staff of administrators and software engineers. Defense counsel conceded in his opening statement that Ulbricht did in fact create Silk Road.
@@ -165,7 +165,7 @@ The government presented overwhelming evidence that Ulbricht created Silk Road i
 [.text-justify]
 According to Ulbricht's own words in a 2009 email, Ulbricht originally conceived of Silk Road as "an online storefront that couldn't be traced back to [him] ... where [his] customers could buy [his] products" and pay for them "anonymously and securely." Tr. 991. From 2009 through 2011, Ulbricht worked to get the site up and running, relying on computer programming assistance from others, including his friend Richard Bates. According to one of the journal entries discovered on his laptop, in 2010 Ulbricht began to grow hallucinogenic mushrooms to sell on the site "for cheap to get people interested." Tr. 899. As the site began to garner significant interest in 2011, Ulbricht wrote in his journal that he was "creating a year of prosperity and power beyond what I have ever experienced before. Silk Road is going to become a phenomenon and at least one person will tell me about it, unknowing that I was its creator." Tr. 899-900.
 
-*1&period; [underline]#Evidence Linking Ulbricht to Dread Pirate Roberts#*
+*1&#46; [underline]#Evidence Linking Ulbricht to Dread Pirate Roberts#*
 
 [.text-justify]
 Around January 2012, the Silk Road user who represented himself as the lead administrator of the site adopted the username Dread Pirate Roberts.^*(xref:ulbricht_fn_11[11])*^ The name alludes to the pseudonym of a pirate in the popular novel and film The Princess Bride that is periodically passed on from one individual to another.^*(xref:ulbricht_fn_12[12])*^ In order to assure users that posts purporting to be authored by DPR were indeed his own, DPR authenticated his posts using an electronic signature known as a PGP key.^*(xref:ulbricht_fn_13[13])*^ Silk Road users had access to a public PGP key, and DPR had a private PGP key that he alone could use to sign his Silk Road posts. When DPR signed a post using his private key, Silk Road users could run the code in the public key, and if the post was signed with the correct private key the user would receive a message that the authentication was successful. The government recovered DPR's private PGP key on Ulbricht's laptop. Importantly, the public PGP key did not change during the site's life span, meaning that DPR used the same private key to sign his posts throughout the time that he administered Silk Road.
@@ -195,7 +195,7 @@ The government also introduced other circumstantial evidence connecting Ulbricht
 The government introduced several additional examples of DPR discussing travel plans that matched up with travel disclosed in Ulbricht's email and social media activity. At one point, for example, Ulbricht uploaded photos to his Facebook account in an album entitled "Thailand, February 2012." DPR discussed going to Thailand in a Tor chat on January 27, 2012, indicating that he was in "Thailand now," attracted by the "allure of a warm beach." Tr. 1300. He also mentioned in a January 26 chat with a user named "vj," which stood for Variety Jones, that he was in Thailand to experience the "beaches and jungles." Id. at 1298. One of the photos in the Thailand Facebook album depicted Ulbricht "in front of what appears to be jungles and beaches," both of which were referenced in DPR's chats from late January. Id. at 1301.
 
 
-*2&period; [underline]#Murders Commissioned by Dread Pirate Roberts#*
+*2&#46; [underline]#Murders Commissioned by Dread Pirate Roberts#*
 
 [.text-justify]
 The government also presented evidence that DPR commissioned the murders of five people to protect Silk Road's anonymity, although there is no evidence that any of the murders actually occurred.^*(xref:ulbricht_fn_15[15])*^ In March 2013, a Silk Road vendor whose username was FriendlyChemist threatened to release "thousands of usernames, ordr [sic ] amounts, [and] addresses" of Silk Road customers and vendors if DPR did not ensure that FriendlyChemist received money from another person, Lucydrop. Tr. 1806. Releasing the information would have destroyed the affected users' anonymity, undermining the security of the site. In a later chat with another person, RealLucyDrop, DPR wrote that it would be "terrible" if the personal information were to be released, and thus he needed FriendlyChemist's "real world identity so I can threaten him with violence if he were to release any names." Id. at 1811.
@@ -211,7 +211,7 @@ The episode escalated from there. DPR connected with Redandwhite, who was Friend
 Later, DPR ordered four other murders through Redandwhite. Dread Pirate Roberts identified another Silk Road user, Tony76, who knew FriendlyChemist and might compromise the site's anonymity. After some negotiations, DPR agreed to pay Redandwhite $500,000 in Bitcoins to kill Tony76 and three of his associates. DPR then sent the payment to Redandwhite. On April 6, 2013, Ulbricht wrote in a file on his laptop that he "[g]ave angels go ahead to find tony76." Tr. 1900. Two days later, Ulbricht recorded that he "[s]ent payment to angels for hit on tony76 and his three associates." Id. One of the government's expert witnesses was able to link the payments for all five murders to Bitcoin wallets located on Ulbricht's laptop. Again, while the evidence demonstrates that Ulbricht ordered and paid substantial sums for the murders, there is no evidence that the killings actually took place; the government theorized that Redandwhite had tricked Ulbricht into thinking that he actually committed the murders, but that in fact he had not.
 
 [.text-justify]
-*B&period; The Defense Case*
+*B&#46; The Defense Case*
 
 [.text-justify]
 As noted above, Ulbricht conceded at trial that he had created Silk Road, and he was caught red-handed operating the site at the end of the investigation. His principal defense strategy at trial—more of an effort at mitigation than outright denial of his guilt of the conspiracy and other charges in the indictment—was to admit his role at the beginning and end of the site's operation, but to contend that he sold Silk Road to someone else in 2011 and abandoned his role as its administrator, only to be lured back by the successor DPR near the end of its operation to take the blame for operating the site. The defense attempted on several occasions to implicate as alternative suspects Karpeles and Athavale, both of whom the government had investigated for a possible connection to Silk Road but later abandoned as candidates for DPR's real-world identity. As part of his alternative-perpetrator defense, Ulbricht theorized that the person or persons who operated as the true Dread Pirate Roberts during the purported interim period planted incriminating evidence on his laptop in order to frame him. For the most part, the defense advanced this theory through cross-examination of government witnesses. Ulbricht did not testify at trial.
@@ -230,19 +230,19 @@ To mitigate any damage from Bates's testimony, the government introduced a Decem
 [.text-justify]
 Thus, although the government elicited testimony that Ulbricht told Bates that he sold the site in 2011, it also presented evidence that Ulbricht had lied to Bates about that sale and continued to operate the site in secret.
 
-*1&period; [underline]#Cross-Examination of Government Witnesses#*
+*1&#46; [underline]#Cross-Examination of Government Witnesses#*
 
 [.text-justify]
 Ulbricht's defense depended heavily on cross-examination of government witnesses, much of which was designed to support the argument that either Karpeles or Athavale was the real DPR, or that multiple people operated as Dread Pirate Roberts during Silk Road's life span. The district court limited his cross-examination in two ways that Ulbricht challenges on appeal. First, the district court prevented Ulbricht from exploring several specific topics with Der-Yeghiayan, the government's first witness, through whom it introduced much of its evidence. Those topics included, inter alia , Der-Yeghiayan's prior suspicions that Karpeles was DPR. Second, the district court limited Ulbricht's ability to cross examine FBI computer scientist Thomas Kiernan, who testified about evidence that he discovered on Ulbricht's laptop, concerning several specific technical issues related to software on Ulbricht's computer. More details about those attempted cross-examinations will be discussed in context below.
 
 
-*2&period; [underline]#Cross-Hearsay Statements#*
+*2&#46; [underline]#Cross-Hearsay Statements#*
 
 [.text-justify]
 Ulbricht also attempted to introduce two hearsay statements in his defense, both of which the district court excluded as inadmissible. Those hearsay statements comprise: (1) chats between DPR and DeathFromAbove (Force) concerning Force's attempt to extort money from DPR in exchange for information about the government's investigation of Silk Road; and (2) the government's letter describing a statement by Andrew Jones, a site administrator, concerning one particular conversation that he had with DPR. The contents of those hearsay statements and other relevant facts will be discussed in more detail below.
 
 
-*3&period; [underline]#Defense Expert Witnesses#*
+*3&#46; [underline]#Defense Expert Witnesses#*
 
 [.text-justify]
 Long after the trial began on January 13, 2015, and shortly before the government rested on February 2 and the defense rested on February 3, Ulbricht disclosed to the government his intent to call two expert witnesses: Dr. Steven Bellovin and Andreas Antonopoulos.^*(xref:ulbricht_fn_17[17])*^ The Antonopoulos disclosure indicated that he would testify on several subjects relevant to Silk Road, including "the origins of Bitcoin," "the various purposes and uses of Bitcoin," "the mechanics of Bitcoin transactions," "the value of Bitcoin over time since its inception," and "the concepts of Bitcoin speculating and Bitcoin mining," among other things. App'x 349. The Bellovin disclosure followed a similar pattern, indicating that he would testify about "[g]eneral principles of internet security and vulnerabilities," the "import of some lines of PHP code provided to defense counsel in discovery," and "[g]eneral principles of public-key cryptography," among other topics. Id. at 360. Neither disclosure summarized the opinions that the experts would offer on those subjects, nor did either identify the bases for the experts' opinions.
@@ -262,13 +262,13 @@ On January 29 and 31, the government moved to preclude the testimony of both pro
 In sum, the defense case was limited to cross-examining government witnesses, briefly calling four character witnesses, having a defense investigator authenticate a task list on Ulbricht's computer, and reading a few of DPR's posts into the record. Ulbricht contends, however, that his defense was hamstrung by the rulings described above.
 
 
-*C&period; The Verdict and Post-Trial Motion*
+*C&#46; The Verdict and Post-Trial Motion*
 
 [.text-justify]
 After deliberating for about three and a half hours, the jury returned a guilty verdict on all seven counts in the Indictment. As described in more detail below, Ulbricht then moved for a new trial under Rule 33, Fed. R. Crim. P. The district court denied the motion, and Ulbricht argues here that it erred in doing so.
 
 [.text-justify]
-*IV&period; Sentencing*
+*IV&#46; Sentencing*
 
 [.text-justify]
 The United States Probation Office prepared the Pre-Sentence Investigation Report ("PSR") in March 2015. It described the offense conduct in detail and discussed the five murders that Ulbricht allegedly hired Redandwhite to commit.^*(xref:ulbricht_fn_19[19])*^ Over Ulbricht's objection, the PSR also discussed six drug-related deaths that the government contended, and the district court found, were connected with Silk Road. Circumstantial evidence linked each of those fatalities with varying degrees of certainty to the decedent's purchase of drugs on Silk Road. For example, one user died from an overdose of heroin combined with other drugs. The deceased individual was found with a needle and a bag of heroin, as well as a torn-open delivery package. Open on his computer was a Silk Road chat in which a vendor described the package of heroin that was due to arrive that day, including a tracking number that matched the opened package.
@@ -330,13 +330,13 @@ This appeal followed.
 On appeal, Ulbricht raises a number of claims of error. For purposes of organizational clarity, we group them into three categories, and present them in the order in which the issues arose in the district court. Accordingly, we discuss first Ulbricht's claims that much of the evidence against him should have been suppressed because it was obtained in violation of his Fourth Amendment rights; second, his arguments that the district court's evidentiary errors denied him a fair trial; and third, his objections to his sentence.
 
 [.text-justify]
-*I&period; Fourth Amendment Issues*
+*I&#46; Fourth Amendment Issues*
 
 [.text-justify]
 Ulbricht claims that the district court erred in denying his motion to suppress evidence obtained in violation of the Fourth Amendment. On appeal from a denial of a suppression motion, "we review a district court's findings of fact for clear error, and its resolution of questions of law and mixed questions of law and fact de novo ." United States v. Bohannon , 824 F.3d 242, 247-48 (2d Cir. 2016). Ulbricht raises two principal arguments. First, he contends that the pen/trap orders that the government used to monitor IP address traffic to and from his home router violated the Fourth Amendment because the government obtained the orders without a warrant. Second, he claims that the warrants authorizing the government to search his laptop as well as his Google and Facebook accounts violated the Fourth Amendment's particularity requirement. We reject those contentions and affirm the denial of Ulbricht's motion to suppress.
 
 [.text-justify]
-*A&period; Pen/Trap Orders*
+*A&#46; Pen/Trap Orders*
 
 [.text-justify]
 Pursuant to orders issued by United States magistrate judges in the Southern District of New York, the government used five pen registers and trap and trace devices to monitor IP addresses associated with Internet traffic to and from Ulbricht's wireless home router and devices that regularly connected to that router. The government obtained the orders pursuant to the Pen/Trap Act, which provides that a government attorney "may make [an] application for an order ... authorizing or approving the installation and use of a pen register or a trap and trace device ... to a court of competent jurisdiction." 18 U.S.C. § 3122(a)(1). A "pen register" is defined as a "device or process which records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted," and "shall not include the contents of any communication." Id. § 3127(3). A "trap and trace" device means "a device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication." Id. § 3127(4). Like pen registers, trap and trace devices may not capture the "contents of any communication." Id. The statute does not require a search warrant for the use of a pen register or trap and trace device, nor does it demand the kind of showing required to obtain such a warrant. Rather, the statute requires only that the application contain a "certification ... that the information likely to be obtained is relevant to an ongoing criminal investigation." Id. § 3122(b)(2).
@@ -378,7 +378,7 @@ Ulbricht's additional arguments are not persuasive. Ulbricht contends generally 
 [[ulbricht_fn_30]]
 . [small]#Ulbricht's alternative argument, that the pen/trap orders violated the Pen/Trap Act and the Stored Communications Act ("SCA") because they sought prospective data, is without merit. Ulbricht claims that the orders were obtained both through the Pen/Trap Act, 18 U.S.C. §§ 3121 -27, and the SCA, 18 U.S.C. § 2703(d). To the contrary, each pen/trap order (and the underlying requests for such orders) relied exclusively on the Pen/Trap Act, not the SCA. The fact that one of the government's goals was to monitor IP address traffic to match Ulbricht's Internet activity with DPR's does not undermine the validity of the orders. The orders themselves did not allow the government to track the location of the router and other equipment to which the trap and trace device was attached. Thus, they were not "geo-locating" devices, as Ulbricht suggests, any more than subpoenas for hotel registers, parking tickets, and credit card receipts, or any other methods by which the government obtains information that can be used to identify a suspect's location at particular points in time.#
 
-*B&period; Search Warrants*
+*B&#46; Search Warrants*
 
 [.text-justify]
 Ulbricht also contends that the warrants authorizing the search and seizure of his laptop as well as his Facebook and Google accounts violated the Fourth Amendment's particularity requirement. The Fourth Amendment explicitly commands that warrants must be based on probable cause and must "particularly describ[e] the place to be searched, and the persons or things to be seized." U.S. Const. amend. IV. "It is familiar history that indiscriminate searches and seizures conducted under the authority of ‘general warrants' were the immediate evils that motivated the framing and adoption of the Fourth Amendment." Payton v. New York , 445 U.S. 573, 583, 100 S.Ct. 1371, 63 L.Ed.2d 639 (1980). Those general warrants "specified only an offense," leaving "to the discretion of the executing officials the decision as to which persons should be arrested and which places should be searched." Steagald v. United States , 451 U.S. 204, 220, 101 S.Ct. 1642, 68 L.Ed.2d 38 (1981). The principal defect in such a warrant was that it permitted a "general, exploratory rummaging in a person's belongings," Andresen v. Maryland , 427 U.S. 463, 480, 96 S.Ct. 2737, 49 L.Ed.2d 627 (1976) (internal quotation marks omitted), a problem that the Fourth Amendment attempted to resolve by requiring the warrant to "set out with particularity" the "scope of the authorized search," Kentucky v. King , 563 U.S. 452, 459, 131 S.Ct. 1849, 179 L.Ed.2d 865 (2011).^*(xref:ulbricht_fn_31[31])*^
@@ -400,7 +400,7 @@ The Fourth Amendment does not require a perfect description of the data to be se
 Moreover, it is important to bear in mind that a search warrant does not necessarily lack particularity simply because it is broad. Since a search of a computer is "akin to [a search of] a residence," id. , searches of computers may sometimes need to be as broad as searches of residences pursuant to warrants. Similarly, traditional searches for paper records, like searches for electronic records, have always entailed the exposure of records that are not the objects of the search to at least superficial examination in order to identify and seize those records that are. And in many cases, the volume of records properly subject to seizure because of their evidentiary value may be vast. None of these consequences necessarily turns a search warrant into a prohibited general warrant.
 
 [.text-justify]
-*1&period; [underline]#Laptop Search Warrant#*
+*1&#46; [underline]#Laptop Search Warrant#*
 
 [.text-justify]
 The warrant authorizing the search and seizure of Ulbricht's laptop (the "Laptop Warrant") explicitly incorporated by reference an affidavit listing the crimes charged, which at the time included narcotics trafficking, computer hacking, money laundering, and murder-for-hire offenses in violation of 21 U.S.C. § 846, 18 U.S.C. §§ 1030, 1956, and 1958. See In re 650 Fifth Ave. & Related Properties , 830 F.3d 66, 101 (2d Cir. 2016) (describing the requirements for a criminal search warrant's incorporation of an affidavit by reference).^*(xref:ulbricht_fn_32[32])*^ The affidavit also described the workings of Silk Road and the role of Dread Pirate Roberts in operating the site and included a wealth of information supporting a finding that there was probable cause to believe that Ulbricht and DPR were the same person. Based on that information, the Laptop Warrant alleged that Ulbricht "use[d] [the laptop] in connection with his operation of Silk Road," and that there was "probable cause to believe that evidence, fruits, and instrumentalities of the [charged offenses]" would be found on the laptop. S.A. 246.^*(xref:ulbricht_fn_33[33])*^
@@ -456,7 +456,7 @@ We remain sensitive to the difficulties associated with preserving a criminal de
 Finally, we note that the crimes charged in this case were somewhat unusual. This case does not involve a more typical situation in which officers searched for evidence of a physician's illegal distribution of pain medications, to use the NACDL's example, which may have electronically-stored data associated with the alleged crimes on a hard drive that largely contains non-criminal information. Here the crimes under investigation were committed largely through computers that there was probable cause to believe included the laptop at issue, and the search warrant application gave ample basis for the issuing magistrate judge to conclude that evidence related to Silk Road and Ulbricht's use of the DPR username likely permeated Ulbricht's computer. Thus, given the nature of Ulbricht's crimes and their symbiotic connection to his digital devices, we decline to rethink the well-settled Fourth Amendment principles that the Laptop Warrant may implicate. A future case may require this Court to articulate special limitations on digital searches to effectuate the Fourth Amendment's particularity or reasonableness requirements. Such a case is not before us.
 
 [.text-justify]
-*2&period; [underline]#The Google and Facebook Warrants#*
+*2&#46; [underline]#The Google and Facebook Warrants#*
 
 [.text-justify]
 Ulbricht also challenges the warrants that allowed the government to search his Google and Facebook accounts, although he does not present any specific arguments related to those warrants. Both warrants, through affidavits incorporated by reference, set forth the basis for probable cause to search those accounts for evidence of Ulbricht's involvement in Silk Road. The warrants also authorized the government to search his Google and Facebook accounts for "evidence, fruits, and instrumentalities" of the specified offenses, including, inter alia : "any communications or writings by Ulbricht"; "any evidence concerning any computer equipment, software, or usernames used by Ulbricht"; "any evidence concerning Ulbricht's travel or patterns of movement"; and any "other evidence of the" crimes charged. S.A. 334-35, 393-94. The scope of the Google and Facebook warrants thus substantially paralleled that of the Laptop Warrant.
@@ -465,7 +465,7 @@ Ulbricht also challenges the warrants that allowed the government to search his 
 The Google and Facebook warrants were constitutional for the same reasons that the Laptop Warrant was valid. They satisfied all three of the particularity requirements because they listed the subject offenses, described the things to be searched, and identified the information to be seized in relation to the charged crimes. Ulbricht does not advance any additional arguments specific to the Google and Facebook warrants, nor have we identified any independent reason to find them unconstitutionally lacking in specificity.
 
 [.text-justify]
-*3&period; [underline]#Conclusion#*
+*3&#46; [underline]#Conclusion#*
 
 [.text-justify]
 In sum, the issuance of the pen/trap orders and the three search warrants that Ulbricht challenges in this appeal did not violate the Fourth Amendment.^*(xref:ulbricht_fn_38[38])*^ Thus, we affirm the district court's denial of Ulbricht's suppression motion.
@@ -475,13 +475,13 @@ In sum, the issuance of the pen/trap orders and the three search warrants that U
 . [small]#The government also contends that, even if the warrants were invalid, the good faith exception prevents the application of the exclusionary rule. In general, the "exclusion of evidence is inappropriate when the government acts in objectively reasonable reliance on a search warrant, even when the warrant is subsequently invalidated." Ganias, 824 F.3d at 221 (internal quotation marks omitted). Because we conclude that all three of the warrants were valid, we need not address the government's alternative argument.#
 
 [.text-justify]
-*II&period; The District Court's Trial Rulings and Ulbricht's Rule 33 Motion*
+*II&#46; The District Court's Trial Rulings and Ulbricht's Rule 33 Motion*
 
 [.text-justify]
 Ulbricht contends that he did not receive a fair trial for several reasons: (1) the district court's rulings surrounding corrupt agents Force and Bridges violated his due process rights; (2) the district court erroneously precluded two defense experts from testifying; (3) the district court abused its discretion when it curtailed Ulbricht's cross-examination of two government witnesses; and (4) the district court erred when it ruled that certain hearsay statements were inadmissible. He also contends that, even if each individual error is harmless, the cumulative effect of those errors prejudiced him to the extent that his trial was fundamentally unfair. We detect no error in the district court's rulings on any of those issues and therefore conclude that Ulbricht was not deprived of his right to a fair trial.
 
 [.text-justify]
-*A&period; Corrupt Agents Force and Bridges*
+*A&#46; Corrupt Agents Force and Bridges*
 
 [.text-justify]
 Ulbricht's principal fair trial argument is that the district court erred in numerous ways by preventing him from relying on information related to the corruption of two federal agents, Force and Bridges, involved in the investigation of the Silk Road site. Before trial, the district court (1) precluded Ulbricht from referring at trial to the secret grand jury proceeding against Force; (2) denied Ulbricht discovery related to the Force investigation; and (3) denied Ulbricht an adjournment of the trial until the Force investigation was complete. During trial, the district court excluded as hearsay certain chats that related to Force's illicit use of Silk Road. Finally, Ulbricht learned after trial that the government was investigating a second corrupt agent, Bridges. Ulbricht contends that the failure to disclose Bridges's corruption until after the trial violated Brady v. Maryland , 373 U.S. 83, 83 S.Ct. 1194, 10 L.Ed.2d 215 (1963), and that the district court erroneously denied his motion for a new trial on that ground.
@@ -493,7 +493,7 @@ Without question, the shocking personal corruption of these two government agent
 At the same time, the venality of individual agents does not necessarily affect the reliability of the government's evidence in a particular case or become relevant to the adjudication of every case in which the agents participated. Courts are obligated to ensure that probative evidence is disclosed to the defense, carefully evaluated by the court for its materiality to the case, and submitted for the jury's consideration where admissible. But courts must also take care that wrongdoing by investigators that has no bearing on the matter before the court not be used as a diversion from fairly assessing the prosecution's case. Like any other potential evidence, information about police corruption must be evaluated by reference to the ordinary rules of criminal procedure and evidence, a task to which we now turn.
 
 [.text-justify]
-*1&period; [underline]#Background: Pretrial Disclosure of the Force Investigation#*
+*1&#46; [underline]#Background: Pretrial Disclosure of the Force Investigation#*
 
 [.text-justify]
 The government disclosed its investigation into Force's corruption to the defense about six weeks before trial. Initially, on November 21, 2014, the government wrote a sealed ex parte letter to the district court seeking permission to disclose to the defense information about the Force grand jury investigation subject to a protective order.^*(xref:ulbricht_fn_39[39])*^ The district court granted the application. On December 1, the government provided a copy of the November 21 letter, which otherwise remained sealed, to defense counsel. According to the letter, Force leaked information to DPR in exchange for payment and "corruptly obtain[ed] proceeds from the Silk Road website and convert[ed] them to his personal use." App'x 649. The government then undertook to purge its trial evidence of anything arguably traceable to Force.
@@ -510,7 +510,7 @@ Ulbricht moved to unseal the entire November 21 letter so that he could rely on 
 . [small]#Portions of the district court opinion were redacted because they referenced the defendant's ex parte submissions explaining how he would use information related to the Force investigation at trial. This Court has reviewed an unredacted version of the district court opinion in connection with this appeal, but not the ex parte letters that the opinion references.#
 
 [.text-justify]
-*2&period; [underline]#Preclusion of Force Investigation Evidence: Rule 6(e)#*
+*2&#46; [underline]#Preclusion of Force Investigation Evidence: Rule 6(e)#*
 
 [.text-justify]
 On appeal, Ulbricht claims that the district court erred in denying his motion to unseal the November 21 letter because he demonstrated a particularized need that rebutted the presumption of secrecy that attaches to grand jury investigations. We disagree.
@@ -551,7 +551,7 @@ In sum, Ulbricht has not shown that the district court abused its discretion in 
 [[ulbricht_fn_44]]
 . [small]#Moreover, the district court specifically ruled that it would entertain Ulbricht's applications to rely on specific parts of the letter at trial if doing so would be necessary for effective cross-examination. Thus, Ulbricht was given the opportunity to show particularized need in the context of specific trial evidence. Ulbricht has not identified any point in the trial where he attempted to show that Force's behavior had become relevant to challenging the credibility of particular aspects of the prosecution's case.#
 
-*3&period; [underline]#Denial of Discovery Related to Force#*
+*3&#46; [underline]#Denial of Discovery Related to Force#*
 
 [.text-justify]
 Ulbricht claims that the district court erred in denying him discovery, including requested subpoenas, related to the Force investigation. Rule 16(a)(1)(E), Fed. R. Crim. P., requires the government to disclose information within its control if the information is "material to preparing the defense" or will be a part of the government's case-in-chief. Evidence is material if it "could be used to counter the government's case or to bolster a defense." United States v. Stevens , 985 F.2d 1175, 1180 (2d Cir. 1993). "An appellate court, in assessing the materiality of withheld information, considers not only the logical relationship between the information and the issues in the case, but also the importance of the information in light of the evidence as a whole." Id. To justify a new trial, there "must be some indication that the pretrial disclosure of the disputed evidence would have enabled the defendant significantly to alter the quantum of proof in his favor." Id. (internal quotation marks omitted).
@@ -566,7 +566,7 @@ The district court did not abuse its discretion when it denied Ulbricht's discov
 There was no abuse of discretion in those rulings. Ulbricht has not shown that, had the government produced every piece of requested information, he would have been able to alter the quantum of proof in his favor at trial. That is so because there is no indication, beyond Ulbricht's speculation, that Force manufactured any of the evidence on which the government relied at trial, let alone the most damning evidence discovered on the hard drive on Ulbricht's laptop and at his apartment. Because Force did not testify at trial, information related to his corruption would not have been relevant to attack the credibility of any testimony he would have given. Moreover, Ulbricht has not identified any specific aspect of the trial evidence that he could have undermined using the requested information. Thus, even if the district court erred in not granting at least some of Ulbricht's discovery requests, any such error does not justify a new trial.
 
 [.text-justify]
-*4&period; [underline]#Ulbricht's Motion to Adjourn the Trial#*
+*4&#46; [underline]#Ulbricht's Motion to Adjourn the Trial#*
 
 [.text-justify]
 Ulbricht contends that the district court erred in denying his request to adjourn the trial until the Force investigation was complete. "[A] district court has a great deal of latitude in scheduling trials." United States v. Griffiths , 750 F.3d 237, 241 (2d Cir. 2014) (internal quotation marks omitted). Thus, "trial courts enjoy very broad discretion in granting or denying trial continuances." United States v. Stringer , 730 F.3d 120, 127 (2d Cir. 2013). A decision to grant or deny a request for an adjournment is reviewed for abuse of discretion, and we "will find no such abuse unless the denial was an arbitrary action that substantially impaired the defense." Id. (internal quotation marks omitted). Thus, the party seeking a continuance has the burden of showing "both arbitrariness and prejudice in order to obtain reversal" based on a denial of an adjournment. Id. at 128 (internal quotation marks omitted).
@@ -575,7 +575,7 @@ Ulbricht contends that the district court erred in denying his request to adjour
 The district court did not abuse its discretion in denying Ulbricht's request for an adjournment of the trial. In a sealed portion of the proceedings on the first day of trial, the district court explained its reasons for denying the adjournment. The court ruled that because none of the evidence revealed by the government concerning Force's corruption was exculpatory, there was no reason to believe that delaying the trial would assist Ulbricht's defense. That analysis was not irrational or arbitrary. Moreover, as explained in more detail both above and below, Ulbricht has not shown how information related to Force's corruption was either exculpatory or material to his defense. Thus, he has not shown that the district court's refusal to adjourn the trial was prejudicial, let alone substantially so.
 
 [.text-justify]
-*5&period; [underline]#Preclusion of the DeathFromAbove Chats#*
+*5&#46; [underline]#Preclusion of the DeathFromAbove Chats#*
 
 [.text-justify]
 As already described, Force used DeathFromAbove as an unauthorized Silk Road username through which he attempted to extort money from DPR. The government only learned of Force's activity as DeathFromAbove during trial, when the defense attempted to introduce a redacted chat between DPR and DeathFromAbove. In the chat at issue, DeathFromAbove implied that he knew that DPR's real identity was Anand Athavale. DeathFromAbove then attempted to blackmail DPR by saying that, if DPR gave him $250,000, he would not "give you [sic ] identity to law enforcement." App'x 712.
@@ -596,7 +596,7 @@ Ulbricht does not provide any detailed arguments to the contrary that are specif
 Ulbricht's proposed non-hearsay use of the chat—to show its effect on DPR—is not sufficiently probative that the evidence's exclusion prejudiced him. The statement does not appear to have had an effect on DPR that would bolster Ulbricht's defense. DPR did not alter his behavior in response to the extortion attempt. Indeed, he referred to it as "bogus" in one of the journal entries discovered on Ulbricht's laptop. App'x 710. If Athavale had been the real Dread Pirate Roberts, he likely would have had a different reaction to the threatened exposure of his identity. DPR's reactions to other attempts to destroy the site's anonymity were dramatic, and included hiring people to kill the users who threatened to compromise Silk Road. Therefore, even if Ulbricht did not offer the chat for its truth, any relevance of the arguably non-hearsay use of the statement was entirely too remote to outweigh the possible jury confusion that would result from the injection of Force into the trial or the likelihood that the jury would confuse the hearsay and non-hearsay significance of the evidence.
 
 [.text-justify]
-*6&period; [underline]#Ulbricht's Rule 33 Motion: Brady v. Maryland#*
+*6&#46; [underline]#Ulbricht's Rule 33 Motion: Brady v. Maryland#*
 
 [.text-justify]
 Ulbricht moved for a new trial under Rule 33, Fed. R. Crim. P., raising several issues concerning the unfairness of the assertedly belated disclosures of the investigations into Force and Bridges.^*(xref:ulbricht_fn_45[45])*^ The only argument that he pursues in this appeal is that the belated disclosures violated his due process rights under Brady because the information was both material and exculpatory.
@@ -635,7 +635,7 @@ Finally, Ulbricht submitted a supplemental appendix that included a newly-discov
 In sum, we conclude that the Force and Bridges complaint did not contain Brady information because the agents' corruption does not bear on Ulbricht's guilt or innocence. Thus, any delay in the government's disclosure of their corruption did not violate Ulbricht's due process rights.
 
 [.text-justify]
-*B&period; Preclusion of Defense Experts*
+*B&#46; Preclusion of Defense Experts*
 
 [.text-justify]
 The district court precluded both of Ulbricht's proposed expert witnesses from testifying because he did not timely or adequately disclose his intent to call them under Rule 16, Fed. R. Crim. P. In general, the "defendant must, at the government's request, give to the government a written summary of any [expert] testimony that a defendant intends to use.... This summary must describe the witness's opinions, the bases and reasons for those opinions, and the witness's qualifications."^*(xref:ulbricht_fn_48[48])*^
@@ -687,13 +687,13 @@ Finally, Ulbricht cannot credibly argue that Yum's testimony was the first notic
 . [small]#BitTorrent is a peer-to-peer file sharing service that is used to transfer large files without disrupting Internet servers. It has both legitimate and illicit purposes. See Next Phase Distribution, Inc. v. John Does 1-27, 284 F.R.D. 165, 167 (S.D.N.Y. 2012).#
 
 [.text-justify]
-*C&period; Curtailing Cross-Examination*
+*C&#46; Curtailing Cross-Examination*
 
 [.text-justify]
 Ulbricht contends that the district court erred in limiting his ability to cross-examine two government witnesses: Der-Yeghiayan and Kiernan. "We review a trial court's decision to limit the scope of cross-examination for abuse of discretion." United States v. Cedeno , 644 F.3d 79, 81 (2d Cir. 2011). "A district court is accorded broad discretion in controlling the scope and extent of cross-examination." United States v. James , 712 F.3d 79, 103 (2d Cir. 2013) (internal quotation marks omitted); see Fed. R. Evid. 611(a). Thus, "a district court may impose reasonable limits on cross-examination to protect against, e.g ., harassment, prejudice, confusion, and waste." James , 712 F.3d at 103 (internal quotation marks omitted). In general, however, a "district court should afford wide latitude to a defendant in a criminal case to cross-examine government witnesses." Id. (internal quotation marks omitted). That is so because the Confrontation Clause gives "a defendant the right not only to cross-examination, but to effective cross-examination." Id. "[I]t does not follow, of course, that the Confrontation Clause prevents a trial judge from imposing any limits" on defense counsel's cross-examination of government witnesses. Id. (emphasis in original).
 
 [.text-justify]
-*1&period; [underline]#Agent Der-Yeghiayan#*
+*1&#46; [underline]#Agent Der-Yeghiayan#*
 
 [.text-justify]
 Ulbricht argues that the district court erred when it struck portions of Der-Yeghiayan's testimony that referenced his prior belief that Karpeles might be Dread Pirate Roberts. Ulbricht also challenges the striking of a similar but analytically distinct piece of testimony: Der-Yeghiayan's statement that Karpeles's attorney had offered information about Silk Road in exchange for Karpeles receiving immunity from prosecution. Ulbricht wanted the jury to infer that Karpeles had some criminal involvement in Silk Road that motivated him to pursue a cooperation agreement with the government.
@@ -718,7 +718,7 @@ Further, any arguable error that occurred was harmless. Defense counsel continue
 We similarly reject Ulbricht's contention that striking Der-Yeghiayan's testimony concerning Karpeles's offer to provide information about Silk Road in exchange for immunity was an abuse of discretion. Absent other evidence in the record regarding Karpeles, it was proper to exclude wholly speculative suggestions of an alternative perpetrator defense based on Karpeles's attorney's offer of information in exchange for his client's immunity. And even assuming, arguendo , that the district court erred in striking the testimony, any error was harmless. To the extent this testimony was stricken from the trial record, that ruling occurred outside the presence of the jury. All the jury was told was to disregard testimony about "what the agent suspected about others," Tr. 974, a category that hardly would be understood by the jury to encompass testimony about the actions of Karpeles's attorney. As explained in detail above, moreover, the evidence identifying Ulbricht as Dread Pirate Roberts was overwhelming and largely unchallenged. That Karpeles may have had information about Silk Road does not imply that he was DPR, only that he had some knowledge of or involvement with the site. Particularly given that Karpeles likely had some knowledge about Silk Road simply because of his operation of Mt. Gox, a prominent Bitcoin exchanger, any marginal probative value in the fact that he claimed to have such knowledge, and offered to provide it to the government, could not have meaningfully affected the balance of evidence available to the jury regarding the identity of DPR.
 
 [.text-justify]
-*2&period; [underline]#Agent Kiernan#*
+*2&#46; [underline]#Agent Kiernan#*
 
 [.text-justify]
 Defense counsel cross-examined Kiernan extensively, and Ulbricht contends on appeal that the district court erred in preventing him from exploring certain topics during that cross-examination. Those excluded topics include: the meaning of various acronyms, the significance of a certain line of PHP code,^*(xref:ulbricht_fn_55[55])*^ whether the FBI allowed Kiernan to run BitTorrent on his work computer despite its lack of security, and whether the Linux kernel^*(xref:ulbricht_fn_56[56])*^ that Kiernan used on his work computer was the same as the one that Ulbricht installed on his laptop. Ulbricht explains that he was attempting to show that Kiernan's conclusions about Ulbricht's laptop were inaccurate because they were based on unreliable information.
@@ -736,7 +736,7 @@ The district court sustained objections to those questions because, in its view,
 On appeal, Ulbricht claims that, because Kiernan testified about the operation of Tor Chat and other forensic computer issues during his direct testimony, the precluded questions were within that testimony's scope and should have been allowed. Even assuming that Ulbricht is correct, any error is harmless. Ulbricht was permitted to question Kiernan about whether Linux was customizable, and Kiernan admitted during cross that he did not know whether he used the same version of Tor Chat that Ulbricht had installed on his laptop. Ulbricht's counsel also asked several questions about the security vulnerabilities of BitTorrent, conveying to the jury that using BitTorrent might have rendered Ulbricht's computer susceptible to hacking. Thus, Ulbricht was able to elicit testimony supporting his proposed inference that Kiernan's conclusions based on the Tor Chat evidence were flawed. Ulbricht does not explain how he was prejudiced when the district court prohibited him from asking Kiernan certain other questions. We therefore identify no reversible error in the district court's limitations on Kiernan's cross examination.
 
 [.text-justify]
-*D&period; Andrew Jones Hearsay Statement*
+*D&#46; Andrew Jones Hearsay Statement*
 
 [.text-justify]
 The district court excluded a statement allegedly made by Andrew Jones, who was a Silk Road administrator under the username Inigo. Jones cooperated with the government and was on the government's witness list until the middle of trial, when the government decided not to call him. Defense counsel explored the possibility of calling Jones as a witness, but Jones's attorney advised Ulbricht that Jones would invoke the Fifth Amendment and refuse to testify if compelled to appear. In light of Jones's unavailability, Ulbricht sought to admit a December 29, 2014 letter from the government to defense counsel that described a statement that Jones made during one of his interviews.^*(xref:ulbricht_fn_57[57])*^ The relevant portion of the government's letter is as follows: +
@@ -772,13 +772,13 @@ The district court did not specifically address Ulbricht's request to admit the 
 Finally, even if the district court erred in excluding the statement under either hearsay exception, any error was certainly harmless. The conversation between Jones and DPR in its totality was not actually helpful to Ulbricht. As explained, during the chat in question, DPR was at one point unable to provide the designated response, but later he identified himself to Jones's satisfaction. The statement thus contains the seeds of its own refutation. Since DPR's alleged failure to verify his identity and his subsequent remedy of that failure occurred during the same online chat, the interaction provides little or no support for the defense theory that different individuals acted as DPR at different times.
 
 [.text-justify]
-*E&period; Cumulative Error*
+*E&#46; Cumulative Error*
 
 [.text-justify]
 Ulbricht argues that the cumulative effect of the district court's evidentiary rulings deprived him of a fair trial. See United States v. Al-Moayad , 545 F.3d 139, 178 (2d Cir. 2008). We have exhaustively reviewed his contentions of trial error and have concluded that none of those contentions has merit. The challenged trial rulings were well within the district court's discretion, and the various exclusions did not prevent the defense from offering evidence probative of innocence. At the trial in this case, the government presented overwhelming evidence that Ulbricht was indeed Dread Pirate Roberts. The evidence that the defense was precluded from offering to refute that proof was excluded because it was speculative, unreliable, offered in contravention of the Federal Rules of Evidence or of Criminal Procedure, or otherwise inadmissible. The few instances in which the district court's rulings may be questioned, where we noted the relevance of the harmless error rule, involved minor and marginal points. Accordingly, whether considered separately or cumulatively, none of Ulbricht's evidentiary arguments lead us to doubt that he was found guilty after a fair trial.
 
 [.text-justify]
-*III&period; Sentencing*
+*III&#46; Sentencing*
 
 [.text-justify]
 "[A] district court has broad latitude to impose either a Guidelines sentence or a non-Guidelines sentence."  Rigas , 583 F.3d at 114 (internal quotation marks omitted). "Accordingly, the role of the Court of Appeals is limited to examining a sentence for reasonableness, which is akin to review under an ‘abuse-of-discretion’ standard." Id. "This standard applies both to the [substantive reasonableness of the] sentence itself and to the procedures employed in arriving at the sentence." Id. (internal quotation marks omitted). Ulbricht and amici^*(xref:ulbricht_fn_60[60])*^ challenge his life sentence as both procedurally and substantively unreasonable.
@@ -788,7 +788,7 @@ Ulbricht argues that the cumulative effect of the district court's evidentiary r
 . [small]#The amici who join Ulbricht's challenge to his life sentence include: the Drug Policy Alliance, Law Enforcement Against Prohibition, JustLeadershipUSA, and retired District Judge Nancy Gertner.#
 
 [.text-justify]
-*A&period; Procedural Reasonableness*
+*A&#46; Procedural Reasonableness*
 
 [.text-justify]
 "A sentence is procedurally unreasonable if the district court fails to calculate (or improperly calculates) the Sentencing Guidelines range, treats the Sentencing Guidelines as mandatory, fails to consider the § 3553(a) factors, selects a sentence based on clearly erroneous facts, or fails adequately to explain the chosen sentence." United States v. Jesurum , 819 F.3d 667, 670 (2d Cir. 2016) (internal quotation marks and emphasis omitted). To "hold that a factual finding is ‘clearly erroneous,’ we must be left with the definite and firm conviction that a mistake has been committed." United States v. DeSilva , 613 F.3d 352, 356 (2d Cir. 2010). Where "there are two permissible views of the evidence, the factfinder's choice between them cannot be clearly erroneous." United States v. Norman , 776 F.3d 67, 76 (2d Cir. 2015) (internal quotation marks omitted). In general, a "sentencing court has discretion to consider a wide range of information in arriving at an appropriate sentence." United States v. Prescott , 920 F.2d 139, 143 (2d Cir. 1990). "The district court's factual findings at sentencing need be supported only by a preponderance of the evidence." Norman , 776 F.3d at 76. "Where we identify procedural error in a sentence, but the record indicates clearly that the district court would have imposed the same sentence in any event, the error may be deemed harmless, avoiding the need to vacate the sentence and to remand the case for resentencing." United States v. Jass , 569 F.3d 47, 68 (2d Cir 2009) (internal quotation marks omitted); see also United States v. Cavera , 550 F.3d 180, 197 (2d Cir. 2008) (en banc) (declining to reach claim that district court erred in relying on vague concern about gun violence because it was clear that the "district court would have imposed the same sentence had it relied solely on" the permissible concern about deterrence).
@@ -848,7 +848,7 @@ A district court may consider as part of its sentencing determination uncharged 
 In sum, we might not, in the prosecutors' shoes, have chosen to offer this evidence at sentencing, or have admitted it as district judges. We conclude, however, (1) that the district court did not clearly err when it found by a preponderance of the evidence that the six deaths were connected to Silk Road; (2) that it did not abuse its discretion in determining that it was appropriate to consider those acts as bearing on the seriousness of the narcotics offenses of which Ulbricht was convicted, one of many factors the district court was required to consider in exercising its discretion under § 3553(a) ; and (3) that the evidence in question in fact played a minimal role, if any, in the actual sentencing, and that in light of the reasons given by the district court for its sentencing decision, we can be absolutely certain that the same sentence would have been imposed if the evidence had not been received. Ulbricht's sentence was therefore not procedurally unreasonable.
 
 [.text-justify]
-*B&period; Substantive Unreasonableness*
+*B&#46; Substantive Unreasonableness*
 
 [.text-justify]
 "We will ... set aside a district court's substantive [sentencing] determination only in exceptional cases where the trial court's decision cannot be located within the range of permissible decisions." Cavera , 550 F.3d at 189 (emphasis and internal quotation marks omitted). Our review is "deferential," and this Court does "not consider what weight we would ourselves have given a particular factor." Rigas , 583 F.3d at 122. "Rather, we consider whether the factor, as explained by the district court, can bear the weight assigned it under the totality of the circumstances in the case." Id. Our role in "patrolling the boundaries of reasonableness" is modest. United States v. Broxmeyer , 699 F.3d 265, 289 (2d Cir. 2012) (alterations and internal quotation marks omitted). Accordingly, we "will set aside only those outlier sentences that reflect actual abuse of a district court's considerable sentencing discretion." United States v. Messina , 806 F.3d 55, 66 (2d Cir. 2015).

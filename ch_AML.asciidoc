@@ -124,7 +124,7 @@ NEW YORK, NEW YORK 10004
 &nbsp; +
 COINBASE, INC., +
 &nbsp; +
-&emsp;&emsp;&emsp;Respondent.
+&#8195;&#8195;&#8195;Respondent.
 |===
 
 [.text-center]
@@ -340,27 +340,27 @@ NOW THEREFORE, to resolve this matter without further proceedings, the Departmen
 [start=94, role=text-justify]
 . All notices or communications regarding this Consent Order shall be sent to: +
 &nbsp; +
-&emsp; [underline]#For the Department:# +
-&emsp;&emsp; David A. Casler +
-&emsp;&emsp; Senior Assistant Deputy Superintendent +
-&emsp;&emsp; Consumer Protection and Financial Enforcement +
-&emsp;&emsp; Department of Financial Services +
-&emsp;&emsp; One State Street +
-&emsp;&emsp; New York, NY 10004 +
+&#8195; [underline]#For the Department:# +
+&#8195;&#8195; David A. Casler +
+&#8195;&#8195; Senior Assistant Deputy Superintendent +
+&#8195;&#8195; Consumer Protection and Financial Enforcement +
+&#8195;&#8195; Department of Financial Services +
+&#8195;&#8195; One State Street +
+&#8195;&#8195; New York, NY 10004 +
 &nbsp; +
-&emsp;&emsp; Ryan J. Dorsett +
-&emsp;&emsp; Excelsior Fellow +
-&emsp;&emsp; Consumer Protection and Financial Enforcement +
-&emsp;&emsp; Department of Financial Services +
-&emsp;&emsp; One State Street +
-&emsp;&emsp; New York, NY 10004 +
+&#8195;&#8195; Ryan J. Dorsett +
+&#8195;&#8195; Excelsior Fellow +
+&#8195;&#8195; Consumer Protection and Financial Enforcement +
+&#8195;&#8195; Department of Financial Services +
+&#8195;&#8195; One State Street +
+&#8195;&#8195; New York, NY 10004 +
 &nbsp; +
-&emsp; [underline]#For Coinbase:# +
-&emsp;&emsp; Paul Grewal +
-&emsp;&emsp; Chief Legal Officer +
-&emsp;&emsp; Coinbase, Inc. +
-&emsp;&emsp; P.O. Box 26409 +
-&emsp;&emsp; San Francisco, CA 94126 
+&#8195; [underline]#For Coinbase:# +
+&#8195;&#8195; Paul Grewal +
+&#8195;&#8195; Chief Legal Officer +
+&#8195;&#8195; Coinbase, Inc. +
+&#8195;&#8195; P.O. Box 26409 +
+&#8195;&#8195; San Francisco, CA 94126 
 
 
 [underline]#Miscellaneous#

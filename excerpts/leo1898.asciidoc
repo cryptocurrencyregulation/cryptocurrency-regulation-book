@@ -29,12 +29,12 @@ For purposes of this opinion, cryptocurrency also means virtual or digital curre
 Applicable Rules of Professional Conduct 
 [none]
 .. Rule 1.1 (Competence): A lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation. 
-.. &period;&period;&period;
+.. &#46;&#46;&#46;
 .. Rule 1.5 (Fees) 
 [none]
 ... (a)	A lawyer’s fee shall be reasonable. 
 ... (b)	The lawyer’s fee shall be adequately explained to the client. 
-.. &period;&period;&period;
+.. &#46;&#46;&#46;
 .. Rule 1.8 (Conflict of Interest; Special Rules) 
 [none]
 ... (a) A lawyer shall not enter into a business transaction with a client or knowingly acquire an ownership, possessory, security or other pecuniary interest adverse to a client unless: 
@@ -42,7 +42,7 @@ Applicable Rules of Professional Conduct
 .... (1)	the transaction and terms on which the lawyer acquires the interest are fair and reasonable to the client and are fully disclosed and transmitted in writing to the client in a manner which can be reasonably understood by the client; 
 .... (2)	the client is given a reasonable opportunity to seek the advice of independent counsel in the transaction; and 
 .... (3)	the client consents in writing thereto. 
-.. &period;&period;&period;
+.. &#46;&#46;&#46;
 .. Rule 1.15 (Safekeeping Property) 
 .. Comment [1]: A lawyer should hold property of others with the care required of a professional fiduciary. Securities should be kept in a safe deposit box, except when some other form of safekeeping is warranted by special circumstances. For purposes of this Rule, the term “fiduciary” includes personal representative, trustee, receiver, guardian, committee, custodian, and attorney-in-fact. All property that is the property of clients or third persons should be kept separate from the lawyer's business and personal property and, if funds, in one or more trust accounts. 
 

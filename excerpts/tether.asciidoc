@@ -24,7 +24,7 @@ TETHER HOLDINGS LIMITED, TETHER +
 OPERATIONS LIMITED, TETHER LIMITED, +
 TETHER INTERNATIONAL LIMITED +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Respondents. +
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Respondents. +
 &lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;&lowbar;
 
 [.text-center.underline]
@@ -39,7 +39,7 @@ TETHER INTERNATIONAL LIMITED +
 [.text-center.underline]
 *OAG’s FINDINGS*
 
-*I&period; [.underline]#Bitfinex and Tether#*
+*I&#46; [.underline]#Bitfinex and Tether#*
 
 [.text-justify, start=6]
 . Bitfinex operates an online platform for exchanging and trading virtual currency. Users access the Bitfinex trading platform and place orders through its website, available at www.bitfinex.com, through an associated Application Programming Interface (“API”), or via over-the-counter services. Bitfinex also provides users with the ability to store their virtual currency and transfer their holdings to a different trading platform. Bitfinex is one of the relatively few virtual currency trading platforms that allows traders to deposit and withdraw socalled “fiat” currency, including U.S. dollars, euros, pounds, and yen. Traders using the Bitfinex platform can deposit dollars with Bitfinex, convert them to virtual currency at the rates offered by Bitfinex, trade the virtual currency they have purchased, convert their virtual currency holdings back into dollars, and withdraw the funds. For that reason, it is important that Bitfinex has sufficient U.S. dollars on hand to fill withdrawal orders submitted by traders.
@@ -51,7 +51,7 @@ TETHER INTERNATIONAL LIMITED +
 . Tether is one of the most prominent and widely-traded virtual currencies. As of the date of this Settlement Agreement, Tether represents that over 31 billion tethers have been issued and are outstanding and traded in the market.
 . Bitfinex and Tether are owned and operated by a small group of executives and shareholders that are located around the world. During the time period relevant to the OAG’s investigation, and as late as early-to-mid 2018, one of Bitfinex and Tether’s senior executives lived in, and conducted his work from, New York.
 
-*II&period; In 2017, Bitfinex and Tether Misled the Market About Tether’s U.S. Dollar Backing*
+*II&#46; In 2017, Bitfinex and Tether Misled the Market About Tether’s U.S. Dollar Backing*
 
 [.text-justify, start=14]
 . Prior to 2017, Bitfinex and Tether used several Taiwan-based banks to send and receive wire transfers to fulfill client orders for U.S. dollars, and for other purposes. Wells Fargo acted as the correspondent bank. In late March 2017, Wells Fargo elected to no longer process U.S. dollar wire transfers from Bitfinex and Tether accounts, forcing the companies to find alternative banking arrangements.
@@ -78,7 +78,7 @@ image::media/oag_tether_image_1.png[align=center]
 [.text-justify, start=29]
 . The September 30, 2017 “Transparency Update” and the attached memorandum were misleading. At no point did Tether inform its clients or the market that from at least June 1, 2017 until September 15, 2017, tethers were not in fact not backed “1-to-1” by USD held by Tether in a bank account. Rather, the funds ostensibly backing tethers had been held in an account under the control of its General Counsel, with the balance accounted for as a “receivable” from Bitfinex. No one reviewing Tether’s representations would have reasonably understood that the $382,064,782 listed as cash reserves for tethers had only been placed in Tether’s account as of the very morning that Friedman verified the bank balance.
 
-*III&period; In 2019, Bitfinex and Tether Misrepresented the Status of the Tether Reserves, 
+*III&#46; In 2019, Bitfinex and Tether Misrepresented the Status of the Tether Reserves, 
 After Bitfinex Suffered a Massive Loss of Funds*
 
 [.text-justify, start=30]
@@ -94,9 +94,9 @@ After Bitfinex Suffered a Massive Loss of Funds*
 . Despite efforts to stave off Bitfinex’s “liquidity crisis,” online reports continued to mount that Bitfinex was unable or unwilling to timely process client withdrawal requests. In response, Bitfinex issued the following statement to the market on October 7, 2018:
 [numeric]
 .. Bitfinex is not insolvent, and a constant stream of Medium articles claiming otherwise is not going to change this. As one of only a very few exchanges operating since 2013, with a small team and low operating costs, we do not entirely understand the arguments that purport to show us to be insolvent without providing any explanation about why. The wallets below represent a small fraction of Bitfinex cryptocurrency holdings and do not take into account fiat holdings of any kind. +
-&emsp;• Bitcoin cold wallet 1 +
-&emsp;• Ethereum cold wallet 1 +
-&emsp;• EOS cold wallet 1 +
+&#8195;• Bitcoin cold wallet 1 +
+&#8195;• Ethereum cold wallet 1 +
+&#8195;• EOS cold wallet 1 +
 How any rational party can claim insolvency when the opposite is there for all to see is interesting and, once again, perhaps indicative of a targeted campaign based on nothing but fiction.
 .. Both fiat and cryptocurrency withdrawals are functioning as normal. Verified Bitfinex users can freely withdraw Euros, Japanese Yen, Pounds Sterling and U.S. Dollars. Complications continue to exist for us in the domain of fiat transactions, as they do for most cryptocurrency-related organisations. However, we continue to do our utmost to minimise any waiting times associated with fiat deposits and withdrawals.
 .. Stories and allegations currently circulating mentioning an entity called Noble Bank have no impact on our operations, survivability, or solvency.
@@ -227,26 +227,26 @@ Attorney General of the State of New York +
 New York, NY 10005
 | |
 | |By:  
-| |&emsp;&emsp;John D. Castiglione +
-&emsp;&emsp;Senior Enforcement Counsel +
-&emsp;&emsp;Investor Protection Bureau 
+| |&#8195;&#8195;John D. Castiglione +
+&#8195;&#8195;Senior Enforcement Counsel +
+&#8195;&#8195;Investor Protection Bureau 
 | |
-| |&emsp;&emsp;Brian Whitehurst +
-&emsp;&emsp;Assistant Attorney General +
-&emsp;&emsp;Investor Protection Bureau 
+| |&#8195;&#8195;Brian Whitehurst +
+&#8195;&#8195;Assistant Attorney General +
+&#8195;&#8195;Investor Protection Bureau 
 | |
 | |iFinex Inc., BFXNA Inc., BFXWW Inc.
 | |
 | |By:  
-| |&emsp;&emsp;Giancarlo Devasini, Director +
-&emsp;&emsp;Dated:February 17, 2021
+| |&#8195;&#8195;Giancarlo Devasini, Director +
+&#8195;&#8195;Dated:February 17, 2021
 | |
 | |Tether Holdings Limited, Tether Operations Limited, +
 Tether Limited, and Tether International Limited
 | |
 | |By: 
-| |&emsp;&emsp;Jean-Louis van der Velde, Director +
-&emsp;&emsp;Dated: February 17, 2021
+| |&#8195;&#8195;Jean-Louis van der Velde, Director +
+&#8195;&#8195;Dated: February 17, 2021
 |===
 [[oag_tether_questions]]
 === Discussion Questions ===

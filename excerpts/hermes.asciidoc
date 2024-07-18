@@ -30,17 +30,17 @@ SOUTHERN DISTRICT OF NEW YORK
 |===
 |HERMÈS INTERNATIONAL and +
 HERMÈS OF PARIS, INC., +
-&emsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Plaintiffs, +
-&emsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;-against- +
-&emsp; +
+&#8195; +
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Plaintiffs, +
+&#8195; +
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;-against- +
+&#8195; +
 MASON ROTHSCHILD, +
-&emsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Defendant. ^| &emsp; +
-&emsp; +
+&#8195; +
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Defendant. ^| &#8195; +
+&#8195; +
 22-cv-384 (JSR) +
-&emsp; +
+&#8195; +
 [underline]#OPINION AND ORDER#
 |===
 
@@ -55,7 +55,7 @@ By Order dated December 30, 2022, the Court denied the parties’ cross motions 
 In their cross-motions for summary judgment, plaintiffs Hermès International and Hermès of Paris, Inc. (collectively “Hermès”) and defendant Mason Rothschild ask the Court to determine two questions. First, whether the digital images underlying the non-fungible tokens (“NFTs”) produced and sold by defendant Mason Rothschild depicting fur-covered Birkin handbags -- so-called “MetaBirkins” -- should be evaluated under the [underline]#Rogers v. Grimaldi# test for artistic works or the [underline]#Gruner + Jahr# test for general trademark infringement. Second, whether, under whichever test is applied, the MetaBirkins NFT images or related products infringe and/or dilute Hermès’ trademarks pertaining to its Birkin handbag.^*(xref:hermes_fn_1[1])*^ As to the first, threshold question, the Court reaffirms the determination it made in its earlier Order of May 18, 2022 that the plaintiffs’ claims should be assessed under the two-part test articulated in [underline]#Rogers v. Grimaldi#, 875 F.2d 994 (2d Cir. 1989), for evaluating trademark infringement in artistic works. Dkt. 77, Order Denying Mot. to Dismiss (“Mot. Dismiss Order”) at 11. As to
 the second question, the Court finds that there remain genuine issues of material fact that preclude summary judgment.
 
-*&emsp; I&period; &emsp;  [underline]#Factual Background#* ^*(xref:hermes_fn_2[2])*^
+*&#8195; I&#46; &#8195;  [underline]#Factual Background#* ^*(xref:hermes_fn_2[2])*^
 
 [.text-justify]
 Hermès is a luxury fashion brand known, among other things, for designing, producing, and marketing the “iconic” Birkin. Dkt. 74, Plfs.’ Statement of Material Facts (“Plfs. SOMF”) ¶ 2. Since 1986, Hermès has sold over $1 billion worth of these handbags in the United States, including over $100 million dollars’ worth in the past ten years alone. Dkt. 69, Declaration of Nicolas Martin (“Martin Decl.”) ¶ 10. Individual Birkin bags regularly sell for tens of thousands of dollars, with one fetching hundreds of thousands of dollars at Christie’s, an art auction house. Plfs.’ SOMF ¶ 58. As both parties recognize, the Birkin bag has also come to occupy a place of cultural importance as a symbol of wealth and exclusivity. [underline]#Cf.# Dkt. 84, Def’s Counterstatement to Plfs. SOMF ¶ 3. 
@@ -83,15 +83,15 @@ Mentzler Decl., Ex. 1 at 5, 8-9.
 In addition to the claims for infringement and dilution of its marks, Hermès asserts that Rothschild’s project has disrupted their efforts to enter the NFT market and hindered its ability to profit in that space from the Birkin bag’s well-known reputation. [underline]#See# Plfs. SOMF ¶¶ 109-112. Indeed, the company alleges that it has for years developed potential uses for NFTs as part of its overall business strategy. Rothschild’s efforts to crowd it out of the NFT market, Hermès claims, places it at a competitive disadvantage: +
 its plans to enter this market follow on the efforts of several top fashion brands -- including Gucci, Louis Vuitton, and Balenciaga -- to develop NFT strategies that would allow them to market their goods to a wider audience. [underline]#Id.# ¶ 113.
 
-*&emsp; II&period; &emsp; [underline]#Procedural Background#*
+*&#8195; II&#46; &#8195; [underline]#Procedural Background#*
 
 [.text-justify]
 Hermès brought this trademark action against Rothschild on January 14, 2022, shortly after notifying the defendant of their allegations in a December 16, 2021 cease and desist letter. [underline]#See# Dkt. 1, Complaint. Plaintiffs press four sets of allegations in their Amended Complaint. First, they claim that the MetaBirkins NFTs infringe Hermès’ trademarks in the word “Birkin” and in the design and iconography of the handbag.^*(xref:hermes_fn_5[5])*^ Second, they claim that Rothschild’s alleged appropriation of the “Birkin” mark diluted and damaged the distinctive quality and goodwill associated with the mark. Third, they claim that Rothschild’s use of a website domain name -- https://metabirkins.com[] -- constituted cybersquatting, in that it was confusingly similar to the “Birkin” mark, and therefore “harmed . . . and dilute[d]” the mark’s distinctiveness and the goodwill associated with it. And fourth, they claim that Rothschild’s use of its trademarks constitutes unfair competition under both federal and state law.
 
-*&emsp; III&period; &emsp; [underline]#Discussion#*
+*&#8195; III&#46; &#8195; [underline]#Discussion#*
 
 
-&emsp;&emsp;A&period; &emsp; [underline]#Hermès’ Trademark Infringement Claims#
+&#8195;&#8195;A&#46; &#8195; [underline]#Hermès’ Trademark Infringement Claims#
 
 [.text-justify]
 At the outset, the Court must decide which of the two frameworks for assessing trademark infringement applies to the claims in this case: the “[underline]#Rogers#” test or the “[underline]#Gruner + Jahr#” test.
@@ -103,7 +103,7 @@ Courts in this circuit and elsewhere^*(xref:hermes_fn_6[6])*^ have long applied 
 The plaintiff contends that, because “Rothschild had no discernable artistic intent or expression in promoting and selling [the MetaBirkins NFTs],” it is the test outlined in [underline]#Gruner + Jahr# for evaluating alleged trademark infringement in general that should apply. [underline]#See# 991 F.2d 1072, 1074 (2d Cir. 1993); Dkt. 77, Plf. Br. Mot. Summ. J. at 23. The defendant, by contrast, urges the Court to affirm its previous ruling (made, however, just on the pleadings) that the [underline]#Rogers# test for creative works applies because the digital images associated with the MetaBirkins NFTs “could constitute a form of artistic expression.” Mot. Dismiss Order at 11. This Court agrees with the defendant: it is the [underline]#Rogers# test that still applies here on summary judgment.
 
 [.text-justify]
-&emsp;&emsp;&emsp; _1&period; &emsp; What Works Are “Artistic” and Therefore Deserving of First Amendment Protection Under the [underline]#Rogers# Test?_
+&#8195;&#8195;&#8195; _1&#46; &#8195; What Works Are “Artistic” and Therefore Deserving of First Amendment Protection Under the [underline]#Rogers# Test?_
 
 [.text-justify]
 Deciding which of these tests to apply on summary judgment first requires defining the set of works that are “artistic” and therefore deserving of First Amendment protection. [underline]#See# [underline]#Rogers#, 875 F.2d at 1000. [underline]#Rogers# itself had no occasion to elaborate on which works qualified as “artistic” because the work at issue there -- a Federico Fellini film parodying Fred Astaire and Ginger Rogers -- was “indisputably” one of “artistic expression” and therefore presumptively “deserv[ing of] protection.” [underline]#Id.# at 997; [underline]#see also# [underline]#Rogers v. Grimaldi#, 695 F. Supp. 112, 120-121 (S.D.N.Y. 1988) (juxtaposing “artistic expression” with “commercial speech . . . intended primarily to persuade the public to consume something . . . or to convey the false impression that [a] plaintiff was somehow involved with or had endorsed the product.”). Later cases in the Second Circuit have done little to further define “artistic expression.” [underline]#See, e.g.#, [underline]#Cliff Notes, Inc. v. Bantam Doubleday Dell Pub. Group, Inc.#, 886 F.2d 490, 495 (2d Cir. 1989) (stating that “the [underline]#Rogers# balancing approach is generally applicable to Lanham Act claims against works of artistic expression,” a category which includes “parody”); [underline]#United We Stand Am., Inc. v. United We Stand, Am. N.Y., Inc.#, 128 F.3d 86, 93 (2d Cir. 1997) (explaining that the First Amendment protects the use of trademarks to further “commentary, comedy, parody, news reporting, or criticism,” among other things).
@@ -120,7 +120,7 @@ The touchstone of the inquiry, then, is whether the trademark was used to mislea
 [.text-justify]
 Unlike copyright law (which implements Art. I, § 8, cl. 8 of the Constitution), trademark law is not intended to protect the owner’s right in a creative product simply to encourage creative output, i.e., where there is no consumer confusion. [underline]#See# [underline]#EMI Catalogue#, 228 F.3d 56, 63 (2d Cir. 2000). In other words, trademark law, unlike copyright law, is not founded on a constitutional mandate, and therefore must be applied with caution where constitutionally protected speech is arguably involved.
 
-&emsp;&emsp;&emsp; _2&period; &emsp; The Rogers Test Governs This Case_
+&#8195;&#8195;&#8195; _2&#46; &#8195; The Rogers Test Governs This Case_
 
 [.text-justify]
 Applying these principles, this Court determined in its Order denying the defendant’s motion to dismiss that the [underline]#Rogers# test applies to Hermès’ claims because, on the pleadings, Rothschild’s MetaBirkins “could constitute a form of artistic expression.” Mot. Dismiss Order at 11. Having now carefully examined the admissible evidence adduced on the instant summary judgment motions, the Court reaches the same conclusion as to the applicable test. This is because defendant has identified admissible evidence supporting its assertion that Rothschild’s use of Hermès’ marks did not function primarily as a source identifier that would mislead consumers into thinking that Hermès originated or otherwise endorsed the MetaBirkins collection, but rather as part of an artistically expressive project. [underline]#See# [underline]#Champion#, 561 F. Supp. 3d at 434.
@@ -153,7 +153,7 @@ To be sure, Hermès has offered admissible evidence contradicting each of defend
 However, such evidence does little more than show that Rothschild’s project was driven in part by pecuniary motives, a fact that does not bar application of the [underline]#Rogers# test. Whereas as a general matter “speech . . . primarily intended to serve a commercial purpose” falls outside the scope of the First Amendment, [underline]#Rogers v. Grimaldi#, 695 F. Supp. 112, 120-121 (S.D.N.Y. 1988), a court may not strip an artistic work of First Amendment protection merely because the artist seeks to market and sell his creative output. [underline]#See# Mot. Dismiss Order at 12 (“[underline]#Rogers# is not inapplicable simply because Rothschild sells the images -- the movie studio defendant in [underline]#Rogers# sold the film at issue.”). Put another way, courts should not expect that the First Amendment applies only to the works of “starving artists” whose sole mission is to share their artistic vision with the world. Overall, the very fact that there is a genuine dispute of fact as to virtually every aspect of plaintiffs’ claims only goes to show why summary judgment is not appropriate here, but not why the [underline]#Rogers# balancing test is not the right test against which to evaluate the parties’ competing inferences.
 
 [.text-justify]
-&emsp;&emsp;&emsp; _3&period; &emsp; The Parties’ Motions for Summary Judgment As To the [underline]#Rogers# Factors Are Denied_
+&#8195;&#8195;&#8195; _3&#46; &#8195; The Parties’ Motions for Summary Judgment As To the [underline]#Rogers# Factors Are Denied_
 
 [.text-justify]
 While the [underline]#Rogers# test is therefore the governing framework for these motions, the [underline]#Rogers# test does not offer defendants unfettered license to infringe another’s trademarks. [underline]#See# [underline]#Rogers#, 875 F.2d at 998 (“First Amendment concerns do not insulate titles of artistic works from all Lanham Act claims.”). “Works of artistic expression . . . deserve protection,” but they “are also sold in the commercial marketplace like other more utilitarian products, making the danger of consumer deception a legitimate concern that warrants some government regulation.” Id. In certain instances, the public’s interest in avoiding competitive exploitation or consumer confusion as to the source of a good outweighs whatever First Amendment concerns may be at stake. 
@@ -164,7 +164,7 @@ The [underline]#Rogers# test incorporates these competing considerations. Specif
 [.text-justify]
 To determine whether either party is entitled to summary judgment under the [underline]#Rogers# test, then, the Court must inquire whether there remains a “genuine issue as to any . . . fact” material to meeting either of the prongs of the test. Because the Court concludes that genuine issues of material fact exist with respect to both these elements, it denies both parties’ summary judgment motions in their entirety.
 
-&emsp;&emsp;&emsp;&emsp; i&period; &emsp; _The “Artistic Relevance” Factor_
+&#8195;&#8195;&#8195;&#8195; i&#46; &#8195; _The “Artistic Relevance” Factor_
 
 [.text-justify]
 The artistic relevance prong of the [underline]#Rogers# test “ensures that the defendant intended an artistic -- i.e., non-commercial association with the plaintiff’s mark, as opposed to one in which the defendant intends to associate with the mark to exploit the mark’s popularity and good will.” [underline]#Louis Vuitton Malletier S.A. v. Warner Bros. Ent. Inc.#, 868 F. Supp. 2d 172, 178 (S.D.N.Y. 2012). Under [underline]#Rogers#, however, a showing of artistic relevance is easily satisfied: it is met “unless the [use of the mark] has [underline]#no artistic relevance# to the underlying work [underline]#whatsoever#,” and was instead chosen merely “to exploit the publicity value of [the plaintiff’s mark or brand].” [underline]#Rogers#, 875 F.2d at 1001 (emphasis in original).
@@ -184,7 +184,7 @@ Rothschild, by contrast, maintains that the project’s expressive purpose was c
 [.text-justify]
 More generally, whether a defendant’s use of a plaintiff’s trademark is “artistically relevant” to their work is “a mixed question of law and fact” involving “the application of [the [underline]#Rogers# test] to a particular set of facts.” [underline]#Richardson v. New York State Dep't Corr. Serv.#, 180 F.3d 426, 437 (2d Cir. 1999) (citations and internal quotations omitted). “Such mixed questions are especially well-suited for jury determination and summary judgment may be granted only when reasonable minds could not differ on the issue.” [underline]#Id.# Because reasonable individuals could reach different conclusions on the “artistic relevance” factor, the Court denies both parties’ summary judgment motions on it.
 
-&emsp;&emsp;&emsp;&emsp; ii&period; &emsp; _The “Explicitly Misleading” Factor_
+&#8195;&#8195;&#8195;&#8195; ii&#46; &#8195; _The “Explicitly Misleading” Factor_
 
 [.text-justify]
 Even where the use of a trademark bears “some artistic relevance” to an underlying artistic work, the First Amendment does not protect such use if it “explicitly misleads as to the source or the content of the work.” [underline]#Twin Peaks Prods., Inc. v. Publications Int’l, Ltd.#, 996 F.2d 1366, 1379 (2d Cir. 1993). A work is “explicitly misleading” if it “induces members of the public to believe” that it was created or otherwise authorized by the plaintiff. [underline]#Id.# “This determination must be made, in the first instance, by application of the venerable [underline]#Polaroid# factors,” with the important qualification that the “likelihood of confusion” assessed under these factors “must be particularly compelling to outweigh the First Amendment interest recognized in [underline]#Rogers#.” [underline]#Id.#
@@ -201,7 +201,7 @@ As the sheer length of this list should communicate, “the [underline]#Polaroid
 [.text-justify]
 That is the case here. To take just one factor, the parties disagree vehemently over whether consumers were confused about Hermès’ association with the MetaBirkins project. Indeed, Hermès commissioned a study that found a 18.7% net confusion rate among potential consumers of NFTs. Alongside this aggregate data, the plaintiff points to anecdotal evidence of social media users and the media that allegedly shows actual confusion over the fashion company’s role in the project.^*(xref:hermes_fn_10[10])*^ Rothschild, for his part, objects to the study’s method and argues that the social media posts are not evidence of actual confusion. Because there remain substantial factual disagreements between the parties with respect to many -- if not most -- of the eight factors, any of which could be dispositive to the outcome, the Court declines to grant summary judgment for either party on this issue.
 
-&emsp;&emsp;B&period; &emsp; [underline]#Hermès’ Other Claims#
+&#8195;&#8195;B&#46; &#8195; [underline]#Hermès’ Other Claims#
 
 [.text-justify]
 As the Court explained in its motion to dismiss ruling, Hermès’ remaining claims for, [underline]#inter alia#, trademark dilution and cybersquatting, rise or fall depending on the ultimate resolution of the [underline]#Rogers# test. [underline]#See# Mot. Dismiss Order at 19-20; [underline]#see also# [underline]#Deere & Co. v. MTD Prods., Inc.#, 41 F.3d 39, 44 (2d Cir. 1994) (citing [underline]#Rogers#, 875 F.2d at 1000) (“The risk [of] some dilution of the identifying or selling power of the mark is generally tolerated in the interest of maintaining broad opportunities for expression.”); [underline]#United We Stand Am., Inc. v. United We Stand Am. N.Y., Inc.#, 128 F.3d 86, 91 (2d Cir. 1997) (“[E]ven if plaintiff suffered some trademark dilution, defendants’ right under the First Amendment to use plaintiff's mark to communicate the message might prevail over plaintiff's rights under the trademark law to avoid all dilution.”) Because the [underline]#Rogers# issue has yet to be resolved, summary judgment on these claims is inappropriate on that ground alone.
@@ -209,17 +209,17 @@ As the Court explained in its motion to dismiss ruling, Hermès’ remaining cla
 [.text-justify]
 Beyond that, however, the Court finds that genuine issues of material fact remain with respect to these claims as well. For instance, liability under the cybersquatting statute turns on whether the defendant “has a bad faith intent to profit from that mark.” See 15 U.S.C. § 1125(d)(1)(A)(i). And whether Rothschild acted in “bad faith,” in turn, depends on facts that are plainly in dispute. On one side, Rothschild argues that he acted in good faith because he allegedly made efforts -- described above -- to disassociate Hermès from MetaBrinks project. On the other, Hermès insists that Rothschild's naked attempts to profit from the Birkin mark clearly show that he has acted in bad faith with respect to his use of the Birkin mark. Plfs. SOMF ¶¶ 176, 178. such issues, like the others described above, are for the jury to decide.
 
-*&emsp; IV&period; &emsp; [underline]#Conclusion#*
+*&#8195; IV&#46; &#8195; [underline]#Conclusion#*
 
 [.text-justify]
 For the reasons discussed above, the parties’ cross-motions for summary judgement are denied in their entirety.
 
-&emsp;&emsp;&emsp;SO ORDERED.
+&#8195;&#8195;&#8195;SO ORDERED.
 [frame=none, grid=rows]
 |===
 |New York, NY +
-February 2,2023 >| [underline]#&emsp;&emsp;&emsp;&emsp;&emsp;(signed)&emsp;&emsp;&emsp;&emsp;# +
-&emsp;JED S. RAKOFF, U.S.D.J.&emsp;
+February 2,2023 >| [underline]#&#8195;&#8195;&#8195;&#8195;&#8195;(signed)&#8195;&#8195;&#8195;&#8195;# +
+&#8195;JED S. RAKOFF, U.S.D.J.&#8195;
 |===
 
 &nbsp;
@@ -232,34 +232,34 @@ February 2,2023 >| [underline]#&emsp;&emsp;&emsp;&emsp;&emsp;(signed)&emsp;&emsp
 
 [[hermes_fn_1]]
 [.text-justify]
-[small]##^*1*^ &emsp; The plaintiffs own trademark rights in the “Birkin” mark -- that is, the name of the bag itself -- and trade dress rights in the design of the Birkin handbag. Am. Compl. ¶¶ 34–36. Plaintiffs also bring cyber-squatting and unfair competition claims. [underline]#See generally id#.##
+[small]##^*1*^ &#8195; The plaintiffs own trademark rights in the “Birkin” mark -- that is, the name of the bag itself -- and trade dress rights in the design of the Birkin handbag. Am. Compl. ¶¶ 34–36. Plaintiffs also bring cyber-squatting and unfair competition claims. [underline]#See generally id#.##
 [[hermes_fn_2]]
 [.text-justify]
-[small]##^*2*^ &emsp; The following facts are taken from the parties’ Rule 56.1 statements and supporting materials. Throughout this Opinion, the Court construes the facts in dispute most favorably to the party not moving for summary judgment with respect to whichever motion the Court is analyzing.##
+[small]##^*2*^ &#8195; The following facts are taken from the parties’ Rule 56.1 statements and supporting materials. Throughout this Opinion, the Court construes the facts in dispute most favorably to the party not moving for summary judgment with respect to whichever motion the Court is analyzing.##
 [[hermes_fn_3]]
 [.text-justify]
-[small]##*3* &emsp; The defendant’s legal name is Sonny Estival but he is referred to in this Opinion by his assumed name of Mason Rothschild, as he is in both parties’ briefing papers. Am. Compl. ¶¶ 1, 8–9.##
+[small]##*3* &#8195; The defendant’s legal name is Sonny Estival but he is referred to in this Opinion by his assumed name of Mason Rothschild, as he is in both parties’ briefing papers. Am. Compl. ¶¶ 1, 8–9.##
 [[hermes_fn_4]]
 [.text-justify]
-[small]##^*4*^ &emsp; There is substantial disagreement between the parties as to whether Rothschild himself created the digital images associated with the MetaBirkins project or whether another artist -- Mark Berden -- was responsible for designing and rendering them. On the one hand, Rothschild argues that he should be considered the NFT’s progenitor: “[h]e had final approval” of all the digital images and, though “Mr. Berden functioned as a high-level studio assistant” who helped Rothschild create the digital images, Berden ultimately worked “at Rothschild’s direction.” Defendant’s Counter-Statement to Plaintiff’s Rule 56.1 Statement of Undisputed Facts (“Def. Counter-Statement to Plfs. SOMF”) ¶ 35. The plaintiffs, on the other hand, submit that, to the extent the MetaBirkins are an artistic creation at all, Mr. Berden should be considered the artist. [underline]#See# Plfs. Br. in Support of Summary Judgment (“Plfs. Br. in Support”) at 7. They allege that “Berden generated every image associated with the MetaBirkin NFTs” though “Rothschild did not provide Berden” with the requisite software, pay him a salary, or otherwise manage his hours. [underline]#Id.# This dispute, however, strikes the Court as legally irrelevant so far as the instant motions are concerned. Whether there is admissible evidence that the MetaBirkins are art -- and therefore, whether the [underline]#Rogers# test should apply -- does not turn on who designed the NFTs.##
+[small]##^*4*^ &#8195; There is substantial disagreement between the parties as to whether Rothschild himself created the digital images associated with the MetaBirkins project or whether another artist -- Mark Berden -- was responsible for designing and rendering them. On the one hand, Rothschild argues that he should be considered the NFT’s progenitor: “[h]e had final approval” of all the digital images and, though “Mr. Berden functioned as a high-level studio assistant” who helped Rothschild create the digital images, Berden ultimately worked “at Rothschild’s direction.” Defendant’s Counter-Statement to Plaintiff’s Rule 56.1 Statement of Undisputed Facts (“Def. Counter-Statement to Plfs. SOMF”) ¶ 35. The plaintiffs, on the other hand, submit that, to the extent the MetaBirkins are an artistic creation at all, Mr. Berden should be considered the artist. [underline]#See# Plfs. Br. in Support of Summary Judgment (“Plfs. Br. in Support”) at 7. They allege that “Berden generated every image associated with the MetaBirkin NFTs” though “Rothschild did not provide Berden” with the requisite software, pay him a salary, or otherwise manage his hours. [underline]#Id.# This dispute, however, strikes the Court as legally irrelevant so far as the instant motions are concerned. Whether there is admissible evidence that the MetaBirkins are art -- and therefore, whether the [underline]#Rogers# test should apply -- does not turn on who designed the NFTs.##
 [[hermes_fn_5]]
 [.text-justify]
-[small]##^*5*^ &emsp; Although Hermès maintains that Rothschild’s misappropriation of the Birkin bag’s “trade dress and imagery” are “aggravating factors” in this litigation, they assert that “it was Rothschild’s unauthorized use of the Birkin name for [his] NFTs that . . . gave rise to this action” and is thus the focus of the parties’ briefing. [underline]#See# Plfs. Br. in Support at 3.##
+[small]##^*5*^ &#8195; Although Hermès maintains that Rothschild’s misappropriation of the Birkin bag’s “trade dress and imagery” are “aggravating factors” in this litigation, they assert that “it was Rothschild’s unauthorized use of the Birkin name for [his] NFTs that . . . gave rise to this action” and is thus the focus of the parties’ briefing. [underline]#See# Plfs. Br. in Support at 3.##
 [[hermes_fn_6]]
 [.text-justify]
-[small]##^*6*^ &emsp; The Third, Fifth, Sixth, Ninth, and Eleventh Circuits have largely adopted the [underline]#Rogers# test. [underline]#See# [underline]#e.g.#, [underline]#Seale v. Gramercy Pictures#, 949 F. Supp. 331 (E.D. Pa. 1996), [underline]#aff’d without opinion#, 156 F.3d 1225 (3d Cir. 1998); [underline]#Westchester Media v. PRL USA Holdings, Inc.#, 214 F.3d 658 (5th Cir. 2000; [underline]#ETW Corp. v. Jireh Publ’g#, 332 F.3d 915, 937 (6th Cir. 2003); [underline]#Gordon v. Drape Creative, Inc.#, 909 F.3d 257, 269-70 (9th Cir. 2018).##
+[small]##^*6*^ &#8195; The Third, Fifth, Sixth, Ninth, and Eleventh Circuits have largely adopted the [underline]#Rogers# test. [underline]#See# [underline]#e.g.#, [underline]#Seale v. Gramercy Pictures#, 949 F. Supp. 331 (E.D. Pa. 1996), [underline]#aff’d without opinion#, 156 F.3d 1225 (3d Cir. 1998); [underline]#Westchester Media v. PRL USA Holdings, Inc.#, 214 F.3d 658 (5th Cir. 2000; [underline]#ETW Corp. v. Jireh Publ’g#, 332 F.3d 915, 937 (6th Cir. 2003); [underline]#Gordon v. Drape Creative, Inc.#, 909 F.3d 257, 269-70 (9th Cir. 2018).##
 [[hermes_fn_7]]
 [.text-justify]
-[small]##^*7*^ &emsp; The Second Circuit fashioned the [underline]#Rogers# test with the understanding that trademark law has the potential to “intrude on First Amendment values” by discouraging the use of certain trademarks in expressive works.” [underline]#AM General LLC v. Activision Blizzard, Inc.#, 450 F. Supp. 3d 467, 477 (S.D.N.Y. 2020). The test ensures, among other things, that “a markholder cannot shield itself from criticism by forbidding the use of its name in commentaries critical of its conduct.” [underline]#Lamparello v. Falwell#, 420 F.3d 309, 318 (4th Cir. 2005).##
+[small]##^*7*^ &#8195; The Second Circuit fashioned the [underline]#Rogers# test with the understanding that trademark law has the potential to “intrude on First Amendment values” by discouraging the use of certain trademarks in expressive works.” [underline]#AM General LLC v. Activision Blizzard, Inc.#, 450 F. Supp. 3d 467, 477 (S.D.N.Y. 2020). The test ensures, among other things, that “a markholder cannot shield itself from criticism by forbidding the use of its name in commentaries critical of its conduct.” [underline]#Lamparello v. Falwell#, 420 F.3d 309, 318 (4th Cir. 2005).##
 [[hermes_fn_8]]
 [.text-justify]
-[small]##^*8*^ &emsp; [underline]#Elle UK# published an article in which they reported that “Hermes had created the MetaBirkins NFT and referred to the MetaBirkins as a Birkin.” [underline]#See# Plfs. SOMF ¶ 123. [underline]#L’Officiel#, a French fashion magazine, wrote that Hermes “partnered with” Rothschild to create “a new line of Birkin bags,” and “another collection of Birkin NFTs.” Corrigan Decl., Ex. 67 at 121; Ex 72. The [underline]#New York Post# stated that Hermes had “unveiled the MetaBirkin -- a VR version of its signature bag.” Plfs. SOMF ¶ 128.##
+[small]##^*8*^ &#8195; [underline]#Elle UK# published an article in which they reported that “Hermes had created the MetaBirkins NFT and referred to the MetaBirkins as a Birkin.” [underline]#See# Plfs. SOMF ¶ 123. [underline]#L’Officiel#, a French fashion magazine, wrote that Hermes “partnered with” Rothschild to create “a new line of Birkin bags,” and “another collection of Birkin NFTs.” Corrigan Decl., Ex. 67 at 121; Ex 72. The [underline]#New York Post# stated that Hermes had “unveiled the MetaBirkin -- a VR version of its signature bag.” Plfs. SOMF ¶ 128.##
 [[hermes_fn_9]]
 [.text-justify]
-[small]##^*9*^ &emsp; In the same interview, Rothschild also elaborated on the communicative message behind his earlier “Baby Birkin” project, explaining that the decision “to put a baby in a Birkin and go through all stages of pregnancy” was an “artistic representation” that “play[ed] on the words baby and Birkin,” which is “the most sought after Birkin size.” Plfs. SOMF ¶ 168.##
+[small]##^*9*^ &#8195; In the same interview, Rothschild also elaborated on the communicative message behind his earlier “Baby Birkin” project, explaining that the decision “to put a baby in a Birkin and go through all stages of pregnancy” was an “artistic representation” that “play[ed] on the words baby and Birkin,” which is “the most sought after Birkin size.” Plfs. SOMF ¶ 168.##
 [[hermes_fn_10]]
 [.text-justify]
-[small]##^*10*^ &emsp; For example, one user on Twitter commented “Finally an NFT my wife can get on board with! Would LOVE to get her this Birken [sic] for Christmas!” Plfs. SOMF ¶ 132. Another that: “I need this Birkin for the wifey! Please whitelist me sir. ++#WAGMI++ ++#MetaBirkins++.” [underline]#Id.# ¶ 133. A third that: “Birkin NFT is the future of fashion.” [underline]#Id.# ¶ 134. One begged Rothschild to “whitelist him" so that he could “own his first Birkin.” [underline]#Id.# ¶ 146. Though consumers may have been confused about Hermes’s association, merely using the shorthand “Birkin” to refer to the NFTs is consistent with a theory that there was no such confusion.##
+[small]##^*10*^ &#8195; For example, one user on Twitter commented “Finally an NFT my wife can get on board with! Would LOVE to get her this Birken [sic] for Christmas!” Plfs. SOMF ¶ 132. Another that: “I need this Birkin for the wifey! Please whitelist me sir. ++#WAGMI++ ++#MetaBirkins++.” [underline]#Id.# ¶ 133. A third that: “Birkin NFT is the future of fashion.” [underline]#Id.# ¶ 134. One begged Rothschild to “whitelist him" so that he could “own his first Birkin.” [underline]#Id.# ¶ 146. Though consumers may have been confused about Hermes’s association, merely using the shorthand “Birkin” to refer to the NFTs is consistent with a theory that there was no such confusion.##
 
 
 - - - 

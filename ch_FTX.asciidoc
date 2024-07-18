@@ -37,14 +37,14 @@ SOUTHERN DISTRICT OF NEW YORK*
 SECURITIES AND +
 EXCHANGE COMMISSION, +
 &nbsp; +
-&emsp;&emsp;&emsp;Plaintiff +
+&#8195;&#8195;&#8195;Plaintiff +
 &nbsp; +
-&emsp;&emsp;&emsp;v. +
+&#8195;&#8195;&#8195;v. +
 &nbsp; +
  CAROLINE ELLISON and +
  ZIXIAO “GARY” WANG, +
 &nbsp; + 
- &emsp;&emsp;&emsp;Defendants.
+ &#8195;&#8195;&#8195;Defendants.
 |
 | &nbsp; + 
   &nbsp; + 
@@ -471,26 +471,26 @@ Attorneys for the Plaintiff +
 
 [[ellison_wang_footnote_1]]
 [.text-justify]
-`1`&period; Bankman-Fried was charged by the Commission on December 13, 2022, in Securities and Exchange Commission v. Samuel Bankman-Fried, 22-cv-10501 (S.D.N.Y.). The allegations herein are focused on the conduct and knowledge of Ellison and Wang, as well as Bankman-Fried. Other individuals were both aware of and participated in some aspects of the fraud scheme described herein.
+`1`&#46; Bankman-Fried was charged by the Commission on December 13, 2022, in Securities and Exchange Commission v. Samuel Bankman-Fried, 22-cv-10501 (S.D.N.Y.). The allegations herein are focused on the conduct and knowledge of Ellison and Wang, as well as Bankman-Fried. Other individuals were both aware of and participated in some aspects of the fraud scheme described herein.
 [[ellison_wang_footnote_2]]
 [.text-justify]
-`2`&period; Ellison served as CEO of Alameda Research Ltd., a subsidiary of Alameda Research LLC. For clarity, as set forth
+`2`&#46; Ellison served as CEO of Alameda Research Ltd., a subsidiary of Alameda Research LLC. For clarity, as set forth
 in paragraph 17, the complaint refers to Alameda Research LLC and its subsidiaries collectively as “Alameda.”
 [[ellison_wang_footnote_3]]
 [.text-justify]
-`3`&period; Crypto assets are unique digital assets maintained on a cryptographically-secured blockchain. A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitally recorded data packages. The system relies on cryptographic techniques for secure recording of transactions. Crypto tokens may be traded on crypto asset trading platforms in exchange for other crypto assets or fiat currency (legal tender issued by a country).
+`3`&#46; Crypto assets are unique digital assets maintained on a cryptographically-secured blockchain. A blockchain or distributed ledger is a peer-to-peer database spread across a network of computers that records all transactions in theoretically unchangeable, digitally recorded data packages. The system relies on cryptographic techniques for secure recording of transactions. Crypto tokens may be traded on crypto asset trading platforms in exchange for other crypto assets or fiat currency (legal tender issued by a country).
 [[ellison_wang_footnote_4]]
 [.text-justify]
-`4`&period; FTX US is the d/b/a for a subsidiary of West Realm Shires Inc., a separate legal entity from FTX Trading Ltd. that provided different services. FTX US’s conduct is not the subject of the allegations in this complaint. 
+`4`&#46; FTX US is the d/b/a for a subsidiary of West Realm Shires Inc., a separate legal entity from FTX Trading Ltd. that provided different services. FTX US’s conduct is not the subject of the allegations in this complaint. 
 [[ellison_wang_footnote_5]]
 [.text-justify]
-`5`&period; FTT was available for trading on FTX, but not on FTX US. 
+`5`&#46; FTT was available for trading on FTX, but not on FTX US. 
 [[ellison_wang_footnote_6]]
 [.text-justify]
-`6`&period; Generally speaking, “exchange tokens” purport to provide incentives, benefits, and investment returns to holders and to traders on crypto asset trading platforms. For example, “exchange tokens” may offer fee discounts with respect to crypto asset trading platform fees, or offer other benefits, essentially incentivizing the platform’s traders or users to allocate additional funds to the platform’s ecosystem. Trading platforms may also offer “exchange tokens” to their customers in exchange for the customers bringing trading liquidity or other customers or funds to the platform.
+`6`&#46; Generally speaking, “exchange tokens” purport to provide incentives, benefits, and investment returns to holders and to traders on crypto asset trading platforms. For example, “exchange tokens” may offer fee discounts with respect to crypto asset trading platform fees, or offer other benefits, essentially incentivizing the platform’s traders or users to allocate additional funds to the platform’s ecosystem. Trading platforms may also offer “exchange tokens” to their customers in exchange for the customers bringing trading liquidity or other customers or funds to the platform.
 [[ellison_wang_footnote_7]]
 [.text-justify]
-`7`&period; Expletives have been redacted in part with asterisks.
+`7`&#46; Expletives have been redacted in part with asterisks.
 
 - - - 
 
@@ -538,13 +538,13 @@ SOUTHERN DISTRICT OF NEW YORK*
 |&nbsp; +
 COMMODITY FUTURES TRADING COMMISSION, +
 &nbsp; +
-&emsp;&emsp;&emsp;Plaintiff, +
+&#8195;&#8195;&#8195;Plaintiff, +
 &nbsp; +
-&emsp;&emsp;&emsp;v. +
+&#8195;&#8195;&#8195;v. +
 &nbsp; +
 SAMUEL BANKMAN-FRIED, FTX TRADING LTD D/B/A FTX.COM, ALAMEDA RESEARCH LLC, CAROLINE ELLISON and ZIXIAO “GARY” WANG +
 &nbsp; +
-&emsp;&emsp;&emsp;Defendants. +
+&#8195;&#8195;&#8195;Defendants. +
 &nbsp;
 |&nbsp; +
 Case No. 1:22-cv-10503-PKC +

@@ -33,14 +33,14 @@ SOUTHERN DISTRICT OF NEW YORK
 |SECURITIES AND EXCHANGE +
 COMMISSION, +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Plaintiff, +
-&emsp;&emsp;&emsp;&emsp;&emsp;-against- +
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Plaintiff, +
+&#8195;&#8195;&#8195;&#8195;&#8195;-against- +
 &nbsp; +
 RIPPLE LABS, INC., BRADLEY +
 GARLINGHOUSE, and CHRISTIAN A. +
 LARSEN, +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Defendants. ^|&nbsp; +
+&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;&#8195;Defendants. ^|&nbsp; +
 &nbsp; +
 &nbsp; +
 &nbsp; +
@@ -63,9 +63,9 @@ Before the Court are the parties’ cross-motions for summary judgment. ECF Nos.
 [.text-center]
 *BACKGROUND*^*(xref:sec_ripple_footnote_2[2])*^
 
-&emsp;I&period;&emsp; [underline]#Factual Background#
+&#8195;I&#46;&#8195; [underline]#Factual Background#
 
-&emsp;&emsp;A&period; Development of the XRP Ledger and the Founding of Ripple
+&#8195;&#8195;A&#46; Development of the XRP Ledger and the Founding of Ripple
 
 [.text-justify]
 In 2011 and early 2012, Arthur Britto, Jed McCaleb, and David Schwartz developed the source code for a cryptographically secured ledger, or a “blockchain,”^*(xref:sec_ripple_footnote_3[3])*^ which is now known as the XRP Ledger. SEC 56.1 Resp. ¶ 11, ECF No. 842; _see also_ ECF No. 668. They aimed to create a faster, cheaper, and more energy-efficient alternative to the bitcoin blockchain, the first blockchain ledger which was introduced in 2009. _Id._ ¶¶ 4, 12. When the XRP Ledger launched in 2012, its source code generated a fixed supply of 100 billion XRP. _Id._ ¶¶ 17–18. XRP is the native digital token of the XRP Ledger, and the XRP Ledger requires XRP to operate. _Id._ ¶¶ 13–14. Each unit of XRP is divisible into one million “drops,” and each unit or drop of XRP is fungible with any other unit or drop. Defs. 56.1 Resp. ¶¶ 17–18, ECF No. 835; _see also_ ECF No. 663.
@@ -79,7 +79,7 @@ Since its founding, Ripple’s mission has been to realize an “Internet of Val
 [.text-justify]
 Like ODL, some, but not all, of Ripple’s products and services rely on the XRP Ledger and XRP. SEC 56.1 Resp. ¶ 44. The XRP Ledger is based on open-source software; anyone can use the ledger, submit transactions, host a node to contribute to the validation of transactions, propose changes to the source code, or develop applications that run on the ledger. _Id._ ¶¶ 52, 54. Other developers have built software products that use the XRP Ledger, such as payment-processing applications. _Id._ ¶ 59. Ripple has also funded companies as part of its “Xpring” initiative to incentivize the development of other use “cases” on the XRP Ledger. _Id._ ¶¶ 58–59.
 
-&emsp;&emsp;B&period; Defendants’ Sales and Distributions of XRP
+&#8195;&#8195;B&#46; Defendants’ Sales and Distributions of XRP
 
 [.text-justify]
 At all times before the end of 2020, Ripple owned between 50 and 80 billion XRP. _See_ Defs. 56.1 Resp. ¶¶ 15, 35; _see also id._ ¶ 256. Although the parties dispute the specific dollar amounts and details, they agree that from 2013 through the end of 2020, Ripple engaged in various sales and distributions of XRP. _See id._ ¶¶ 647, 716; _see generally_ SEC 56.1 Resp. ¶¶ 92–123.
@@ -100,7 +100,7 @@ In addition to Ripple’s sales and distributions, Larsen and Garlinghouse offer
 [.text-justify]
 Garlinghouse was hired as Ripple’s COO in April 2015. SEC 56.1 Resp. ¶ 140. After Larsen stepped down as CEO, Garlinghouse became CEO effective January 1, 2017, a position he currently holds. _Id._ ¶ 143. From April 2017 through 2020, Garlinghouse sold XRP on digital asset exchanges, id. ¶¶ 303, 310; the SEC alleges that Garlinghouse sold approximately $150 million in XRP during this period, Defs. 56.1 Resp. ¶ 870. Garlinghouse has also received XRP as part of his overall compensation from Ripple. SEC 56.1 Resp. ¶ 145. Defendants did not file a registration statement as to any offers or sales of XRP. Defs. 56.1 Resp. ¶ 928. Ripple did not publicly file any financial statements or other periodic reports, nor did it make any EDGAR filings^* (xref:sec_ripple_footnote_7[7])*^ with the SEC for Ripple or XRP, such as a Form 10-Q, Form 10-K, or Form 8-K relating to XRP. _Id._ ¶¶ 930–32.
 
-&emsp;&emsp;C&period; Defendants’ XRP Marketing Campaign
+&#8195;&#8195;C&#46; Defendants’ XRP Marketing Campaign
 
 [.text-justify]
 The SEC alleges that “in 2013 Defendants began extensive, years-long marketing efforts representing they would search for purported ‘use’ and ‘value’ for XRP—and casting XRP as an opportunity to invest in those efforts.” SEC Opp. at 4, ECF No. 841. The SEC points to a wide range of statements, including informational brochures, internal talking points, public blog posts, statements on social media, videos, interviews with various Ripple employees, and more. Defendants dispute the SEC’s factual narrative and argue that the SEC “cherry-picks excerpts from documents with many authors and from public statements of many speakers, made at many points across an eight-year period of time to many audiences.” Defs. Opp. at 10, ECF No. 828.^*(xref:sec_ripple_footnote_8[8])*^
@@ -111,7 +111,7 @@ Since at least 2013, Ripple has prepared and distributed documents that describe
 [.text-justify]
 Ripple and its senior leaders used a variety of social media platforms—including Twitter, Facebook, Reddit, and XRP Chat, an online forum described as “The Largest XRP Crypto Community Forum”—to communicate about XRP and Ripple. Defs. 56.1 Resp. ¶¶ 77, 192; _see, e.g., id._ ¶¶ 391–96, 401–08, 425, 437–40. Ripple officials also spoke in interviews about the company and its relationship to XRP. For instance, Larsen gave interviews in which he discussed XRP, e.g., id. ¶¶ 371, 377, and Garlinghouse was interviewed by media outlets such as the Financial Times, Bloomberg, and CNBC, spoke with organizations like the Economic Club of New York, and participated at conferences such as DC Fintech, in which he described Ripple’s operations and the XRP market, _e.g., id._ ¶¶ 252, 263, 269, 387, 444, 446. 
 
-&emsp;&emsp;D&period; Defendants’ Receipt of Legal Advice About XRP Offers and Sales
+&#8195;&#8195;D&#46; Defendants’ Receipt of Legal Advice About XRP Offers and Sales
 
 [.text-justify]
 In February 2012, before the XRP Ledger was publicly launched, Ripple’s founders, including Larsen, received from the Perkins Coie LLP law firm a memorandum, which sought to “review the proposed product and business structure, analyze the legal risks associated with [Ripple], and recommend steps to mitigate these risks.” Defs. 56.1 Resp. ¶ 986; _see_ ECF No. 846-29 at 4. The memorandum analyzes, among other things, the legal risks associated with selling XRP. Defs. 56.1 Resp. ¶ 986. Specifically, it states that “[i]f sold to [i]nvestors, [XRP tokens] are likely to be securities,” and “[t]o the extent that [the founders’] issuance of [XRP] does not involve an investment of money, there is a low risk that [XRP] will be considered an investment contract.” _Id._ ¶¶ 986, 989; _see_ ECF No. 846-29 at 5, 12.
@@ -123,7 +123,7 @@ In October 2012, Ripple, Larsen, and others received another memorandum from Per
 Larsen reviewed both the February and the October 2012 memoranda and discussed them with Perkins Coie attorneys. Defs. 56.1 Resp. ¶ 998. Both memoranda analyze XRP under the Supreme Court’s holding in _SEC v. W.J. Howey Co.,_ 328 U.S. 293 (1946), which outlines the standard for an investment contract. _Id._ ¶ 988.
 
 
-&emsp;II&period;&emsp; Procedural Background
+&#8195;II&#46;&#8195; Procedural Background
 
 [.text-justify]
 On December 22, 2020, the SEC commenced this action. ECF No. 1. An amended complaint was filed on February 18, 2021. Am. Compl. Fact discovery closed on August 31, 2021, _see_ ECF No. 313, and expert discovery concluded on February 28, 2022, _see_ ECF No. 411. On March 11, 2022, the Court denied the SEC’s motion to strike Ripple’s affirmative defense that it “lacked . . . ‘notice that its conduct was in violation of law, in contravention of Ripple’s due process rights,’” ECF No. 128. ECF No. 440. That same day, the Court also denied Garlinghouse’s and Larsen’s separate motions to dismiss, ECF Nos. 105, 110. MTD Order, ECF No. 441. On March 6, 2023, the Court granted in part and denied in part the parties’ motions to preclude expert testimony. ECF No. 814.
@@ -134,9 +134,9 @@ Before the Court are the parties’ cross-motions for summary judgment filed on 
 [.text-center]
 *DISCUSSION*
 
-&emsp;I&period;&emsp; [underline]#Legal Standard#
+&#8195;I&#46;&#8195; [underline]#Legal Standard#
 
-&emsp;&emsp;A&period; Summary Judgment
+&#8195;&#8195;A&#46; Summary Judgment
 
 [.text-justify]
 Summary judgment is appropriate where the record shows that there is no genuine dispute as to any material fact and that the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P. 56(a); _see Anderson v. Liberty Lobby, Inc.,_ 477 U.S. 242, 247–48 (1986); _Celotex Corp. v. Catrett,_ 477 U.S. 317, 322–26 (1986). A genuine dispute exists “if the evidence is such that a reasonable jury could return a verdict for the nonmoving party.” _Anderson,_ 477 U.S. at 248.
@@ -144,7 +144,7 @@ Summary judgment is appropriate where the record shows that there is no genuine 
 [.text-justify]
 The moving party initially bears the burden of demonstrating the absence of a genuine dispute of material fact by citing evidence in the record. _See_ Celotex, 477 U.S. at 323–24; Koch v. Town of Brattleboro, Vt., 287 F.3d 162, 165 (2d Cir. 2002). If the moving party meets its initial burden, the burden then shifts to the opposing party to establish a genuine dispute of material fact. Fed. R. Civ. P. 56(c)(1); Beard v. Banks, 548 U.S. 521, 529 (2006); PepsiCo, Inc. v. Coca-Cola Co., 315 F.3d 101, 105 (2d Cir. 2002) (per curiam). In doing so, the nonmoving party “may not rely on conclusory allegations or unsubstantiated speculation,” Scotto v. Almenas, 143 F.3d 105, 114 (2d Cir. 1998), as “unsupported allegations do not create a material issue of fact,” Weinstock v. Columbia Univ., 224 F.3d 33, 41 (2d Cir. 2000).
 
-&emsp;&emsp;B&period; Section 5 Liability and the _Howey_ Test
+&#8195;&#8195;B&#46; Section 5 Liability and the _Howey_ Test
 
 [.text-justify]
 Under Section 5 of the Securities Act, it is “unlawful for any person, directly or indirectly, . . . to offer to sell, offer to buy or purchase[,] or sell” a “security” unless a registration statement is in effect or has been filed with the SEC as to the offer and sale of such security to the public. 15 U.S.C. §§ 77e(a), (c), (e). To prove a violation of Section 5, the SEC must show: (1) that no registration statement was filed or in effect as to the transaction, and (2) that the defendant directly or indirectly offered to sell or sold the securities (3) through interstate commerce. _See SEC v. Cavanagh,_ 445 F.3d 105, 111 n.13 (2d Cir. 2006).
@@ -155,7 +155,7 @@ Defendants do not dispute that they offered to sell and sold XRP through interst
 [.text-justify]
 In _SEC v. W.J. Howey Co.,_ the Supreme Court held that under the Securities Act, an investment contract is “a contract, transaction[,] or scheme whereby a person [(1)] invests his money [(2)] in a common enterprise and [(3)] is led to expect profits solely from the efforts of the promoter or a third party.” 328 U.S. at 298–99; _see also SEC v. Edwards,_ 540 U.S. 389, 393 (2004). In analyzing whether a contract, transaction, or scheme is an investment contract, “form should be disregarded for substance and the emphasis should be on economic reality” and the “totality of circumstances.” _Tcherepnin v. Knight,_ 389 U.S. 332, 336 (1967); _Glen-Arden Commodities, Inc. v. Constantino,_ 493 F.2d 1027, 1034 (2d Cir. 1974).
 
-&emsp;&emsp;C&period; Defendants’ “Essential Ingredients” Test
+&#8195;&#8195;C&#46; Defendants’ “Essential Ingredients” Test
 
 [.text-justify]
 In their summary judgment briefing, Defendants advance a novel “essential ingredients” test, arguing that, in addition to the _Howey_ test, all investment contracts must contain three “essential ingredients”: (1) “a contract between a promoter and an investor that establishe[s] the investor’s rights as to an investment,” which contract (2) “impose[s] post-sale obligations on the promoter to take specific actions for the investor’s benefit” and (3) “grant[s] the investor a right to share in profits from the promoter’s efforts to generate a return on the use of investor funds.” Defs. Mem. at 2; _see id._ at 13–28.
@@ -172,9 +172,9 @@ Indeed, in the more than seventy-five years of securities law jurisprudence afte
 [.text-justify]
 The Court does not reach Defendants’ first “essential ingredient”: that a contract must exist for an investment contract to exist.^*(xref:sec_ripple_footnote_11[11])*^ As discussed in greater detail below, in each instance where Defendants offered or sold XRP as an investment contract, a contract existed.
 
-&emsp;II&period;&emsp; [underline]#Analysis#
+&#8195;II&#46;&#8195; [underline]#Analysis#
 
-&emsp;&emsp;A&period; The XRP Token
+&#8195;&#8195;A&#46; The XRP Token
 
 [.text-justify]
 The plain words of _Howey_ make clear that “an investment contract for purposes of the Securities Act means _a contract, transaction[,] or scheme._” 328 U.S. at 298–99 (emphasis
@@ -193,7 +193,7 @@ While helpful as a shorthand reference, the security in this case is not simply 
 _Telegram,_ 448 F. Supp. 3d at 379. XRP, as a digital token, is not in and of itself a “contract, transaction[,] or scheme” that embodies the _Howey_ requirements of an investment contract. Rather, the Court examines the totality of circumstances surrounding Defendants’ different transactions and schemes involving the sale and distribution of XRP. _See Marine Bank v. Weaver,_ 455 U.S. 551, 560 n.11 (1982) (“Each transaction must be analyzed and evaluated on the basis of the content of the instruments in question, the purposes intended to be served, and the factual setting as a whole.”).
 
 
-&emsp;&emsp;B&period; Defendants’ Offers and Sales of XRP
+&#8195;&#8195;B&#46; Defendants’ Offers and Sales of XRP
 
 [.text-justify]
 The parties cross-move for summary judgment on the SEC’s claim under Section 5 of the Securities Act. Whether Defendants offered or sold “investment contracts” is a legal question that the Court resolves based on the undisputed record. _See SEC v. Thompson,_ 732 F.3d 1151, 1160–61 (10th Cir. 2013) (collecting cases). The SEC alleges that Ripple engaged in three categories of unregistered XRP offers and sales: + 
@@ -204,7 +204,7 @@ The parties cross-move for summary judgment on the SEC’s claim under Section 5
 in “consideration other than cash.”# +
 _See_ SEC Reply at 4–5, ECF No. 843. The SEC also alleges that Larsen and Garlinghouse engaged in unregistered individual XRP sales, from which they received at least $450 million and $150 million, respectively. _See id._ at 5. The Court shall separately analyze and evaluate each category of transaction. _See Marine Bank,_ 455 U.S. at 560 n.11.
 
-&emsp;&emsp;&emsp;&emsp;1&period; Institutional Sales
+&#8195;&#8195;&#8195;&#8195;1&#46; Institutional Sales
 
 [.text-justify]
 The Court first addresses Ripple’s Institutional Sales of XRP to sophisticated individuals and entities (the “Institutional Buyers”) pursuant to written contracts. _See_ SEC Mem. at 28–31; Defs. Mem. at 11. The SEC alleges that these Institutional Sales were distributions of XRP into public markets through conduits, and that “some Institutional [Buyers] were buying XRP as brokers, while others simply resold it as part of their trading strategies.” SEC Mem. at 28–29.
@@ -251,7 +251,7 @@ Further, the nature of the Institutional Sales also supports the conclusion that
 [.text-justify]
 Therefore, having considered the economic reality and totality of circumstances surrounding the Institutional Sales, the Court concludes that Ripple’s Institutional Sales of XRP constituted the unregistered offer and sale of investment contracts in violation of Section 5 of the Securities Act.^*(xref:sec_ripple_footnote_15[15])*^
 
-&emsp;&emsp;&emsp;&emsp;2&period; Programmatic Sales
+&#8195;&#8195;&#8195;&#8195;2&#46; Programmatic Sales
 
 [.text-justify]
 The Court next addresses Ripple’s Programmatic Sales, which occurred under different circumstances from the Institutional Sales. _See_ SEC Mem. at 28; Defs. Mem. at 10–11. The SEC alleges that in the Programmatic Sales to public buyers (“Programmatic Buyers”) on digital asset exchanges, “Ripple understood that people were speculating on XRP as an investment,” “explicitly targeted speculators[,] and made increased speculative volume a ‘target goal.’” SEC Mem. at 28.
@@ -274,7 +274,7 @@ Lastly, the Institutional Buyers were sophisticated entities, including institut
 [.text-justify]
 Therefore, having considered the economic reality and totality of circumstances, the Court concludes that Ripple’s Programmatic Sales of XRP did not constitute the offer and sale of investment contracts.^*(xref:sec_ripple_footnote_17[17])*^
 
-&emsp;&emsp;&emsp;&emsp;3&period; Other Distributions
+&#8195;&#8195;&#8195;&#8195;3&#46; Other Distributions
 
 [.text-justify]
 The SEC’s last category of XRP offers and sales are “Other Distributions under written  contracts for which [Ripple] recorded $609 million in ‘consideration other than cash’ in its audited financial statements.” SEC Reply at 5. These Other Distributions include distributions to employees as compensation and to third parties as part of Ripple’s Xpring initiative to develop new applications for XRP and the XRP Ledger. SEC Mem. at 31–32. The SEC alleges that “Ripple funded its projects by transferring XRP to third parties and then having them sell the XRP into public markets.” _Id._ at 31.
@@ -285,7 +285,7 @@ The Other Distributions do not satisfy _Howey’s_ first prong that there be an 
 [.text-justify]
 In its opposition papers, the SEC pivots and argues instead that the Other Distributions were an indirect public offering because “the parties that received XRP from Ripple, such as an ‘[Xpring] recipient,’ could ‘transfer their XRP (in exchange for units of another currency, goods, or services) to another holder.’” SEC Opp. at 26 (citation omitted). But the SEC does not elsewhere allege that the recipients of these Other Distributions, like Ripple employees and Xpring third-party companies, were Ripple’s underwriters. In any event, the SEC does not develop the argument that these secondary market sales were offers or sales of investment contracts, particularly where the payment of money for these XRP sales never traced back to Ripple, and the Court cannot make such a finding. Therefore, having considered the economic reality and totality of circumstances, the Court concludes that Ripple’s Other Distributions did not constitute the offer and sale of investment contracts.^*(xref:sec_ripple_footnote_18[18])*^
 
-&emsp;&emsp;&emsp;&emsp;4&period; Larsen’s and Garlinghouse’s Offers and Sales
+&#8195;&#8195;&#8195;&#8195;4&#46; Larsen’s and Garlinghouse’s Offers and Sales
 
 [.text-justify]
 Lastly, the Court addresses Larsen’s and Garlinghouse’s offers and sales of XRP. Section 4(a)(1) of the Securities Act exempts “transactions by any person other than an issuer, underwriter, or dealer.” 15 U.S.C. § 77d(a)(1). The SEC argues that this exemption does not apply to Larsen and Garlinghouse because they are “affiliates” of Ripple and “an affiliate of the issuer—such as an officer, director, or controlling shareholder—ordinarily may not rely upon the Section 4(1) exemption.” _Cavanagh,_ 445 F.3d at 111 (cleaned up).
@@ -293,7 +293,7 @@ Lastly, the Court addresses Larsen’s and Garlinghouse’s offers and sales of 
 [.text-justify]
 The Court need not reach this issue. Like Ripple’s Programmatic Sales, Larsen’s and Garlinghouse’s XRP sales were programmatic sales on various digital asset exchanges through blind bid/ask transactions. _See_ SEC 56.1 Resp. ¶¶ 280–84, 306–09. Larsen and Garlinghouse did not know to whom they sold XRP, and the buyers did not know the identity of the seller. Thus, as a matter of law, the record cannot establish the third _Howey_ prong as to these transactions. For substantially the same reasons discussed above, _supra_ § II.B.2, Larsen’s and Garlinghouse’s offer and sale of XRP on digital asset exchanges did not amount to offers and sales of investment contracts.^*(xref:sec_ripple_footnote_19[19])*^
 
-&emsp;&emsp;&emsp;&emsp;5&period; Defendants’ Due Process Defenses
+&#8195;&#8195;&#8195;&#8195;5&#46; Defendants’ Due Process Defenses
 
 [.text-justify]
 Defendants each assert a “fair notice” defense, claiming that the SEC violated their due process rights; Larsen and Garlinghouse also assert an as-applied vagueness defense based on the same due process principles. _See_ Defs. Opp. at 43 & n.28; _see also_ ECF No. 51 at 97–99; ECF No. 462 at 97–99; ECF No. 463 at 103–05.
@@ -313,7 +313,7 @@ Second, the caselaw articulates sufficiently clear standards to eliminate the ri
 [.text-justify]
 Accordingly, the SEC’s motion for summary judgment is GRANTED as to the Institutional Sales and otherwise DENIED, and Defendants’ motion for summary judgment is GRANTED as to the Programmatic Sales, the Other Distributions, and Larsen’s and Garlinghouse’s sales, and DENIED as to the Institutional Sales.
 
-&emsp;&emsp;C&period; Larsen’s and Garlinghouse’s Aiding and Abetting of Ripple’s Violations
+&#8195;&#8195;C&#46; Larsen’s and Garlinghouse’s Aiding and Abetting of Ripple’s Violations
 
 [.text-justify]
 The SEC also moves for summary judgment on its aiding and abetting claim against Larsen and Garlinghouse. _See_ SEC Mem. at 66. To establish liability for aiding and abetting a securities violation, the SEC must show: +
@@ -354,23 +354,23 @@ Accordingly, the SEC’s motion for summary judgment on the aiding and abetting 
 *CONCLUSION*
 
 [.text-justify]
-&emsp;For the foregoing reasons, the SEC’s motion for summary judgment is GRANTED as to the Institutional Sales, and otherwise DENIED. Defendants’ motion for summary judgment is GRANTED as to the Programmatic Sales, the Other Distributions, and Larsen’s and Garlinghouse’s sales, and DENIED as to the Institutional Sales.
+&#8195;For the foregoing reasons, the SEC’s motion for summary judgment is GRANTED as to the Institutional Sales, and otherwise DENIED. Defendants’ motion for summary judgment is GRANTED as to the Programmatic Sales, the Other Distributions, and Larsen’s and Garlinghouse’s sales, and DENIED as to the Institutional Sales.
 
 [.text-justify]
-&emsp;The Court shall issue a separate order setting a trial date and related pre-trial deadlines in due course.
+&#8195;The Court shall issue a separate order setting a trial date and related pre-trial deadlines in due course.
 
 [.text-justify]
-&emsp;The Clerk of Court is directed to terminate the motions at ECF Nos. 621, 625, 639, 642, 807, 824, and 836.
+&#8195;The Clerk of Court is directed to terminate the motions at ECF Nos. 621, 625, 639, 642, 807, 824, and 836.
 
-&emsp;SO ORDERED.
+&#8195;SO ORDERED.
 
 Dated: July 13, 2023 +
-&emsp;New York, New York
+&#8195;New York, New York
 
 [frame=none, grid=none]
 |===
 |&nbsp; ^| &nbsp; +
-[underline]#&emsp;/s/ ANALISA TORRES&emsp;# +
+[underline]#&#8195;/s/ ANALISA TORRES&#8195;# +
 ANALISA TORRES +
 United States District Judge 
 |===

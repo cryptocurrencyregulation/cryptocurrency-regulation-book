@@ -43,9 +43,9 @@ image::excerpt.png[]
 |&nbsp; +
 In re: +
 &nbsp; +
-&emsp;&emsp;CELSIUS NETWORK LLC, et al., +
+&#8195;&#8195;CELSIUS NETWORK LLC, et al., +
 &nbsp; +
-&emsp;&emsp;&emsp;&emsp;&emsp;Debtors. +
+&#8195;&#8195;&#8195;&#8195;&#8195;Debtors. +
 &nbsp; 
 |&nbsp; +
 *FOR PUBLICATION* +
@@ -379,7 +379,7 @@ The crux of many objections to the Amended Motion is that Celsius’s ubiquitous
 xref:celsius_footnote_36[*^(36)^*] — but the Court cannot ignore the plain and clear language in the Transfer of Title Clause.
 [.text-justify]
 Further, even if the Court found that Account Holders loaned digital assets to Celsius, Account Holders would still be unsecured creditors. It is blackletter law that a loan of money or property to another creates a debtor-creditor relationship. In re Masterwear Corp., 229 B.R. 301, 310 (Bankr. S.D.N.Y. 1999) (“Under New York law, a bank and its depositor stand in a debtor-creditor relationship that is contractual in nature. The bank owns the deposit, the depositor has a claim to payment against the bank, and the bank has a corresponding obligation to pay its depositor. Accordingly, a bank’s temporary freeze of an account, without more, is ‘neither a taking of possession of [the depositor’s] property nor an exercising of control over it, but merely a refusal to perform its promise.’”) (internal citations omitted). And absent a perfected security interest in tangible or intangible property, in the event of the debtor’s bankruptcy, the creditor holds only an unsecured claim. See In re Motors Liquidation Company, 430 B.R. 65, 96 (S.D.N.Y. 2010) (“Indeed, by definition, an unsecured creditor has no particularized property interest in the Debtors’ estates.”); see also 4 COLLIER ON BANKRUPTCY ¶ 506.03[1] (16th ed. 2022) (“As a threshold matter, a claim cannot be a “secured claim” for purposes of section 506(a) unless it is secured by a “lien” on some specific item of property in which the estate has an interest, or, alternatively, is a claim that is subject to a right of setoff.”). +
-&emsp; But, more importantly: +
+&#8195; But, more importantly: +
 [.quoteblock .text-justify]## By current definition, cryptocurrency is not money because it is not a medium of exchange created, authorized, or adopted by a domestic or foreign government, or by an intergovernmental organization or by agreement between two or more countries. Moreover, since cryptocurrency, NFTs and other digital assets are intangible and therefore not capable of possession, a security interest currently can be perfected only by the filing of a financing statement in the digital asset as a general intangible.## +
 Lorraine S. McGowen, TRANSFERRING DIGITAL ASSETS (INCLUDING CRYPTOCURRENCIES)
 [.text-justify]
@@ -590,8 +590,8 @@ Case No. 22-10964 (MG)_
 image::excerpt.png[]
 |===
 
-&period;&period;&period;&period; +
-&period;&period;&period;&period;
+&#46;&#46;&#46;&#46; +
+&#46;&#46;&#46;&#46;
 
 *[underline]#Part One: Investigation Background.#*
 
@@ -820,8 +820,8 @@ Based on Mazar’s advice, Celsius Network (UK) believes that it was not require
 [.text-justify]
 The Examiner’s Final Report is the culmination of her review of voluminous data and records, as well as information gathered during interviews of current and former Celsius employees, customers, and vendors. The Examiner also met with numerous interested parties, including representatives of Celsius, the Unsecured Creditors’ Committee, state and federal regulatory agencies, and the ad hoc committees from whom she gathered relevant information.
 
-&period;&period;&period;&period; +
-&period;&period;&period;&period;
+&#46;&#46;&#46;&#46; +
+&#46;&#46;&#46;&#46;
 
 [.text-justify]
 [[sec_pillay_footnote_1]]
