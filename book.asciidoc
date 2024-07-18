@@ -1,23 +1,18 @@
+= Crytpo Regulation =
 :doctype: book
+:pdf-page-size: letter
+:pdf-page-margin: [1in, 1in]
+:text-align: justify
+:toc:
 
-include::ch01-Introduction.asciidoc[]
+include::ch00-Introduction.asciidoc[]
 
-include::ch02-Bitcoin.asciidoc[]
+include::ch01-Bitcoin.asciidoc[]
 
-include::ch03-ICO.asciidoc[]
+include::ch02-ICO.asciidoc[]
 
-include::ch_DeFi.asciidoc[]
+include::ch03_Smart_Contracts.asciidoc[]
 
-include::ch_Fraud.asciidoc[]
+include::ch04_NFT.asciidoc[]
 
-include::ch_NFT_Insider_Trading.asciidoc[]
-
-include::ch_Mixer.asciidoc[]
-
-include::ch_FTX.asciidoc[]
-
-include::ch_Celsius.asciidoc[]
-
-include::ch_AML.asciidoc[]
-
-include::ch_Stablecoins.asciidoc[]
+include::ch05_Exchanges.asciidoc[]
