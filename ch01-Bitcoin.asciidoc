@@ -156,7 +156,7 @@ As an additional firewall, a new key pair should be used for each transaction to
 
 [[ulbricht]]
 [role=excerpt-section]
-=== The Silk Road Marketplace ===
+=== United States v. Ulbricht ===
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
@@ -330,9 +330,9 @@ Long after the trial began on January 13, 2015, and shortly before the governmen
 [.text-justify]
 On January 29 and 31, the government moved to preclude the testimony of both proffered experts. The government argued that the expert notices were untimely and did not contain the information required by Rule 16 of the Federal Rules of Criminal Procedure, including a summary of the opinions that the experts would offer on the stand.^*(xref:ulbricht_fn_18[18])*^ On February 1—three days before the end of the trial—the district court granted the government's motions and precluded both experts from testifying, concluding that the defendant's notices were late and that the disclosures were substantively inadequate under Rule 16. Ulbricht claims that the district court erred in precluding his experts from testifying.
 
-[start=18, role="text-justify small"]
+
 [[ulbricht_fn_18]]
-. [small]#The government also argued generally that some of the topics identified in the disclosures were not relevant to Ulbricht's case or did not require expert testimony.#
+[small]##18&#46; The government also argued generally that some of the topics identified in the disclosures were not relevant to Ulbricht's case or did not require expert testimony.##
 
 [.text-justify]
 In sum, the defense case was limited to cross-examining government witnesses, briefly calling four character witnesses, having a defense investigator authenticate a task list on Ulbricht's computer, and reading a few of DPR's posts into the record. Ulbricht contends, however, that his defense was hamstrung by the rulings described above.
