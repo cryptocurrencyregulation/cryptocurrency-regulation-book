@@ -407,7 +407,7 @@ _ _ _
 
 [[ico_sec_v_lbry]] 
 [role=excerpt-section]
-=== SEC v. LBRy, Inc. ===
+=== SEC v. LBRY, Inc. ===
 
 
 
