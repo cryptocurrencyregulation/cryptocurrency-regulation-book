@@ -1,4 +1,4 @@
-= Crytpocurrency Law Casebook by Thomas Plunkett =
+= Cryptocurrency Law Casebook by Thomas Plunkett =
 :doctype: book
 :pdf-page-size: letter
 :pdf-page-margin: [1in, 1in]
