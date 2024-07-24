@@ -242,7 +242,7 @@ Accordingly, we *REVERSE* and *REMAND* for proceedings consistent with this Opin
 |===
 >|
 _Risley v. Universal Navigation Inc. et al, +
-Case 1:22-cv-02780-KPF   Document 90   Filed 08/29/23_
+
 >| 
 image::excerpt.png[]
 |===
