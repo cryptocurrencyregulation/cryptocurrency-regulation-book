@@ -584,7 +584,7 @@ As I have explained, the only issues raised by the parties' cross-motions for su
 #<<<<<<<<<<
 ////
 
-=== Ripple Labs ===
+
 ////
 ###################################################################################################
 # SEC against Ripple Labs, Inc.
