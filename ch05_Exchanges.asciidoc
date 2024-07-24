@@ -9,7 +9,7 @@ Chapter 5 examines some of the cases that involve cryptocurrency exchanges.  In 
 
 ////
 ###################################################################################################
-# Williams v. Binance - Certified Opinion
+# Williams v. Binance
 # https://storage.courtlistener.com/recap/gov.uscourts.ca2.57352/gov.uscourts.ca2.57352.98.0.pdf
 #
 #
@@ -22,7 +22,7 @@ Chapter 5 examines some of the cases that involve cryptocurrency exchanges.  In 
 
 [[williams_v_binance]]
 [role=excerpt-section]
-=== Williams  v. Binance - Opinion ===
+=== Williams  v. Binance ===
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
