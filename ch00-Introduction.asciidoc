@@ -2,7 +2,7 @@
 == Introduction ==
 
 [.text-justify]
-This book is intended as a textbook for a semester-length course on cryptocurrency law in the United States of America.  The textbook is intended for law students or graduate students studying cryptocurrency.  his book examines how Judges are applying U.S. Laws and Regulations to factual events involving Cryptocurrency. This book is designed as a casebook for students who wish to study U.S. cryptocurrency law. Our plan is to release an updated version of this book every year.
+This book is intended as a textbook for a semester-length course on cryptocurrency law in the United States of America.  The textbook is intended for law students or graduate students studying cryptocurrency.  his book examines how Judges are applying U.S. Laws and Regulations to factual events involving Cryptocurrency. This book is designed as a casebook for students who wish to study U.S. cryptocurrency law. Our plan is to release an updated version of this book every year.  This book is available under a Creative Commons license.
 
 [.text-justify]
 The focus of the textbook is on cryptocurrency law, and other topics should be supplemented by the instructor as necessary.  If students need additional background materials on cryptocurrency technology, those topics are not covered in this book, but I do provide references to additional materials.  If students need additional background on some of the legal topics, I also provide references for those additional topics.
