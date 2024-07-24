@@ -7,7 +7,7 @@ This book is intended as a textbook for a semester-length course on cryptocurren
 [.text-justify]
 The focus of the textbook is on cryptocurrency law, and other topics should be supplemented by the instructor as necessary.  If students need additional background materials on cryptocurrency technology, those topics are not covered in this book, but I do provide references to additional materials.  If students need additional background on some of the legal topics, I also provide references for those additional topics.
 [.text-justify]
-If students have not previously been exposed to cryptocurrency, the instructor should consider beginning with an overview of Bitcoin, Ethereum, and Decentralized Finance before diving into the topics covered by the Cryptocurrency Regulation textbook.
+If students have not previously been exposed to cryptocurrency, the instructor should consider beginning with an overview of Bitcoin, Ethereum, and Decentralized Finance before diving into the topics covered by the Cryptocurrency Law Casebook.
 
 [.text-justify]
 About the author:  Thomas Plunkett has given hundreds of lectures on topics related to cryptocurrency. He has a Master of Science in Blockchain and Digital Currency from the University of Nicosia.  He has a Master of Science in Computer Science from Virginia Tech.  He has taken graduate courses in Cryptography, Blockchain, and other engineering topics from Stanford University.  He has a B.A. and a J.D. from George Mason University.  He is admitted to the Virginia State Bar and the Patent Bar.  
