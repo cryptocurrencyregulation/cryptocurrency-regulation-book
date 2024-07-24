@@ -217,7 +217,7 @@ Accordingly, we *REVERSE* and *REMAND* for proceedings consistent with this Opin
 ==== Discussion Questions ====
 . If the purchasers of these tokens had not lost money on their transactions, would they still be able to sue Binance?
 ////
-# Williams v. Binance - Certified Opinion SECTION END
+# Williams v. Binance SECTION END
 #<<<<<<<<<<
 ////
 
@@ -236,7 +236,7 @@ Accordingly, we *REVERSE* and *REMAND* for proceedings consistent with this Opin
 
 [[risley_v_uniswap]]
 [role=excerpt-section]
-=== Risley v. Universal Navigation Inc. et al - Opinion and Order ===
+=== Risley v. Universal Navigation Inc. et al ===
 
 [cols="12a,1a", width=100%, frame=none, grid=rows]
 |===
