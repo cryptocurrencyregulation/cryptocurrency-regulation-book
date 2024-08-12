@@ -1,4 +1,19 @@
 extends: default
+title-page:
+  text-align: left
+  margin: 0
+  title:
+    font-size: 30pt
+    text-transform: uppercase
+    font-style: bold
+    font-color: #ffffff
+    top: 0%
+    margin: 0.25in
+  authors:
+    font-size: 20pt
+    text-transform: uppercase
+    font-style: italic
+    font-color: #ffffff
 header:
   height: 0.75in
   line-height: 1
